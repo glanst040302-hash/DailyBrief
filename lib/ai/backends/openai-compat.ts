@@ -2,7 +2,6 @@ import OpenAI from "openai";
 import { classifyError, logLlmCall } from "../log";
 import type { LlmRunOptions, LlmRunResult } from "../llm";
 
-
 /**
  * OpenAI-compatible backend. Reused for any provider that exposes the
  * standard `/chat/completions` endpoint: OpenAI itself, DeepSeek, MiniMax,
@@ -16,7 +15,6 @@ export interface OpenAICompatConfig {
   apiKeyEnv: string;
   baseUrlEnv: string;
 }
-
 
 export const PRESETS: Record<OpenAICompatConfig["backend"], OpenAICompatConfig> = {
   openai: {
@@ -44,9 +42,7 @@ export const PRESETS: Record<OpenAICompatConfig["backend"], OpenAICompatConfig> 
   },
 };
 
-
 const clientCache = new Map<string, OpenAI>();
-
 
 function getClient(cfg: OpenAICompatConfig): { client: OpenAI; model: string } {
   // Provider-specific env wins; LLM_API_KEY / LLM_BASE_URL are generic
@@ -64,7 +60,6 @@ function getClient(cfg: OpenAICompatConfig): { client: OpenAI; model: string } {
     || cfg.defaultBaseUrl;
   const model = process.env.LLM_MODEL?.trim() || cfg.defaultModel;
 
-
   const cacheKey = `${baseURL}::${apiKey.slice(-6)}`;
   let client = clientCache.get(cacheKey);
   if (!client) {
@@ -74,11 +69,9 @@ function getClient(cfg: OpenAICompatConfig): { client: OpenAI; model: string } {
   return { client, model };
 }
 
-
 export function openaiCompatModel(cfg: OpenAICompatConfig): string {
   return process.env.LLM_MODEL?.trim() || cfg.defaultModel;
 }
-
 
 export async function runOpenAICompat(
   opts: LlmRunOptions,
@@ -88,7 +81,6 @@ export async function runOpenAICompat(
   const started = Date.now();
   const inputChars = opts.systemPrompt.length + opts.userPrompt.length;
   const timeoutMs = opts.timeoutMs ?? 180_000;
-
 
   try {
     const resp = await client.chat.completions.create(
@@ -124,3 +116,19 @@ export async function runOpenAICompat(
     });
     return { text, durationMs };
   } catch (err) {
+    const durationMs = Date.now() - started;
+    const msg = err instanceof Error ? err.message : String(err);
+    logLlmCall({
+      ts: new Date(started).toISOString(),
+      backend: cfg.backend,
+      model,
+      durationMs,
+      success: false,
+      inputChars,
+      outputChars: 0,
+      errorCategory: classifyError(msg),
+      errorSnippet: msg.slice(0, 200),
+    });
+    throw err;
+  }
+}

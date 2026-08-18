@@ -191,7 +191,7 @@ jobs:
         run: npm ci
 
       - name: Verify intelligence radar
-        run: npm run typecheck && npm run test:radar
+        run: npm run typecheck && npm run test:radar && npm run test:rollup
 
       # Bring previous reports into the workspace so they survive each run
       # and so build-site can list them all in the archive.

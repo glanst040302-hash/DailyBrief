@@ -175,7 +175,7 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
           "  - daily_overview: **80-120 字**，概括全球智能化进程",
           "  - tech_briefs: **最多 4 条** 触觉产业链 BriefItem",
           "  - finance_briefs: **最多 2 条** 机器人与具身智能 BriefItem",
-          "  - politics_briefs: **最多 2 条** 关键变量 BriefItem",
+          "  - politics_briefs: **最多 2 条** 产业关键变化 BriefItem",
           "  - editor_note: 30-60 字的编辑短评",
           "  - keywords: 5-8 个关键词",
           "",

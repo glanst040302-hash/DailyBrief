@@ -15,6 +15,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { buildRollingReview } from "./rolling-review.mjs";
 
 const ROOT = "daily_reports";
 
@@ -38,9 +39,57 @@ if (dates.length === 0) {
 // --- index.html = latest report ---
 const latest = dates[0];
 const latestPath = path.join(ROOT, latest, `${latest}.html`);
+const reports = dates.slice(0, 30).flatMap((date) => {
+  const jsonPath = path.join(ROOT, date, `${date}.json`);
+  try {
+    return [{ date, report: JSON.parse(fs.readFileSync(jsonPath, "utf8")) }];
+  } catch {
+    return [];
+  }
+});
+
+function esc(value) {
+  return String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+function renderRollingReview() {
+  const { weekly, trends } = buildRollingReview(reports, latest);
+  if (weekly.length === 0 && trends.length === 0) return "";
+  const weeklyCards = weekly
+    .map((item) => `<article class="brief">
+  <div class="brief-head"><span class="brief-source">${esc(item.date)} · ${esc(item.source)}</span><span class="brief-rank ${item.importance >= 9 ? "high" : "mid"}">${esc(item.importance)}/10</span></div>
+  <h3 class="brief-title"><a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer">${esc(item.title)}</a></h3>
+  <p class="brief-summary">${esc(item.summary)}</p>
+</article>`)
+    .join("\n");
+  const trendCards = trends
+    .map((trend) => `<article class="brief">
+  <div class="brief-head"><span class="brief-source">${trend.days} 日进入日报</span></div>
+  <h3 class="brief-title">${esc(trend.topic)}</h3>
+  <p class="brief-summary">最新进展：${esc(trend.latest)}</p>
+</article>`)
+    .join("\n");
+  return `<section class="rolling-review">
+  ${weekly.length ? `<section class="digest-category">
+    <header class="category-header"><h2 class="category-title">近 7 日必读</h2><span class="category-count">${weekly.length}</span></header>
+    <div class="brief-list">${weeklyCards}</div>
+  </section>` : ""}
+  ${trends.length ? `<section class="digest-category">
+    <header class="category-header"><h2 class="category-title">近 30 日持续趋势</h2><span class="category-count">${trends.length}</span></header>
+    <div class="brief-list">${trendCards}</div>
+  </section>` : ""}
+</section>`;
+}
+
 const latestHtml = fs
   .readFileSync(latestPath, "utf8")
-  .replace(/href="\.\.\/archive\.html"/g, 'href="./archive.html"');
+  .replace(/href="\.\.\/archive\.html"/g, 'href="./archive.html"')
+  .replace('<nav class="tabs"', `${renderRollingReview()}\n  <nav class="tabs"`);
 fs.writeFileSync(path.join(ROOT, "index.html"), latestHtml, "utf8");
 console.log(`[build-site] index.html  ← ${latest}/${latest}.html`);
 

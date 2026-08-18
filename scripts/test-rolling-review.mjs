@@ -24,5 +24,6 @@ const result = buildRollingReview([
 assert.equal(result.weekly.length, 2);
 assert.equal(result.weekly[0].title, "触觉量产");
 assert.equal(result.trends[0].topic, "触觉");
+assert.equal(result.trends.some((trend) => trend.topic === "人形机器人"), true);
 assert.equal(result.trends.some((trend) => trend.topic === "过期主题"), false);
 console.log("rolling review checks passed");

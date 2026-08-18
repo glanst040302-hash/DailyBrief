@@ -14,6 +14,7 @@
     "sources:check": "tsx scripts/sources.ts check",
     "test:radar": "tsx scripts/test-intelligence-radar.ts",
     "test:rollup": "node scripts/test-rolling-review.mjs",
+    "test:timeline": "node scripts/test-timeline.mjs",
     "deploy": "node scripts/deploy.mjs",
     "build-site": "node scripts/build-site.mjs",
     "open": "node scripts/open-report.mjs"

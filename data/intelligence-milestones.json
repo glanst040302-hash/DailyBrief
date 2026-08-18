@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2012-12-03",
+    "lane": "AI与算力",
+    "title": "AlexNet",
+    "impact": "深度学习在大规模视觉识别中形成代际优势。",
+    "source": "https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html"
+  },
+  {
+    "date": "2017-06-12",
+    "lane": "AI与算力",
+    "title": "Transformer",
+    "impact": "注意力架构成为通用大模型的基础。",
+    "source": "https://arxiv.org/abs/1706.03762"
+  },
+  {
+    "date": "2017-08-02",
+    "lane": "触觉传感",
+    "title": "GelSight改进型传感器",
+    "impact": "高分辨率接触几何、受力与滑移感知进入机器人夹爪。",
+    "source": "https://arxiv.org/abs/1708.00922"
+  },
+  {
+    "date": "2020-06-01",
+    "lane": "触觉传感",
+    "title": "DIGIT开源",
+    "impact": "视触觉传感器向低成本、小型化和可复制制造推进。",
+    "source": "https://ai.meta.com/research/publications/digit-a-novel-design-for-a-low-cost-compact-high-resolution-tactile-sensor-with-application-to-in-hand-manipulation/"
+  },
+  {
+    "date": "2022-11-30",
+    "lane": "AI与算力",
+    "title": "ChatGPT发布",
+    "impact": "通用生成式AI进入大众使用阶段。",
+    "source": "https://openai.com/index/chatgpt/"
+  },
+  {
+    "date": "2023-07-28",
+    "lane": "机器人与具身智能",
+    "title": "RT-2",
+    "impact": "视觉语言模型开始直接输出机器人动作。",
+    "source": "https://deepmind.google/blog/rt-2-new-model-translates-vision-and-language-into-action/"
+  },
+  {
+    "date": "2024-03-18",
+    "lane": "机器人与具身智能",
+    "title": "Project GR00T",
+    "impact": "人形机器人基础模型与仿真、算力平台形成完整工具链。",
+    "source": "https://nvidianews.nvidia.com/news/foundation-model-isaac-robotics-platform"
+  },
+  {
+    "date": "2025-03-12",
+    "lane": "机器人与具身智能",
+    "title": "Gemini Robotics",
+    "impact": "多模态模型加入动作输出与具身空间推理。",
+    "source": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/"
+  },
+  {
+    "date": "2026-07-30",
+    "lane": "机器人与具身智能",
+    "title": "Gemini Robotics 2",
+    "impact": "具身模型扩展到全身控制、灵巧操作与多机器人协作。",
+    "source": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+  }
+]

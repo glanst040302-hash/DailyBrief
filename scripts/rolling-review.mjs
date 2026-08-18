@@ -84,7 +84,6 @@ export function buildRollingReview(reports, latestDate) {
         latest: related?.title ?? "持续跟踪中",
       };
     })
-    .filter((trend) => trend.days >= 2)
     .sort((a, b) => b.days - a.days || a.topic.localeCompare(b.topic))
     .slice(0, 5);
 

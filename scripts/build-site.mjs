@@ -16,6 +16,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { buildRollingReview } from "./rolling-review.mjs";
+import { renderTimelinePage } from "./timeline-page.mjs";
 
 const ROOT = "daily_reports";
 
@@ -99,7 +100,7 @@ function renderRollingReview() {
     .join("\n");
   const trendCards = trends
     .map((trend) => `<article class="brief">
-  <div class="brief-head"><span class="brief-source">${trend.days} 日进入日报</span></div>
+  <div class="brief-head"><span class="brief-source">${trend.days >= 2 ? `${trend.days} 日进入日报` : "观察中"}</span></div>
   <h3 class="brief-title">${esc(trend.topic)}</h3>
   <p class="brief-summary">最新进展：${esc(trend.latest)}</p>
 </article>`)
@@ -122,7 +123,7 @@ const latestHtml = fs
   .replace(/href="\.\.\/archive\.html"/g, 'href="./archive.html"')
   .replace(
     '<button class="tab" data-tab="tech"',
-    `${rollingReviewHtml ? `<button class="tab" data-tab="review">近期回顾</button>\n    ` : ""}<button class="tab" data-tab="tech"`,
+    `${rollingReviewHtml ? `<button class="tab" data-tab="review">近期回顾</button>\n    ` : ""}<button class="tab" type="button" onclick="window.location.href='./timeline.html'">智能化进程</button>\n    <button class="tab" data-tab="tech"`,
   )
   .replace(
     '<section class="panel active" data-panel="digest">',
@@ -130,6 +131,15 @@ const latestHtml = fs
   );
 fs.writeFileSync(path.join(ROOT, "index.html"), latestHtml, "utf8");
 console.log(`[build-site] index.html  ← ${latest}/${latest}.html`);
+
+const milestonePath = path.join("data", "intelligence-milestones.json");
+const milestones = JSON.parse(fs.readFileSync(milestonePath, "utf8"));
+fs.writeFileSync(
+  path.join(ROOT, "timeline.html"),
+  renderTimelinePage(milestones),
+  "utf8",
+);
+console.log(`[build-site] timeline.html (${milestones.length} milestones)`);
 
 // --- archive.html = list of all reports ---
 const rows = dates

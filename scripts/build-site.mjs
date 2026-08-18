@@ -48,6 +48,36 @@ const reports = dates.slice(0, 30).flatMap((date) => {
   }
 });
 
+const RADAR_SOURCE_PREFIXES = [
+  "Google News｜触觉",
+  "arXiv｜触觉",
+  "The Robot Report",
+  "IEEE Spectrum｜Robotics",
+  "NVIDIA Robotics",
+  "Google DeepMind｜Robotics",
+  "Hugging Face｜机器人",
+  "OpenAI News",
+  "MIT Technology Review｜AI",
+  "IFR｜机器人产业",
+];
+
+function isRadarSource(source) {
+  return RADAR_SOURCE_PREFIXES.some((prefix) => String(source).startsWith(prefix));
+}
+
+// Reports before the intelligence-radar redesign used broad technology,
+// finance and world-news sources. Keep those in the archive, but never let
+// them leak into the catch-up panel.
+const radarReports = reports.map(({ date, report }) => ({
+  date,
+  report: {
+    ...report,
+    tech_briefs: (report.tech_briefs ?? []).filter((brief) => isRadarSource(brief.source)),
+    finance_briefs: (report.finance_briefs ?? []).filter((brief) => isRadarSource(brief.source)),
+    politics_briefs: (report.politics_briefs ?? []).filter((brief) => isRadarSource(brief.source)),
+  },
+}));
+
 function esc(value) {
   return String(value ?? "")
     .replace(/&/g, "&amp;")
@@ -58,7 +88,7 @@ function esc(value) {
 }
 
 function renderRollingReview() {
-  const { weekly, trends } = buildRollingReview(reports, latest);
+  const { weekly, trends } = buildRollingReview(radarReports, latest);
   if (weekly.length === 0 && trends.length === 0) return "";
   const weeklyCards = weekly
     .map((item) => `<article class="brief">

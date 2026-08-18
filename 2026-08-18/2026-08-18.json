@@ -1,77 +1,76 @@
 {
-  "hero_headline": "蓝点触控获数亿元D轮融资，六维力传感器成机器人标配",
-  "daily_overview": "触觉传感器正成机器人标配：六维力龙头蓝点触控完成数亿元D轮融资，膜材企业半年斩获30万套触觉订单；海外Unichem收购Loomia切入人形机器人皮肤。美国机器人产业重回两位数增长，FCC对外国设备设限，供应链与竞争格局加速重塑。",
+  "hero_headline": "触觉传感器融资并购密集，产业资本加速入场",
+  "daily_overview": "触觉感知赛道升温：蓝点触控完成数亿元D轮融资，Unichem收购Loomia布局人形机器人皮肤；电子皮肤研究多点突破，视觉触觉VLA提升精细操作。人形机器人试水焊接等重体力岗位，示教数据驱动操作学习。FCC限制外国先进机器人设备，监管重塑供应链。",
   "tech_briefs": [
     {
       "title": "六维力传感器龙头完成数亿元D轮融资",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdW1KVFRqZ2Zpa3FBRlBFYXRWZnU0QV9FZ29qY1Y1TW1MM0ZmN3dFREVGVGxpQ29hZzJvWGpyOWVVeGE5SE52OHQ4SXJ2OW5OT29JclYzZUhrTjFycGdwWTJvQ2VNdmdtbWxxcnZFUnRkLVVTMW9HeG5YVkFrTHRCbTdpU29GaUptV0E5Wg?oc=5",
       "source": "Google News｜触觉产业链",
-      "summary": "六维力传感器龙头蓝点触控完成数亿元D轮融资，广汽资本领投，产品配套智元、小米等机器人。六维力是机器人精准力控与触觉感知的核心部件，资本密集涌入显示其正从高配走向标配。作为国内六维力传感器头部企业，本轮融资将加速其在人形机器人场景的规模化落地。（多家报道）",
+      "summary": "发生了什么：六维力传感器龙头蓝点触控完成数亿元D轮融资，广汽资本领投，德业股份等入股；为什么重要：资金将加速机器人“下场干活”，力传感器从高配变标配，资本涌向上游核心部件；与触觉的关系：六维力传感器是人形机器人触觉与力控核心，产业链国产化提速。（多家报道）",
       "importance": 9
     },
     {
-      "title": "汽车供应商Unichem收购Loomia切入机器人皮肤",
+      "title": "Unichem收购Loomia，布局人形机器人皮肤",
       "url": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
       "source": "The Robot Report",
-      "summary": "美国汽车供应商Unichem收购软电子公司Loomia，并联合R&Y开发汽车与人形机器人触觉传感器。传统汽车供应链跨界进入机器人「皮肤」赛道，意味着触觉皮肤正从实验室走向车规级量产能力。Loomia的柔性电子与触觉皮肤技术可覆盖机器人全身，收购将推动相关技术商业化。",
+      "summary": "发生了什么：汽车零部件供应商Unichem收购触觉技术公司Loomia，并与R&Y合作开发汽车和机器人用触觉传感器；为什么重要：传统汽车供应链巨头切入人形机器人“皮肤”赛道，标志电子皮肤走向量产供货；与触觉的关系：Loomia柔性电子技术可集成到机器人表面，补齐触觉感知环节。",
       "importance": 8
     },
     {
-      "title": "膜材企业半年获30万套机器人触觉订单",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91LVN6UVBCRTVwZ25KR210cVkybkR0a0p3anZSVkZxUFdPUUcyTjdFdHBSQ1U3bW9MWEIwcDMydHNBalQ2enpieC1BTWw?oc=5",
-      "source": "Google News｜触觉产业链",
-      "summary": "浙江一家以包装膜为主业的企业切入机器人触觉市场，半年拿下30万套触觉相关订单。非传统传感器厂商凭借膜材料工艺进入触觉供应链，显示行业规模正在快速放大且供应链持续多元化。膜材料是柔性触觉传感器的重要基底，跨界产能有助于降低成本并支撑机器人规模化出货。",
+      "title": "仿生电子皮肤实现触觉感知多路突破",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rLWtaUm5hUkdYYjUybnVCWEZYbTR3V2hwWHFfSFBHNHo1aUZQSXNkWmE3MmVCQ3VoVWcxcXVQYzE3UnI2N09CMVJrbzlGU05oRVdjN19GQkpvNFMxeFhGTWx4YUI1eE1xSjBvU3FybGtqSkt0NUxCUlhUdDQ?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "发生了什么：中外研究团队近期相继展示具备触觉感知能力的仿生电子皮肤，覆盖机器人及假肢应用，且具备耐磨特性；为什么重要：电子皮肤从实验室走向实用化，有望显著提升机器人与物理世界交互的安全与精细度；与触觉的关系：电子皮肤是触觉传感器的重要形态，直接关联柔性材料与传感读出方案。（多家报道）",
       "importance": 7
     },
     {
-      "title": "中国人形机器人灵巧手市场加速扩容",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXRtZFg4TUJ5R1lIcjJqUW9vai1ZSXpNcXBmZVd3bkc4VnZhVHBLQ00yN1NncFpoMGlFclpqc1lWNllDV3FoOWdYcnMyejZoaFVLZWtTSXhWbVNfOG9qNWZlREEwdFV1Rzg5MkFfQ0ZOYUxFZ2ZhTE5BclNFQ0ZzQTdpb0VvNk02dGtYNjd2dGp0cUVoMWdtOXdTbnRyYjlpRkFuVlAtZTMxVFRIWExSNUR2Q092TGRMejVSVDN4SnZVa2MtNkRhZUpfX3dhUQ?oc=5",
-      "source": "Google News｜触觉传感器",
-      "summary": "报道称中国人形机器人产业加速，灵巧手市场随之快速增长，成为产业链关键环节。灵巧手是人形机器人执行精细操作的核心部件，其放量将直接拉动触觉传感器需求。触觉感知决定灵巧手抓取与操作能力，市场扩容利好力传感与电子皮肤企业。",
+      "title": "ViTaR：视觉触觉残差适配增强VLA操作",
+      "url": "https://arxiv.org/abs/2608.15816v1",
+      "source": "arXiv｜触觉研究",
+      "summary": "发生了什么：新研究提出ViTaR框架，通过视觉-触觉残差适配增强基础VLA模型的精细操作能力；为什么重要：解决触觉信号与预训练视觉-语言-动作模型融合的难题，提升机器人灵巧操作成功率；与触觉的关系：为触觉传感数据嵌入大模型决策闭环提供新路径，降低对仿真触觉数据的依赖。",
       "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "Diligent Robotics部署Moxi 2.0进医院",
-      "url": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/",
-      "source": "The Robot Report",
-      "summary": "Diligent Robotics基于五年运营经验，将Moxi 2.0推向美国多家医院，包括Endeavor Health等。这表明协作服务机器人已跨过试点进入规模化部署阶段。医院场景的移动操作对精确感知与柔顺交互要求较高，与触觉传感技术演进相互促进。",
-      "importance": 6
+      "title": "人形机器人进船厂焊接，首个重体力工种落地",
+      "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+      "source": "IEEE Spectrum｜Robotics",
+      "summary": "发生了什么：Persona AI专注于让人形机器人在船厂等工业场景承担焊接任务，而非停留在演示视频；为什么重要：焊接等重体力岗位给出人形机器人明确商业落地路径，验证作业能力与安全性；与公司方向的关系：这类部署将带动力觉、触觉传感在真实工况中的需求，推动传感器可靠性升级。",
+      "importance": 7
     },
     {
-      "title": "通用机器人利用人类演示数据驱动操作学习",
+      "title": "通用操作界面利用人类示教数据驱动机器人学习",
       "url": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/",
       "source": "The Robot Report",
-      "summary": "Generalist等公司借助Universal Manipulation Interface，将人类演示数据转化为机器人可复用行为。操作学习数据闭环是具身智能商业化的关键瓶颈，此路径有望降低数据获取成本。触觉与力觉作为操作反馈的重要模态，未来可与视觉演示数据互补。",
-      "importance": 7
+      "summary": "发生了什么：Generalist等公司基于Universal Manipulation Interface研究，将人类示教数据转化为机器人操作行为；为什么重要：示教数据是机器人具身智能训练的关键瓶颈，高质量数据转化路径可加速VLA泛化；与公司方向的关系：触觉传感器是采集示教接触信息的重要载体，数据闭环反哺感知需求。",
+      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "美国机器人产业恢复两位数增长",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vbmNBeHpmUFlVdjZ4S1ZFRVdQWnFHdkoyVG5zTnJoMnd4RzFKZjFxMmpZM1ZLa2hCbUQ2MHVhNHpsdG5MZVl5bWRlTlFXVVpyRXBSY0dyY045SFlkU2R4eHZCQXI2TE84UzdZU25XN3duS1hsaUhydWFMdGE3dlE?oc=5",
-      "source": "IFR｜机器人产业",
-      "summary": "IFR数据显示美国机器人产业重回双位数增长，安装量与订单规模明显反弹。产业增长意味着上游传感器、执行器需求扩大，并可能影响全球机器人供应链格局。触觉传感器作为机器人核心部件，将随整机市场同步受益。",
-      "importance": 6
-    },
-    {
-      "title": "FCC拟限制外国产高级机器人设备",
+      "title": "FCC拟限制外国产先进机器人设备",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDlKNXA4TWNRRWxScVJCX3Jsc1Y2V3VKWjJHRjN5cGRTbmlHSHY0ZFVQZ2paSzlkTVZXXzdKeDZSckFfdndjQmM5WnYyQWpqSjhqdDlKYnFYeERDYXBIX0ZYakpKTHFNVHpIdnNIUV92U21TZmJRemZFd1RlNEhOUzJkWHFLNnNtc21Hc3lwV1FjOGg5MGhUdl9zeVV4eUV2LWdJ?oc=5",
       "source": "IFR｜机器人产业",
-      "summary": "IFR报道称FCC正推动对外国生产的高级机器人设备设立限制。此举可能重塑美国机器人设备供应链与市场准入，影响相关企业出口与合规策略。触觉传感器及机器人整机若被纳入限制范围，将改变全球竞争格局。",
+      "summary": "发生了什么：IFR报道FCC对外国生产的先进机器人设备实施限制；为什么重要：这将直接改变机器人设备跨境供应链与市场准入规则，影响多国厂商布局；与产业的关系：先进机器人（含触觉传感系统）进口受限，可能加速国产替代进程。",
       "importance": 8
+    },
+    {
+      "title": "IFR发布机器人影响立场文件",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0xjZ2VCc3gyZVRFTGNUX0JubHB4bXpLc1FfSXdyRmhVWFE2TVA5US0waDMyX2s2TG5EQTdSWFJERzBhRWtlaVhsa1Z3blNPc041RnFrSTVlZllGamhPMl9CWDZsMXhWbHN0dWhkUzdmU1pIUmRpSU9EMVZVVUs4TjlBS3pqX3JFVktF?oc=5",
+      "source": "IFR｜机器人产业",
+      "summary": "发生了什么：IFR发布新立场文件，评估机器人对经济、就业和社会的系统影响；为什么重要：为各国机器人产业政策与监管提供基准，间接影响上游传感器等环节的规则环境；与触觉的关系：产业政策窗口期有助于触觉传感器等核心部件的标准化与规模化。",
+      "importance": 6
     }
   ],
-  "editor_note": "六维力传感器从高配变标配，触觉正从实验室走向产线。资本与订单双重验证下，产业仍需警惕同质化竞争，核心在于闭环控制与批量一致性。",
+  "editor_note": "触觉传感器正从高端配置走向产业标配，资本与并购同步加速。监管开始关注机器人设备跨境流动，供应链本地化与标准化将成下一阶段主线。",
   "keywords": [
     "触觉传感器",
     "六维力传感器",
     "电子皮肤",
-    "灵巧手",
     "人形机器人",
-    "具身智能",
-    "机器人产业",
-    "供应链"
+    "VLA",
+    "机器人监管",
+    "产业融资"
   ]
 }

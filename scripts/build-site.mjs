@@ -116,10 +116,18 @@ function renderRollingReview() {
 </section>`;
 }
 
+const rollingReviewHtml = renderRollingReview();
 const latestHtml = fs
   .readFileSync(latestPath, "utf8")
   .replace(/href="\.\.\/archive\.html"/g, 'href="./archive.html"')
-  .replace('<nav class="tabs"', `${renderRollingReview()}\n  <nav class="tabs"`);
+  .replace(
+    '<button class="tab" data-tab="tech"',
+    `${rollingReviewHtml ? `<button class="tab" data-tab="review">近期回顾</button>\n    ` : ""}<button class="tab" data-tab="tech"`,
+  )
+  .replace(
+    '<section class="panel active" data-panel="digest">',
+    `${rollingReviewHtml ? `<section class="panel" data-panel="review">${rollingReviewHtml}</section>\n  ` : ""}<section class="panel active" data-panel="digest">`,
+  );
 fs.writeFileSync(path.join(ROOT, "index.html"), latestHtml, "utf8");
 console.log(`[build-site] index.html  ← ${latest}/${latest}.html`);
 

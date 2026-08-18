@@ -123,7 +123,7 @@ const latestHtml = fs
   .replace(/href="\.\.\/archive\.html"/g, 'href="./archive.html"')
   .replace(
     '<button class="tab" data-tab="tech"',
-    `${rollingReviewHtml ? `<button class="tab" data-tab="review">近期回顾</button>\n    ` : ""}<button class="tab" type="button" onclick="window.location.href='./timeline.html'">智能化进程</button>\n    <button class="tab" data-tab="tech"`,
+    `${rollingReviewHtml ? `<button class="tab" data-tab="review">近期回顾</button>\n    ` : ""}<button class="tab" data-tab="tech"`,
   )
   .replace(
     '<section class="panel active" data-panel="digest">',
@@ -196,6 +196,7 @@ const archiveHtml = `<!doctype html>
   <p class="meta">${dates.length} report${dates.length === 1 ? "" : "s"} · newest first · generated ${new Date().toISOString().slice(0, 10)}</p>
   <div class="top">
     <a href="./index.html">→ Latest report (${latest})</a>
+    <br><a href="./timeline.html">→ 智能化进程（建设中）</a>
   </div>
   <ul>
 ${rows}

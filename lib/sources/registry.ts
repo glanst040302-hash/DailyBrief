@@ -79,6 +79,13 @@ function loadAndValidate(): SourceDef[] {
         throw new Error(`${at} (${s.id}): 'locales' must be an array of "zh" | "en"`);
       }
     }
+    if (
+      s.keywords !== undefined &&
+      (!Array.isArray(s.keywords) ||
+        s.keywords.some((keyword) => typeof keyword !== "string"))
+    ) {
+      throw new Error(`${at} (${s.id}): 'keywords' must be an array of strings`);
+    }
   }
   return parsed as SourceDef[];
 }

@@ -45,10 +45,46 @@ export interface ArticleInput extends RawArticle {
 }
 
 const PER_CATEGORY_LIMIT: Record<Category, number> = {
-  tech: 25,
-  finance: 20,
-  politics: 15,
+  tech: 30,
+  finance: 24,
+  politics: 16,
 };
+
+const REPORT_QUOTAS: Record<Category, number> = {
+  tech: 4,
+  finance: 2,
+  politics: 2,
+};
+
+export function enforceReportBudget(
+  report: DailyReport,
+  allowedUrls: Set<string>,
+): DailyReport {
+  const seenUrls = new Set<string>();
+  const seenTitles = new Set<string>();
+  const cleanTitle = (title: string) =>
+    title.toLocaleLowerCase().replace(/[\p{P}\p{S}\s]+/gu, "");
+  const curate = (items: BriefItem[], limit: number): BriefItem[] =>
+    items
+      .filter((item) => allowedUrls.has(item.url))
+      .filter((item) => {
+        const titleKey = cleanTitle(item.title);
+        if (!titleKey || seenUrls.has(item.url) || seenTitles.has(titleKey)) {
+          return false;
+        }
+        seenUrls.add(item.url);
+        seenTitles.add(titleKey);
+        return true;
+      })
+      .slice(0, limit);
+
+  return {
+    ...report,
+    tech_briefs: curate(report.tech_briefs, REPORT_QUOTAS.tech),
+    finance_briefs: curate(report.finance_briefs, REPORT_QUOTAS.finance),
+    politics_briefs: curate(report.politics_briefs, REPORT_QUOTAS.politics),
+  };
+}
 
 const MAX_AGE_DAYS = 14;
 
@@ -117,10 +153,10 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
           "",
           "The JSON must contain every field non-empty (briefs arrays per the system-prompt counts):",
           "  - hero_headline: 10-25 word headline of the day",
-          "  - daily_overview: **150-250 word** paragraph covering tech / finance / politics signals so a reader sees the whole picture at a glance",
-          "  - tech_briefs: **3-5** tech BriefItems",
-          "  - finance_briefs: **3-5** finance BriefItems",
-          "  - politics_briefs: **2-3** politics BriefItems",
+          "  - daily_overview: **80-120 word** paragraph covering the global intelligent-systems trajectory",
+          "  - tech_briefs: **up to 4** tactile value-chain BriefItems",
+          "  - finance_briefs: **up to 2** robotics / embodied-AI BriefItems",
+          "  - politics_briefs: **up to 2** strategic-inflection BriefItems",
           "  - editor_note: 30-60 word editor's note",
           "  - keywords: 5-8 keywords",
           "",
@@ -136,10 +172,10 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
           "",
           "JSON 必须包含全部字段且不能为空（briefs 数组按 system prompt 规定的条数填充）：",
           "  - hero_headline: 10-25 字的当日一句话头条",
-          "  - daily_overview: **150-220 字** 的当日总览段落，一段话覆盖技术 / 财经 / 时政 的核心信号，让读者一眼抓住全貌",
-          "  - tech_briefs: **3-5 条** 科技 BriefItem",
-          "  - finance_briefs: **3-5 条** 财经 BriefItem",
-          "  - politics_briefs: **2-3 条** 时政 BriefItem",
+          "  - daily_overview: **80-120 字**，概括全球智能化进程",
+          "  - tech_briefs: **最多 4 条** 触觉产业链 BriefItem",
+          "  - finance_briefs: **最多 2 条** 机器人与具身智能 BriefItem",
+          "  - politics_briefs: **最多 2 条** 关键变量 BriefItem",
           "  - editor_note: 30-60 字的编辑短评",
           "  - keywords: 5-8 个关键词",
           "",
@@ -231,6 +267,13 @@ export async function generateDailyReport(
     );
     report = await callOnce(userPayloadJson);
   }
+
+  // The model decides relevance; code enforces the reader's hard budget.
+  // It also drops hallucinated links and exact repeats across sections.
+  report = enforceReportBudget(
+    report,
+    new Set(userPayload.map((item) => item.url)),
+  );
 
   // Max subscription has no per-call token meter — we expose 0 for schema
   // compatibility; consumers should treat 0 as "metric not available".

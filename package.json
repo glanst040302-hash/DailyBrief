@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "typecheck": "tsc --noEmit",
     "dry-run": "tsx scripts/dry-run.ts",
     "daily": "tsx scripts/daily.ts",
     "render": "tsx scripts/render.ts",
@@ -11,6 +12,7 @@
     "quota-report": "tsx scripts/quota-report.ts",
     "sources": "tsx scripts/sources.ts",
     "sources:check": "tsx scripts/sources.ts check",
+    "test:radar": "tsx scripts/test-intelligence-radar.ts",
     "deploy": "node scripts/deploy.mjs",
     "build-site": "node scripts/build-site.mjs",
     "open": "node scripts/open-report.mjs"

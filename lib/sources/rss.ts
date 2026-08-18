@@ -21,11 +21,24 @@ function stripHtml(s: string): string {
   return s.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
 }
 
+export function matchesKeywords(
+  title: string,
+  excerpt: string | undefined,
+  keywords: string[] | undefined,
+): boolean {
+  const normalized = (keywords ?? [])
+    .map((keyword) => keyword.trim().toLocaleLowerCase())
+    .filter(Boolean);
+  if (normalized.length === 0) return true;
+  const haystack = `${title}\n${excerpt ?? ""}`.toLocaleLowerCase();
+  return normalized.some((keyword) => haystack.includes(keyword));
+}
+
 export async function fetchRss(
   sourceId: string,
   url: string,
   category: Category,
-  options: { limit?: number; useCurl?: boolean } = {},
+  options: { limit?: number; useCurl?: boolean; keywords?: string[] } = {},
 ): Promise<RawArticle[]> {
   const limit = options.limit ?? 30;
 
@@ -38,7 +51,6 @@ export async function fetchRss(
   }
 
   return (feed.items ?? [])
-    .slice(0, limit)
     .map((item) => ({
       sourceId,
       title: (item.title ?? "").trim(),
@@ -50,5 +62,7 @@ export async function fetchRss(
       publishedAt: item.isoDate ? new Date(item.isoDate) : undefined,
       category,
     }))
-    .filter((a) => a.title && a.url);
+    .filter((a) => a.title && a.url)
+    .filter((a) => matchesKeywords(a.title, a.excerpt, options.keywords))
+    .slice(0, limit);
 }

@@ -24,21 +24,21 @@ import {
  * this object so adding a third locale = adding one more table.
  */
 const TEXTS_ZH = {
-  siteTitle: "每日简报",
-  catTech: "技术动态",
-  catFinance: "财经要点",
-  catPolitics: "时政观察",
+  siteTitle: "智能化日报",
+  catTech: "触觉产业链",
+  catFinance: "机器人与具身智能",
+  catPolitics: "关键变量",
   catTrading: "市场行情",
   catCommunity: "社区讨论",
-  subAiNews: "AI 媒体",
+  subAiNews: "触觉情报",
   subTrendingPapers: "热门论文",
   subXViral: "X 推文",
   subBlogWeekly: "博客周刊",
   subCnCommunity: "中文社区",
   subOverseasCommunity: "海外社区",
-  subFinanceNews: "财经新闻",
+  subFinanceNews: "机器人情报",
   subFinanceCommunity: "社区讨论",
-  subWorld: "国际要闻",
+  subWorld: "关键变量",
   subOverseasNews: "海外科技",
   subOverseas: "海外",
   emptySource: "该源今日无内容。",
@@ -73,21 +73,21 @@ const TEXTS_ZH = {
 };
 
 const TEXTS_EN: typeof TEXTS_ZH = {
-  siteTitle: "Daily Brief",
-  catTech: "Tech",
-  catFinance: "Finance",
-  catPolitics: "World",
+  siteTitle: "Intelligence Radar",
+  catTech: "Tactile Value Chain",
+  catFinance: "Robotics & Embodied AI",
+  catPolitics: "Strategic Inflections",
   catTrading: "Markets",
   catCommunity: "Community",
-  subAiNews: "AI Media",
+  subAiNews: "Tactile Intelligence",
   subTrendingPapers: "Trending Papers",
   subXViral: "X Viral",
   subBlogWeekly: "Blog Weekly",
   subCnCommunity: "Chinese Community",
   subOverseasCommunity: "Overseas Community",
-  subFinanceNews: "Finance News",
+  subFinanceNews: "Robotics Intelligence",
   subFinanceCommunity: "Community",
-  subWorld: "World News",
+  subWorld: "Strategic Inflections",
   subOverseasNews: "Overseas Tech",
   subOverseas: "Overseas",
   emptySource: "No content from this source today.",
@@ -171,12 +171,12 @@ const SUBCATEGORY_ORDER: Partial<Record<Category, string[]>> = {
   // Locale filtering at registry level decides which actually appears:
   // zh mode keeps cn-community (V2EX / LinuxDo); en mode keeps
   // overseas-community (Hacker News / r/stocks).
-  tech: ["github-trending", "trending-papers", "x-viral", "ai-news", "cn-community", "overseas-community"],
-  finance: ["news"],
-  politics: ["world"],
+  tech: ["tactile"],
+  finance: ["robotics"],
+  politics: ["inflection"],
 };
 
-const TECH_MAIN_SUBS = new Set(["github-trending", "trending-papers", "x-viral", "ai-news"]);
+const TECH_MAIN_SUBS = new Set(["tactile"]);
 const TECH_COMMUNITY_SUBS = new Set(["cn-community", "overseas-community"]);
 
 const SUBCATEGORY_LABELS: Record<string, string> = {
@@ -186,6 +186,9 @@ const SUBCATEGORY_LABELS: Record<string, string> = {
   "overseas-community": STR.subOverseasCommunity,
   "ai-news": STR.subAiNews,
   "x-viral": STR.subXViral,
+  tactile: STR.subAiNews,
+  robotics: STR.subFinanceNews,
+  inflection: STR.subWorld,
   "blog-weekly": STR.subBlogWeekly,
   news: STR.subFinanceNews,
   world: STR.subWorld,
@@ -239,9 +242,9 @@ function displayLimitFor(
  * Exported so daily.ts can read the cap to keep enrichment in sync.
  */
 export const MERGED_SUBGROUP_LIMITS: Record<string, number> = {
-  "tech:ai-news": 15,
-  "finance:news": 12,
-  "politics:world": 15,
+  "tech:tactile": 20,
+  "finance:robotics": 20,
+  "politics:inflection": 12,
 };
 
 /**

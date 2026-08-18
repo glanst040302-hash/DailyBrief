@@ -262,11 +262,13 @@ async function main() {
   // Trading signals: Yahoo fetch + indicators + commentary. Non-fatal —
   // if it errors, we still ship the news digest.
   let trading: TradingSection | null = null;
-  try {
-    trading = await runTrading();
-  } catch (e) {
-    const msg = e instanceof Error ? e.message : String(e);
-    console.warn(`[daily] trading section failed: ${msg}`);
+  if (process.env.ENABLE_TRADING === "true") {
+    try {
+      trading = await runTrading();
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : String(e);
+      console.warn(`[daily] trading section failed: ${msg}`);
+    }
   }
 
   console.log(`[daily] generating digest with ${getModelTag()}…`);

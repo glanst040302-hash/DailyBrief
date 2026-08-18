@@ -28,6 +28,7 @@ const TEXTS_ZH = {
   catTech: "触觉产业链",
   catFinance: "机器人与具身智能",
   catPolitics: "关键变量",
+  catDigest: "今日重点",
   catTrading: "市场行情",
   catCommunity: "社区讨论",
   subAiNews: "触觉情报",
@@ -77,6 +78,7 @@ const TEXTS_EN: typeof TEXTS_ZH = {
   catTech: "Tactile Value Chain",
   catFinance: "Robotics & Embodied AI",
   catPolitics: "Strategic Inflections",
+  catDigest: "Daily Focus",
   catTrading: "Markets",
   catCommunity: "Community",
   subAiNews: "Tactile Intelligence",
@@ -530,6 +532,56 @@ function renderRawCategoryPanel(
 
 // ----- top-level renderer -----
 
+function renderBrief(b: BriefItem): string {
+  const importance = Number.isFinite(b.importance) ? b.importance : 0;
+  const rankClass = importance >= 9 ? "high" : importance >= 7 ? "mid" : "low";
+  return `<article class="brief">
+  <div class="brief-head">
+    <span class="brief-source">${escapeHtml(b.source)}</span>
+    <span class="brief-rank ${rankClass}">${importance}/10</span>
+  </div>
+  <h3 class="brief-title"><a href="${escapeHtml(b.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(b.title)}</a></h3>
+  <p class="brief-summary">${escapeHtml(b.summary)}</p>
+</article>`;
+}
+
+function renderDigestSection(title: string, briefs: BriefItem[]): string {
+  if (briefs.length === 0) return "";
+  return `<section class="digest-category">
+  <header class="category-header">
+    <h2 class="category-title">${escapeHtml(title)}</h2>
+    <span class="category-count">${briefs.length}</span>
+  </header>
+  <div class="brief-list">${briefs.map(renderBrief).join("\n")}</div>
+</section>`;
+}
+
+function renderDigest(report: DailyReport): string {
+  return `${
+    report.hero_headline
+      ? `<section class="hero-card"><span class="hero-eyebrow">${STR.catDigest}</span><p class="hero-headline">${escapeHtml(report.hero_headline)}</p></section>`
+      : ""
+  }
+  ${
+    report.daily_overview
+      ? `<section class="overview-card"><span class="eyebrow">${STR.mdTodayOverview}</span><p class="overview-text">${escapeHtml(report.daily_overview)}</p></section>`
+      : ""
+  }
+  ${renderDigestSection(CATEGORY_DIGEST_LABELS.tech, report.tech_briefs)}
+  ${renderDigestSection(CATEGORY_DIGEST_LABELS.finance, report.finance_briefs)}
+  ${renderDigestSection(CATEGORY_DIGEST_LABELS.politics, report.politics_briefs)}
+  ${
+    report.editor_note
+      ? `<section class="editor-card"><span class="eyebrow">${STR.mdEditorNote}</span><p class="editor-text">${escapeHtml(report.editor_note)}</p></section>`
+      : ""
+  }
+  ${
+    report.keywords.length > 0
+      ? `<div class="keywords">${report.keywords.map((keyword) => `<span class="keyword">${escapeHtml(keyword)}</span>`).join("")}</div>`
+      : ""
+  }`;
+}
+
 export function renderHtml(
   report: DailyReport,
   raw: RawByCategory,
@@ -550,6 +602,10 @@ export function renderHtml(
       0,
     );
   const counts = {
+    digest:
+      report.tech_briefs.length +
+      report.finance_briefs.length +
+      report.politics_briefs.length,
     tech: sumItems(techMainSubs),
     finance: sumItems(raw.finance),
     politics: sumItems(raw.politics),
@@ -1202,14 +1258,18 @@ export function renderHtml(
   </header>
 
   <nav class="tabs" role="tablist">
-    <button class="tab active" data-tab="tech">${CATEGORY_LABELS.tech}<span class="count">${counts.tech}</span></button>
+    <button class="tab active" data-tab="digest">${STR.catDigest}<span class="count">${counts.digest}</span></button>
+    <button class="tab" data-tab="tech">${CATEGORY_LABELS.tech}<span class="count">${counts.tech}</span></button>
     ${trading ? `<button class="tab" data-tab="trading">${STR.catTrading}<span class="count">${trading.tickers.length}</span></button>` : ""}
     <button class="tab" data-tab="politics">${CATEGORY_LABELS.politics}<span class="count">${counts.politics}</span></button>
     <button class="tab" data-tab="finance">${CATEGORY_LABELS.finance}<span class="count">${counts.finance}</span></button>
     ${techCommunitySubs.length > 0 ? `<button class="tab" data-tab="community">${STR.catCommunity}<span class="count">${counts.community}</span></button>` : ""}
   </nav>
 
-  <section class="panel active" data-panel="tech">
+  <section class="panel active" data-panel="digest">
+    ${renderDigest(report)}
+  </section>
+  <section class="panel" data-panel="tech">
     ${renderRawCategoryPanel("tech", techMainSubs)}
   </section>
   ${trading ? `<section class="panel" data-panel="trading">${renderTradingPanel(trading)}</section>` : ""}

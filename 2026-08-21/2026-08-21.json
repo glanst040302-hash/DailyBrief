@@ -1,0 +1,77 @@
+{
+  "hero_headline": "电子皮肤销量猛增，触觉传感器成机器人竞争焦点",
+  "daily_overview": "全球智能化进程今日聚焦触觉感知：电子皮肤在假肢与人形机器人领域加速落地，六维力传感器与触觉VLA研究推动灵巧操作闭环；市场端电子皮肤销量猛增，美国机器人产业恢复两位数增长；政策端FCC对外国机器人设备设限，产业在技术跃升与供应链变局中前行。",
+  "tech_briefs": [
+    {
+      "title": "电子皮肤提升假肢温度与压力感知",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTZ1a0NSa2p3LW9VR29YaVJZQ2piekh2Mjk4TUtnTjg4anNyQTdtQ3d5UFlaOTBWQlVlMHVZRi1XUFpYOGdkM1gwcHN2cTdfMWFVUU1HUlJXWVp1U1o2WE9RcDN0eFdqSFhCMUpvNFZSZDV2Um11aEliaG5yOEJKR2pDbVJwb280VXJreVdSREJ2VHhx?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "研究人员开发出可同时感知温度与压力的电子皮肤，分辨率达到传统方案的10倍，用于个性化假肢。该进展提升假肢的本体感觉与佩戴舒适度，推动电子皮肤从实验室走向医疗康复应用。对触觉产业链而言，传感材料与集成工艺的突破将外溢至机器人皮肤领域。（多家报道）",
+      "importance": 8
+    },
+    {
+      "title": "汉威科技发布全球首款电容式全身电子皮肤",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42RXBVRjlyM09mYVU2a2d0VUVvQWVjVEJfVG5GVGtHNERXWllOWWRVcXB1d2VLcnpvdm5lS21JNm14MVU0ZlcteXVqQk5qQmpLWS1iNUtfMnVzVFJTNVNIdTRn?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "汉威科技在2026世界机器人大会首发全球首款电容式全身电子皮肤，并展出多款传感器新品。电容式方案可实现大面积、低功耗触觉感知，补齐人形机器人全身覆盖需求。这是国产电子皮肤从单点测量走向整机集成的重要信号，将加速触觉传感器在机器人上的规模化应用。",
+      "importance": 7
+    },
+    {
+      "title": "六维力传感器成机器人精细作业落地关键",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlFucDRjb2QxNVgwbW1OTEVoVTJHU292cXAtVWJ4dVBpOU5JclhEdHJfWnNLRnl4bkRCR3pucnpsLXNYWlhjc2tSdURvMXUzLTV6bThHMkJmZm16d1FMNldDREllUGUzTkZKUTRpTVlCcXVFSHJHalZxRmp1QmpFNk9ZTENxY2RRZndOVl9jc243YWdLVHFMYWtIMXQ1MTY4djlCcU41WQ?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "六维力传感器被视为机器人“干活最后一厘米”的关键，可同时测量三维力与力矩，使机器人完成柔顺装配等精细操作。该部件直接决定力控效果与作业安全性，是具身智能从演示走向量产部署的核心硬件。",
+      "importance": 8
+    },
+    {
+      "title": "视觉-触觉残差适应基础VLA操作",
+      "url": "https://arxiv.org/abs/2608.15816v1",
+      "source": "arXiv｜触觉研究",
+      "summary": "ViTaR提出视觉-触觉残差适应机制，让基础VLA模型在执行操作时引入触觉修正信号。视觉模型难以感知接触状态，触觉残差可显著提升精细操作的稳健性。该技术将触觉传感接入VLA闭环，拓展了触觉数据在具身智能中的使用方式。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "宇树IPO或重塑人形机器人竞争格局",
+      "url": "https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/",
+      "source": "The Robot Report",
+      "summary": "宇树科技完成IPO，引发对人形机器人行业后续上市潮的讨论。上市为人形机器人公司带来资本化路径，有望加速研发与量产。产业格局或将随头部公司融资能力分化而重塑。",
+      "importance": 8
+    },
+    {
+      "title": "通用操作界面：人类演示数据驱动机器人学习",
+      "url": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/",
+      "source": "The Robot Report",
+      "summary": "Generalist联合Walden Robotics等利用人类演示数据训练机器人操作，基于通用操作接口将数据转化为行为。高质量演示数据仍是操作学习瓶颈，该实践为数据采集与复用提供参考，间接提升触觉与力控需求的真实性。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "FCC拟限制外国产先进机器人设备",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDlKNXA4TWNRRWxScVJCX3Jsc1Y2V3VKWjJHRjN5cGRTbmlHSHY0ZFVQZ2paSzlkTVZXXzdKeDZSckFfdndjQmM5WnYyQWpqSjhqdDlKYnFYeERDYXBIX0ZYakpKTHFNVHpIdnNIUV92U21TZmJRemZFd1RlNEhOUzJkWHFLNnNtc21Hc3lwV1FjOGg5MGhUdl9zeVV4eUV2LWdJ?oc=5",
+      "source": "IFR｜机器人产业",
+      "summary": "FCC提出对外国产先进机器人设备的限制措施，涉及通信与数据安全。该政策将抬升跨境供应链合规成本，可能影响相关企业在美国市场的产品准入，需关注后续细则。",
+      "importance": 9
+    },
+    {
+      "title": "美国机器人产业恢复两位数增长",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vbmNBeHpmUFlVdjZ4S1ZFRVdQWnFHdkoyVG5zTnJoMnd4RzFKZjFxMmpZM1ZLa2hCbUQ2MHVhNHpsdG5MZVl5bWRlTlFXVVpyRXBSY0dyY045SFlkU2R4eHZCQXI2TE84UzdZU25XN3duS1hsaUhydWFMdGE3dlE?oc=5",
+      "source": "IFR｜机器人产业",
+      "summary": "IFR数据显示美国机器人产业恢复两位数增长，表明自动化需求回暖。作为全球主要市场，美国增速回升将拉动上游传感器、执行器等零部件需求，也加剧本土与进口供应链竞争。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "触觉传感正从实验室走向真机部署，但成本、可靠性与标准化仍是规模化瓶颈；政策限制或加速供应链重构，产业需在开放与安全之间寻求平衡。",
+  "keywords": [
+    "触觉传感器",
+    "电子皮肤",
+    "人形机器人",
+    "六维力传感器",
+    "VLA",
+    "灵巧手",
+    "机器人产业",
+    "监管政策"
+  ]
+}

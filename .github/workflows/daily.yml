@@ -12,7 +12,7 @@ name: Daily Brief
 #            LLM_MODEL       e.g. claude-sonnet-4-6 / gpt-4o-mini       (backend default if unset)
 #            REPORT_LOCALE   zh | en                                    (default: zh)
 #            REPORT_TZ       IANA tz, e.g. Asia/Shanghai / UTC          (default: UTC in CI)
-#            REPORT_HOUR     trigger hour(s) in REPORT_TZ, comma-list   (default: 8 — 08:00)
+#            REPORT_HOUR     trigger hour(s) in REPORT_TZ, comma-list   (default: 8,13,19)
 #                            examples: "8" / "8,18" / "0,6,12,18"
 #            REPORT_DAYS     day-of-week filter (cron-style 0-6 SUN=0)  (default: * — every day)
 #                            examples: "*" / "1-5" (weekdays) / "1,3,5" (MWF)
@@ -73,7 +73,7 @@ jobs:
           fi
 
           TZ_VAL="${REPORT_TZ:-UTC}"
-          HOURS_VAL="${REPORT_HOUR:-8}"
+          HOURS_VAL="${REPORT_HOUR:-8,13,19}"
           DAYS_VAL="${REPORT_DAYS:-*}"
 
           NOW_HOUR=$(TZ="$TZ_VAL" date +%-H)

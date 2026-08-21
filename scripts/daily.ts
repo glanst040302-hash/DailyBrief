@@ -32,6 +32,38 @@ import { todayKey } from "../lib/utils";
 
 const OUTPUT_DIR = "daily_reports";
 
+function loadSavedArticles(file: string): ArticleInput[] {
+  if (!fs.existsSync(file)) return [];
+  try {
+    const data = JSON.parse(fs.readFileSync(file, "utf8")) as {
+      articles?: Array<Omit<ArticleInput, "publishedAt"> & { publishedAt?: string }>;
+    };
+    return (data.articles ?? []).map((article) => ({
+      ...article,
+      publishedAt: article.publishedAt ? new Date(article.publishedAt) : undefined,
+    }));
+  } catch (error) {
+    console.warn(
+      `[daily] could not restore earlier articles: ${error instanceof Error ? error.message : String(error)}`,
+    );
+    return [];
+  }
+}
+
+function mergeNewArticles(
+  existing: ArticleInput[],
+  incoming: ArticleInput[],
+): ArticleInput[] {
+  const seenUrls = new Set(existing.map((article) => article.url));
+  const newArticles: ArticleInput[] = [];
+  for (const article of incoming) {
+    if (seenUrls.has(article.url)) continue;
+    seenUrls.add(article.url);
+    newArticles.push(article);
+  }
+  return [...existing, ...newArticles];
+}
+
 async function fetchAll(): Promise<ArticleInput[]> {
   const articles: ArticleInput[] = [];
   const enabled = sources.filter((s) => s.enabled !== false);
@@ -244,6 +276,11 @@ async function main() {
   validateBackendCredentials();
 
   const date = todayKey();
+  const dateDir = path.join(OUTPUT_DIR, date);
+  const base = path.join(dateDir, date);
+  const savedArticles = loadSavedArticles(`${base}-articles.json`).filter(
+    (article) => article.publishedAt && todayKey(article.publishedAt) === date,
+  );
   console.log(`[daily] ${date} — fetching sources…\n`);
   const articles = await fetchAll();
   console.log(`\n[daily] total articles: ${articles.length}`);
@@ -254,12 +291,20 @@ async function main() {
   // A date-keyed archive must contain only news published on that date.
   // Keep items without a publication time, and late-discovered older news,
   // out of this report rather than assigning them a misleading archive day.
-  const datedArticles = articles.filter(
+  const incomingArticles = articles.filter(
     (article) => article.publishedAt && todayKey(article.publishedAt) === date,
   );
-  console.log(`[daily] ${datedArticles.length} articles published on ${date}`);
+  const datedArticles = mergeNewArticles(savedArticles, incomingArticles);
+  const newCount = datedArticles.length - savedArticles.length;
+  console.log(
+    `[daily] ${datedArticles.length} articles published on ${date} (${newCount} new, ${savedArticles.length} already collected)`,
+  );
   if (datedArticles.length === 0) {
     throw new Error(`no articles published on ${date} — aborting`);
+  }
+  if (newCount === 0 && savedArticles.length > 0) {
+    console.log("[daily] no new same-day articles — keeping the current report");
+    return;
   }
 
   // Enrich GH Trending, papers, finance news, and politics with summaries.
@@ -288,9 +333,7 @@ async function main() {
   if (trading) report.trading = trading;
   console.log(`[daily] digest ready in ${((Date.now() - t0) / 1000).toFixed(1)}s`);
 
-  const dateDir = path.join(OUTPUT_DIR, date);
   fs.mkdirSync(dateDir, { recursive: true });
-  const base = path.join(dateDir, date);
   const raw = groupRaw(datedArticles, sources);
   fs.writeFileSync(`${base}.json`, JSON.stringify(report, null, 2), "utf8");
   // Sidecar with all fetched articles + LLM-attached summary, so

@@ -49,7 +49,16 @@ const reports = dates.slice(0, 30).flatMap((date) => {
   }
 });
 
-const topicArticleReports = dates.slice(0, 30).flatMap((date) => {
+// Topic panels use every recent sidecar, not only dates that still have a
+// rendered report page. This keeps the rolling topic feed intact when a
+// prior daily HTML page was not retained during a publish.
+const topicDates = fs
+  .readdirSync(ROOT)
+  .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d))
+  .filter((d) => fs.existsSync(path.join(ROOT, d, `${d}-articles.json`)))
+  .sort((a, b) => b.localeCompare(a));
+
+const topicArticleReports = topicDates.slice(0, 30).flatMap((date) => {
   const articlesPath = path.join(ROOT, date, `${date}-articles.json`);
   try {
     const payload = JSON.parse(fs.readFileSync(articlesPath, "utf8"));

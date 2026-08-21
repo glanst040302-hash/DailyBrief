@@ -88,6 +88,109 @@ function esc(value) {
     .replace(/'/g, "&#39;");
 }
 
+const TOPIC_CONFIG = {
+  tech: { label: "触觉产业链", defaultLimit: 4 },
+  finance: { label: "机器人与具身智能", defaultLimit: 2 },
+  politics: { label: "产业关键变化", defaultLimit: 2 },
+};
+
+function titleKey(title) {
+  return String(title ?? "")
+    .toLocaleLowerCase()
+    .replace(/[\p{P}\p{S}\s]+/gu, "");
+}
+
+function freshnessScore(date) {
+  const days = Math.max(0, Math.round((Date.parse(`${latest}T00:00:00Z`) - Date.parse(`${date}T00:00:00Z`)) / 86_400_000));
+  if (days === 0) return 10;
+  if (days <= 1) return 8;
+  if (days <= 3) return 5;
+  if (days <= 7) return 2;
+  return 0;
+}
+
+function uniqueItems(items) {
+  const titles = new Set();
+  const urls = new Set();
+  return items.filter((item) => {
+    const title = titleKey(item.title);
+    if (!title || titles.has(title) || urls.has(item.url)) return false;
+    titles.add(title);
+    urls.add(item.url);
+    return true;
+  });
+}
+
+function topicItems(category, sort) {
+  const key = `${category}_briefs`;
+  const items = radarReports.flatMap(({ date, report }) =>
+    (report[key] ?? []).map((brief) => ({ ...brief, date })),
+  );
+  const sorted = [...items].sort((a, b) => {
+    if (sort === "latest") {
+      return b.date.localeCompare(a.date) || Number(b.importance) - Number(a.importance);
+    }
+    const aScore = Number(a.importance) * 0.7 + freshnessScore(a.date) * 0.3;
+    const bScore = Number(b.importance) * 0.7 + freshnessScore(b.date) * 0.3;
+    return bScore - aScore || b.date.localeCompare(a.date);
+  });
+  return uniqueItems(sorted);
+}
+
+function renderTopicCard(item, className = "") {
+  const importance = Number(item.importance) || 0;
+  const rank = importance >= 9 ? "high" : importance >= 7 ? "mid" : "low";
+  const summaryLines = String(item.summary ?? "")
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .filter(Boolean);
+  const summary = summaryLines.length >= 2
+    ? `<div class="brief-summary brief-summary-lines">${summaryLines.map((line) => `<p>${esc(line)}</p>`).join("")}</div>`
+    : `<p class="brief-summary">${esc(item.summary)}</p>`;
+  return `<article class="brief ${className}">
+  <div class="brief-head"><span class="brief-source">${esc(item.date)} · ${esc(item.source)}</span><span class="brief-rank ${rank}">${importance}/10</span></div>
+  <h3 class="brief-title"><a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer">${esc(item.title)}</a></h3>
+  ${summary}
+</article>`;
+}
+
+function renderHomeTopicSection(category) {
+  const config = TOPIC_CONFIG[category];
+  const items = topicItems(category, "combined");
+  if (items.length === 0) return "";
+  return `<section class="digest-category" data-home-section="${category}" data-home-limit="${config.defaultLimit}">
+  <header class="category-header">
+    <h2 class="category-title"><button class="category-link" data-open-tab="${category}">${config.label}</button><span class="home-limit"><button aria-label="少显示一条" data-limit-delta="-1">−</button><span class="home-limit-value">${config.defaultLimit}</span><button aria-label="多显示一条" data-limit-delta="1">+</button></span></h2>
+  </header>
+  <div class="brief-list">${items.map((item) => renderTopicCard(item, "home-item")).join("\n")}</div>
+</section>`;
+}
+
+function renderTopicPanel(category) {
+  const config = TOPIC_CONFIG[category];
+  const combined = topicItems(category, "combined");
+  const latestItems = topicItems(category, "latest");
+  return `<section class="topic-panel">
+  <nav class="topic-toolbar" aria-label="${config.label}排序">
+    <button class="topic-sort active" data-topic-sort="combined">综合</button>
+    <button class="topic-sort" data-topic-sort="latest">最新</button>
+  </nav>
+  <div class="topic-sort-content active" data-topic-sort-content="combined"><div class="brief-list">${combined.map((item) => renderTopicCard(item)).join("\n")}</div></div>
+  <div class="topic-sort-content" data-topic-sort-content="latest"><div class="brief-list">${latestItems.map((item) => renderTopicCard(item)).join("\n")}</div></div>
+</section>`;
+}
+
+function renderHomeDigest() {
+  const latestReport = reports.find(({ date }) => date === latest)?.report ?? {};
+  return `${latestReport.hero_headline ? `<section class="hero-card"><span class="hero-eyebrow">当前焦点</span><p class="hero-headline">${esc(latestReport.hero_headline)}</p></section>` : ""}
+  ${latestReport.daily_overview ? `<section class="overview-card"><span class="eyebrow">动态概览</span><p class="overview-text">${esc(latestReport.daily_overview)}</p></section>` : ""}
+  ${renderHomeTopicSection("tech")}
+  ${renderHomeTopicSection("finance")}
+  ${renderHomeTopicSection("politics")}
+  ${latestReport.editor_note ? `<section class="editor-card"><span class="eyebrow">编辑短评</span><p class="editor-text">${esc(latestReport.editor_note)}</p></section>` : ""}
+  ${Array.isArray(latestReport.keywords) && latestReport.keywords.length ? `<div class="keywords">${latestReport.keywords.map((keyword) => `<span class="keyword">${esc(keyword)}</span>`).join("")}</div>` : ""}`;
+}
+
 function renderRollingReview() {
   const { weekly, trends } = buildRollingReview(radarReports, latest);
   if (weekly.length === 0 && trends.length === 0) return "";
@@ -128,7 +231,11 @@ const latestHtml = fs
   .replace(
     '<section class="panel active" data-panel="digest">',
     `${rollingReviewHtml ? `<section class="panel" data-panel="review">${rollingReviewHtml}</section>\n  ` : ""}<section class="panel active" data-panel="digest">`,
-  );
+  )
+  .replace(/<!-- HOME_DIGEST -->[\s\S]*?<!-- \/HOME_DIGEST -->/, renderHomeDigest())
+  .replace(/<!-- HOME_CATEGORY:tech -->[\s\S]*?<!-- \/HOME_CATEGORY:tech -->/, renderTopicPanel("tech"))
+  .replace(/<!-- HOME_CATEGORY:finance -->[\s\S]*?<!-- \/HOME_CATEGORY:finance -->/, renderTopicPanel("finance"))
+  .replace(/<!-- HOME_CATEGORY:politics -->[\s\S]*?<!-- \/HOME_CATEGORY:politics -->/, renderTopicPanel("politics"));
 fs.writeFileSync(path.join(ROOT, "index.html"), latestHtml, "utf8");
 console.log(`[build-site] index.html  ← ${latest}/${latest}.html`);
 

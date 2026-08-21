@@ -32,6 +32,38 @@ import { todayKey } from "../lib/utils";
 
 const OUTPUT_DIR = "daily_reports";
 
+function loadSavedArticles(file: string): ArticleInput[] {
+  if (!fs.existsSync(file)) return [];
+  try {
+    const data = JSON.parse(fs.readFileSync(file, "utf8")) as {
+      articles?: Array<Omit<ArticleInput, "publishedAt"> & { publishedAt?: string }>;
+    };
+    return (data.articles ?? []).map((article) => ({
+      ...article,
+      publishedAt: article.publishedAt ? new Date(article.publishedAt) : undefined,
+    }));
+  } catch (error) {
+    console.warn(
+      `[daily] could not restore earlier articles: ${error instanceof Error ? error.message : String(error)}`,
+    );
+    return [];
+  }
+}
+
+function mergeNewArticles(
+  existing: ArticleInput[],
+  incoming: ArticleInput[],
+): ArticleInput[] {
+  const seenUrls = new Set(existing.map((article) => article.url));
+  const newArticles: ArticleInput[] = [];
+  for (const article of incoming) {
+    if (seenUrls.has(article.url)) continue;
+    seenUrls.add(article.url);
+    newArticles.push(article);
+  }
+  return [...existing, ...newArticles];
+}
+
 async function fetchAll(): Promise<ArticleInput[]> {
   const articles: ArticleInput[] = [];
   const enabled = sources.filter((s) => s.enabled !== false);
@@ -244,6 +276,11 @@ async function main() {
   validateBackendCredentials();
 
   const date = todayKey();
+  const dateDir = path.join(OUTPUT_DIR, date);
+  const base = path.join(dateDir, date);
+  const savedArticles = loadSavedArticles(`${base}-articles.json`).filter(
+    (article) => article.publishedAt && todayKey(article.publishedAt) === date,
+  );
   console.log(`[daily] ${date} — fetching sources…\n`);
   const articles = await fetchAll();
   console.log(`\n[daily] total articles: ${articles.length}`);
@@ -251,13 +288,32 @@ async function main() {
     throw new Error("no articles fetched — aborting");
   }
 
+  // A date-keyed archive must contain only news published on that date.
+  // Keep items without a publication time, and late-discovered older news,
+  // out of this report rather than assigning them a misleading archive day.
+  const incomingArticles = articles.filter(
+    (article) => article.publishedAt && todayKey(article.publishedAt) === date,
+  );
+  const datedArticles = mergeNewArticles(savedArticles, incomingArticles);
+  const newCount = datedArticles.length - savedArticles.length;
+  console.log(
+    `[daily] ${datedArticles.length} articles published on ${date} (${newCount} new, ${savedArticles.length} already collected)`,
+  );
+  if (datedArticles.length === 0) {
+    throw new Error(`no articles published on ${date} — aborting`);
+  }
+  if (newCount === 0 && savedArticles.length > 0) {
+    console.log("[daily] no new same-day articles — keeping the current report");
+    return;
+  }
+
   // Enrich GH Trending, papers, finance news, and politics with summaries.
-  await enrichGhTrending(articles);
-  await enrichTrendingPapers(articles);
-  await enrichFinanceNews(articles);
-  await enrichPolitics(articles);
-  await enrichAiNews(articles);
-  await enrichXViral(articles);
+  await enrichGhTrending(datedArticles);
+  await enrichTrendingPapers(datedArticles);
+  await enrichFinanceNews(datedArticles);
+  await enrichPolitics(datedArticles);
+  await enrichAiNews(datedArticles);
+  await enrichXViral(datedArticles);
 
   // Trading signals: Yahoo fetch + indicators + commentary. Non-fatal —
   // if it errors, we still ship the news digest.
@@ -273,21 +329,19 @@ async function main() {
 
   console.log(`[daily] generating digest with ${getModelTag()}…`);
   const t0 = Date.now();
-  const { report } = await generateDailyReport(articles);
+  const { report } = await generateDailyReport(datedArticles);
   if (trading) report.trading = trading;
   console.log(`[daily] digest ready in ${((Date.now() - t0) / 1000).toFixed(1)}s`);
 
-  const dateDir = path.join(OUTPUT_DIR, date);
   fs.mkdirSync(dateDir, { recursive: true });
-  const base = path.join(dateDir, date);
-  const raw = groupRaw(articles, sources);
+  const raw = groupRaw(datedArticles, sources);
   fs.writeFileSync(`${base}.json`, JSON.stringify(report, null, 2), "utf8");
   // Sidecar with all fetched articles + LLM-attached summary, so
   // scripts/render.ts can rebuild HTML/MD for UI iteration without
   // re-fetching or re-calling the LLM.
   fs.writeFileSync(
     `${base}-articles.json`,
-    JSON.stringify({ date, articles }, null, 2),
+    JSON.stringify({ date, articles: datedArticles }, null, 2),
     "utf8",
   );
   fs.writeFileSync(`${base}.html`, renderHtml(report, raw, date), "utf8");

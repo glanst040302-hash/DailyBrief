@@ -28,7 +28,8 @@ const TEXTS_ZH = {
   catTech: "触觉产业链",
   catFinance: "机器人与具身智能",
   catPolitics: "产业关键变化",
-  catDigest: "今日重点",
+  catDigest: "重点动态",
+  currentFocus: "当前焦点",
   catTrading: "市场行情",
   catCommunity: "社区讨论",
   subAiNews: "触觉情报",
@@ -66,7 +67,7 @@ const TEXTS_ZH = {
   trendBullish: "多头",
   trendBearish: "空头",
   trendNeutral: "中性",
-  mdTodayOverview: "今日总览",
+  mdTodayOverview: "动态概览",
   mdEditorNote: "编辑短评",
   mdTodayKeywords: "今日关键词",
   mdImportance: "重要度",
@@ -78,7 +79,8 @@ const TEXTS_EN: typeof TEXTS_ZH = {
   catTech: "Tactile Value Chain",
   catFinance: "Robotics & Embodied AI",
   catPolitics: "Industry Shifts",
-  catDigest: "Daily Focus",
+  catDigest: "Priority Feed",
+  currentFocus: "Current Focus",
   catTrading: "Markets",
   catCommunity: "Community",
   subAiNews: "Tactile Intelligence",
@@ -117,7 +119,7 @@ const TEXTS_EN: typeof TEXTS_ZH = {
   trendBullish: "Bullish",
   trendBearish: "Bearish",
   trendNeutral: "Neutral",
-  mdTodayOverview: "Today's Overview",
+  mdTodayOverview: "Dynamic Overview",
   mdEditorNote: "Editor's Note",
   mdTodayKeywords: "Keywords",
   mdImportance: "Importance",
@@ -535,13 +537,20 @@ function renderRawCategoryPanel(
 function renderBrief(b: BriefItem): string {
   const importance = Number.isFinite(b.importance) ? b.importance : 0;
   const rankClass = importance >= 9 ? "high" : importance >= 7 ? "mid" : "low";
+  const summaryLines = String(b.summary ?? "")
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .filter(Boolean);
+  const summary = summaryLines.length >= 2
+    ? `<div class="brief-summary brief-summary-lines">${summaryLines.map((line) => `<p>${escapeHtml(line)}</p>`).join("")}</div>`
+    : `<p class="brief-summary">${escapeHtml(b.summary)}</p>`;
   return `<article class="brief">
   <div class="brief-head">
     <span class="brief-source">${escapeHtml(b.source)}</span>
     <span class="brief-rank ${rankClass}">${importance}/10</span>
   </div>
   <h3 class="brief-title"><a href="${escapeHtml(b.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(b.title)}</a></h3>
-  <p class="brief-summary">${escapeHtml(b.summary)}</p>
+  ${summary}
 </article>`;
 }
 
@@ -559,7 +568,7 @@ function renderDigestSection(title: string, briefs: BriefItem[]): string {
 function renderDigest(report: DailyReport): string {
   return `${
     report.hero_headline
-      ? `<section class="hero-card"><span class="hero-eyebrow">${STR.catDigest}</span><p class="hero-headline">${escapeHtml(report.hero_headline)}</p></section>`
+      ? `<section class="hero-card"><span class="hero-eyebrow">${STR.currentFocus}</span><p class="hero-headline">${escapeHtml(report.hero_headline)}</p></section>`
       : ""
   }
   ${
@@ -734,6 +743,67 @@ export function renderHtml(
     line-height: 1.65;
     color: var(--fg-soft);
   }
+  .category-link {
+    appearance: none;
+    background: none;
+    border: none;
+    color: var(--fg);
+    cursor: pointer;
+    font: inherit;
+    font-weight: inherit;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+  }
+  .category-link:hover { color: var(--link); }
+  .home-limit {
+    align-items: center;
+    display: inline-flex;
+    gap: 0.2rem;
+    margin-left: 0.45rem;
+  }
+  .home-limit button {
+    align-items: center;
+    background: var(--card);
+    border: none;
+    border-radius: 999px;
+    color: var(--muted);
+    cursor: pointer;
+    display: inline-flex;
+    font: inherit;
+    font-size: 0.85rem;
+    height: 1.4rem;
+    justify-content: center;
+    padding: 0;
+    width: 1.4rem;
+  }
+  .home-limit button:hover { color: var(--fg); }
+  .home-limit-value {
+    color: var(--muted);
+    font-size: 0.78rem;
+    min-width: 1.1rem;
+    text-align: center;
+  }
+  .home-item.is-hidden { display: none; }
+  .topic-toolbar {
+    align-items: center;
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+  }
+  .topic-sort {
+    background: none;
+    border: none;
+    color: var(--muted);
+    cursor: pointer;
+    font: inherit;
+    padding: 0.2rem 0;
+  }
+  .topic-sort.active { color: var(--fg); font-weight: 600; }
+  .topic-sort-content { display: none; }
+  .topic-sort-content.active { display: block; }
 
   /* ===== primary tabs ===== */
   .tabs {
@@ -851,6 +921,8 @@ export function renderHtml(
     font-size: 0.86rem;
     line-height: 1.55;
   }
+  .brief-summary-lines { display: grid; gap: 0.28rem; }
+  .brief-summary-lines p { margin: 0; }
 
   .editor-card {
     background: var(--card);
@@ -1267,17 +1339,17 @@ export function renderHtml(
   </nav>
 
   <section class="panel active" data-panel="digest">
-    ${renderDigest(report)}
+    <!-- HOME_DIGEST -->${renderDigest(report)}<!-- /HOME_DIGEST -->
   </section>
   <section class="panel" data-panel="tech">
-    ${renderRawCategoryPanel("tech", techMainSubs)}
+    <!-- HOME_CATEGORY:tech -->${renderRawCategoryPanel("tech", techMainSubs)}<!-- /HOME_CATEGORY:tech -->
   </section>
   ${trading ? `<section class="panel" data-panel="trading">${renderTradingPanel(trading)}</section>` : ""}
   <section class="panel" data-panel="politics">
-    ${renderRawCategoryPanel("politics", raw.politics)}
+    <!-- HOME_CATEGORY:politics -->${renderRawCategoryPanel("politics", raw.politics)}<!-- /HOME_CATEGORY:politics -->
   </section>
   <section class="panel" data-panel="finance">
-    ${renderRawCategoryPanel("finance", raw.finance)}
+    <!-- HOME_CATEGORY:finance -->${renderRawCategoryPanel("finance", raw.finance)}<!-- /HOME_CATEGORY:finance -->
   </section>
   ${techCommunitySubs.length > 0 ? `<section class="panel" data-panel="community">
     ${renderRawCategoryPanel("tech", techCommunitySubs)}
@@ -1326,6 +1398,52 @@ export function renderHtml(
       subContent.querySelectorAll('.source-content').forEach(function (p) {
         p.classList.toggle('active', p.dataset.sourceContent === src);
       });
+    });
+  });
+  document.querySelectorAll('[data-open-tab]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var target = btn.dataset.openTab;
+      var tab = document.querySelector('.tabs > .tab[data-tab="' + target + '"]');
+      if (tab) tab.click();
+    });
+  });
+  document.querySelectorAll('.topic-sort').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var panel = btn.closest('.topic-panel');
+      if (!panel) return;
+      var sort = btn.dataset.topicSort;
+      panel.querySelectorAll('.topic-sort').forEach(function (item) {
+        item.classList.toggle('active', item === btn);
+      });
+      panel.querySelectorAll('.topic-sort-content').forEach(function (item) {
+        item.classList.toggle('active', item.dataset.topicSortContent === sort);
+      });
+    });
+  });
+  document.querySelectorAll('[data-limit-delta]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var section = btn.closest('[data-home-section]');
+      if (!section) return;
+      var key = section.dataset.homeSection;
+      var items = Array.prototype.slice.call(section.querySelectorAll('.home-item'));
+      var fallback = Number(section.dataset.homeLimit) || 2;
+      var current = Number(localStorage.getItem('daily-brief-limit-' + key)) || fallback;
+      var next = Math.max(1, Math.min(items.length, current + Number(btn.dataset.limitDelta)));
+      localStorage.setItem('daily-brief-limit-' + key, String(next));
+      section.querySelector('.home-limit-value').textContent = String(next);
+      items.forEach(function (item, index) {
+        item.classList.toggle('is-hidden', index >= next);
+      });
+    });
+  });
+  document.querySelectorAll('[data-home-section]').forEach(function (section) {
+    var key = section.dataset.homeSection;
+    var items = Array.prototype.slice.call(section.querySelectorAll('.home-item'));
+    var fallback = Number(section.dataset.homeLimit) || 2;
+    var current = Math.max(1, Math.min(items.length, Number(localStorage.getItem('daily-brief-limit-' + key)) || fallback));
+    section.querySelector('.home-limit-value').textContent = String(current);
+    items.forEach(function (item, index) {
+      item.classList.toggle('is-hidden', index >= current);
     });
   });
   // Trading panel: asset-group sub-tabs (US/crypto/china/commodity)

@@ -3,8 +3,16 @@ import "./_env";
 import fs from "node:fs";
 import path from "node:path";
 
-import type { ArticleInput, DailyReport } from "../lib/ai/pipeline";
-import { groupRaw, renderHtml, renderMarkdown } from "../lib/output/render";
+import {
+  enforceReportBudget,
+  type ArticleInput,
+  type DailyReport,
+} from "../lib/ai/pipeline";
+import {
+  groupRaw,
+  renderHtml,
+  renderMarkdown,
+} from "../lib/output/render";
 import { sources } from "../lib/sources/registry";
 import { todayKey } from "../lib/utils";
 
@@ -53,9 +61,15 @@ async function main() {
   const date = process.argv[2] || todayKey();
   console.log(`[render] re-rendering ${date} from cached data…`);
 
-  const report = loadReport(date);
-  const articles = loadArticles(date);
+  let report = loadReport(date);
+  const articles = loadArticles(date).filter(
+    (article) => article.publishedAt && todayKey(article.publishedAt) === date,
+  );
   console.log(`[render] loaded ${articles.length} articles + report`);
+
+  // Old caches may contain articles gathered on a different day. Rebuilding
+  // an archive page applies the same source-publication-date rule as a new run.
+  report = enforceReportBudget(report, new Set(articles.map((article) => article.url)));
 
   const raw = groupRaw(articles, sources);
   const dateDir = path.join(OUTPUT_DIR, date);

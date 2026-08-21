@@ -1,62 +1,61 @@
 {
-  "hero_headline": "帕西尼发布第四代触觉传感器与全身电子皮肤",
-  "daily_overview": "今日触觉传感产业密集进展：帕西尼以自研芯片推出第四代触觉传感器与全身电子皮肤，途见科技发布柔性数据手套并构建具身触觉生态；学界则带来分辨率提升10倍的假肢电子皮肤。机器人触觉正从手部走向全身，无人机与辅助机器人同步扩大真实部署，智能化进程加速。",
+  "hero_headline": "国产触觉传感新品密集发布，机器人全身触觉提速",
+  "daily_overview": "世界机器人大会开幕，触觉传感成焦点。帕西尼展示第四代触觉传感器与全身电子皮肤，途见科技推出柔性触觉数据手套并启动开发者计划。研究界发布10倍分辨率假肢电子皮肤，遥尔泰针织手套实现人手触觉捕捉。自主轮椅、消费级外骨骼加速具身智能商业化，感知到行动闭环成形。",
   "tech_briefs": [
     {
       "title": "帕西尼发布第四代触觉传感器与全身电子皮肤",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5a0JLUUZEXzM2Zm9OT1B4cTlNN05qMlRFS3lJTmdCRGlSOW9GTDNyOHRhUklweGp0S3dYYjhjdU9NUmk3NjJXdjNMVEJoRWdFMXROWTY4aTR3b05fdGZiamUyYjhaQzhicEhjRUJ3cmlwTzJPeDY0N2tOR3A?oc=5",
       "source": "Google News｜触觉产业链",
-      "summary": "帕西尼第四代触觉传感器与全身电子皮肤在世界机器人大会亮相。\n产品从芯片到感知全部自研，强化机器人全身触觉感知。\n触觉传感从手部走向全身，为具身智能操作闭环提供关键感知基础。（多家报道）",
+      "summary": "帕西尼于世界机器人大会展出第四代触觉传感器与全身电子皮肤，核心芯片自研。\n此举将机器人触觉从指尖扩展到全身，提升复杂操作与环境适应能力。\n为具身智能提供更完整触觉数据入口，助力感知-决策-行动闭环。（多家报道）",
       "importance": 9
     },
     {
-      "title": "途见科技发布柔性触觉数据采集手套并启动开发者计划",
+      "title": "途见科技发布柔性触觉数据采集手套及开发者计划",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVBHbGt6RWJIUG5Ndnowckhid0lLSGFLRE5oa2EzVFpEd0kyY2RwWk9fUkxTSmI4bTEzZVFfYkFnN3pOZmVvQ1pMM2ItWXVmYnNSVzN1YTc3NTVQb2ItdHhTVExHZElkbEk5TmZ2QzNZZDRtd283dmdwZjNKdFk2cVpVS19sN3ZSMUxmcQ?oc=5",
       "source": "Google News｜触觉产业链",
-      "summary": "途见科技发布柔性触觉数据采集手套，同步推出仿生电子皮肤。\n公司发起具身触觉生态开发者计划，推动数据采集标准化。\n高质量触觉数据是机器人学习的基础，开发者生态加速规模落地。（多家报道）",
+      "summary": "途见科技发布柔性触觉数据采集手套，并启动仿生电子皮肤与具身触觉生态开发者计划。\n该手套可采集人手精细动作的触觉数据，用于机器人技能学习与遥操作。\n触觉数据标准化采集链条进一步完善，有望降低具身智能训练成本。（多家报道）",
       "importance": 8
     },
     {
-      "title": "高分辨率电子皮肤让假肢感知温度与压力提升10倍",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTZ1a0NSa2p3LW9VR29YaVJZQ2piekh2Mjk4TUtnTjg4anNyQTdtQ3d5UFlaOTBWQlVlMHVZRi1XUFpYOGdkM1gwcHN2cTdfMWFVUU1HUlJXWVp1U1o2WE9RcDN0eFdqSFhCMUpvNFZSZDV2Um11aEliaG5yOEJKR2pDbVJwb280VXJreVdSREJ2VHhx?oc=5",
+      "title": "研究称电子皮肤假肢感知分辨率提升10倍",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWDk2UXRVNkI2NUxmMm92dzAtU1RlUlVBYi1iMnlEcVg0QTJaYkhYaUcwUmhlR3JIWlY1N3BmMlh2VHVvOU1NallUamVZLU5GWF9kMzIxNWM1Mk9JX1ZnZ0tLd21qZDZWM19KWlJ5TXo1dDYzeEZDZnRfTnlGZ1JxNUxxdWwta2E2b3BqYlVjcmRscE5EeXZXcGh4QW43WEhpbGZ0ZDRKSHVyUTlwSGtpSjdZLTlNVTB5ODlCM2s2ZHNLUmsydnNnRmtmWk95VmMyaVI5SVFQMjdCMmM?oc=5",
       "source": "Google News｜触觉传感器",
-      "summary": "研究团队开发出高分辨率电子皮肤，用于假肢的温度与压力感知。\n传感分辨率较此前提升10倍，更接近真实皮肤触觉。\n假肢与机器人灵巧手均有望获得更精细的触觉反馈能力。（多家报道）",
-      "importance": 7
+      "summary": "研究团队开发出高分辨率电子皮肤，假肢可同时感知温度与压力，分辨率较传统方案提升10倍。\n为个性化假肢提供更真实触觉反馈，提升用户佩戴体验与控制精度。\n柔性传感与多模态读出进步，为机器人电子皮肤提供可迁移技术路径。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "遥乐科技推集成针织数据手套 采集人手运动与触觉",
+      "title": "遥尔泰发布针织集成数据手套实现人手触觉捕捉",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92eUcwWWh2Q1J4UVRMT0NoNWNjS0o4NVpMYTBTWHBzeHUxV2YwSGR1aWF1SU5yTjZFV2w1cVVSQ2o4U1hHUmdEY2sxWVNkSTBxUm0w?oc=5",
       "source": "Google News｜触觉传感器",
-      "summary": "遥乐科技推出集成式针织数据手套，可捕捉真实人手运动与触觉。\n该产品面向机器人数据采集与遥操作场景，提升训练数据质量。\n触觉数据采集工具持续丰富，为具身智能感知—决策闭环提供输入。",
+      "summary": "遥尔泰发布一体化针织数据手套，宣称可恢复真实人手动作的触觉捕捉能力。\n面向手部动作捕捉与触觉数据采集场景，补充现有视觉动捕方案不足。\n触觉数据采集工具多元化，利好灵巧手训练与远程操控应用。",
       "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "亚马逊计划2026年底将无人机配送扩至近500城",
-      "url": "https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/",
+      "title": "智能轮椅初创ATDev披露机械臂协作进展",
+      "url": "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/",
       "source": "The Robot Report",
-      "summary": "亚马逊宣布Prime Air无人机可配送多数5磅以下小型商品。\n到2026年底配送网络扩展至近500个城市，规模显著扩大。\n机器人配送规模化推进，反映自动化系统进入广泛真实部署阶段。",
+      "summary": "ATDev披露自主轮椅研发进展，轮椅集成机械臂可完成取物、抬举等任务。\n该产品面向行动障碍人群，将机器人操作能力与移动辅助结合。\n体现具身智能在辅助交通工具中的商业化路径，感知与操作闭环逐步成熟。",
       "importance": 6
     },
     {
-      "title": "ATDev展示自主轮椅机械臂研发进展",
-      "url": "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/",
-      "source": "The Robot Report",
-      "summary": "ATDev开发配备协调机械臂的电动轮椅，可完成取物与抬举任务。\n自主轮椅与机械臂结合，扩展行动障碍者的操作能力。\n辅助机器人产品线细化，机械臂与感知系统集成成为关键。",
+      "title": "程天科技在大会发布消费级外骨骼新品",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOVhxR1dPcVpLOVhKSGdlREo1a0QyZUtTcFhJbkVKMXF0dGdYMmdKa0ZFbVEtOGVzNllhdlhkazNWSEZZS05hQkxlZWZvVmVfQWwtcWp4ZGM3SXlRTkcwU3JuQXZPa21HOVFhQm9PN1pfakhQNlR6cWhzRU1fVl9jVHpR?oc=5",
+      "source": "Google News｜世界机器人大会",
+      "summary": "程天科技在世界机器人大会发布消费级外骨骼新品，面向日常行走辅助场景。\n消费级定价有望扩大外骨骼市场规模，验证轻量化执行器与力控方案。\n可穿戴机器人与人体运动感知持续融合，为触觉反馈应用提供新载体。",
       "importance": 5
     }
   ],
   "politics_briefs": [],
-  "editor_note": "触觉传感从单点走向全身，数据采集与生态构建成竞争焦点。国产厂商自研芯片与柔性工艺并行，学术突破加速落地，机器人感知短板有望补齐。",
+  "editor_note": "触觉传感正从单点测量走向全身覆盖，数据手套与电子皮肤加速产业化。机器人能力提升之外，数据标准与生态协同将成为下一阶段竞争焦点。",
   "keywords": [
     "触觉传感器",
     "电子皮肤",
     "数据手套",
-    "帕西尼",
-    "途见科技",
     "具身智能",
-    "机器人",
-    "假肢"
+    "世界机器人大会",
+    "假肢传感",
+    "外骨骼"
   ]
 }

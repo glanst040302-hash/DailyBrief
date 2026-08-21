@@ -49,6 +49,16 @@ const reports = dates.slice(0, 30).flatMap((date) => {
   }
 });
 
+const topicArticleReports = dates.slice(0, 30).flatMap((date) => {
+  const articlesPath = path.join(ROOT, date, `${date}-articles.json`);
+  try {
+    const payload = JSON.parse(fs.readFileSync(articlesPath, "utf8"));
+    return (payload.articles ?? []).map((article) => ({ ...article, reportDate: date }));
+  } catch {
+    return [];
+  }
+});
+
 const RADAR_SOURCE_PREFIXES = [
   "Google News｜触觉",
   "arXiv｜触觉",
@@ -89,9 +99,9 @@ function esc(value) {
 }
 
 const TOPIC_CONFIG = {
-  tech: { label: "触觉产业链", defaultLimit: 4 },
-  finance: { label: "机器人与具身智能", defaultLimit: 2 },
-  politics: { label: "产业关键变化", defaultLimit: 2 },
+  tech: { label: "触觉产业链", defaultLimit: 4, maxItems: 20 },
+  finance: { label: "机器人与具身智能", defaultLimit: 2, maxItems: 20 },
+  politics: { label: "产业关键变化", defaultLimit: 2, maxItems: 20 },
 };
 
 function titleKey(title) {
@@ -123,22 +133,37 @@ function uniqueItems(items) {
 
 function topicItems(category, sort) {
   const key = `${category}_briefs`;
-  const items = radarReports.flatMap(({ date, report }) =>
-    (report[key] ?? []).map((brief) => ({ ...brief, date })),
+  const editorialScores = new Map(
+    radarReports.flatMap(({ date, report }) =>
+      (report[key] ?? []).map((brief) => [brief.url, { importance: Number(brief.importance), summary: brief.summary, date }]),
+    ),
   );
+  const items = topicArticleReports
+    .filter((article) => article.category === category)
+    .map((article) => {
+      const editorial = editorialScores.get(article.url);
+      const date = String(article.publishedAt ?? article.reportDate).slice(0, 10) || article.reportDate;
+      return {
+        ...article,
+        date,
+        summary: editorial?.summary ?? article.excerpt ?? "",
+        importance: editorial?.importance,
+      };
+    });
   const sorted = [...items].sort((a, b) => {
     if (sort === "latest") {
-      return b.date.localeCompare(a.date) || Number(b.importance) - Number(a.importance);
+      return b.date.localeCompare(a.date) || (Number(b.importance) || 0) - (Number(a.importance) || 0);
     }
-    const aScore = Number(a.importance) * 0.7 + freshnessScore(a.date) * 0.3;
-    const bScore = Number(b.importance) * 0.7 + freshnessScore(b.date) * 0.3;
+    const aScore = (Number(a.importance) || 5) * 0.7 + freshnessScore(a.date) * 0.3;
+    const bScore = (Number(b.importance) || 5) * 0.7 + freshnessScore(b.date) * 0.3;
     return bScore - aScore || b.date.localeCompare(a.date);
   });
-  return uniqueItems(sorted);
+  return uniqueItems(sorted).slice(0, TOPIC_CONFIG[category].maxItems);
 }
 
 function renderTopicCard(item, className = "") {
-  const importance = Number(item.importance) || 0;
+  const importance = Number(item.importance);
+  const hasImportance = Number.isFinite(importance) && importance > 0;
   const rank = importance >= 9 ? "high" : importance >= 7 ? "mid" : "low";
   const summaryLines = String(item.summary ?? "")
     .replace(/(?:^|\s*)(?:发生了什么|为什么重要|与触觉的关系|与触觉关系|与机器人方向的关系|与触觉\/公司方向的关系)\s*[：:｜|]?\s*/g, "\n")
@@ -149,7 +174,7 @@ function renderTopicCard(item, className = "") {
     ? `<div class="brief-summary brief-summary-lines">${summaryLines.map((line) => `<p>${esc(line)}</p>`).join("")}</div>`
     : `<p class="brief-summary">${esc(item.summary)}</p>`;
   return `<article class="brief ${className}">
-  <div class="brief-head"><span class="brief-source">${esc(item.date)} · ${esc(item.source)}</span><span class="brief-rank ${rank}">${importance}/10</span></div>
+  <div class="brief-head"><span class="brief-source">${esc(item.date)} · ${esc(item.source)}</span>${hasImportance ? `<span class="brief-rank ${rank}">${importance}/10</span>` : ""}</div>
   <h3 class="brief-title"><a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer">${esc(item.title)}</a></h3>
   ${summary}
 </article>`;

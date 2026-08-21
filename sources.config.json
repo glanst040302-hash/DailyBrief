@@ -42,6 +42,16 @@
     "keywords": ["robot", "automation", "manipulation", "gripper", "humanoid", "dexterous", "physical AI"]
   },
   {
+    "id": "wrc-news",
+    "name": "Google News｜世界机器人大会",
+    "type": "rss",
+    "url": "https://news.google.com/rss/search?q=%28%22World+Robot+Conference%22+OR+%22%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%22%29+when%3A14d&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
+    "category": "finance",
+    "subcategory": "robotics",
+    "enabled": true,
+    "locales": ["zh"]
+  },
+  {
     "id": "ieee-robotics",
     "name": "IEEE Spectrum｜Robotics",
     "type": "rss",

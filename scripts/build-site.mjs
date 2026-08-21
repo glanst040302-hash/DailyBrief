@@ -256,6 +256,12 @@ function renderRollingReview() {
 }
 
 const rollingReviewHtml = renderRollingReview();
+function replaceTopicTabCount(html, category) {
+  const count = topicItems(category, "combined").length;
+  const pattern = new RegExp(`(<button class="tab" data-tab="${category}">[^<]*<span class="count">)\\d+`, "u");
+  return html.replace(pattern, `$1${count}`);
+}
+
 const latestHtml = fs
   .readFileSync(latestPath, "utf8")
   .replace(/href="\.\.\/archive\.html"/g, 'href="./archive.html"')
@@ -271,7 +277,11 @@ const latestHtml = fs
   .replace(/<!-- HOME_CATEGORY:tech -->[\s\S]*?<!-- \/HOME_CATEGORY:tech -->/, renderTopicPanel("tech"))
   .replace(/<!-- HOME_CATEGORY:finance -->[\s\S]*?<!-- \/HOME_CATEGORY:finance -->/, renderTopicPanel("finance"))
   .replace(/<!-- HOME_CATEGORY:politics -->[\s\S]*?<!-- \/HOME_CATEGORY:politics -->/, renderTopicPanel("politics"));
-fs.writeFileSync(path.join(ROOT, "index.html"), latestHtml, "utf8");
+const latestHtmlWithTopicCounts = ["tech", "finance", "politics"].reduce(
+  (html, category) => replaceTopicTabCount(html, category),
+  latestHtml,
+);
+fs.writeFileSync(path.join(ROOT, "index.html"), latestHtmlWithTopicCounts, "utf8");
 console.log(`[build-site] index.html  ← ${latest}/${latest}.html`);
 
 const milestonePath = path.join("data", "intelligence-milestones.json");

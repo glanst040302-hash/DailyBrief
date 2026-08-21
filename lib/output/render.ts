@@ -538,6 +538,7 @@ function renderBrief(b: BriefItem): string {
   const importance = Number.isFinite(b.importance) ? b.importance : 0;
   const rankClass = importance >= 9 ? "high" : importance >= 7 ? "mid" : "low";
   const summaryLines = String(b.summary ?? "")
+    .replace(/(?:^|\s*)(?:发生了什么|为什么重要|与触觉(?:关系)?|与机器人方向的关系|与触觉\/公司方向的关系)\s*[：:｜|]?\s*/g, "\n")
     .split(/\r?\n/)
     .map((line) => line.trim())
     .filter(Boolean);

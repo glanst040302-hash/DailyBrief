@@ -23,7 +23,7 @@ type BriefItem = {
   title: string,        // 改写后的中文标题（≤25字，避免标题党）
   url: string,          // 必须严格从输入条目中选取，禁止编造
   source: string,       // 输入中给出的 source 字段原样回填
-  summary: string,      // 三行：发生了什么、为什么重要、与触觉关系
+  summary: string,      // 三行短句，不写行首标题
   importance: number    // 1-10
 };
 
@@ -40,7 +40,7 @@ type BriefItem = {
 10. 优先原始证据；媒体转述没有新增事实时不选。
 11. 如某分类无可用条目，对应 briefs 数组返回 []。
 12. importance 表示“编辑优先级”：主观判断这条是否值得读者优先读。触觉及上下游优先，同时保留会实质影响智能化进程的关键变化；不要机械套用细项评分表。
-13. summary 用三行简短写明：发生了什么、为什么重要、与触觉关系。`;
+13. summary 用三行短句依次写事实、意义、与触觉或智能化主线的关系；不要写“发生了什么”“为什么重要”等行首标题。`;
 
 export const SYSTEM_PROMPT_DIGEST_EN = `You are a rigorous industry-intelligence editor tracking global intelligent systems, with tactile sensing and its value chain as the priority. The reader will read at most 8 items per day.
 

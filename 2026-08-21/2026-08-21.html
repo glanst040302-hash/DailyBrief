@@ -120,6 +120,67 @@
     line-height: 1.65;
     color: var(--fg-soft);
   }
+  .category-link {
+    appearance: none;
+    background: none;
+    border: none;
+    color: var(--fg);
+    cursor: pointer;
+    font: inherit;
+    font-weight: inherit;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+  }
+  .category-link:hover { color: var(--link); }
+  .home-limit {
+    align-items: center;
+    display: inline-flex;
+    gap: 0.2rem;
+    margin-left: 0.45rem;
+  }
+  .home-limit button {
+    align-items: center;
+    background: var(--card);
+    border: none;
+    border-radius: 999px;
+    color: var(--muted);
+    cursor: pointer;
+    display: inline-flex;
+    font: inherit;
+    font-size: 0.85rem;
+    height: 1.4rem;
+    justify-content: center;
+    padding: 0;
+    width: 1.4rem;
+  }
+  .home-limit button:hover { color: var(--fg); }
+  .home-limit-value {
+    color: var(--muted);
+    font-size: 0.78rem;
+    min-width: 1.1rem;
+    text-align: center;
+  }
+  .home-item.is-hidden { display: none; }
+  .topic-toolbar {
+    align-items: center;
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+  }
+  .topic-sort {
+    background: none;
+    border: none;
+    color: var(--muted);
+    cursor: pointer;
+    font: inherit;
+    padding: 0.2rem 0;
+  }
+  .topic-sort.active { color: var(--fg); font-weight: 600; }
+  .topic-sort-content { display: none; }
+  .topic-sort-content.active { display: block; }
 
   /* ===== primary tabs ===== */
   .tabs {
@@ -237,6 +298,8 @@
     font-size: 0.86rem;
     line-height: 1.55;
   }
+  .brief-summary-lines { display: grid; gap: 0.28rem; }
+  .brief-summary-lines p { margin: 0; }
 
   .editor-card {
     background: var(--card);
@@ -644,17 +707,17 @@
   </header>
 
   <nav class="tabs" role="tablist">
-    <button class="tab active" data-tab="digest">今日重点<span class="count">8</span></button>
-    <button class="tab" data-tab="tech">触觉产业链<span class="count">20</span></button>
+    <button class="tab active" data-tab="digest">重点动态<span class="count">5</span></button>
+    <button class="tab" data-tab="tech">触觉产业链<span class="count">7</span></button>
     
-    <button class="tab" data-tab="politics">产业关键变化<span class="count">12</span></button>
-    <button class="tab" data-tab="finance">机器人与具身智能<span class="count">20</span></button>
+    <button class="tab" data-tab="politics">产业关键变化<span class="count">0</span></button>
+    <button class="tab" data-tab="finance">机器人与具身智能<span class="count">2</span></button>
     
   </nav>
 
   <section class="panel active" data-panel="digest">
-    <section class="hero-card"><span class="hero-eyebrow">今日重点</span><p class="hero-headline">电子皮肤销量猛增，触觉传感器成机器人竞争焦点</p></section>
-  <section class="overview-card"><span class="eyebrow">今日总览</span><p class="overview-text">全球智能化进程今日聚焦触觉感知：电子皮肤在假肢与人形机器人领域加速落地，六维力传感器与触觉VLA研究推动灵巧操作闭环；市场端电子皮肤销量猛增，美国机器人产业恢复两位数增长；政策端FCC对外国机器人设备设限，产业在技术跃升与供应链变局中前行。</p></section>
+    <!-- HOME_DIGEST --><section class="hero-card"><span class="hero-eyebrow">当前焦点</span><p class="hero-headline">电子皮肤假肢传感分辨率提升10倍</p></section>
+  <section class="overview-card"><span class="eyebrow">动态概览</span><p class="overview-text">全球触觉传感技术加速突破：电子皮肤实现10倍分辨率感知温压，类神经形态触觉系统进入远程呈现；帕西尼展示全自研芯片与感知方案，触觉应用向医疗假肢与机器人手延伸。与此同时，亚马逊无人机配送向500城扩展，智能化物流进一步落地。</p></section>
   <section class="digest-category">
   <header class="category-header">
     <h2 class="category-title">触觉产业链</h2>
@@ -663,89 +726,67 @@
   <div class="brief-list"><article class="brief">
   <div class="brief-head">
     <span class="brief-source">Google News｜触觉传感器</span>
+    <span class="brief-rank high">9/10</span>
+  </div>
+  <h3 class="brief-title"><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWDk2UXRVNkI2NUxmMm92dzAtU1RlUlVBYi1iMnlEcVg0QTJaYkhYaUcwUmhlR3JIWlY1N3BmMlh2VHVvOU1NallUamVZLU5GWF9kMzIxNWM1Mk9JX1ZnZ0tLd21qZDZWM19KWlJ5TXo1dDYzeEZDZnRfTnlGZ1JxNUxxdWwta2E2b3BqYlVjcmRscE5EeXZXcGh4QW43WEhpbGZ0ZDRKSHVyUTlwSGtpSjdZLTlNVTB5ODlCM2s2ZHNLUmsydnNnRmtmWk95VmMyaVI5SVFQMjdCMmM?oc=5" target="_blank" rel="noopener noreferrer">电子皮肤假肢传感分辨率提升10倍</a></h3>
+  <div class="brief-summary brief-summary-lines"><p>科研团队开发出10倍分辨率的电子皮肤，可同时感知温度与压力。</p><p>该进展显著提升个性化假肢的触觉反馈质量，有望改善使用者体验。</p><p>直接推动触觉传感器在医疗康复领域的应用落地。（多家报道）</p></div>
+</article>
+<article class="brief">
+  <div class="brief-head">
+    <span class="brief-source">Google News｜触觉传感器</span>
     <span class="brief-rank mid">8/10</span>
   </div>
-  <h3 class="brief-title"><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTZ1a0NSa2p3LW9VR29YaVJZQ2piekh2Mjk4TUtnTjg4anNyQTdtQ3d5UFlaOTBWQlVlMHVZRi1XUFpYOGdkM1gwcHN2cTdfMWFVUU1HUlJXWVp1U1o2WE9RcDN0eFdqSFhCMUpvNFZSZDV2Um11aEliaG5yOEJKR2pDbVJwb280VXJreVdSREJ2VHhx?oc=5" target="_blank" rel="noopener noreferrer">电子皮肤提升假肢温度与压力感知</a></h3>
-  <p class="brief-summary">研究人员开发出可同时感知温度与压力的电子皮肤，分辨率达到传统方案的10倍，用于个性化假肢。该进展提升假肢的本体感觉与佩戴舒适度，推动电子皮肤从实验室走向医疗康复应用。对触觉产业链而言，传感材料与集成工艺的突破将外溢至机器人皮肤领域。（多家报道）</p>
+  <h3 class="brief-title"><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMmxhSnR0UlFfcXk0TFNKUVVEVktRdGdwXzgzb19rcVRFdFNqU3J5dnNiWi1VcWY4YUJrdHBKaF9LSTJfeEhPSVJGN09MVEx1LS04dXNHOGtDd0oxWmc0Q21RUVpNRGFrZUVBZE5UeF9kenF4bkhBLS1VZll5dmhkY3p5QjJaOGVFWVVLMnBXaFNxU0t1eW9MQmxUZUZyZnVrV1k5TU9CY2k1QV9veG45STFiX3hER3Z2VlVKTl8wd2ljdw?oc=5" target="_blank" rel="noopener noreferrer">类神经形态触觉传感器与触觉显示器实现远程触觉反馈</a></h3>
+  <div class="brief-summary brief-summary-lines"><p>类神经形态触觉传感器与触觉显示器结合，在远程呈现中提供分布式触觉反馈。</p><p>该技术为远程手术、虚拟交互等场景补齐关键触觉通道。</p><p>验证触觉传感与显示系统的闭环可行性，推动人机交互升级。</p></div>
 </article>
 <article class="brief">
   <div class="brief-head">
     <span class="brief-source">Google News｜触觉产业链</span>
-    <span class="brief-rank mid">7/10</span>
+    <span class="brief-rank mid">8/10</span>
   </div>
-  <h3 class="brief-title"><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE42RXBVRjlyM09mYVU2a2d0VUVvQWVjVEJfVG5GVGtHNERXWllOWWRVcXB1d2VLcnpvdm5lS21JNm14MVU0ZlcteXVqQk5qQmpLWS1iNUtfMnVzVFJTNVNIdTRn?oc=5" target="_blank" rel="noopener noreferrer">汉威科技发布全球首款电容式全身电子皮肤</a></h3>
-  <p class="brief-summary">汉威科技在2026世界机器人大会首发全球首款电容式全身电子皮肤，并展出多款传感器新品。电容式方案可实现大面积、低功耗触觉感知，补齐人形机器人全身覆盖需求。这是国产电子皮肤从单点测量走向整机集成的重要信号，将加速触觉传感器在机器人上的规模化应用。</p>
+  <h3 class="brief-title"><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE92dWNvTWh4Rk5EeHp5eElmaEtpdFo5SWUtRUgwMUhnUENxVS0yOE1pd1RnaGNLYmY2NDdoXy1sNTZUcENJZHNBSEFLWk5RdUxIVEk2cnQxNV9kX2pNVUdHUzJPSVozbHpaZlRLVFFhMVVoUFFvR2hENjFZN1VSQnBmSlNJcnJh?oc=5" target="_blank" rel="noopener noreferrer">帕西尼多款触觉新品首秀，自研芯片到感知</a></h3>
+  <div class="brief-summary brief-summary-lines"><p>帕西尼在2026世界机器人大会展出多款新品，实现从芯片到感知全自研。</p><p>此举显示触觉产业链本土化与垂直整合能力增强。</p><p>自研芯片与感知方案有望降低触觉传感器成本，拓展应用场景。</p></div>
 </article>
 <article class="brief">
   <div class="brief-head">
     <span class="brief-source">Google News｜触觉产业链</span>
-    <span class="brief-rank mid">8/10</span>
+    <span class="brief-rank low">6/10</span>
   </div>
-  <h3 class="brief-title"><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlFucDRjb2QxNVgwbW1OTEVoVTJHU292cXAtVWJ4dVBpOU5JclhEdHJfWnNLRnl4bkRCR3pucnpsLXNYWlhjc2tSdURvMXUzLTV6bThHMkJmZm16d1FMNldDREllUGUzTkZKUTRpTVlCcXVFSHJHalZxRmp1QmpFNk9ZTENxY2RRZndOVl9jc243YWdLVHFMYWtIMXQ1MTY4djlCcU41WQ?oc=5" target="_blank" rel="noopener noreferrer">六维力传感器成机器人精细作业落地关键</a></h3>
-  <p class="brief-summary">六维力传感器被视为机器人“干活最后一厘米”的关键，可同时测量三维力与力矩，使机器人完成柔顺装配等精细操作。该部件直接决定力控效果与作业安全性，是具身智能从演示走向量产部署的核心硬件。</p>
-</article>
-<article class="brief">
-  <div class="brief-head">
-    <span class="brief-source">arXiv｜触觉研究</span>
-    <span class="brief-rank mid">7/10</span>
-  </div>
-  <h3 class="brief-title"><a href="https://arxiv.org/abs/2608.15816v1" target="_blank" rel="noopener noreferrer">视觉-触觉残差适应基础VLA操作</a></h3>
-  <p class="brief-summary">ViTaR提出视觉-触觉残差适应机制，让基础VLA模型在执行操作时引入触觉修正信号。视觉模型难以感知接触状态，触觉残差可显著提升精细操作的稳健性。该技术将触觉传感接入VLA闭环，拓展了触觉数据在具身智能中的使用方式。</p>
+  <h3 class="brief-title"><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQNHdaTTA3cTN1MGtySXNGLVpRUDFKdTZ4b25jV3JSeFFpcGJGeFlZaWxKczVJRzNjMWpycGtpckVMY2tTYllVWDlJcHRoc2JxMkN2YklqWXJlUVlWS0RMLVFIdjNQT0hoaGQzamVkODJqMEdJc1Q3WmxpV2xyQzNLZVdYLTdGXzIwSEp0aWl6dzVTV1VwcFlBbEpNWlZfYUp0?oc=5" target="_blank" rel="noopener noreferrer">汽车公司机器人手集成触觉传感器，关节360度旋转</a></h3>
+  <div class="brief-summary brief-summary-lines"><p>某汽车公司展示新机器人手，配备触觉传感器并支持关节360度旋转。</p><p>汽车厂商跨界进入具身机器人制造，触觉应用场景进一步拓宽。</p><p>触觉传感器已成为机器人手部感知与灵巧操作的核心组件。</p></div>
 </article></div>
 </section>
   <section class="digest-category">
   <header class="category-header">
     <h2 class="category-title">机器人与具身智能</h2>
-    <span class="category-count">2</span>
+    <span class="category-count">1</span>
   </header>
   <div class="brief-list"><article class="brief">
   <div class="brief-head">
     <span class="brief-source">The Robot Report</span>
-    <span class="brief-rank mid">8/10</span>
-  </div>
-  <h3 class="brief-title"><a href="https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/" target="_blank" rel="noopener noreferrer">宇树IPO或重塑人形机器人竞争格局</a></h3>
-  <p class="brief-summary">宇树科技完成IPO，引发对人形机器人行业后续上市潮的讨论。上市为人形机器人公司带来资本化路径，有望加速研发与量产。产业格局或将随头部公司融资能力分化而重塑。</p>
-</article>
-<article class="brief">
-  <div class="brief-head">
-    <span class="brief-source">The Robot Report</span>
     <span class="brief-rank mid">7/10</span>
   </div>
-  <h3 class="brief-title"><a href="https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/" target="_blank" rel="noopener noreferrer">通用操作界面：人类演示数据驱动机器人学习</a></h3>
-  <p class="brief-summary">Generalist联合Walden Robotics等利用人类演示数据训练机器人操作，基于通用操作接口将数据转化为行为。高质量演示数据仍是操作学习瓶颈，该实践为数据采集与复用提供参考，间接提升触觉与力控需求的真实性。</p>
+  <h3 class="brief-title"><a href="https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/" target="_blank" rel="noopener noreferrer">亚马逊Prime Air无人机年内扩展至近500城</a></h3>
+  <div class="brief-summary brief-summary-lines"><p>亚马逊宣布Prime Air无人机配送计划在2026年底扩展至近500个城市。</p><p>规模化部署将显著改变末端物流效率与成本结构。</p><p>与触觉无直接关联，但体现自主飞行器商业化进程加速。</p></div>
 </article></div>
 </section>
-  <section class="digest-category">
-  <header class="category-header">
-    <h2 class="category-title">产业关键变化</h2>
-    <span class="category-count">2</span>
-  </header>
-  <div class="brief-list"><article class="brief">
-  <div class="brief-head">
-    <span class="brief-source">IFR｜机器人产业</span>
-    <span class="brief-rank high">9/10</span>
-  </div>
-  <h3 class="brief-title"><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDlKNXA4TWNRRWxScVJCX3Jsc1Y2V3VKWjJHRjN5cGRTbmlHSHY0ZFVQZ2paSzlkTVZXXzdKeDZSckFfdndjQmM5WnYyQWpqSjhqdDlKYnFYeERDYXBIX0ZYakpKTHFNVHpIdnNIUV92U21TZmJRemZFd1RlNEhOUzJkWHFLNnNtc21Hc3lwV1FjOGg5MGhUdl9zeVV4eUV2LWdJ?oc=5" target="_blank" rel="noopener noreferrer">FCC拟限制外国产先进机器人设备</a></h3>
-  <p class="brief-summary">FCC提出对外国产先进机器人设备的限制措施，涉及通信与数据安全。该政策将抬升跨境供应链合规成本，可能影响相关企业在美国市场的产品准入，需关注后续细则。</p>
-</article>
-<article class="brief">
-  <div class="brief-head">
-    <span class="brief-source">IFR｜机器人产业</span>
-    <span class="brief-rank mid">7/10</span>
-  </div>
-  <h3 class="brief-title"><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9vbmNBeHpmUFlVdjZ4S1ZFRVdQWnFHdkoyVG5zTnJoMnd4RzFKZjFxMmpZM1ZLa2hCbUQ2MHVhNHpsdG5MZVl5bWRlTlFXVVpyRXBSY0dyY045SFlkU2R4eHZCQXI2TE84UzdZU25XN3duS1hsaUhydWFMdGE3dlE?oc=5" target="_blank" rel="noopener noreferrer">美国机器人产业恢复两位数增长</a></h3>
-  <p class="brief-summary">IFR数据显示美国机器人产业恢复两位数增长，表明自动化需求回暖。作为全球主要市场，美国增速回升将拉动上游传感器、执行器等零部件需求，也加剧本土与进口供应链竞争。</p>
-</article></div>
-</section>
-  <section class="editor-card"><span class="eyebrow">编辑短评</span><p class="editor-text">触觉传感正从实验室走向真机部署，但成本、可靠性与标准化仍是规模化瓶颈；政策限制或加速供应链重构，产业需在开放与安全之间寻求平衡。</p></section>
-  <div class="keywords"><span class="keyword">触觉传感器</span><span class="keyword">电子皮肤</span><span class="keyword">人形机器人</span><span class="keyword">六维力传感器</span><span class="keyword">VLA</span><span class="keyword">灵巧手</span><span class="keyword">机器人产业</span><span class="keyword">监管政策</span></div>
+  
+  <section class="editor-card"><span class="eyebrow">编辑短评</span><p class="editor-text">触觉传感正从实验室走向量产，电子皮肤与自研方案是亮点。无人机扩张显示智能系统在改变物流，但触觉仍是人机交互短板。</p></section>
+  <div class="keywords"><span class="keyword">电子皮肤</span><span class="keyword">触觉传感器</span><span class="keyword">假肢</span><span class="keyword">远程呈现</span><span class="keyword">自研芯片</span><span class="keyword">机器人手</span><span class="keyword">无人机配送</span><span class="keyword">具身智能</span></div><!-- /HOME_DIGEST -->
   </section>
   <section class="panel" data-panel="tech">
-    <div class="sub-content active" data-sub-content="tactile" data-cat="tech">
+    <!-- HOME_CATEGORY:tech --><div class="sub-content active" data-sub-content="tactile" data-cat="tech">
     
     <div class="source-contents">
       <div class="source-content active" data-source-content="_merged" data-sub="tactile" data-cat="tech">
     <article class="article">
+  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE92dWNvTWh4Rk5EeHp5eElmaEtpdFo5SWUtRUgwMUhnUENxVS0yOE1pd1RnaGNLYmY2NDdoXy1sNTZUcENJZHNBSEFLWk5RdUxIVEk2cnQxNV9kX2pNVUdHUzJPSVozbHpaZlRLVFFhMVVoUFFvR2hENjFZN1VSQnBmSlNJcnJh?oc=5" target="_blank" rel="noopener noreferrer">帕西尼多款新品在展会首秀，从芯片到感知全部自研｜聚焦2026世界机器人大会 - 搜狐网</a></h3>
+  
+  <p class="article-meta">Google News｜触觉产业链 · 08/21 09:05</p>
+  <p class="article-excerpt">帕西尼多款新品在展会首秀，从芯片到感知全部自研｜聚焦2026世界机器人大会 搜狐网</p>
+  
+</article>
+<article class="article">
   <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMmxhSnR0UlFfcXk0TFNKUVVEVktRdGdwXzgzb19rcVRFdFNqU3J5dnNiWi1VcWY4YUJrdHBKaF9LSTJfeEhPSVJGN09MVEx1LS04dXNHOGtDd0oxWmc0Q21RUVpNRGFrZUVBZE5UeF9kenF4bkhBLS1VZll5dmhkY3p5QjJaOGVFWVVLMnBXaFNxU0t1eW9MQmxUZUZyZnVrV1k5TU9CY2k1QV9veG45STFiX3hER3Z2VlVKTl8wd2ljdw?oc=5" target="_blank" rel="noopener noreferrer">Neuromorphic tactile sensors and haptic displays deliver distributed touch feedback in telepresence - Bioengineer.org</a></h3>
   
   <p class="article-meta">Google News｜触觉传感器 · 08/21 06:13</p>
@@ -757,6 +798,13 @@
   
   <p class="article-meta">Google News｜触觉传感器 · 08/21 04:00</p>
   <p class="article-excerpt">Electronic skin improves temperature and pressure sensing for personalized prosthetics Tech Xplore</p>
+  
+</article>
+<article class="article">
+  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CN0dYLUg2al9XUDZhRzJrZld0WWNxNjVNOGdSV0dTQnZvZlBRVkhmdGNvMlN1UmRtZlBMd2R2MmdZanFZUlFCa20zQXBnMS14aDhzRlBRNEhTdw?oc=5" target="_blank" rel="noopener noreferrer">High-Resolution E-Skin for Prosthetics Developed - Scientific Frontline</a></h3>
+  
+  <p class="article-meta">Google News｜触觉传感器 · 08/21 03:28</p>
+  <p class="article-excerpt">High-Resolution E-Skin for Prosthetics Developed Scientific Frontline</p>
   
 </article>
 <article class="article">
@@ -780,211 +828,16 @@
   <p class="article-excerpt">Electronic Skin for Prosthetics Senses Temp and Pressure Tomorrow&#39;s World Today</p>
   
 </article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdm1sUGd5NTVMTnhHMEFKblBZSFVzQVhUN1J1SzgyU1dpREZmYUtSUy1oQnVWYVhjZzMxcnlTOUMxeGRzaG9TOHdyNGlDaVgwT2dtbTI5T2hsQVNnZms4bmtrZnU4bV9jMElOdXNFRHg5bkpLZ2otalBfWmlaQjYzZmFZd1RBaUw1cTF4T1NDbkI1ZHh1VlN3b1RFZzVCc0xULVlFb3pHb2V3QVU?oc=5" target="_blank" rel="noopener noreferrer">Electronic skin lets prosthetics sense temperature and pressure, researchers report - Bioengineer.org</a></h3>
-  
-  <p class="article-meta">Google News｜触觉传感器 · 08/20 20:22</p>
-  <p class="article-excerpt">Electronic skin lets prosthetics sense temperature and pressure, researchers report Bioengineer.org</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlFucDRjb2QxNVgwbW1OTEVoVTJHU292cXAtVWJ4dVBpOU5JclhEdHJfWnNLRnl4bkRCR3pucnpsLXNYWlhjc2tSdURvMXUzLTV6bThHMkJmZm16d1FMNldDREllUGUzTkZKUTRpTVlCcXVFSHJHalZxRmp1QmpFNk9ZTENxY2RRZndOVl9jc243YWdLVHFMYWtIMXQ1MTY4djlCcU41WQ?oc=5" target="_blank" rel="noopener noreferrer">六维力传感器展示如何打通机器人下场干活最后一厘米 - 新浪财经</a></h3>
-  
-  <p class="article-meta">Google News｜触觉产业链 · 08/20 15:29</p>
-  <p class="article-excerpt">六维力传感器展示如何打通机器人下场干活最后一厘米 新浪财经</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2Q4dGZQZ1lDbE5SRU4zVDlqNUVLcWhuWGlQOVd1LVVnbTc2cWFlRVVQdVhTQVRCZnNrbHpzWEJ3Z2VQSUh5QUFVSkk5bzB6Sm9ZWkdIV21oWEFOelpKbTJzOTBldkhHTGh6ZkpfVV83U1BLRDZ6c0lKTGFLeFhfX204cXFYdTBsTkQtNA?oc=5" target="_blank" rel="noopener noreferrer">人形机器人自主拼小马，帕西尼展示触觉感知 - 搜狐网</a></h3>
-  
-  <p class="article-meta">Google News｜触觉产业链 · 08/20 14:49</p>
-  <p class="article-excerpt">人形机器人自主拼小马，帕西尼展示触觉感知 搜狐网</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZU1hWmJNZS1qOUZQMTVoTHhRZTROdGpOcF9NUUhfeW9SWUlXT2o5YzRjOTFmQ2N1NjUyd2JGQ20yLXZsdHFOOHlyZTVoT0NhUjdlbjRUT0VMSllE?oc=5" target="_blank" rel="noopener noreferrer">京东发布机器人战略，机器人板块筹码出清未止 - caiwennews.com</a></h3>
-  
-  <p class="article-meta">Google News｜触觉产业链 · 08/20 14:24</p>
-  <p class="article-excerpt">京东发布机器人战略，机器人板块筹码出清未止 caiwennews.com</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE42RXBVRjlyM09mYVU2a2d0VUVvQWVjVEJfVG5GVGtHNERXWllOWWRVcXB1d2VLcnpvdm5lS21JNm14MVU0ZlcteXVqQk5qQmpLWS1iNUtfMnVzVFJTNVNIdTRn?oc=5" target="_blank" rel="noopener noreferrer">直击2026世界机器人大会,汉威科技全球首款电容式全身电子皮肤等新品首发亮相 - 同花顺</a></h3>
-  
-  <p class="article-meta">Google News｜触觉产业链 · 08/20 13:18</p>
-  <p class="article-excerpt">直击2026世界机器人大会,汉威科技全球首款电容式全身电子皮肤等新品首发亮相 同花顺</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPVy1nVjM1RHBiNkZsZ1JHRThOdU5QVkZjcVM1am5DeGJZdFJVNVE4dW53SW4xWTV5NUhidTRQMFd0SkZkcDVCTHpzZmN4QzlNVlNPb3BJb1dES1NpaGM3b25CZDJHamVzNEg3SThWUXlZM0N0NVVrQWJKMFk3TXhrbGRINEYyRnFiUGQtMFM5cEVVdjhYSXR0bk95TWM5N2xzRjlxelRVOWxBcDZOZ0lNXw?oc=5" target="_blank" rel="noopener noreferrer">Five Trends From WRC 2026: Robots Move From Tech Validation to Product Validation - Pandaily</a></h3>
-  
-  <p class="article-meta">Google News｜触觉传感器 · 08/20 10:02</p>
-  <p class="article-excerpt">Five Trends From WRC 2026: Robots Move From Tech Validation to Product Validation Pandaily</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEk3dGRTTHlxNllJMTVxNVlGNm9jV3J0cVJ1ZExqZ0dUeWJwakQ4NzNLQTloY3NkWm5uVG9PaFFTU2RmQVVpMFg0dWJjUGxRNC1CZm9UVTlfV1pabnk5TzctdjJDMWdaSWVvc0NRWi1NSDM0UW1pamc0bTd4ZzRHQzZiX0k?oc=5" target="_blank" rel="noopener noreferrer">销量暴涨1000%，电子皮肤成人形机器人的下一个必争之地 - 新浪财经</a></h3>
-  
-  <p class="article-meta">Google News｜触觉产业链 · 08/20 07:05</p>
-  <p class="article-excerpt">销量暴涨1000%，电子皮肤成人形机器人的下一个必争之地 新浪财经</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://arxiv.org/abs/2608.19182v1" target="_blank" rel="noopener noreferrer">ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning</a></h3>
-  
-  <p class="article-meta">arXiv｜触觉研究 · 08/20 01:55</p>
-  
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOY2Zac01nZ3FxTE9PYmJjODZteHBaTUw5N01WeVV0aWRiYV8xYnMzbWZmYWVIWWg5TUNzVl9LWVQyMkxPZVpTdS00eHhlWlNLTjB4QkpMbl9qZ1RCUzRsM2U3Z3Vzc25DQTBMVVQ4LS1NZmE5SkRDSUFVamN6dmhlRE5fd2JEMldCVjg4R1JZT1ZVNjFQQl84WWNTb0U0ajJnRU43eFljNWozS3JjS3R6QlpjQmlhT2lNcFMxX0hTOGdXNFZi?oc=5" target="_blank" rel="noopener noreferrer">Scientists combine EIT and pneumatic sensing for humanoid robot skin - Robotics &amp; Automation News</a></h3>
-  
-  <p class="article-meta">Google News｜触觉传感器 · 08/19 18:21</p>
-  <p class="article-excerpt">Scientists combine EIT and pneumatic sensing for humanoid robot skin Robotics &amp; Automation News</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUJqcl9BQXZzbFlEZDFNS1d0Y1VJdGZIcGQyT3NMV3Q3QnowRkxLaHpkZV8wb0o3VFF2dENOVjNXQXNQbFR4bU5xNWllNTNtMDM4YTUweGw1a0xlek9YUjZ3N1ZMaVpWVkZxVWl2QzhsSHRMNElqMUJTSGZMUDh3b2wzeTl0cFpkS0pkRQ?oc=5" target="_blank" rel="noopener noreferrer">国产电子皮肤销量猛增，国内灵巧手赛道融资暴涨1500% - 搜狐网</a></h3>
-  
-  <p class="article-meta">Google News｜触觉产业链 · 08/19 14:39</p>
-  <p class="article-excerpt">国产电子皮肤销量猛增，国内灵巧手赛道融资暴涨1500% 搜狐网</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNcG9RTXV1V3I0Yk9kSDk0RWE4ZzNkTjRHNnJDd0t3b28ySHIyNUQxSHAxQ05NTGhOQ2pjSWNOYzVsQ08tcnpkM3hGQVhkaWdOMDFfV0JXazBETlgwWjVtblRyZ3NLWHlSVzJrenIwMGE1b1FMd2pxb05wT014RFp6NVA1OVVwR0xSWTVPZjBsLTFFdEgyZmR1S1FBVkxPdXM?oc=5" target="_blank" rel="noopener noreferrer">Bionic Multichannel Whisker System Could Assist Endoluminal Interventions - Bioengineer.org</a></h3>
-  
-  <p class="article-meta">Google News｜触觉传感器 · 08/19 01:15</p>
-  <p class="article-excerpt">Bionic Multichannel Whisker System Could Assist Endoluminal Interventions Bioengineer.org</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhYlp5Z1R5MU1rOW5wb3Vjd3plN2MyZ2JtYS1jaHhtUUJ0cUJMUXhzNEdqTVlSbWxHT2g3LUNvQi1qX1RvTVdjRTZyWHFNMzk1?oc=5" target="_blank" rel="noopener noreferrer">融资飙涨1500%，超级赛道爆发 - 凤凰网财经</a></h3>
-  
-  <p class="article-meta">Google News｜触觉产业链 · 08/18 22:20</p>
-  <p class="article-excerpt">融资飙涨1500%，超级赛道爆发 凤凰网财经</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzNjOUJyekhIcXNFcHY5NVhWYW1vLTVxTGpEaFRpYS1NNGNNZU9Fb1RKZjZ1bXB1eDVhanEyVlRydy1iUFprVVdOVlJCOWk2OV9JNGJSa21XR1JMWDNGdVBGdWdiNXcyV19lTjZ6Tnc5SkdhcFQxdUZQVVpfQmFXam1zUm5RemxFSjJyS0dMTkFhSDhzaVlpYQ?oc=5" target="_blank" rel="noopener noreferrer">Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market - The Robot Report</a></h3>
-  
-  <p class="article-meta">Google News｜触觉传感器 · 08/18 21:00</p>
-  <p class="article-excerpt">Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market The Robot Report</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXRtZFg4TUJ5R1lIcjJqUW9vai1ZSXpNcXBmZVd3bkc4VnZhVHBLQ00yN1NncFpoMGlFclpqc1lWNllDV3FoOWdYcnMyejZoaFVLZWtTSXhWbVNfOG9qNWZlREEwdFV1Rzg5MkFfQ0ZOYUxFZ2ZhTE5BclNFQ0ZzQTdpb0VvNk02dGtYNjd2dGp0cUVoMWdtOXdTbnRyYjlpRkFuVlAtZTMxVFRIWExSNUR2Q092TGRMejVSVDN4SnZVa2MtNkRhZUpfX3dhUQ?oc=5" target="_blank" rel="noopener noreferrer">China&#39;s dexterous robotic hand market booms as humanoid robot industry accelerates - bastillepost.com</a></h3>
-  
-  <p class="article-meta">Google News｜触觉传感器 · 08/18 19:27</p>
-  <p class="article-excerpt">China&#39;s dexterous robotic hand market booms as humanoid robot industry accelerates bastillepost.com</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTzhMTUJpVVRBNGJJakpPTnhHRC1oR0NFOWJlRVZhUlVuanFldndJOWM4R1VpMVhIVC1ybzlVZlcwNVJUTnF5LVRzYTJadDNMdzN6RTRiRW9xUWR0ZHdCZy0zeFhWaGdQNlhZb2RVTGRfN095VkRRS1NZb2RBajI2elF2dWpwTi13V2VzRV8wWGRKNnRBSWpJUll1RzZYMkhVdkNkcnpaaEtJMzhfY3RzdHo2MXR3ZmVpYzY5ai1zM2dHWjQyRVZkcjUxNmZucXFzYnNXS3BaT3c?oc=5" target="_blank" rel="noopener noreferrer">China Robotics Funding Roundup: ModuTech, Mifeng Technologies, BluePoint Touch, Digital China, Light Origins - AI Insider</a></h3>
-  
-  <p class="article-meta">Google News｜触觉传感器 · 08/18 17:23</p>
-  <p class="article-excerpt">China Robotics Funding Roundup: ModuTech, Mifeng Technologies, BluePoint Touch, Digital China, Light Origins AI Insider</p>
-  
-</article>
   </div>
     </div>
-  </div>
+  </div><!-- /HOME_CATEGORY:tech -->
   </section>
   
   <section class="panel" data-panel="politics">
-    <div class="sub-content active" data-sub-content="inflection" data-cat="politics">
-    
-    <div class="source-contents">
-      <div class="source-content active" data-source-content="_merged" data-sub="inflection" data-cat="politics">
-    <article class="article">
-  <h3 class="article-title"><a href="https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/" target="_blank" rel="noopener noreferrer">Debates over AI consciousness are a trap</a></h3>
-  
-  <p class="article-meta">MIT Technology Review｜AI · 08/20 23:42</p>
-  <p class="article-excerpt">“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” </p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://openai.com/index/offering-zero-data-retention-for-frontier-models" target="_blank" rel="noopener noreferrer">Offering Zero Data Retention for frontier models</a></h3>
-  
-  <p class="article-meta">OpenAI News · 08/20 03:00</p>
-  <p class="article-excerpt">OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmpOcUlPdHV2dGh6LWZ3UWgtMmRnTHAxMjBCaTlqeWg4U2IxQjYwZ0VhSTVJekxndXh5VHByM3BWNXdqNk5zQUE5ZUE5blQ0QXRoZUYtN1Q3dFNKRHFFQnV2eEhHdTJHbXotSXJkU3dLR3VHazlycmx3ZXc0LWxCeExLU3c1Mml3RDd2QUFGSjZtWmp3Q19adzlidklXbDE1cnExTWZpbU9wcXc?oc=5" target="_blank" rel="noopener noreferrer">International Federation of Robotics - IFR International Federation of Robotics</a></h3>
-  
-  <p class="article-meta">IFR｜机器人产业 · 08/19 20:53</p>
-  <p class="article-excerpt">International Federation of Robotics IFR International Federation of Robotics</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://openai.com/index/pacing-model-development-cyber-capabilities" target="_blank" rel="noopener noreferrer">Pacing model development in an era of cyber-critical capabilities</a></h3>
-  
-  <p class="article-meta">OpenAI News · 08/18 19:00</p>
-  <p class="article-excerpt">OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/" target="_blank" rel="noopener noreferrer">AI’s recursive self-improvement might not come so quickly after all</a></h3>
-  
-  <p class="article-meta">MIT Technology Review｜AI · 08/18 17:00</p>
-  <p class="article-excerpt">The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9vbmNBeHpmUFlVdjZ4S1ZFRVdQWnFHdkoyVG5zTnJoMnd4RzFKZjFxMmpZM1ZLa2hCbUQ2MHVhNHpsdG5MZVl5bWRlTlFXVVpyRXBSY0dyY045SFlkU2R4eHZCQXI2TE84UzdZU25XN3duS1hsaUhydWFMdGE3dlE?oc=5" target="_blank" rel="noopener noreferrer">US Robot Industry Returns to Double Digit Growth - IFR International Federation of Robotics</a></h3>
-  
-  <p class="article-meta">IFR｜机器人产业 · 08/17 13:39</p>
-  <p class="article-excerpt">US Robot Industry Returns to Double Digit Growth IFR International Federation of Robotics</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://openai.com/index/new-policy-ideas-for-the-intelligence-age" target="_blank" rel="noopener noreferrer">New policy ideas for the Intelligence Age</a></h3>
-  
-  <p class="article-meta">OpenAI News · 08/17 11:15</p>
-  <p class="article-excerpt">OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE1HWTZTWTdIX2tDeWk1a2NySlUyak1zeTk3ZDRuLUZWdkxxVkIteEp1eTl2MmdaeVhXaGFyWURpZ3p1Q3lDeGpxcjhOTzY3T0lLZ3VnUXJmZ183SEhZZjVmejNjdnJnUkFrV2VXOFJVMA?oc=5" target="_blank" rel="noopener noreferrer">Social Robotics in Long-Term Care - IFR International Federation of Robotics</a></h3>
-  
-  <p class="article-meta">IFR｜机器人产业 · 08/13 19:47</p>
-  <p class="article-excerpt">Social Robotics in Long-Term Care IFR International Federation of Robotics</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://openai.com/index/builders-guide-to-gpt-5-6" target="_blank" rel="noopener noreferrer">The builder’s guide to GPT‑5.6</a></h3>
-  
-  <p class="article-meta">OpenAI News · 08/13 19:00</p>
-  <p class="article-excerpt">Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://openai.com/index/how-enterprises-put-ai-to-work" target="_blank" rel="noopener noreferrer">From assistance to execution: How enterprises put AI to work</a></h3>
-  
-  <p class="article-meta">OpenAI News · 08/12 14:00</p>
-  <p class="article-excerpt">OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0xjZ2VCc3gyZVRFTGNUX0JubHB4bXpLc1FfSXdyRmhVWFE2TVA5US0waDMyX2s2TG5EQTdSWFJERzBhRWtlaVhsa1Z3blNPc041RnFrSTVlZllGamhPMl9CWDZsMXhWbHN0dWhkUzdmU1pIUmRpSU9EMVZVVUs4TjlBS3pqX3JFVktF?oc=5" target="_blank" rel="noopener noreferrer">New IFR Position Paper: The Impact of Robots - IFR International Federation of Robotics</a></h3>
-  
-  <p class="article-meta">IFR｜机器人产业 · 08/11 19:41</p>
-  <p class="article-excerpt">New IFR Position Paper: The Impact of Robots IFR International Federation of Robotics</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://openai.com/index/daybreak-models-are-now-available-on-aws" target="_blank" rel="noopener noreferrer">Daybreak models are now available on AWS</a></h3>
-  
-  <p class="article-meta">OpenAI News · 08/11 18:00</p>
-  <p class="article-excerpt">OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.</p>
-  
-</article>
-  </div>
-    </div>
-  </div>
+    <!-- HOME_CATEGORY:politics --><p class="empty">该分类今日无内容。</p><!-- /HOME_CATEGORY:politics -->
   </section>
   <section class="panel" data-panel="finance">
-    <div class="sub-content active" data-sub-content="robotics" data-cat="finance">
+    <!-- HOME_CATEGORY:finance --><div class="sub-content active" data-sub-content="robotics" data-cat="finance">
     
     <div class="source-contents">
       <div class="source-content active" data-source-content="_merged" data-sub="robotics" data-cat="finance">
@@ -1002,135 +855,9 @@
   <p class="article-excerpt">ATDev is developing a modern power wheelchair with a coordinated robotic arm that can take on reaching and lifting tasks for the user. The post ATDev gives update on its journey building autonomous wheelchairs appeared first on The Robot Report.</p>
   
 </article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features/" target="_blank" rel="noopener noreferrer">Agtonomy releases new autonomous multi-point turning features</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/20 20:30</p>
-  <p class="article-excerpt">Agtonomy has added autonomous multi-point turning and enhanced field data collection to its commercial off-road platform. The post Agtonomy releases new autonomous multi-point turning features appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/" target="_blank" rel="noopener noreferrer">Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/20 04:15</p>
-  <p class="article-excerpt">The talk at RoboBusiness will outline the unique demands of each body zone and the challenges of scaling for production. The post Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry/" target="_blank" rel="noopener noreferrer">What does Unitree Robotics’ IPO mean for the humanoid industry?</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/20 02:01</p>
-  <p class="article-excerpt">Now that Unitree Robotics has made its IPO, which humanoid robotics companies will follow in its footsteps? The post What does Unitree Robotics’ IPO mean for the humanoid industry? appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub/" target="_blank" rel="noopener noreferrer">Serve Robotics to deploy its autonomous delivery robots with Grubhub</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/19 21:55</p>
-  <p class="article-excerpt">Serve&#39;s robot delivery will be available from more than 100 participating Grubhub merchants in Chicago and nearly 200 in Los Angeles. The post Serve Robotics to deploy its autonomous delivery robots with Grubhub appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/pudu-robotics-launches-new-mp2000-autonomous-forklift/" target="_blank" rel="noopener noreferrer">Pudu Robotics launches new MP2000 autonomous forklift</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/19 21:07</p>
-  <p class="article-excerpt">Pudu Robotics has launched the MP2000, an AI-native autonomous robot designed to transport 2,000 kg loads across complex warehouse environments. The post Pudu Robotics launches new MP2000 autonomous forklift appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/how-achieve-high-voltage-industrial-systems-without-high-complexity/" target="_blank" rel="noopener noreferrer">How to achieve high voltage in industrial systems without high complexity</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/19 05:07</p>
-  <p class="article-excerpt">Kollmorgen discusses the importance of fitting voltage systems closely to the application while still making the best use of infrastructure. The post How to achieve high voltage in industrial systems without high complexity appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/fort-robotics-takes-safety-stack-public-via-spac-merger/" target="_blank" rel="noopener noreferrer">FORT Robotics to take safety stack public via SPAC merger</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/18 23:24</p>
-  <p class="article-excerpt">FORT Robotics said it expects valuation of more than $500 million as it lists on Nasdaq with plans to accelerate safety software development. The post FORT Robotics to take safety stack public via SPAC merger appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://spectrum.ieee.org/arctic-iceberg-drones" target="_blank" rel="noopener noreferrer">Drones With Claws Perch on Arctic Icebergs</a></h3>
-  
-  <p class="article-meta">IEEE Spectrum｜Robotics · 08/18 21:00</p>
-  <p class="article-excerpt">This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. Microspines are one of many ways to enable robots to latch onto surfaces like walls and ceilings. Now roboticists in Canada are using the mini spikes to get drones to land on a more challenging, remote s</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/" target="_blank" rel="noopener noreferrer">Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/18 20:49</p>
-  <p class="article-excerpt">Automotive suppliers Unichem and R&amp;Y are working with Loomia to develop tactile sensors for automotive and robotics applications. The post Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/" target="_blank" rel="noopener noreferrer">Five years of operation shape Diligent Robotics rollout of Moxi 2.0</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/18 05:15</p>
-  <p class="article-excerpt">Diligent is now rolling out Moxi 2.0 to health systems including Endeavor Health Edward Hospital and Children’s Hospital Los Angeles. The post Five years of operation shape Diligent Robotics rollout of Moxi 2.0 appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/" target="_blank" rel="noopener noreferrer">Surgeons use da Vinci surgical robot to perform common cardiac surgery</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/18 04:56</p>
-  <p class="article-excerpt">At the El Camino Health Heart and Vascular Institute, surgeons are now performing cardiac procedures with Intuitive&#39;s da Vinci robot. The post Surgeons use da Vinci surgical robot to perform common cardiac surgery appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/" target="_blank" rel="noopener noreferrer">How Generalist uses human demonstration data for robot learning</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/18 03:32</p>
-  <p class="article-excerpt">Research around the Universal Manipulation Interface is enabling Generalist, Walden Robotics, and others to turn data into robot behaviors. The post How Generalist uses human demonstration data for robot learning appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://spectrum.ieee.org/persona-ai-humanoid-robot-welding" target="_blank" rel="noopener noreferrer">Is Shipyard Welding the Right First Job for Humanoid Robots?</a></h3>
-  
-  <p class="article-meta">IEEE Spectrum｜Robotics · 08/17 23:33</p>
-  <p class="article-excerpt">Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies which seems to be entirely focused on making that happen. Persona’s approach has been to carefully select a job that is economically viable for robots right now, and th</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/" target="_blank" rel="noopener noreferrer">Gravis Robotics raises $200M for autonomous construction</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/17 21:00</p>
-  <p class="article-excerpt">Gravis Robotics has designed autonomy AI and hardware for a wide range of excavators and construction equipment and plans to scale globally. The post Gravis Robotics raises $200M for autonomous construction appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/" target="_blank" rel="noopener noreferrer">How robotics is revolutionizing stroke rehabilitation</a></h3>
-  
-  <p class="article-meta">The Robot Report · 08/16 20:30</p>
-  <p class="article-excerpt">Eyal Samuel Shachar, the CEO of Bioxtreme, says the growing synergy of robotics, AI, and human-centered care will improve patient outcomes. The post How robotics is revolutionizing stroke rehabilitation appeared first on The Robot Report.</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge" target="_blank" rel="noopener noreferrer">Video Friday: Lift Happens</a></h3>
-  
-  <p class="article-meta">IEEE Spectrum｜Robotics · 08/15 01:00</p>
-  <p class="article-excerpt">Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Actuate 2026: 18–19 August 2026, SAN FRANCISCO IROS 202</p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://spectrum.ieee.org/recycling-robot" target="_blank" rel="noopener noreferrer">Robot Recycler Salvages Parts From Broken Machines</a></h3>
-  
-  <p class="article-meta">IEEE Spectrum｜Robotics · 08/11 02:01</p>
-  <p class="article-excerpt">Objects constructed by robots are ubiquitous. If you’ve used a car, household appliance, or smartphone today, you’ve used an object constructed at least in part by robots. The more products that manufacturers want to produce (and consumers want to consume) at lower costs, the more industrial robots </p>
-  
-</article>
-<article class="article">
-  <h3 class="article-title"><a href="https://spectrum.ieee.org/video-friday-heavy-lift-drone" target="_blank" rel="noopener noreferrer">Video Friday: Drones Go Heavy in DARPA Lift Challenge</a></h3>
-  
-  <p class="article-meta">IEEE Spectrum｜Robotics · 08/08 00:00</p>
-  <p class="article-excerpt">Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Actuate 2026: 18–19 August 2026, SAN FRANCISCO IROS 202</p>
-  
-</article>
   </div>
     </div>
-  </div>
+  </div><!-- /HOME_CATEGORY:finance -->
   </section>
   
 
@@ -1177,6 +904,52 @@
       subContent.querySelectorAll('.source-content').forEach(function (p) {
         p.classList.toggle('active', p.dataset.sourceContent === src);
       });
+    });
+  });
+  document.querySelectorAll('[data-open-tab]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var target = btn.dataset.openTab;
+      var tab = document.querySelector('.tabs > .tab[data-tab="' + target + '"]');
+      if (tab) tab.click();
+    });
+  });
+  document.querySelectorAll('.topic-sort').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var panel = btn.closest('.topic-panel');
+      if (!panel) return;
+      var sort = btn.dataset.topicSort;
+      panel.querySelectorAll('.topic-sort').forEach(function (item) {
+        item.classList.toggle('active', item === btn);
+      });
+      panel.querySelectorAll('.topic-sort-content').forEach(function (item) {
+        item.classList.toggle('active', item.dataset.topicSortContent === sort);
+      });
+    });
+  });
+  document.querySelectorAll('[data-limit-delta]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var section = btn.closest('[data-home-section]');
+      if (!section) return;
+      var key = section.dataset.homeSection;
+      var items = Array.prototype.slice.call(section.querySelectorAll('.home-item'));
+      var fallback = Number(section.dataset.homeLimit) || 2;
+      var current = Number(localStorage.getItem('daily-brief-limit-' + key)) || fallback;
+      var next = Math.max(1, Math.min(items.length, current + Number(btn.dataset.limitDelta)));
+      localStorage.setItem('daily-brief-limit-' + key, String(next));
+      section.querySelector('.home-limit-value').textContent = String(next);
+      items.forEach(function (item, index) {
+        item.classList.toggle('is-hidden', index >= next);
+      });
+    });
+  });
+  document.querySelectorAll('[data-home-section]').forEach(function (section) {
+    var key = section.dataset.homeSection;
+    var items = Array.prototype.slice.call(section.querySelectorAll('.home-item'));
+    var fallback = Number(section.dataset.homeLimit) || 2;
+    var current = Math.max(1, Math.min(items.length, Number(localStorage.getItem('daily-brief-limit-' + key)) || fallback));
+    section.querySelector('.home-limit-value').textContent = String(current);
+    items.forEach(function (item, index) {
+      item.classList.toggle('is-hidden', index >= current);
     });
   });
   // Trading panel: asset-group sub-tabs (US/crypto/china/commodity)

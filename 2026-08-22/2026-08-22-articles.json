@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-22",
+  "articles": [
+    {
+      "sourceId": "tactile-news-en",
+      "title": "WSU researchers create electronic skin that could help prosthetics feel touch - MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02QXQ2bUVFUXRwNU1HbEpCSnRfV29QMWtBTnVkVElFWFIzaHZEalZHSE5td1h6Q29veWNsRkw2TThuMEJtaXZhYUFGYmU3NnB2eXBZbmN2SG9QVnJ2a1dPOGpOdGZMMEQ0SlZzRnEwd1Ric3RIZWIxNg?oc=5",
+      "excerpt": "WSU researchers create electronic skin that could help prosthetics feel touch MyNorthwest.com",
+      "publishedAt": "2026-08-21T16:52:29.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "帕西尼多款新品在展会首秀，从芯片到感知全部自研｜聚焦2026世界机器人大会 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTE9RNTI1LURPMlZHejF1MUFRWGJUaVlXX2QtRjZZVXZWdTZlWi11Q0tkYk1lN3VSaEZMVVZFaVNPUm5PbWlESnZWaU12dm84SkxFU3JyeGxFemhKTEhkdmZRanVta1pRQThicFBEWmpFMGxzRmhHdDgxTU5jS21RQ2QtSnd5OUhEYkN3UkJnNllGZWlvUWcxSzhVdFZ0VHN1LVJOWkwwYzVha3NzeDVERW5n?oc=5",
+      "excerpt": "帕西尼多款新品在展会首秀，从芯片到感知全部自研｜聚焦2026世界机器人大会 新浪财经",
+      "publishedAt": "2026-08-21T18:17:38.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
+      "url": "https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/",
+      "excerpt": "The Women in Robotics Lunch at RoboBusiness is an opportunity to form new connections and deepen relationships. The post Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch appeared first on The Robot Report.",
+      "publishedAt": "2026-08-21T19:57:24.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Schaeffler plans to mass produce gearboxes for humanoid robots in 2027",
+      "url": "https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/",
+      "excerpt": "Schaeffler is creating its strain wave gearboxes with a forming technology that will enable mass production of the components. The post Schaeffler plans to mass produce gearboxes for humanoid robots in 2027 appeared first on The Robot Report.",
+      "publishedAt": "2026-08-21T19:27:22.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    }
+  ]
+}

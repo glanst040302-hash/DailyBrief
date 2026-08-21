@@ -1,0 +1,34 @@
+{
+  "hero_headline": "帕西尼自研传感器亮相，电子皮肤触觉研究突破",
+  "daily_overview": "华盛顿州立大学电子皮肤可助假肢获得触觉，帕西尼在世界机器人大会展示自研芯片到感知产品，舍弗勒计划2027年量产谐波齿轮箱。触觉传感器、核心执行器与自主供应链同步取得进展，全球智能化进程从感知层向规模化部署推进。",
+  "tech_briefs": [
+    {
+      "title": "帕西尼多款新品首秀，芯片到感知全自研",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTE9RNTI1LURPMlZHejF1MUFRWGJUaVlXX2QtRjZZVXZWdTZlWi11Q0tkYk1lN3VSaEZMVVZFaVNPUm5PbWlESnZWaU12dm84SkxFU3JyeGxFemhKTEhkdmZRanVta1pRQThicFBEWmpFMGxzRmhHdDgxTU5jS21RQ2QtSnd5OUhEYkN3UkJnNllGZWlvUWcxSzhVdFZ0VHN1LVJOWkwwYzVha3NzeDVERW5n?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "帕西尼在世界机器人大会首秀多款新品。从芯片到感知全部自研，形成完整触觉技术栈。触觉传感器国产化与自主可控再进一步，强化产业链安全。",
+      "importance": 9
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "舍弗勒计划2027年量产谐波齿轮箱",
+      "url": "https://www.therobotreport.com/schaeffler-plans-to-mass-manufacture-gearboxes-for-humanoids-in-2027/",
+      "source": "The Robot Report",
+      "summary": "舍弗勒计划2027年实现谐波齿轮箱量产。采用成形技术替代传统加工，可大幅降本增效。执行器是具身智能行动环节的关键部件，量产将加速人形机器人商业化。",
+      "importance": 8
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "触觉传感器从实验室迈向产业，自研与量产并进；核心零部件的成本下降与自主可控，是具身智能规模落地的前提。",
+  "keywords": [
+    "电子皮肤",
+    "触觉传感器",
+    "帕西尼",
+    "自研",
+    "谐波齿轮箱",
+    "人形机器人",
+    "量产",
+    "假肢"
+  ]
+}

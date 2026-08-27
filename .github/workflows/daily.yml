@@ -36,8 +36,7 @@ on:
     # catchup branch handles the residual misses by allowing a build any
     # time after `earliest REPORT_HOUR - 1` if today's report is still
     # absent from gh-pages.
-    - cron: '7 * * * *'
-    - cron: '37 * * * *'
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
 
 permissions:

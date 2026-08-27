@@ -31,6 +31,8 @@ import type { TradingSection } from "../lib/ai/pipeline";
 import { todayKey } from "../lib/utils";
 
 const OUTPUT_DIR = "daily_reports";
+const RECENT_ARTICLES_FILE = path.join(OUTPUT_DIR, "recent-articles.json");
+const RECENT_WINDOW_DAYS = 7;
 
 function loadSavedArticles(file: string): ArticleInput[] {
   if (!fs.existsSync(file)) return [];
@@ -63,6 +65,14 @@ function mergeNewArticles(
   }
   return [...existing, ...newArticles];
 }
+
+function keepRecentArticles(articles: ArticleInput[]): ArticleInput[] {
+  const cutoff = Date.now() - RECENT_WINDOW_DAYS * 86_400_000;
+  return articles.filter(
+    (article) => article.publishedAt && article.publishedAt.getTime() >= cutoff,
+  );
+}
+
 
 async function fetchAll(): Promise<ArticleInput[]> {
   const articles: ArticleInput[] = [];
@@ -289,6 +299,16 @@ async function main() {
   }
 
   // A date-keyed archive must contain only news published on that date.
+  const savedRecentArticles = keepRecentArticles(loadSavedArticles(RECENT_ARTICLES_FILE));
+  const recentArticles = keepRecentArticles(
+    mergeNewArticles(savedRecentArticles, articles),
+  );
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  fs.writeFileSync(
+    RECENT_ARTICLES_FILE,
+    JSON.stringify({ collectedAt: new Date().toISOString(), articles: recentArticles }, null, 2),
+    "utf8",
+  );
   // Keep items without a publication time, and late-discovered older news,
   // out of this report rather than assigning them a misleading archive day.
   const incomingArticles = articles.filter(
@@ -300,7 +320,8 @@ async function main() {
     `[daily] ${datedArticles.length} articles published on ${date} (${newCount} new, ${savedArticles.length} already collected)`,
   );
   if (datedArticles.length === 0) {
-    throw new Error(`no articles published on ${date} — aborting`);
+    console.log(`[daily] no articles published on ${date}; updated recent topic feed only`);
+    return;
   }
   if (newCount === 0 && savedArticles.length > 0) {
     console.log("[daily] no new same-day articles — keeping the current report");

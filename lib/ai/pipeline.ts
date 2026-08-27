@@ -78,12 +78,14 @@ export function enforceReportBudget(
       })
       .slice(0, limit);
 
-  return {
+  const curatedReport = {
     ...report,
     tech_briefs: curate(report.tech_briefs, REPORT_QUOTAS.tech),
     finance_briefs: curate(report.finance_briefs, REPORT_QUOTAS.finance),
     politics_briefs: curate(report.politics_briefs, REPORT_QUOTAS.politics),
   };
+  const hasBrief = curatedReport.tech_briefs.length + curatedReport.finance_briefs.length + curatedReport.politics_briefs.length > 0;
+  return hasBrief ? curatedReport : { ...curatedReport, hero_headline: "" };
 }
 
 const MAX_AGE_DAYS = 14;

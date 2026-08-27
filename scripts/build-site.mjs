@@ -68,6 +68,16 @@ const topicArticleReports = topicDates.slice(0, 30).flatMap((date) => {
   }
 });
 
+const recentTopicArticles = (() => {
+  try {
+    const payload = JSON.parse(fs.readFileSync(path.join(ROOT, "recent-articles.json"), "utf8"));
+    return (payload.articles ?? []).map((article) => ({ ...article, reportDate: latest }));
+  } catch {
+    return topicArticleReports;
+  }
+})();
+
+
 const RADAR_SOURCE_PREFIXES = [
   "Google News｜触觉",
   "arXiv｜触觉",
@@ -147,7 +157,7 @@ function topicItems(category, sort) {
       (report[key] ?? []).map((brief) => [brief.url, { importance: Number(brief.importance), summary: brief.summary, date }]),
     ),
   );
-  const items = topicArticleReports
+  const items = recentTopicArticles
     .filter((article) => article.category === category)
     .map((article) => {
       const editorial = editorialScores.get(article.url);
@@ -217,7 +227,8 @@ function renderTopicPanel(category) {
 
 function renderHomeDigest() {
   const latestReport = reports.find(({ date }) => date === latest)?.report ?? {};
-  return `${latestReport.hero_headline ? `<section class="hero-card"><span class="hero-eyebrow">当前焦点</span><p class="hero-headline">${esc(latestReport.hero_headline)}</p></section>` : ""}
+  const currentBriefs = ["tech_briefs", "finance_briefs", "politics_briefs"].flatMap((key) => latestReport[key] ?? []);
+  return `${latestReport.hero_headline && currentBriefs.length ? `<section class="hero-card"><span class="hero-eyebrow">当前焦点</span><p class="hero-headline">${esc(latestReport.hero_headline)}</p></section>` : ""}
   ${latestReport.daily_overview ? `<section class="overview-card"><span class="eyebrow">动态概览</span><p class="overview-text">${esc(latestReport.daily_overview)}</p></section>` : ""}
   ${renderHomeTopicSection("tech")}
   ${renderHomeTopicSection("finance")}

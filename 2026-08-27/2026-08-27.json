@@ -1,24 +1,34 @@
 {
-  "hero_headline": "自动驾驶卡车融资2亿美元拓展区域运输",
-  "daily_overview": "当日智能化进程聚焦自动驾驶卡车商业化，一家企业获2亿美元融资加码高频区域运输。触觉传感器与具身智能赛道暂无重大发布，当前产业链整体维持稳定，等待下一轮技术催化。",
-  "tech_briefs": [],
-  "finance_briefs": [],
-  "politics_briefs": [
+  "hero_headline": "全身电子皮肤亮相 机器人触觉迎新突破",
+  "daily_overview": "全球机器人大会展示电容式全身电子皮肤，触觉覆盖从灵巧手扩展至全身，为具身智能感知闭环提供新硬件；美国自动驾驶卡车公司Gatik获2亿美元融资，加速高频区域货运商业化部署。触觉传感与自动驾驶双双推进，智能化进程在感知与落地两端同步提速。",
+  "tech_briefs": [
     {
-      "title": "自动驾驶卡车公司获2亿美元融资扩展运营",
-      "url": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations/",
-      "source": "The Robot Report",
-      "summary": "Gatik完成2亿美元融资，用于扩展高频区域运输网络。\n该模式连接配送中心与门店，主打中短途自动驾驶物流。\n资本加码推动自动驾驶商业化，间接拉动感知与执行部件需求。",
-      "importance": 6
+      "title": "全球首款电容式全身电子皮肤亮相机器人大会",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQXpMczl6aHB1NV9WVWd4RldwTmpqU3NmS0VGazMwTVptVWJYdXM1WE1zdVMta3cteUpMaWd3blpCbG5EajdZT0x3Rk9oUkxxUVg1dUs1eUMwREdLQ2x5RkxFSHBKeE03MlRWaFZ1Z0JmN2VLVWw5dU9yOHpTVFIydHY3UFk3TWpVTVEzMw?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "河南企业发布全球首款电容式全身电子皮肤，仿生机器人Moya获全身触觉感知。\n该技术使机器人触觉从灵巧手扩展到全身，具备更高空间分辨率和柔性贴附能力。\n全身触觉阵列是具身智能感知闭环的关键增量，有望加速人形机器人环境交互落地。",
+      "importance": 9
     }
   ],
-  "editor_note": "本轮融资显示自动驾驶卡车在区域物流中的商业叙事仍获资本认可，但触觉传感等底层部件未见实质突破，产业需回归技术积累。",
+  "finance_briefs": [
+    {
+      "title": "Gatik获2亿美元融资 扩大自动驾驶卡车区域货运",
+      "url": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations/",
+      "source": "The Robot Report",
+      "summary": "Gatik完成2亿美元融资，用于扩展连接配送中心与门店的高频区域短途货运。\n资金将加速其自动驾驶卡车在真实物流场景中的商业化部署。\n自动驾驶卡车是具身智能在物流的落地形态，体现感知-决策-行动闭环的商业化能力。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "电容式全身电子皮肤从展品走向整机覆盖是重要节点，但产业化仍需成本与可靠性验证。自动驾驶卡车融资热度延续，商业化节奏值得持续观察。",
   "keywords": [
-    "自动驾驶卡车",
-    "融资",
-    "区域物流",
-    "商业化",
-    "智能化进程",
-    "资本"
+    "电子皮肤",
+    "触觉传感器",
+    "具身智能",
+    "自动驾驶",
+    "Gatik",
+    "电容式传感",
+    "机器人",
+    "商业化"
   ]
 }

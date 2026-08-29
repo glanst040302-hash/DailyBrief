@@ -1,24 +1,6 @@
 {
-  "collectedAt": "2026-08-29T03:12:56.190Z",
+  "collectedAt": "2026-08-29T23:25:25.968Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Scientists at WSU create electronic skin for prosthetic limbs in hopes that amputees can one day sense temperature and pressure again - The Spokesman-Review",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmM5UGdmNzdJTUxITlJZQ3B2NDVzbTJGeDNPWGxrUGM5cnpranRmT0gwN1Q5OF9nUDdxYkIxUWpQcWY0MFNna1ZPS3lKVTNVM3l2ajdOeV9ybFNoMkpuT2E1VkU2UldpM1J6amI4MWgzRHJWR1pLbndCdHZ3Y21mT3N0aTBqWXVnbnhDV1lOS1cxdnpkMXFHVXkzTWNXUQ?oc=5",
-      "excerpt": "Scientists at WSU create electronic skin for prosthetic limbs in hopes that amputees can one day sense temperature and pressure again The Spokesman-Review",
-      "publishedAt": "2026-08-22T09:45:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Electronic skin - Yakima Herald-Republic",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM3RSc1dvbkhVMjRnSXk1VkRWUTI1MlRFcEpvbG5XTk5xVkZKTUtxYjFtd1NIOXJZSVZtWlpKbERYd1laY0QwcF9VUno2djczbmMzZ1ZuLTJaVDRWMWsyZXVKUFJkdC1wQTJOVFpXbWRKbEd3NXFXY1RNbUFLV2pHMm1IODJPQVYyTEZ5bWMwaVpGdjBOY0lF?oc=5",
-      "excerpt": "Electronic skin Yakima Herald-Republic",
-      "publishedAt": "2026-08-22T19:33:27.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
     {
       "sourceId": "tactile-news-en",
       "title": "Europe Electronic Skin Patch Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
@@ -52,33 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG9qOXVjd2FncmZSN3Q1YkxUdUNFNmdDanFqM0dCcTM5Y2NBbWlpVXBqRTRURFJqYkQ0WU9BM3ROLTNmYUhvTE5hRzJMQWZBenpTY1BFdUxpZTFIQ2x3RG9Qb19pRTZ4ODh5dXF3MnpwOC0wZVBBVWIyVnZ0eDd1bGFqbF95X3ZMYnFUSzB5MDNSZDZlWjdYWG44dEJrZ05YTGNxbjFfNA?oc=5",
       "excerpt": "WRC观察｜让人形机器人更像人：柔性触觉传感器引爆千亿新赛道 新浪财经",
       "publishedAt": "2026-08-23T12:31:16.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "汉威科技与卓益得联合发布全球首款电容式全身电子皮肤 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yNW5uQmJSdVlTMFM1QnVhX2pVdWV6Q0p6WEZJdFF1MVJuc2wxcmlKNW5GV3k1dTJrUGw2amYwYUlEcFJIQm5id2doOTgzMTRqUWVESHhIN2ZMVjlKZ1hKNA?oc=5",
-      "excerpt": "汉威科技与卓益得联合发布全球首款电容式全身电子皮肤 东方财富",
-      "publishedAt": "2026-08-22T20:16:04.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "会抓豆腐、拥有电子皮肤，国产机器人感知能力加速迭代 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jTE04cm1BYk43RlVMYWVfSkN6ZmNaLUlWRmZFS3lQX2pNOWVDTnBEQWtuX0FNM0FjaW42cXdJNUh3YUlyeHdRb3I3Sk0tTl9ONUVqaDdKdXRfZGY1VjN0aC1IMWVxN3RYeDhmWDJrTmpEQQ?oc=5",
-      "excerpt": "会抓豆腐、拥有电子皮肤，国产机器人感知能力加速迭代 京报网",
-      "publishedAt": "2026-08-22T05:47:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "游仞智能：自由形态触觉传感器，让机器人指尖感知脉搏律动@世界机器人大会 - 电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43cTBCSzdzYkxKZm9KM2N2c1RuNEUtZDZMbDBpVFNmWW9MV3VubjNZU1RISGxxYnFIVnM2V3hxNjROYUtERkQyVmFQSnlVd29QdWUw?oc=5",
-      "excerpt": "游仞智能：自由形态触觉传感器，让机器人指尖感知脉搏律动@世界机器人大会 电子工程专辑",
-      "publishedAt": "2026-08-22T23:11:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -124,15 +79,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3NjV3A3WEJNS1BTb1NldGJfR21qdU1iT3E1VGk1M0pkcjgxc0RXNXM2ODViS2hiaHJWaEN2RmN2Wk1VejY2MW82VTV4UnJ2UGYteGNUOWVldlZ6VDJHdFZ0VE91WlhGbTBUZUVkbk5rckRfQXh4NGZWRXMxX2pOZ3djMEU?oc=5",
       "excerpt": "福恩股份：目前暂未涉及机器人电子皮肤相关智能传感纺织材料业务 新浪财经",
       "publishedAt": "2026-08-26T03:49:14.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "WRC2026观察｜量产倒逼升级，芯片和触觉传感器站上机器人产业前台 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00UUY3T2VKenNYOF95anp6ei1DSGF3UGxXTHQxVHN6TUJfSmt5cmsyMndlM1REcF80aWVKT0F6VnNRTndSQlRlSTVNMUlFWEZVd21BYkJuS28yZkFDNllWN3VYdURfNEZSdzY0?oc=5",
-      "excerpt": "WRC2026观察｜量产倒逼升级，芯片和触觉传感器站上机器人产业前台 搜狐网",
-      "publishedAt": "2026-08-22T05:18:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -326,33 +272,6 @@
       "source": "The Robot Report"
     },
     {
-      "sourceId": "robot-report",
-      "title": "Robots don’t run themselves: The workforce powering physical AI",
-      "url": "https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/",
-      "excerpt": "The addition of physical AI to the workforce requires more key performance indicators than throughput, according to the president of HireArt. The post Robots don’t run themselves: The workforce powering physical AI appeared first on The Robot Report.",
-      "publishedAt": "2026-08-22T14:30:21.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "The technology that could bring robot mowers to one in two American lawns",
-      "url": "https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/",
-      "excerpt": "Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes Sunseeker's founder. The post The technology that could bring robot mowers to one in two American lawns appeared first on The Robot Report.",
-      "publishedAt": "2026-08-22T12:30:08.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "特稿丨世界机器人大会成全球观察中国“机”遇窗口 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYjZmNVlCdkVPS09nS2xVX3ZLeGdIWDkxYWhld2NfbW4tTEc2TkEwNkdWNS15N0thQjF2VzdOdjBPY0pVWFgyZ054Y285YWdiV09rX1d1Sy1jamZOSzAyQjgwODVvZ013TjVWelJRbnRpMFpHNnNjdTRJTmVKZw?oc=5",
-      "excerpt": "特稿丨世界机器人大会成全球观察中国“机”遇窗口 新华网",
-      "publishedAt": "2026-08-22T10:38:14.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
       "sourceId": "wrc-news",
       "title": "2026世界机器人大会在京圆满落幕 “北京机域”绘就具身智能新蓝图 - 北京市人民政府门户网站",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxNHd0Q2trTm5Uc0JlcjJ2eUxhYjFFZEZ6d3dGVG5wRkhxZlo0T1FaNEdPUG5yWkJxZzBFb1J1QlZlWWVXVWlVbGpRdTZ1dGZ2SmN5TDk0dVgxSnhjR3NjUkxSSlF2NVQwa0g1U3pzRDMwYUxVdmJN?oc=5",
@@ -408,15 +327,6 @@
     },
     {
       "sourceId": "wrc-news",
-      "title": "2026世界机器人大会迎来大量观众 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aeVJ4RmpJMXd5SHhNampGaDFraDcxU1k4dzFFakNUQzB0eC1HYm1taVBHXy1KZTFWM21sSDdKUU55aVNDOEhaeGprVDJwUUNxcXRZN0xFU3F0eXhfemp2QWNONTg5enkyQVg1MG1uMkVoLXRVaXQzRHFJdGNucDQ?oc=5",
-      "excerpt": "2026世界机器人大会迎来大量观众 新华网",
-      "publishedAt": "2026-08-22T13:31:01.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
       "title": "2026世界机器人大会｜杭州智元研究院携十大科创成果亮相世界机器人大会 - 中国科技网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwenM2MTVub2xQamxSNm5jMlQyTVduNWM3YTdzaE14djAxOWJsdk9WWGx5bklZTHNPb3FQYzFxRmdPSDBVbm53eUItVndoVzRXSVU2ZWJqamw4YVVPcnR6ZEs5N0d5bWNxWG5WWldmTFE?oc=5",
       "excerpt": "2026世界机器人大会｜杭州智元研究院携十大科创成果亮相世界机器人大会 中国科技网",
@@ -448,15 +358,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMndJX0txeHhIU2JlMDVQQnNuWklGb2pyaWhhTEdreEt3TnpkeFllTk1LdWZDQk1QV0JUU3c1dmpMN0xJRTZPbUZQa3Z2eU1HU0F1bVYwWDh6LURJemdfYVpsX05HVllxTlM0TVRSaW5NeXZFUFRqcG9FU2xLbDczaA?oc=5",
       "excerpt": "2026世界机器人大会：还在看机器人拳击赛？人工智能开始进入“蚂蚁搭桥”的合作时刻 新华网",
       "publishedAt": "2026-08-23T09:30:19.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "世界机器人大会期间，神州控股科捷联合大咖机器人呈现仓储实战场景 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10Nk5GcGExOFB3UnRPS0E0V3g2UjV3RVczeVJXVnlYRmtIaHEwMlhDV21BWTh5RjRwZU1nd1QtbjNuQWNrR1pSbVVwaG5LMmQySmRKV3RZVWtPMTg4OUxZREhyVC1kZTV0WXdLcmFCV3Q?oc=5",
-      "excerpt": "世界机器人大会期间，神州控股科捷联合大咖机器人呈现仓储实战场景 中国科技网",
-      "publishedAt": "2026-08-22T03:21:04.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
     },
@@ -656,15 +557,6 @@
     },
     {
       "sourceId": "tactile-news-en",
-      "title": "Spokane startup auctioning returned retail goods moves HQ to Seattle area - MyNorthwest.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZSGlYTlF2aTYxbnBTMG1DVWttc2tnVW0xbGF6Wm9BcVZ1VG1KTDI5NFNDV3pfajBOdW9pTWt5Z0JVX05VclpNM0V1RFBIUTdZN1FyX1ZQdFNlMkxBMm1pVDRyME5pcF8xOG1jbmI0d0lMdHh0WWc?oc=5",
-      "excerpt": "Spokane startup auctioning returned retail goods moves HQ to Seattle area MyNorthwest.com",
-      "publishedAt": "2026-08-22T12:00:33.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
       "title": "RoboSense Interim Results: Robotics Business Accounts for Nearly Half, Three New Product Categories Accelerate Transformation - Gasgoo",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQSWZNRE90amtWVkVGaks2a083SVlrdWVmam1semxQNUk0aW1OY1R5dy1JMl9kNUNZWWh6UHNMbjFSTVlRdXJFbTl5X0Y4ZkRjWlNaMXpOclBFU2I3MjNtbFNMQ3hybnF4anNJMng1OV9uTFlHOVh2R3JJTWxkWUVPMkd5MVJldEs1YzYxNHM0bnJiZDhsb2ZBZXJxSHJtdUVRVS0xbkxFRHl4QnBHLVJySFd3emxtWG5UMXF0V3Jjb2dmV0ZfWjZlcUdvZU9FYkR3bzdfNmVkS1hfUEJHUm93Ym8xbXB5S3ZMOUhEajg4RDM3Sk4za055QkV0YlNNcXNFR2E5WENiS2ozZmtaUHZYYzBn?oc=5",
       "excerpt": "RoboSense Interim Results: Robotics Business Accounts for Nearly Half, Three New Product Categories Accelerate Transformation Gasgoo",
@@ -701,15 +593,6 @@
     },
     {
       "sourceId": "tactile-news-en",
-      "title": "Front Page for Aug. 22, 2026 - The Spokesman-Review",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2d1pEYkRWazlUT2J3V0FhZFhySy14Tnh4cTBEMlhNbDJhU0YxNzFuUld6NFpPVG9pdGhNdG5PdTZwXzBNOG9YVTBxRVo3cE8zMVpsOThKeWw2UXBv?oc=5",
-      "excerpt": "Front Page for Aug. 22, 2026 The Spokesman-Review",
-      "publishedAt": "2026-08-22T07:20:32.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
       "title": "Washington State University | Research, Education, Land-Grant - Britannica",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12dktwdXpRc1pRUm01d1R5SmZUTDdyV3VpM0lxTWtFUzNlZ0FhX1V6WUYyT0ZNcnZsX0FTVmRjcVpQMlJySG9lT2dEajlOS09jZnJCb21ueDFZd0hNVU1qZjVWV2tCaGdHeVZYWg?oc=5",
       "excerpt": "Washington State University | Research, Education, Land-Grant Britannica",
@@ -732,15 +615,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05d3lSYUs5MXJpOHFNQU1CQ1B3bDEtcmRuZkFVNTNUaldZcWZKbTF1aUZ1MUNCQ0tSRXpBandScXlheTlMSVo4X1pLb29zUl85Q2hn?oc=5",
       "excerpt": "Embedded Software Specialist Beyless Raises USD 4.2M Series B, Targets 2027 IPO Wowtale",
       "publishedAt": "2026-08-26T18:55:46.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Tacta Systems Marks Company Launch With Emphasis on In-House Robotics Development - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUTVOVW5iSHp5Z0dHZzJtdmM2S29MVU9tWXI2M1BRaFZ3MWtLb0plRXpfUXJuRzRuVjJEMFF0UzlRNjlWdkZJZ042c24xckVKVHhQZl9VdS1vYkRxUkJpY0Q1NHJNRU12MlVpdWpzWDZoTmR5UUl2NWJKWmlaa3BOOW9yM3lzbmxxaDM3a2pNVXdTLXpDRXdLYVlvNFVqTkQ0eTItYm5VTmdRRHA1WDMtcXZSYklsSDJSMFp4OTBRNlFoU1BGaUdvSA?oc=5",
-      "excerpt": "Tacta Systems Marks Company Launch With Emphasis on In-House Robotics Development TipRanks",
-      "publishedAt": "2026-08-22T19:25:35.000Z",
       "category": "tech",
       "source": "Google News｜触觉传感器"
     },
@@ -971,15 +845,6 @@
     },
     {
       "sourceId": "wrc-news",
-      "title": "非夕科技亮相2026世界机器人大会 展现机器人落地多元场景 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1halM0REZvWXhvVG1ZSHRXdGlIV3BKUTdkRlkwVUZuUjc5cmRPbzRQZFBodDJkUkNKSndBbUZBQUtFUVprNjQwRnBYRXFySXJidmhlbkc3ZUN3YTVmUWJvSWs5azByVVhlXzhDUW1Qd2s?oc=5",
-      "excerpt": "非夕科技亮相2026世界机器人大会 展现机器人落地多元场景 中国科技网",
-      "publishedAt": "2026-08-22T03:20:23.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
       "title": "世界机器人大会闭幕，发布44项新技术、新方案 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qSnhwTjJEanVxMVgwWVJ6dmstbkdiNWlIcWU4UkRkX0JhSU40X1N1Tll4dUtuQ0FoTlI4NVgxNzhfaEhvWE5FSnlJUkNKRXd6bFVsT0FJbDJfd0Ntb0dDZTBn?oc=5",
       "excerpt": "世界机器人大会闭幕，发布44项新技术、新方案 新京报",
@@ -1060,6 +925,114 @@
       "publishedAt": "2026-08-28T06:00:00.000Z",
       "category": "politics",
       "source": "OpenAI News"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Electronic skin could allow robots, prosthetic devices to perceive touch - Today's Medical Developments",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHBmeDRDX3l5NUg5Y0RnRXJLNWtZUzcza0ZSZEs3UHQwZWcwb1lUUzctZDVpNEJyc041X2dnWExheWNZOHM0Mkl6WUxickloM25rc18yWnhKMkdWeEdzOGdiZWxpWFhmSGtaLVRWVTFncnJVRXFNR25NQ1ZNQzVrTGpjek1XRDR2M0o3NXJoMzRyRFR6M2c3RVJobnMyanBYVWM3alVBQXZiZk5ucF9F?oc=5",
+      "excerpt": "Electronic skin could allow robots, prosthetic devices to perceive touch Today's Medical Developments",
+      "publishedAt": "2026-08-29T06:00:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "WSU scientists create electronic skin for prosthetic limbs that might let amputees sense temperature, pressure - Yakima Herald-Republic",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPVDN6NkNfUTktM3RxbWpzSVlXTHhvXzg5TWZNblgtZC1WcVBta2lfSGMxUE12U0FvYlA3N1B4TUVETkhhQmJYeWtZb2F5QjdodTFxQVlIay1HMGJ2anZNaWtmUXBHeUdaRldsd19SS0k4ekpyRGVDWVVSRVZBUDRDcDdHSUo1SllUQkFCQkJGNWZ6OGYybVZNNzRuakNrSGtJNzNIV041djM2SWE3dlU4cmd2Z2ltc1o1enlkSk5RaG90T2RUVkdUeFJlMmdZMnB1VDFXTGU4Sk1ZYkd0Zm9MNnYtRlVkOWhaYTVCaWszbmxhS3pjY3F3WU5CRVhqZkpUQUNpaW5uU3RSeDdfalVnYUNnVFRIVl9ERWlnZFRfem9qaGlXdEtsQXNma9IBsAJBVV95cUxPcXRNNTFNVlFlaWUta0h5aWhYV2h4UmxpSEZHNEVJSTZuUkhvN3VOVFFhd1ZsejFIeTNyYndRdDhZUE9xQXJiWWZ4bFJieEl6dGdSUmFvX193RzMxZ29qVUpfeXE5STNkTXcxVVFGei1HZE5jQmpXUW5EMGZKMGg3eXNFekdWSUZlWm9Salp1Q0Z1NXVvYXkxcmJsVVFvcGJ6MXdVbUFKZWdKSmJTR1prUEJKc1c1TU1IY213ZlRTbDcxTDNMUDZVRHByckxzV0hkTlFubENiM3lURE81VDFpM3ZwUTQ5cF8yb1AyNVplTzFSOUFoaFNJYkZiWnZVVEEwYkVhdzZrRnNsUnZsUk9mN2FMQWs2TGhwWFNmM3BmZ0JPT3BSRGFmcG9qYkR1Y3I2?oc=5",
+      "excerpt": "WSU scientists create electronic skin for prosthetic limbs that might let amputees sense temperature, pressure Yakima Herald-Republic",
+      "publishedAt": "2026-08-25T03:45:40.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "​人形机器人六维力传感器供应商蓝点触控完成数亿元D轮投资，广汽资本领投 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zSVNzeEE2d0o4VzNoMl9OUDlnTW1BZGdUMUMyN3FVX0U3NTAtdmxXTHZoc3pUNUFFWGJKRkl3dVNQYW83X2xLeW9MZG5Fb0FZR2R6S293?oc=5",
+      "excerpt": "​人形机器人六维力传感器供应商蓝点触控完成数亿元D轮投资，广汽资本领投 QQ News",
+      "publishedAt": "2026-08-27T08:53:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "被高估的视触觉：容易复制的生意，能有多大投资价值？ - 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWNHZaNkl0UHJQVTVkOGNkMEg5UkdhS2dWNS0xbDU2RjQweGxnb0lMQ3BNaDhyaERCZmE5eHBBVFVPdlY4NmxrVA?oc=5",
+      "excerpt": "被高估的视触觉：容易复制的生意，能有多大投资价值？ 智源社区",
+      "publishedAt": "2026-08-29T02:10:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "#机器人有了真实触觉 从“灵巧手”到“全身覆盖”，河南企业让科幻照进现实。2026世界机器人大会现场，全球首款电容式全身电子皮肤惊艳亮相！当仿生机器人Moya穿上这件“河南造”的触觉战衣，它不仅有了“知觉”，更有了“温度”。（顶端新闻记者 刘泽林）#河南科教卫 #河 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zOTJWTkV4U3dTQ2x0eU9LT3BYMUduLXhVdW9KSElQM1J1LWNaUzNBWjVLSEVjbkRfMDhfN2d6UE93Y2pUTVY0UHBxRWZvaTZXaHVXeW9BRXhwVTBHM3JGTDZCaFJ3VXdMdlNF?oc=5",
+      "excerpt": "#机器人有了真实触觉 从“灵巧手”到“全身覆盖”，河南企业让科幻照进现实。2026世界机器人大会现场，全球首款电容式全身电子皮肤惊艳亮相！当仿生机器人Moya穿上这件“河南造”的触觉战衣，它不仅有了“知觉”，更有了“温度”。（顶端新闻记者 刘泽林）#河南科教卫 #河 搜狐网",
+      "publishedAt": "2026-08-27T18:58:54.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "行进中国｜具身智能“卖水人” - 紫牛新闻",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wR3lpYk9DQ1pZdXNZNndSNHp1bVI1Ym9rLS00NHBHNFB4bkRETlJQY3ZibXJCcjRaWEdqOWJXLTdkUlBfSk1vQ24wRU0tWkVhblZvaWhsaFBJLUk3eUVjb3I5ekRtWG0y?oc=5",
+      "excerpt": "行进中国｜具身智能“卖水人” 紫牛新闻",
+      "publishedAt": "2026-08-28T12:58:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "帕西尼展示触觉感知新品，助力人形机器人交互@世界机器人大会 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05bG9OaVdxNl96MFdSMTRZOXV5dVZnRzNOSXk0N0JWMXpPZWJPVlRXUVNRU0YyVHNXYTBZbms4QzNCcGFIR1o4VXFSa1NlU3RyOUdN?oc=5",
+      "excerpt": "帕西尼展示触觉感知新品，助力人形机器人交互@世界机器人大会 电子工程专辑",
+      "publishedAt": "2026-08-23T23:11:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "脑子越来越聪明，手怎么还这么笨？ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSNDQ4bDVNREY1dlNsb3ZycGNNV1VheE0weHA2U2toazlWNzZQNGt2SThPeENuamdZYkJyVFJzSjY1WjdCUWdYZmpFLU5JbHAyOFF5NnZsRHJ3aFI2SlZsYzc5Z0Fqdzg?oc=5",
+      "excerpt": "脑子越来越聪明，手怎么还这么笨？ 搜狐网",
+      "publishedAt": "2026-08-27T23:04:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "WRC观察： 一颗传感器的二十年，撑起中国机器人的最后一毫米 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclV4aGFxQlQ4WExKTU9KSkxYbFVyc3BJRzBPTUt2WThEU1V1YXNOb3lHZDNoREJVdFhHR3A1TjdRYTNxT01TNkYxUElSRzViZVZsYjBneXR1WTk1QkNoOUo3VjFRMFlPTGJibjhTTVA0aUR6U3k3aVhaSjhNaHBqdUY3a3lxczJx?oc=5",
+      "excerpt": "WRC观察： 一颗传感器的二十年，撑起中国机器人的最后一毫米 搜狐网",
+      "publishedAt": "2026-08-23T14:08:58.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "WRC 2026｜帕西尼新品出圈：以全栈技术解锁人机共生新图景 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWk5paHpBT2ZPLUlrRTVWX1NzT2VHZjlaMndlMnFkSHhidXFkYVdhajVHRDNXa0FHdXRXYnNBckM3YkRGdm10ZE52QTdMRHhLeVJFVjBLZGdIS2g1UnNBc3l3S3l1eGYtMHpEZTFwUGdJaHAwbFdDTEN3VjNvRXR4bGN5UVdZWDJSdm1pZQ?oc=5",
+      "excerpt": "WRC 2026｜帕西尼新品出圈：以全栈技术解锁人机共生新图景 搜狐网",
+      "publishedAt": "2026-08-25T09:11:04.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "The differences between decentralized and centralized power in swarm robotics",
+      "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
+      "excerpt": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the best of both. The post The differences between decentralized and centralized power in swarm robotics appeared first on The Robot Report.",
+      "publishedAt": "2026-08-29T12:25:31.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "一周园区要闻盘点〔145〕丨2026世界机器人大会开幕；第十届中关村国际前沿科技大赛启动 - ncsti.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wSVNzOVRPMjBHTU5jUjVuUmQyUU5FWkZIRWNwRG5ETWNfRlhaTTZ1VE1zT0ozOTBXWDl4NkQ1dnA0MVNlZE5zRjgzRUZEdkZlQWttYVN4c05fT1dXMnJWeTVoME13WWExRTZTYjhvSmFndXVGMVFJRUhMQjc?oc=5",
+      "excerpt": "一周园区要闻盘点〔145〕丨2026世界机器人大会开幕；第十届中关村国际前沿科技大赛启动 ncsti.gov.cn",
+      "publishedAt": "2026-08-25T12:04:26.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
     }
   ]
 }

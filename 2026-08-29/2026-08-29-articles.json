@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-29",
+  "articles": [
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Mechanochromic tactile sensing - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSVlhTm5EVzdaSlNCdWhIZTFWNmdjREVPZmp4X29NRkRtUFNjWXU4eG1TNEo5STRDZ245blNwWHlvcFJ6anI5YWhhMU5CT0ZWRml2Z0dqWjJGSW9Zemtz?oc=5",
+      "excerpt": "Mechanochromic tactile sensing Nature",
+      "publishedAt": "2026-08-28T17:08:03.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Electronic skin for prosthetics senses temperature and pressure - Futurity",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWjg4THM4SWt2d1BFU0xGM3ptMTd3aUZDc1NPQ3ZHMjJuWE41Yndqc180ZTZCMXltVE5IYUJIcWc0T0FJUmlnRy1IaWZ6enYxX3o4ZGlSSXN1TXhsamxJbi00TExBMEdhcHNfZ2tB?oc=5",
+      "excerpt": "Electronic skin for prosthetics senses temperature and pressure Futurity",
+      "publishedAt": "2026-08-28T17:41:59.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "From teach and repeat to SelfPath AI: The next robotics leap",
+      "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
+      "excerpt": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI. The post From teach and repeat to SelfPath AI: The next robotics leap appeared first on The Robot Report.",
+      "publishedAt": "2026-08-28T23:25:06.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
+      "url": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership/",
+      "excerpt": "Deere beats Q3 expectations, raises guidance, and partners with Reservoir on a $10 million agtech AI initiative. The post Deere faces headwinds in Q3 update and announces Reservoir R&D partnership appeared first on The Robot Report.",
+      "publishedAt": "2026-08-28T21:06:40.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "EXL acquires physical AI model developer iMerit",
+      "url": "https://www.therobotreport.com/exl-acquires-physical-ai-model-developer-imerit/",
+      "excerpt": "The EXL and iMerit executives explain how their companies' combined expertise and platforms will help developers with reliable physical AI. The post EXL acquires physical AI model developer iMerit appeared first on The Robot Report.",
+      "publishedAt": "2026-08-28T17:36:09.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Video Friday: Meet Microduck",
+      "url": "https://spectrum.ieee.org/video-friday-microduck-robot",
+      "excerpt": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul: 22–23 September 2026, SEOUL IRO",
+      "publishedAt": "2026-08-28T16:00:03.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    }
+  ]
+}

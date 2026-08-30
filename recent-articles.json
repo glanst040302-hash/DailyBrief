@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-08-29T23:25:25.968Z",
+  "collectedAt": "2026-08-30T01:36:44.039Z",
   "articles": [
     {
       "sourceId": "tactile-news-en",
@@ -331,15 +331,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwenM2MTVub2xQamxSNm5jMlQyTVduNWM3YTdzaE14djAxOWJsdk9WWGx5bklZTHNPb3FQYzFxRmdPSDBVbm53eUItVndoVzRXSVU2ZWJqamw4YVVPcnR6ZEs5N0d5bWNxWG5WWldmTFE?oc=5",
       "excerpt": "2026世界机器人大会｜杭州智元研究院携十大科创成果亮相世界机器人大会 中国科技网",
       "publishedAt": "2026-08-23T06:57:11.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "2026世界机器人大会迎公众日 机器人消费街上演科技体验热 - 北京市人民政府门户网站",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDUHhQbHVCRk9icWktRUNQV0Vsa3d4cVFFeDFDVUFqUTVRb3B3MGxKY1JiT01UeW1FcW9PaW5zVi1oQUUtYWZqU05SaW0zcW5MWnFSczFUMVNiay1oYXdWc3NNSmlWay1uRFF3N29YNmdZZmlndHNLd19EUjVNM0U?oc=5",
-      "excerpt": "2026世界机器人大会迎公众日 机器人消费街上演科技体验热 北京市人民政府门户网站",
-      "publishedAt": "2026-08-23T01:32:00.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
     },
@@ -854,28 +845,10 @@
     },
     {
       "sourceId": "wrc-news",
-      "title": "2026世界机器人大会迎来大量观众 - 光明网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zdFFQSEVuaGFKUmFWdkFDLTNuZ1pabkxFN0p3VEtLc3hBWGdwVWh3Ujlaa2hlSDR4YWw3ZS1CcUd3VHVDRW5NTkQ5WGJOZ0FpT2tqTnQ1MlRKNGVCWXNwRjF2eVJpZw?oc=5",
-      "excerpt": "2026世界机器人大会迎来大量观众 光明网",
-      "publishedAt": "2026-08-23T00:35:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
       "title": "2026世界机器人大会观察：机器人何时进咱家？ - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kamh2OFB1dkEzbi1yR0otSkhNODNiMUJzREVtVjNGdDFOeEJJSkkxWnI0M1FtUHUyWG1VTzNyMzJpTWVrRTlJTjI2czNMc3o4Z19ZenlkdjFtSjhrY2pyQw?oc=5",
       "excerpt": "2026世界机器人大会观察：机器人何时进咱家？ 东方财富",
       "publishedAt": "2026-08-24T08:57:21.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "中科慧灵亮相2026世界机器人大会 - 科学网—新闻",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wTS1sZjhxbnlQRkNzRjlkZm5oaktxY0x3UGl1c1p1X1dZdGJQcm4xTjBiYmg4OFotbWQ1QkktRG51VVZ5bVVEVE00MElHTjExQWhJR2JRRVdrTjFhX3RtNjBhelk?oc=5",
-      "excerpt": "中科慧灵亮相2026世界机器人大会 科学网—新闻",
-      "publishedAt": "2026-08-23T01:23:43.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
     },
@@ -1033,6 +1006,42 @@
       "publishedAt": "2026-08-25T12:04:26.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "机器人上“学堂”，在真实场景练出真本领丨科创未来 - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNjdBLXdnZ0szSktNWU9KTFFjeXFwdDRMTEkwNHp1ZFZJVXhZMmJNRnJvUzIzVzRPR1FGRklQYm5QSmoza19OQmw0YVlqaXNHOVYwSFIzbHowcUNodEVRY1pEQQ?oc=5",
+      "excerpt": "机器人上“学堂”，在真实场景练出真本领丨科创未来 四川新闻",
+      "publishedAt": "2026-08-24T08:57:18.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "汉威科技与卓益得联合发布全球首款电容式全身电子皮肤 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cVVhRGZpRlp2NTFUVmRac2dtYW9UODRKVUhHTk05SmZyVTBVVVZ0bVdLTEZNZy0zZjVhbXN1VFY0NGJRRzFRWEJKcXNkVW51WFJDQmlR?oc=5",
+      "excerpt": "汉威科技与卓益得联合发布全球首款电容式全身电子皮肤 QQ News",
+      "publishedAt": "2026-08-23T10:25:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "触觉传感10家最新突破企业盘点：从“能感知”到“会思考”的量产博弈 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FallhZ1BWRk5tbVVtSDhnTXl0ZlZvSFZidi1zbm5ReEdXd2R2aG1LR21CV3VEelA4MWpZY0xnSldTT3F2elRpck14WDZ1alFXVld3?oc=5",
+      "excerpt": "触觉传感10家最新突破企业盘点：从“能感知”到“会思考”的量产博弈 电子工程专辑",
+      "publishedAt": "2026-08-26T03:50:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "千觉机器人：让灵巧手拥有人手级别的触觉感知能力@世界机器人大会 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oeW5FbFhpNjItc2xhbDNVX1NzdHBEYzVtZVNKS19ON2lDWV9hYWV3WWE3OWpEdFBScVhVdlNSclpKZVpuM2MtaUdCNmwybGY4WTJv?oc=5",
+      "excerpt": "千觉机器人：让灵巧手拥有人手级别的触觉感知能力@世界机器人大会 电子工程专辑",
+      "publishedAt": "2026-08-23T23:11:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-08-30T07:22:28.789Z",
+  "collectedAt": "2026-08-30T13:15:10.845Z",
   "articles": [
     {
       "sourceId": "tactile-news-en",
@@ -30,37 +30,10 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "WRC观察｜让人形机器人更像人：柔性触觉传感器引爆千亿新赛道 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG9qOXVjd2FncmZSN3Q1YkxUdUNFNmdDanFqM0dCcTM5Y2NBbWlpVXBqRTRURFJqYkQ0WU9BM3ROLTNmYUhvTE5hRzJMQWZBenpTY1BFdUxpZTFIQ2x3RG9Qb19pRTZ4ODh5dXF3MnpwOC0wZVBBVWIyVnZ0eDd1bGFqbF95X3ZMYnFUSzB5MDNSZDZlWjdYWG44dEJrZ05YTGNxbjFfNA?oc=5",
-      "excerpt": "WRC观察｜让人形机器人更像人：柔性触觉传感器引爆千亿新赛道 新浪财经",
-      "publishedAt": "2026-08-23T12:31:16.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "香山股份二季度业绩筑底企稳 发力机器人电子皮肤打造新增长点 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XSDd0QURnR3FGckoxWF9fVFRnbEl1NUZoVW96SkNXSUZ5VkxrLVR0MWNKaVl2VU1lR1lIOGNJeURzTkNpLXlqTFJzcnNSLVIwYXpNMjlqakRxVjdDYVlKbA?oc=5",
       "excerpt": "香山股份二季度业绩筑底企稳 发力机器人电子皮肤打造新增长点 东方财富",
       "publishedAt": "2026-08-25T14:27:14.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "全球首款电容式全身电子皮肤发布，为仿生机器人提供类人全身触觉感知与智能交互能力 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMVHVrNkR2MFphS2JTcHllbG04ajFmM2VIek12eUlaYkJFLXpmSG1OOTdPNDNFbU9vSUhwc1I5a2V5YkpWTmlza1hOcUlmeFpGNWo5QW9zdUtLU3g1MmZ6U3VmYUZiNHNVbjN0Yl8tMlZBeW9HaENycnl6eVladzQ?oc=5",
-      "excerpt": "全球首款电容式全身电子皮肤发布，为仿生机器人提供类人全身触觉感知与智能交互能力 新浪财经",
-      "publishedAt": "2026-08-23T10:01:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "汉威科技与卓益得联合发布全球首款电容式全身电子皮肤|世界机器人大会|仿生机器人|灵巧手|触觉|哑光_手机新浪网 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlNYaWlMbUJXVTNGWmpZUDluTzJ2enhrNl9Ycy1OenF2d0lvdDktbVFpaEhsVmZGQk1pdWc1amNEMGNFTk9WUjhVT0RUbW5XeWdYUGd2RzQ5aUx4bnhERk0yMUF4WEhSS3VQd1BOVDdGU2VmY1cxQzNYZ1pETUIwM3FVWGJncC1nRVhoLU9vNFlVMXVFWTltVmVEUlRreXFOeUpqYnRMQQ?oc=5",
-      "excerpt": "汉威科技与卓益得联合发布全球首款电容式全身电子皮肤|世界机器人大会|仿生机器人|灵巧手|触觉|哑光_手机新浪网 新浪财经",
-      "publishedAt": "2026-08-23T10:45:35.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -263,15 +236,6 @@
       "source": "The Robot Report"
     },
     {
-      "sourceId": "robot-report",
-      "title": "Use a digital twin to explore automation before committing capital",
-      "url": "https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital/",
-      "excerpt": "While a digital twin does not necessarily replace a systems integrator, it can help manufacturers evaluate robots and plan applications, says RoboDK. The post Use a digital twin to explore automation before committing capital appeared first on The Robot Report.",
-      "publishedAt": "2026-08-23T12:30:14.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
       "sourceId": "wrc-news",
       "title": "2026世界机器人大会在京圆满落幕 “北京机域”绘就具身智能新蓝图 - 北京市人民政府门户网站",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxNHd0Q2trTm5Uc0JlcjJ2eUxhYjFFZEZ6d3dGVG5wRkhxZlo0T1FaNEdPUG5yWkJxZzBFb1J1QlZlWWVXVWlVbGpRdTZ1dGZ2SmN5TDk0dVgxSnhjR3NjUkxSSlF2NVQwa0g1U3pzRDMwYUxVdmJN?oc=5",
@@ -304,15 +268,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjA2cFc0X0RTTGxIQl95SWdtZmZxOFQ4NFBqM292YzVEa2szb2gzZDhqVmw4UEM4SlIzQ1hBakgwajU3MmE1bnFManQwTlh6VU1ydVUzYUlTVHRIeHQ2TlVMXzVLSDNQdzUwT1RJVndITDNsNHhDT1AyVWhOZmhXSWZQRnpKUWdXbDZ5c2xjUzdyZnc?oc=5",
       "excerpt": "近万平方米“机器人消费街”亮相世界机器人大会！全链实景描摹智慧生活新图景_资讯信息 北京经济技术开发区",
       "publishedAt": "2026-08-25T07:00:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "2026世界机器人大会：还在看机器人拳击赛？人工智能开始进入“蚂蚁搭桥”的合作时刻 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMndJX0txeHhIU2JlMDVQQnNuWklGb2pyaWhhTEdreEt3TnpkeFllTk1LdWZDQk1QV0JUU3c1dmpMN0xJRTZPbUZQa3Z2eU1HU0F1bVYwWDh6LURJemdfYVpsX05HVllxTlM0TVRSaW5NeXZFUFRqcG9FU2xLbDczaA?oc=5",
-      "excerpt": "2026世界机器人大会：还在看机器人拳击赛？人工智能开始进入“蚂蚁搭桥”的合作时刻 新华网",
-      "publishedAt": "2026-08-23T09:30:19.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
     },
@@ -566,15 +521,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "WRC观察｜让人形机器人更像人：柔性触觉传感器引爆千亿新赛道 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11cU1GLTVsMDJEMmZKclkwbkZtRF9KQWEtV21vZm1VS3A0TDIyck1Mbmo4dVNRcXVDR09GWHlFUVNNVU54bFh2T2JxdVJPaGtrT1RqdUt5amx3NkotUUNIenZDdmNON1JjQmE5V0M3OFRUZ0p2SzJ6Q29qd0o?oc=5",
-      "excerpt": "WRC观察｜让人形机器人更像人：柔性触觉传感器引爆千亿新赛道 新浪财经",
-      "publishedAt": "2026-08-23T12:16:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "以全栈技术解锁人机共生新图景 - 天津日报",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOandmWXZEOUtPdGtZU0RCbWV2eC1JNzlLa3NHVlNfLTQ4ZE1ITnVOWDFjZ21ObmU3d2tiZGFOQzVfa2F2a0p4SkV0M3h5Y25tTnBvSjU2MTJINXZ6Rm8xeVJ2TFJJaGR0dTU2WGtLNlZrTnBlQldHVmg4VUtzdVN1Q253?oc=5",
       "excerpt": "以全栈技术解锁人机共生新图景 天津日报",
@@ -606,15 +552,6 @@
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQalpkMVNWTEZmSDk1VG1hWXhJdWRnQWp4NVZ3enZpOXh0YkFld1otZ1NpU2g1dUhjbXJySFl0UHdqeTFwRWlNNDdmTFRNVzZJdlk3UHhTZmtaY21Gb044Q2p0emgwWTNWMWdyeHJsY2RaSzJDRVdhSVdZWDEtMDlvVkU3N3FZbjN4eURUSEQ0R000cHFQS2RhVmxnOWYydVN3WlJscVNURmFBWlpzZG5QMW5DUTNmbjUzbnJZOWdQRWxiS2NTbEtodTN5emhUemx5ekdHaUhlYW1VOUFrNHlHNFN1YVlhak0wRlZrQVlyNkFmYlE2MFFvSjMwY0J6LUJ5NVBJRWpmTlBRYUFLSHpFQUxnOWxtTWtfNDRnMnRIR2pTZkFoV3BSbXFVOUdoMkJIWUh2Yll3UEttMGx4TEZ5UG81WVY0Q29hYlNDRE54STlRWUNMUWx1WjdIRkVpWlpfdE5RTV9nYlVEUzJ4NFd0ZGVGTkw4QlU?oc=5",
       "excerpt": "猿声科技发布模块化多维触觉动捕手套及多款触觉传感器 gasgoo.com",
       "publishedAt": "2026-08-27T23:58:01.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "全球首款电容式全身电子皮肤发布，为仿生机器人提供类人全身触觉感知与智能交互能力 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YSnIxVGJfRlc0a3JmWk1CbUN6QnFNVHFjZjVXbFBZWUNYZEJWZ3M1dFFYUkNDTDNiNDFIT2REcmdDdml0bHRwWnNkZ3YyWDV2ZHZ6a1E4OGxoSzdUWnc0M0xxel9mOGJNUDcza203LUlLeEI5?oc=5",
-      "excerpt": "全球首款电容式全身电子皮肤发布，为仿生机器人提供类人全身触觉感知与智能交互能力 手机新浪网",
-      "publishedAt": "2026-08-23T10:34:47.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -964,15 +901,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "汉威科技与卓益得联合发布全球首款电容式全身电子皮肤 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cVVhRGZpRlp2NTFUVmRac2dtYW9UODRKVUhHTk05SmZyVTBVVVZ0bVdLTEZNZy0zZjVhbXN1VFY0NGJRRzFRWEJKcXNkVW51WFJDQmlR?oc=5",
-      "excerpt": "汉威科技与卓益得联合发布全球首款电容式全身电子皮肤 QQ News",
-      "publishedAt": "2026-08-23T10:25:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "触觉传感10家最新突破企业盘点：从“能感知”到“会思考”的量产博弈 - 电子工程专辑",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FallhZ1BWRk5tbVVtSDhnTXl0ZlZvSFZidi1zbm5ReEdXd2R2aG1LR21CV3VEelA4MWpZY0xnSldTT3F2elRpck14WDZ1alFXVld3?oc=5",
       "excerpt": "触觉传感10家最新突破企业盘点：从“能感知”到“会思考”的量产博弈 电子工程专辑",
@@ -1000,10 +928,64 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "汉威科技与卓益得联合发布全球首款电容式全身电子皮肤 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHa0xQTEt5anlUQTgzMVcxOTlLRm51d2RKd2pCeUV0UmVJN2staXkxLXAxZXZNV1gtNFBmcG5fT1NTNkdaQTFUYjMwTWtKOUszeHpjZVk1VUlWUlR0ZVpaLUd4dmZJVjc4bEQzMnNXNTF4NDdIdzJzaXlaYmk?oc=5",
-      "excerpt": "汉威科技与卓益得联合发布全球首款电容式全身电子皮肤 新浪财经",
-      "publishedAt": "2026-08-23T10:24:00.000Z",
+      "title": "当机器人“长”出皮肤，一位创业新星的北京实践 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwSE9tWmxzWEkwOGlLYTMzNlhfQ0JKUmR0X0huaTFEUG5OYThrN1E0Ulhhb3ZVVkkwcS1SNWtLZWR0NVNjYy03dGZuQkRmbXN0b0JfSURHcHBfaG1NT0JnbHpURGtLRW9pSTJOTE1XVkVaUQ?oc=5",
+      "excerpt": "当机器人“长”出皮肤，一位创业新星的北京实践 京报网",
+      "publishedAt": "2026-08-27T02:01:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "途见科技柔性触觉数据采集手套重磅发布，仿生电子皮肤与具身触觉生态开发者计划正式发起 - 中国网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11ai1nZWlTSWF2TWNxMVU4MUVUcC1udVM1ekdjQVhVVHhfUnFQeEp3aEhranp5M1hNTU1vNUJjNnUzWFY0OXUzNTlhVU91OGdMZVNFNU15cWRuOXR2WkNqczNlWTdlZE5fZXQ4LXhBMA?oc=5",
+      "excerpt": "途见科技柔性触觉数据采集手套重磅发布，仿生电子皮肤与具身触觉生态开发者计划正式发起 中国网",
+      "publishedAt": "2026-08-24T06:36:37.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "WRC 2026进行时｜千觉触觉感知能力持续进化 - 中国网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BcEVvNW5aX19CR2dQVlNaYTlqOHU5NGpMdzJNd1pfOWp6UFdrSVpqbF9JeERNTU1fS3BRejNpYUc3RUt3Q0Q2dnNib3lBVlFvaXVlczU3dzZaMG12NUoteGNZT1J5czBHZXdKTmlXTQ?oc=5",
+      "excerpt": "WRC 2026进行时｜千觉触觉感知能力持续进化 中国网",
+      "publishedAt": "2026-08-26T06:44:29.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "福恩股份：目前暂未涉及机器人电子皮肤相关智能传感纺织材料业务 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zMEJlQTF2RW1IODliNmZkTmE4NzY0SUlvcUoxRHNsN2N4V1NlWFFwUU0zLXp1RW5lcFdpaWZ6eXJBcmZocS1OZHFVVWhzQ2hmbDl6VGRzNWpOMDhOOXpKa0xvVTRxajhzSzFv?oc=5",
+      "excerpt": "福恩股份：目前暂未涉及机器人电子皮肤相关智能传感纺织材料业务 TradingView",
+      "publishedAt": "2026-08-26T03:56:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "“力小了会脱手，力大了会捏碎”|世界机器人大会|中国新闻周刊|灵巧手|机器人|触觉_手机新浪网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGZ1YnA2ZzJfRjdJTWxyWHA3V1dSaWMySDlTQWZiRmc0Y0tjTktyMHJvckM5NTRDYlJnNkU3cHJXVWxfcDE4Wno5ZVRQVl9DQTdjN1JDdVhraVZ2R0ZWa0tfSVZ6MmFNZDVHb3p1bVBxeUE3ZVNjc1pWUXBxRXh3TlNjTVc2NnlIYWMxRnA1dVVuVEt2UC1EaDluNkNKdExnaU9lNWpqTHhMN2ZDZGc4Yk5B?oc=5",
+      "excerpt": "“力小了会脱手，力大了会捏碎”|世界机器人大会|中国新闻周刊|灵巧手|机器人|触觉_手机新浪网 新浪财经",
+      "publishedAt": "2026-08-30T12:40:38.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "机器人开始“摸”世界，帕西尼做起触觉数据生意 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFFNNHdnbzF3RnFaRXgtdnBJTmtPOXdlZThQdXRPVURRUEpfeG5PVF9Gd1Q1NmxyaTdSN041Wm1FYUk4eXpZUEFfWlBEX1hGdmIwVVg1OXBBSkJlTUNSNVFnd0dHRjVHU2lBZHdsM0JHVFlvVjRXakw1R0g2LUNTMzRuUXg?oc=5",
+      "excerpt": "机器人开始“摸”世界，帕西尼做起触觉数据生意 新浪财经",
+      "publishedAt": "2026-08-23T14:34:29.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "无需纠结进口！苏州航凯微电全套机器人触觉&力控解决方案，高效省心 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1g0M3FpdUtDVEpPTVAtZnNndGZVQWU0c0Z3eWE5OUM5STlRbkhHd2NrMnFaY2dCYWZGSzJmZ3E3NnZGQWRQRURLZmRRZE5vNThJR3QyVEZncmpBUFl6ejgwZUVfUWt4NzVqc0g4ejViTWpxYUJobnY0R25HNy1idkM0NTVLQzJh?oc=5",
+      "excerpt": "无需纠结进口！苏州航凯微电全套机器人触觉&力控解决方案，高效省心 搜狐网",
+      "publishedAt": "2026-08-26T10:20:16.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     }

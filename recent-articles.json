@@ -1,33 +1,6 @@
 {
-  "collectedAt": "2026-08-31T06:57:58.067Z",
+  "collectedAt": "2026-09-01T00:07:47.925Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Europe Electronic Skin Patch Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUllNkZlalFPVmJYaVBTczN6NDRPREpVcG9FTkE3SHZJLU9LRlhsYnBMVm8xMzFfV2FMVXZpMlFhN2hTQUhfRzJoWGswWjA1OFJYVWlIRVBIODBWUHZqS2FjanpmOXozTXNYV1ZzcFlxeGUxWDRpZXRaWlhyLXgzS3JIU0d5RDdjWmhjdjl5czhGV0lHc21tYTJ3?oc=5",
-      "excerpt": "Europe Electronic Skin Patch Market Size, Share,Trends, Growth Analysis Report, 2029 MarketsandMarkets",
-      "publishedAt": "2026-08-24T10:07:53.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Electronic skin gives robots the sense of touch they need to handle delicate produce - Hortidaily",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFV2VkJyYklmRkFJQjFiYklkcVNSNFBiNkRyMW5kMF8ydzRnb3lkenpKVWZzZ0FrOW5NT3dTWGE2LXg1Ymo3U3F3aXljZzNvbGVpZGlxRlNfdTVrSnZ2d3kwRnFHLTJ4eWh5MUlOVXpUY19Pd1VFZzhEaEw5Z09udURXTHZYb1JhaExFMEtJcUNNeHRiTTFpSjJzTlJjQ2lYSWU3WDlyeUhXOXBoZldIdXdzYTlrX0VLc05WYjZsclk0ZzBaV2VB?oc=5",
-      "excerpt": "Electronic skin gives robots the sense of touch they need to handle delicate produce Hortidaily",
-      "publishedAt": "2026-08-24T12:10:34.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "集成压力与温度感知功能的电子皮肤，助力先进的触觉反馈技术 - 电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvSE80NC01V3VzVjV6WlZ0TEYwa0lQc1pzZlAtTXpEYWR2MkMyY1NsSV9xVWhhajBudGNiMTZSU1U5T1JZdnc3WlgxaHNGSGRybVNB?oc=5",
-      "excerpt": "集成压力与温度感知功能的电子皮肤，助力先进的触觉反馈技术 电子工程专辑",
-      "publishedAt": "2026-08-24T23:11:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
     {
       "sourceId": "tactile-news-zh",
       "title": "香山股份二季度业绩筑底企稳 发力机器人电子皮肤打造新增长点 - 东方财富",
@@ -191,24 +164,6 @@
       "source": "The Robot Report"
     },
     {
-      "sourceId": "robot-report",
-      "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
-      "url": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/",
-      "excerpt": "For agricultural and construction equipment makers to stay relevant as workforces dwindle, they need to add AI, says Agtonomy's founder. The post The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn appeared first on The Robot Report.",
-      "publishedAt": "2026-08-24T22:53:33.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
-      "url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
-      "excerpt": "Dogotix, the humanoid unit of XPeng Motors, has attained a valuation of $6.3 billion as it plans to produce robots at scale. The post XPeng Motors humanoid robot unit Dogotix raises $900M appeared first on The Robot Report.",
-      "publishedAt": "2026-08-24T20:07:09.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
       "sourceId": "wrc-news",
       "title": "一周园区要闻盘点〔145〕丨2026世界机器人大会开幕；第十届中关村国际前沿科技大赛启动 - ncsti.gov.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjLU9KclY2REpIaGNBUGdmLTd1OXZzam4yQkpIaGpBSU9UZHJvenpiTlpTVDdjWG1idDR0WDdrTXNtZWswSEtZS1E5djdRdkZ6WEZsV3RvLU1Dd3FEUXZYYzZxbU9kT1FJaUczbDdyYlg2UzFYV2M0?oc=5",
@@ -246,16 +201,6 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation",
-      "url": "https://huggingface.co/papers/2608.24479",
-      "excerpt": "Massively parallel simulation changes the data regime in which off-policy reinforcement learning (RL) is trained, challenging stabilizers designed for data-limited replay. Through controlled experiments across eight benchmark families, we show that these stabilizers are data-regime-dependent: parame",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "meta": "👍 87",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
       "url": "https://huggingface.co/papers/2608.26067",
       "excerpt": "Vision-Language-Action (VLA) models have demonstrated effectiveness in robot manipulation, yet state-of-the-art models such as pi0.5 operate under a single-frame paradigm, limiting their ability to retain past observations and develop precise spatial perception. In this paper, we propose StreamPI, a",
@@ -266,31 +211,11 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
-      "url": "https://huggingface.co/papers/2608.24877",
-      "excerpt": "Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-body viewpoint aligns with the wearer's vision, audition, motion, and hand-object interaction, but must",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "meta": "👍 9",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization",
       "url": "https://huggingface.co/papers/2608.25864",
       "excerpt": "Multi-arm collaboration is becoming a core capability in embodied manipulation. Recent vision-language-action (VLA) models integrate perception, language, and control, but most represent language as a single global instruction and do not provide an explicit mechanism for assigning and composing arm-",
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "meta": "👍 3",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
-      "url": "https://huggingface.co/papers/2608.24882",
-      "excerpt": "World action models (WAMs) improve robot control by modeling how observations evolve, but generating future observations at test time incurs substantial latency. Fast-WAM removes this process for efficiency; however, our matched implementations show lower generalization for Fast-WAM than for future-",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "meta": "👍 0",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
     },
@@ -354,15 +279,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMzR1TVlHV0l4NjdFOGJ2VVJNYWRkQjRDdkdQbHBrR1k4LXoxbVEwNVFtek9ldi1aQUF4cXZiVklZZ3VhbmxLeHN0NzdwSjlwcnZ6LTFJT0NXTDMwZHNNRldpZUdWWlJpZlF4Z2FWdzZHZVZ4RzV2ZnhXMWpRUDlaYlQ4S2otQlgyMVJuZEdYQ29hQ1YwT0ZWdEdUNUYzbnppUlFjSlhTNjdZbTlmMzg5Yk5VczJqNXItaGZFVkZWTmlIQnM?oc=5",
       "excerpt": "China debuts world's 1st robotic hand with full-hand tactile sensing news.cgtn.com",
       "publishedAt": "2026-08-27T12:14:09.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "The 3D-Printed E-Skin Giving Prosthetics a Sense of Touch - Hackster.io",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTBKRWJxNGk5aUpFQ1hzVXJ0YnFRR2pVWFFFNE1Rc2U0TnA4NHFWdk5pLWdOWjRHWjQzS0UwbTN1MTdIaWtaY1VKNXM3UGhyZE96NkR1RHA5UURJSndQRzROQlFJRXZZNk9tcllNTUk0ZVdYdDI0eWlaNHh1Mi0wMnVmMDl2c2dSaHRTNXN3dUhHN1RtdDFRREdtVW9NTzdn0gGmAUFVX3lxTE1oMmhIdWxxaHlmNl9IdzBNVjlkUUZPeTBIYjJILU1ITUppdDRnZkhhWGtGOGxWUzhpeGtSMXdzNWZFMWhIQ1pDRm1RU0RLMTVUNUV3TUJKRGYwS0VWa2QySjU2ckRxUF9iazQ5WnlvNFFHSktibUlWTGp2YzRKWmR3aHpYcEhSaHhjcWtvR3BqTDJGdllQMldNcWY2eFM4ZkZGUnFsMlE?oc=5",
-      "excerpt": "The 3D-Printed E-Skin Giving Prosthetics a Sense of Touch Hackster.io",
-      "publishedAt": "2026-08-24T12:05:40.000Z",
       "category": "tech",
       "source": "Google News｜触觉传感器"
     },
@@ -619,15 +535,6 @@
       "source": "Google News｜世界机器人大会"
     },
     {
-      "sourceId": "wrc-news",
-      "title": "2026世界机器人大会观察：机器人何时进咱家？ - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kamh2OFB1dkEzbi1yR0otSkhNODNiMUJzREVtVjNGdDFOeEJJSkkxWnI0M1FtUHUyWG1VTzNyMzJpTWVrRTlJTjI2czNMc3o4Z19ZenlkdjFtSjhrY2pyQw?oc=5",
-      "excerpt": "2026世界机器人大会观察：机器人何时进咱家？ 东方财富",
-      "publishedAt": "2026-08-24T08:57:21.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
       "sourceId": "ieee-robotics",
       "title": "Video Friday: Meet Microduck",
       "url": "https://spectrum.ieee.org/video-friday-microduck-robot",
@@ -754,15 +661,6 @@
       "publishedAt": "2026-08-25T12:04:26.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "机器人上“学堂”，在真实场景练出真本领丨科创未来 - 四川新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNjdBLXdnZ0szSktNWU9KTFFjeXFwdDRMTEkwNHp1ZFZJVXhZMmJNRnJvUzIzVzRPR1FGRklQYm5QSmoza19OQmw0YVlqaXNHOVYwSFIzbHowcUNodEVRY1pEQQ?oc=5",
-      "excerpt": "机器人上“学堂”，在真实场景练出真本领丨科创未来 四川新闻",
-      "publishedAt": "2026-08-24T08:57:18.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
     },
     {
       "sourceId": "tactile-news-zh",
@@ -965,16 +863,6 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control",
-      "url": "https://huggingface.co/papers/2608.24115",
-      "excerpt": "Multimodal large language models (MLLMs) can integrate long visual histories, reason under partial observability, and infer behavior from a few examples. Yet vision-language-action (VLA) models generally inherit pretrained representations without using this contextual capacity as episode memory. Mem",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "meta": "👍 10",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents",
       "url": "https://huggingface.co/papers/2608.25417",
       "excerpt": "Evaluation is shifting from static QA toward agentic settings where models act through external tools. We identify a critical yet underexplored capability within this space - dexterous visual tool use: fine-grained, closed-loop parameterized visual action in which models infer tool parameters from v",
@@ -982,6 +870,159 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "FibTac : a fiber-based pneumatic gripper with embodied tactile sensing - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85Qk94ckNoTjhqZGEtSGZkVFpGZWx5bWdPYzNzWUF3ejhodnNWcFl1cFYtR0t5MG5JNnB2R04wNmx1LUFyOWdnUnJiLTNkc0NHWGhiODVUSnBlMDM0Um9B?oc=5",
+      "excerpt": "FibTac : a fiber-based pneumatic gripper with embodied tactile sensing Nature",
+      "publishedAt": "2026-08-31T10:25:08.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Rat-Inspired Whisker Sensors Could Improve Endoscopic Navigation - AZoSensors",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhZE5NYlo2UVh2SHo0UUNvQVZXbEFUUHpNMkZKb1BkVFFtMmR0TGt6Z3dpNXZOTnE1cHV1R1dyYUY3dC1CajA1UzNBYUFUV1lZUWJsdDNQLXgzSnBFOEE?oc=5",
+      "excerpt": "Rat-Inspired Whisker Sensors Could Improve Endoscopic Navigation AZoSensors",
+      "publishedAt": "2026-08-31T10:32:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "How technology is transforming China's vegetable powerhouse - Hortidaily",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSThSYjNXYWs5WVBnMWJveXh5dTRSSjZkUmQzejNqT0xRZWRoMmhQZGluSGhGYXJveDBiMXRWenhrckJlcGxEcTZDS0hYRmotSXZCRHpGa1IyQjBVcG0yRnlrYW5yNDJJak94V3NLNmdaRkRpTS0xbHNEdk53UlhkQnhqQU0tcFMzWDhnUzc3SjNRY0dDY3RTSW5RaEJiT0lVcUpiMk9R?oc=5",
+      "excerpt": "How technology is transforming China's vegetable powerhouse Hortidaily",
+      "publishedAt": "2026-08-31T12:29:03.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "奥迪威：公司参股的合资公司推出应用“柔性电子皮肤”的AI陪伴机器人 - eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yclc3TmdPTEhTN1pET19aNGhlaXRhZzktcEd3bHpweXJxRXVGX2JmYjh4dVIyYTJlZXc4MGVOVzZpdFFjS05heEp3V0VIUWE3bjBGZEJlMjV4R0RvQTJDeQ?oc=5",
+      "excerpt": "奥迪威：公司参股的合资公司推出应用“柔性电子皮肤”的AI陪伴机器人 eastmoney.com",
+      "publishedAt": "2026-08-31T16:05:08.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "《2026年中国人形机器人六维力传感器市场调研报告》发布 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RMzUyTjUzTWZhM0NhQzNzTEp0MzJhN2J6WmVUazA3TWNPZUhkWXVYU3pJV3FudThYa1g4ZXViR3h0cXd3VDUwQ0oxbHFVYU5rQWc4?oc=5",
+      "excerpt": "《2026年中国人形机器人六维力传感器市场调研报告》发布 电子工程专辑",
+      "publishedAt": "2026-08-31T23:11:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "CCID赛迪《2026年中国人形机器人六维力传感器市场调研报告》深度解读 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XaW5vTXpxbXR1MmJaQWpDVWVSa0NVYUNyQV9LMHhuX2k2ai1TaXdIb0t2MUVBdy1fcC02YUxOQ2VoSlI5ZWZ5V1VDWWctenZrTzVuajY2UzJvT0VWVUE?oc=5",
+      "excerpt": "CCID赛迪《2026年中国人形机器人六维力传感器市场调研报告》深度解读 中华网",
+      "publishedAt": "2026-08-31T07:44:30.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项 - 雷峰网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80bVMtVjBVaDJkbElaNGVwcjZuSndsVkotdEdFNWh5N0VGdFZTd1ptLTVqY3hVWUozMGc1MXZXT3pVeVJlRWJQSDU3ZFV5aVJTckg5TmdkZ2hIWW1sZmxDZnZfVEtKekxYeTJUbmpn?oc=5",
+      "excerpt": "对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项 雷峰网",
+      "publishedAt": "2026-08-31T12:49:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "80%市占率背后：国产六维力传感器撑起人形机器人量产核心感知底座 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81dXVsall4NXlzY18xeDFMSUs5SDh1djd5d0RZNkc4M3RyeElKVTAxckFfVm1zZC1BWW1kRXdsTnRnNmRzdGg3bXBKVEszdFUtSEYzdTREeDV3Y3Q1a1Z5NjBsN3MxLW1UWG5LaG1YTzBTX2dqdXBR?oc=5",
+      "excerpt": "80%市占率背后：国产六维力传感器撑起人形机器人量产核心感知底座 新浪财经",
+      "publishedAt": "2026-08-31T06:50:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "人形机器人六维力传感器市场实现国产主导，行业前三中国企业合计份额达92.8% - finance.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdG5hTDc5cDZiaGltOXk0c2hlTHpkcm14QnVVcmVvM2lXdEZyR1dJZ0FYbGp1MHB1dUtxaTZ1M3Q0Z3NLV2hVMEJSZ056WUZhUl8wYVhuUkZKem9nc2l3X1k0bVVmcXBibFlpYmlHVHlZYmJZWDNiX2wwNldjNHZpSmlhbG81TnRIVGlsOXBNZkhSenQ5SnBKTQ?oc=5",
+      "excerpt": "人形机器人六维力传感器市场实现国产主导，行业前三中国企业合计份额达92.8% finance.sina.cn",
+      "publishedAt": "2026-08-31T12:17:08.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "智元机器人第2万套MEgo交付；机器人六维力传感器实现国产主导切换｜数智早参 - mrjjxw.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91amVIT0xfUmh1Q3NiejUwalpmR2FkdFpmQk9MUlRJOXJYdFQxOU9rZkFGQk9ZMHVYeGRVNzhjYW1TblFpX0NZekxvYWswYjN6Mjk1TXhHUlJiOE5WNnpvSzNFRk52Zw?oc=5",
+      "excerpt": "智元机器人第2万套MEgo交付；机器人六维力传感器实现国产主导切换｜数智早参 mrjjxw.com",
+      "publishedAt": "2026-08-31T23:00:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "一个机器人捏碎了面包，但评分系统说它成功了 - techwalker.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UN3NfZVVtVzhZM2RNckxVX0tJUEhFa3hzejUwVXM4S0R5dEl2R1doeFhUQUFDQjFvT0tOUy1ObHRSYm12WTBSQV85ZXM4S21YX2pBNjFpaDBJTlV3b0Nn?oc=5",
+      "excerpt": "一个机器人捏碎了面包，但评分系统说它成功了 techwalker.com",
+      "publishedAt": "2026-08-31T06:10:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "常州郑陆一企业给机器人造“皮肤”，公司客户覆盖宁德时代、比亚迪、小米汽车… - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02WS1ZTk9UM056SFNLTTQxTDlWN0I5YUxlNEtFUWM4SEpoWVdzZzFNTkF4Y3FFZk85Mlk5d0xYakt0N3Jfd09Od1lQQ0xaNEdETDBWRWpRMEhpb0ZPN2lBN29MYlZCejhqTTVMckJaNEJnbmMtN0E?oc=5",
+      "excerpt": "常州郑陆一企业给机器人造“皮肤”，公司客户覆盖宁德时代、比亚迪、小米汽车… 新浪财经",
+      "publishedAt": "2026-08-31T08:09:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "CMD放量、高性能线束贡献增量， 泛亚微透高端新材料平台加快落地 - 雷达财经",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTY0pZMWE0NHdGWmR3VHc0R1lxU0FpTERQM1BNQlB1Y2NDc0ZkMjNhdWlWenFkVkdHRlFCSmVKZkV5NHQwaU94Nmx4amlmZkk?oc=5",
+      "excerpt": "CMD放量、高性能线束贡献增量， 泛亚微透高端新材料平台加快落地 雷达财经",
+      "publishedAt": "2026-08-31T14:05:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Skild AI unveils S1 flagship robot foundation model",
+      "url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/",
+      "excerpt": "Skild AI says its S1 robot foundation model enables robots to learn new tasks just by seeing a video of it being performed. The post Skild AI unveils S1 flagship robot foundation model appeared first on The Robot Report.",
+      "publishedAt": "2026-08-31T21:14:08.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "How better grippers can unlock physical AI",
+      "url": "https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai/",
+      "excerpt": "Physical AI depends on smarter grippers to give robots the dexterity, sensing and adaptability needed to handle real-world tasks. The post How better grippers can unlock physical AI appeared first on The Robot Report.",
+      "publishedAt": "2026-08-31T20:20:25.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Reframe Systems raises $40M to scale its robotic microfactories for home building",
+      "url": "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building/",
+      "excerpt": "Reframe Systems aims to build a network of automated microfactories near communities where homes are needed. The post Reframe Systems raises $40M to scale its robotic microfactories for home building appeared first on The Robot Report.",
+      "publishedAt": "2026-08-31T18:46:48.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "excerpt": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
     }
   ]
 }

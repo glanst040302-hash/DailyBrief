@@ -1,0 +1,55 @@
+{
+  "hero_headline": "六维力传感器国产主导，智元交付2万套灵巧手",
+  "daily_overview": "全球智能化进程聚焦触觉感知产业化：六维力传感器实现国产主导切换，智元机器人交付第2万套灵巧手，柔性电子皮肤进入消费陪伴场景。机器人基础模型S1发布，让操作学习可从视频迁移至真机。触觉硬件与AI模型协同，正加速具身智能走向规模化。",
+  "tech_briefs": [
+    {
+      "title": "2026年人形机器人六维力传感器市场报告发布",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RMzUyTjUzTWZhM0NhQzNzTEp0MzJhN2J6WmVUazA3TWNPZUhkWXVYU3pJV3FudThYa1g4ZXViR3h0cXd3VDUwQ0oxbHFVYU5rQWc4?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "报告聚焦中国人形机器人六维力传感器市场规模与竞争格局。\n力觉感知成为人形机器人核心刚需，国产化进程受关注。\n为上游敏感材料与封装产业链提供增量需求指引。",
+      "importance": 5
+    },
+    {
+      "title": "智元交付2万套MEgo灵巧手，六维力传感器国产切换",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91amVIT0xfUmh1Q3NiejUwalpmR2FkdFpmQk9MUlRJOXJYdFQxOU9rZkFGQk9ZMHVYeGRVNzhjYW1TblFpX0NZekxvYWswYjN6Mjk1TXhHUlJiOE5WNnpvSzNFRk52Zw?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "智元机器人完成第2万套MEgo灵巧手交付，验证批量制造能力。\n机器人六维力传感器实现由外资主导向国产主导切换。\n触觉感知部件规模化上量，成本下探加速具身智能落地。",
+      "importance": 8
+    },
+    {
+      "title": "奥迪威合资公司推出柔性电子皮肤AI陪伴机器人",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yclc3TmdPTEhTN1pET19aNGhlaXRhZzktcEd3bHpweXJxRXVGX2JmYjh4dVIyYTJlZXc4MGVOVzZpdFFjS05heEp3V0VIUWE3bjBGZEJlMjV4R0RvQTJDeQ?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "奥迪威参股合资公司推出应用柔性电子皮肤的AI陪伴机器人。\n电子皮肤从工业触觉传感延伸至消费级人机交互场景。\n触觉交互有望成为陪伴机器人情感连接的新入口。",
+      "importance": 7
+    },
+    {
+      "title": "更优夹爪是解锁物理AI的关键",
+      "url": "https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai/",
+      "source": "The Robot Report",
+      "summary": "文章指出物理AI依赖更智能的夹爪提供操作与触觉反馈。\n夹爪需兼顾传感、自适应与成本，才能支撑规模化部署。\n触觉传感器与灵巧手构成机器人闭环的关键瓶颈。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "Skild AI发布S1机器人基础模型",
+      "url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/",
+      "source": "The Robot Report",
+      "summary": "Skild AI发布S1旗舰机器人基础模型，机器人可观看视频学习新任务。\n该模型聚焦通用操作学习，有望提升真机部署泛化能力。\n与触觉传感融合，可强化感知-决策-行动闭环的鲁棒性。",
+      "importance": 9
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "触觉传感器国产化与灵巧手量产同步，成本下探将放大具身智能场景；基础模型与触觉硬件协同，成为下一阶段竞争焦点。",
+  "keywords": [
+    "六维力传感器",
+    "灵巧手",
+    "电子皮肤",
+    "人形机器人",
+    "机器人基础模型",
+    "触觉传感",
+    "国产化",
+    "具身智能"
+  ]
+}

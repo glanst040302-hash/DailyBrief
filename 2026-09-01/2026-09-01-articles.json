@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-01",
+  "articles": [
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "奥迪威：公司参股的合资公司推出应用“柔性电子皮肤”的AI陪伴机器人 - eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yclc3TmdPTEhTN1pET19aNGhlaXRhZzktcEd3bHpweXJxRXVGX2JmYjh4dVIyYTJlZXc4MGVOVzZpdFFjS05heEp3V0VIUWE3bjBGZEJlMjV4R0RvQTJDeQ?oc=5",
+      "excerpt": "奥迪威：公司参股的合资公司推出应用“柔性电子皮肤”的AI陪伴机器人 eastmoney.com",
+      "publishedAt": "2026-08-31T16:05:08.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "《2026年中国人形机器人六维力传感器市场调研报告》发布 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RMzUyTjUzTWZhM0NhQzNzTEp0MzJhN2J6WmVUazA3TWNPZUhkWXVYU3pJV3FudThYa1g4ZXViR3h0cXd3VDUwQ0oxbHFVYU5rQWc4?oc=5",
+      "excerpt": "《2026年中国人形机器人六维力传感器市场调研报告》发布 电子工程专辑",
+      "publishedAt": "2026-08-31T23:11:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "智元机器人第2万套MEgo交付；机器人六维力传感器实现国产主导切换｜数智早参 - mrjjxw.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91amVIT0xfUmh1Q3NiejUwalpmR2FkdFpmQk9MUlRJOXJYdFQxOU9rZkFGQk9ZMHVYeGRVNzhjYW1TblFpX0NZekxvYWswYjN6Mjk1TXhHUlJiOE5WNnpvSzNFRk52Zw?oc=5",
+      "excerpt": "智元机器人第2万套MEgo交付；机器人六维力传感器实现国产主导切换｜数智早参 mrjjxw.com",
+      "publishedAt": "2026-08-31T23:00:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Skild AI unveils S1 flagship robot foundation model",
+      "url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/",
+      "excerpt": "Skild AI says its S1 robot foundation model enables robots to learn new tasks just by seeing a video of it being performed. The post Skild AI unveils S1 flagship robot foundation model appeared first on The Robot Report.",
+      "publishedAt": "2026-08-31T21:14:08.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "How better grippers can unlock physical AI",
+      "url": "https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai/",
+      "excerpt": "Physical AI depends on smarter grippers to give robots the dexterity, sensing and adaptability needed to handle real-world tasks. The post How better grippers can unlock physical AI appeared first on The Robot Report.",
+      "publishedAt": "2026-08-31T20:20:25.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Reframe Systems raises $40M to scale its robotic microfactories for home building",
+      "url": "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building/",
+      "excerpt": "Reframe Systems aims to build a network of automated microfactories near communities where homes are needed. The post Reframe Systems raises $40M to scale its robotic microfactories for home building appeared first on The Robot Report.",
+      "publishedAt": "2026-08-31T18:46:48.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    }
+  ]
+}

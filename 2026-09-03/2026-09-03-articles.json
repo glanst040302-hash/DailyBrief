@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-03",
+  "articles": [
+    {
+      "sourceId": "robot-report",
+      "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
+      "url": "https://www.therobotreport.com/nexcobot-discusses-physical-ai-market-hurdles-and-acceleration/",
+      "excerpt": "NexCOBOT, which provides functional safety and motion controllers, discusses how physical AI benefits from 'Big Tech' and where it will grow. The post NexCOBOT discusses physical AI market hurdles and acceleration appeared first on The Robot Report.",
+      "publishedAt": "2026-09-02T19:45:19.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Learn why food is physical AI’s hardest problem at RoboBusiness",
+      "url": "https://www.therobotreport.com/learn-why-food-is-physical-ai-hardest-problem-chef-robotics-robobusiness/",
+      "excerpt": "Rajat Bhageria, the founder and CEO of Chef Robotics, will explore what makes food such a demanding benchmark for physical AI. The post Learn why food is physical AI’s hardest problem at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-09-02T17:37:50.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    }
+  ]
+}

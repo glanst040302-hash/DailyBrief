@@ -1,0 +1,33 @@
+{
+  "hero_headline": "美敦力七亿美元押注手术机器人合作",
+  "daily_overview": "全球手术机器人赛道资本密度持续提升，美敦力以七亿美元强化与Cornerstone Robotics的多孔平台布局，巩固Hugo系统生态；与此同时，机器人领域专利纠纷由产品层面延伸至企业商誉与市场话语权争夺。智能化进程在资本与诉讼的双重博弈中加速演进。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "美敦力投资7亿美元加码手术机器人合作",
+      "url": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/",
+      "source": "The Robot Report",
+      "summary": "美敦力向手术机器人伙伴Cornerstone Robotics投入7亿美元。\n双方将围绕Hugo系统构建多孔平台，并扩展Sentire产品组合。\n手术机器人赛道迎来大额资本整合，商业化竞争进一步加剧。",
+      "importance": 9
+    },
+    {
+      "title": "节卡就专利纠纷反诉泰瑞达机器人",
+      "url": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
+      "source": "The Robot Report",
+      "summary": "节卡对泰瑞达机器人提起法律行动，要求停止其认为「虚假、误导且具有损害性」的公开言论。\n纠纷从专利侵权指控升级为双方互相诉讼。\n协作机器人领域竞争与知识产权博弈同步激化。",
+      "importance": 8
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "手术机器人赛道资本与诉讼并行，专利攻防决定技术红利分配。产业透明度与法律边界将成智能化竞争关键变量。",
+  "keywords": [
+    "医疗手术机器人",
+    "美敦力",
+    "节卡",
+    "泰瑞达",
+    "专利纠纷",
+    "资本整合",
+    "多孔手术平台",
+    "智能化进程"
+  ]
+}

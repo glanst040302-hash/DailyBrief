@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-05",
+  "articles": [
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "仿生柔性驻极体触觉传感器，实现自供电与自校准触觉成像 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3UHI1UW14a29DZFg5LVpNY1FHMVJ2Y1d2UUhKUWhvRGVrUE13bmMtVDFOQVJQZmxGU0xVVWczaElteS1Gc3dfMVB5NmJHWDk1WWww?oc=5",
+      "excerpt": "仿生柔性驻极体触觉传感器，实现自供电与自校准触觉成像 电子工程专辑",
+      "publishedAt": "2026-09-04T23:11:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "How FPGAs become the gatekeepers of physical AI security",
+      "url": "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/",
+      "excerpt": "Eric Sivertson, vice president of security business at Lattice Semiconductor, explains how FPGAs can act as deterministic guardrails for robotic systems. The post How FPGAs become the gatekeepers of physical AI security appeared first on The Robot Report.",
+      "publishedAt": "2026-09-04T18:09:54.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
+      "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
+      "excerpt": "Submit now to be part of the Robotics Startup Radar, which brings together some of the most promising robotics startups. The post Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar appeared first on The Robot Report.",
+      "publishedAt": "2026-09-04T16:33:59.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    }
+  ]
+}

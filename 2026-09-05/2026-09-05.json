@@ -1,0 +1,25 @@
+{
+  "hero_headline": "仿生柔性触觉传感器突破自供电自校准成像",
+  "daily_overview": "全球智能化进程中，触觉传感作为具身智能感知层的关键节点，近期出现集成式进展。仿生柔性驻极体触觉传感器同时实现自供电与自校准触觉成像，提升长期稳定性的同时简化系统结构，为灵巧手、医疗机器人与可穿戴设备的规模化部署提供低成本感知方案。",
+  "tech_briefs": [
+    {
+      "title": "仿生柔性驻极体触觉传感器实现自供电自校准成像",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3UHI1UW14a29DZFg5LVpNY1FHMVJ2Y1d2UUhKUWhvRGVrUE13bmMtVDFOQVJQZmxGU0xVVWczaElteS1Gc3dfMVB5NmJHWDk1WWww?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "该传感器利用柔性驻极体实现自供电，无需外部供电即可感知触觉\n它同时具备自校准能力，可长期维持稳定的触觉成像精度\n为电子皮肤和灵巧手的触觉感知层提供低功耗、长寿命的技术路径",
+      "importance": 9
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "单点触觉传感技术取得自供电自校准进展，距稳定量产仍有距离，建议产业关注其封装与标定环节能否同步成熟。",
+  "keywords": [
+    "触觉传感器",
+    "柔性电子",
+    "自供电",
+    "自校准",
+    "仿生",
+    "电子皮肤",
+    "灵巧手"
+  ]
+}

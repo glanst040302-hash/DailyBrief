@@ -1,33 +1,6 @@
 {
-  "collectedAt": "2026-09-05T00:22:45.756Z",
+  "collectedAt": "2026-09-05T23:24:08.468Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Electronic skin could allow robots, prosthetic devices to perceive touch - Today's Medical Developments",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHBmeDRDX3l5NUg5Y0RnRXJLNWtZUzcza0ZSZEs3UHQwZWcwb1lUUzctZDVpNEJyc041X2dnWExheWNZOHM0Mkl6WUxickloM25rc18yWnhKMkdWeEdzOGdiZWxpWFhmSGtaLVRWVTFncnJVRXFNR25NQ1ZNQzVrTGpjek1XRDR2M0o3NXJoMzRyRFR6M2c3RVJobnMyanBYVWM3alVBQXZiZk5ucF9F?oc=5",
-      "excerpt": "Electronic skin could allow robots, prosthetic devices to perceive touch Today's Medical Developments",
-      "publishedAt": "2026-08-29T06:00:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "被高估的视触觉：容易复制的生意，能有多大投资价值？ - 智源社区",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWNHZaNkl0UHJQVTVkOGNkMEg5UkdhS2dWNS0xbDU2RjQweGxnb0lMQ3BNaDhyaERCZmE5eHBBVFVPdlY4NmxrVA?oc=5",
-      "excerpt": "被高估的视触觉：容易复制的生意，能有多大投资价值？ 智源社区",
-      "publishedAt": "2026-08-29T02:10:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "The differences between decentralized and centralized power in swarm robotics",
-      "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
-      "excerpt": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the best of both. The post The differences between decentralized and centralized power in swarm robotics appeared first on The Robot Report.",
-      "publishedAt": "2026-08-29T12:25:31.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
     {
       "sourceId": "tactile-news-zh",
       "title": "“力小了会脱手，力大了会捏碎”|世界机器人大会|中国新闻周刊|灵巧手|机器人|触觉_手机新浪网 - 新浪财经",
@@ -389,15 +362,6 @@
       "source": "arXiv｜触觉研究"
     },
     {
-      "sourceId": "arxiv-tactile",
-      "title": "Toward Trustworthy Robot-Assisted Sliding Palpation for Shallow Vessel Localisation with a Calibrated Digital Twin",
-      "url": "https://arxiv.org/abs/2608.29396v1",
-      "excerpt": "",
-      "publishedAt": "2026-08-29T18:36:00.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
       "sourceId": "robot-report",
       "title": "Top 10 robotics stories of August 2026",
       "url": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
@@ -459,15 +423,6 @@
       "publishedAt": "2026-08-31T12:41:56.000Z",
       "category": "finance",
       "source": "The Robot Report"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "军工集团亮相世界机器人大会 - sastind.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jM0diS3Z1OW1rbHVhY1hUbnpNR3AwVHdPaU15cXZLamZOQ3dpNXF5LUhXYzh3ZFRTT3RXZVJhTS01NHRrRHc5ZWJZWXprM09ZTkdUVTh0U09qd2R6b3ltaFhqcDkyR2RjWURZbE1ta2c5YlYya3g3Xw?oc=5",
-      "excerpt": "军工集团亮相世界机器人大会 sastind.gov.cn",
-      "publishedAt": "2026-08-29T03:00:04.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
     },
     {
       "sourceId": "huggingface-papers",
@@ -794,15 +749,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "金奖诞生，获20万创业奖金！港科大百万创赛上海赛区决赛落幕 - qq.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSlk2Z1JxazZpWmF6dTU3TThBaWJxWTFXNmdGWEhTUFV6VXZSYnZkQW5yU2g3eW93eFMyQ3VnOUhKeDF5MGFjSlA4M1U5MzI1bkxOVDJR?oc=5",
-      "excerpt": "金奖诞生，获20万创业奖金！港科大百万创赛上海赛区决赛落幕 qq.com",
-      "publishedAt": "2026-08-29T12:31:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "9 月 2 日股市个股利好消息汇总|惠天热电|盈趣科技|鹿山新材|金三智能|华拟智能|比亚迪股份|远东股份|行云科技|赛力斯|200mw风电项目|all in ai|电子皮肤产品|仿生机器人|新能源汽车销量|智能电池储能|算力ai业务|营收同比增长|经营性现金流净额 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94SUN2SG54a3FSSXJMV1lWbzd2ZkJkRV82Mm92dVBCZXFCN0hRMmN5dW9OTnUxWW5xZWwwY3lpV2l3WmtCZFd1Tk8ySEJLeU90SkF6MmFvUjF1cktnb2xGSWtMZw?oc=5",
       "excerpt": "9 月 2 日股市个股利好消息汇总|惠天热电|盈趣科技|鹿山新材|金三智能|华拟智能|比亚迪股份|远东股份|行云科技|赛力斯|200mw风电项目|all in ai|电子皮肤产品|仿生机器人|新能源汽车销量|智能电池储能|算力ai业务|营收同比增长|经营性现金流净额 新浪网",
@@ -1002,15 +948,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "港科大“百万奖金创业赛”落户上海，在长三角下了盘硬科技大棋 - shobserver.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMjB6REJGMzNtSWZqZGx5dEZHMnZ6R1RfaElpQ1hsSnRoNFJiRTB6Vy1vS2dqQTFSdjdMbGRjbmtTYU0yRTBRRjJnT3FUaUlPNFd4ZVZ0a0FKWXpjTUl1VUM2ZXhCb0I5RVlSVzRTd3BSSm9TbVgwbTlyX0d2Znc5ZC12MDVEaTg3dnc?oc=5",
-      "excerpt": "港科大“百万奖金创业赛”落户上海，在长三角下了盘硬科技大棋 shobserver.com",
-      "publishedAt": "2026-08-29T21:41:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "“力小了会脱手，力大了会捏碎” - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LRTVEZmZXanVoRlNHNG15cHV1TmlPaUNmMGVBMzRFNVduS3dLMlRVMHRkWC1JWFV2N0hYSWZtWE90OUZqbll0X1FoTlRMM0Q4X2N4U2RqQXpBZURCTjVlR0MzaXZhZWY5T0ozbjNmUnZkRExRRU9fODVkUTA?oc=5",
       "excerpt": "“力小了会脱手，力大了会捏碎” 新浪财经",
@@ -1024,15 +961,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkdCb2NpcWc0VlFLc184WVRvRldzakcwNkFhaE9DaENQeTMxT3N1VWFYRVMzN2V3RGVfaERQeUNic0JBVkhkc0loTGRzckpGWUFWaHlnV1FURkNoUU5GcXpaemw3dEE2ZXVULWJ0dmJfRmFMclJBMG9obzhxaWlLM1ZrbHlsam1oR25ZQg?oc=5",
       "excerpt": "明新旭腾：电子皮肤等产品尚处前期研发及与客户联合开发阶段 Sohu",
       "publishedAt": "2026-09-04T05:58:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "“数据瓶颈正在关闭，不会有ChatGPT时刻”，PI创始人最新发言曝光 - 机器人大讲堂",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DQ1pHX2ZTcTNiQjc2ak9DNy1EcjREQmFkMWUwQ0tLeTF2aU91ZzB6R2RJZ3VCeDB6bjJZRzRyRmRnV1ZmZXBJMzNKYmo?oc=5",
-      "excerpt": "“数据瓶颈正在关闭，不会有ChatGPT时刻”，PI创始人最新发言曝光 机器人大讲堂",
-      "publishedAt": "2026-08-29T10:28:52.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -1134,6 +1062,178 @@
       "publishedAt": "2026-09-04T14:15:23.000Z",
       "category": "finance",
       "source": "The Robot Report"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "3D Printing News Briefs, September 5, 2026: Electronic Skin, Cartilage, Cookies, & More - 3DPrint.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHWTVLQjU4bm5ncTVCNS1pUWtKQVpnNTRHMjcycjZxVzFXVkFfNjRhTF9GREIzbE8temNfZ2JNMk9WNzdRaDFhUTZXbTUyMDA1dnVkWjdzRWE3QW1lUHJIUFg3MzVVbW9oZXJDc1VwLU1uZ9IBckFVX3lxTFBHWTVLQjU4bm5ncTVCNS1pUWtKQVpnNTRHMjcycjZxVzFXVkFfNjRhTF9GREIzbE8temNfZ2JNMk9WNzdRaDFhUTZXbTUyMDA1dnVkWjdzRWE3QW1lUHJIUFg3MzVVbW9oZXJDc1VwLU1uZw?oc=5",
+      "excerpt": "3D Printing News Briefs, September 5, 2026: Electronic Skin, Cartilage, Cookies, & More 3DPrint.com",
+      "publishedAt": "2026-09-05T12:30:07.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Two Research Teams Just Taught Artificial Skin to Feel - One Is Building It for Robots, The Other Is Building It for People Who Have Lost Their Hands - qrcodepress.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHFjeXlzRkZuV2dFc1otbDdjZlcxZ2NYSDlfbWdPVzRVM0ZTdlBaLVQzTE1jWVJidU9TajRpNHdHcC1WNWxuZFJtX0tuZ0FLTFAtbzhzZVh6OHRXazZSalJHYlQ2YXlSYUhmT0tDZEZWd1Q1WU03OEhyUWRmd3VTRQ?oc=5",
+      "excerpt": "Two Research Teams Just Taught Artificial Skin to Feel - One Is Building It for Robots, The Other Is Building It for People Who Have Lost Their Hands qrcodepress.com",
+      "publishedAt": "2026-09-01T13:48:26.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "从设计语言到结构创新 澳门平台注册送彩金 打造美学与耐用性新标杆 - 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PX1VBSG83Y0VNOHFxTnFoTENzSEpweWpVVFh5VFJBZ0ktOGpuLUpaODk3TEJFNTVyQ1hsUHBwWXg1ZnZrbmc4RUVnWHdpLXdW?oc=5",
+      "excerpt": "从设计语言到结构创新 澳门平台注册送彩金 打造美学与耐用性新标杆 体坛",
+      "publishedAt": "2026-09-05T07:49:18.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "昨天涨停，今天封死跌停！人形机器人热门股紧急澄清 - 同花顺",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EeVRpRFlUTGZzUlY3ZjF6M0djSE5kVlhEN2NENFoxSG1ic1Y5cHhmR0xmMWJJbFlFbDAzVTdLNDJFUjgtT1lCOUlKZGRDR1B0T1VEMV9Sd05VdUtqZk54R2F3?oc=5",
+      "excerpt": "昨天涨停，今天封死跌停！人形机器人热门股紧急澄清 同花顺",
+      "publishedAt": "2026-09-04T06:13:07.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "比亚迪与帕西尼签署合作协议，推进工业机器人应用 - gasgoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOc0dzc05yNXRuVVZIQ25oWmJMcmhadXRNV280bzBwTU5iVTEyYWJmQmVOeFhPSHdFU2liR0JGQ3NITTBlZEZWRmx0enhOa2RJdDUwTG9ZclcyUHdTSDNIeXV1OGxYRUk0eUdTSTJkZkY4T3NVZlBnNGpxakp5Y1NDdkZmUURIeDg1R1k1SnlUVy1EdmdYakcwa2hVOXF1TWtmdGlfU3dlaVZORXgxN19xMlRoaEJqSnpuSjNvc3AxUUNRc0h5SloxM0dnY0pzSjF0N0JGVWVPRUpIYXNQc2tOVkRCbkczbVJocXhmLS1PcHRjaEhaYUdxTG90Yzl1RlZhOE54b09MTzIyb3VsVDl3eTl3T1JCM0FscHdPSkNaMVYwVkZvdTEzc3kxQU1mTkJhRlJGaUwxa0RYUk5GUnBXdy1CXzlxMkVSWVViZFc4X1M0ejRRRVNmaEtaUm1FM0Zf?oc=5",
+      "excerpt": "比亚迪与帕西尼签署合作协议，推进工业机器人应用 gasgoo.com",
+      "publishedAt": "2026-08-31T10:22:31.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "CMD放量、高性能线束贡献增量，泛亚微透高端新材料平台加快落地 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VdktHNWJiTTB6dWJlU0hkQXR1TEJBMGM4bEp2a01EN1ZWQ2NRbjA2UXYzdzhtdkpnZFdDamV1OW1fdVpieGtKekJQOWZyemtSTWlfQU84cmZRTGpDWE02Vg?oc=5",
+      "excerpt": "CMD放量、高性能线束贡献增量，泛亚微透高端新材料平台加快落地 东方财富",
+      "publishedAt": "2026-09-04T19:02:06.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "8814新葡萄旧版亮相2026 ChinaJoy，动态光影与低延迟技术引爆全场 - 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpY2lhMkVzWFRlYXkydlg5azN6RVdJbjlMWXpMMElUbTZFM3JRc3BxYVpFZEFGNWpFUTFiWTFHQTRMQ3BKMUx0VDBJZEg1dE5aejBtNXNuUllZOXlQZHc?oc=5",
+      "excerpt": "8814新葡萄旧版亮相2026 ChinaJoy，动态光影与低延迟技术引爆全场 体坛",
+      "publishedAt": "2026-09-05T03:15:37.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "上海专精特新企业亮相第二十一届中博会，人工智能赋能制造业展现新图景 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRnd2WWg5QXFGTk1aRDFvUGl6UXhwNzZBeEFMMVF5QzhxWnk1bm1FMXJiMWo4c2N3SDNWWkZYU0xLZnVUUEZQVUN0U0VfSjJuRXAxdElRUnNhLXUtNVhoVzVzZ1dwbWwtNE1MNEp1Vmo4d1dkWmZYVFREZGxqMVE?oc=5",
+      "excerpt": "上海专精特新企业亮相第二十一届中博会，人工智能赋能制造业展现新图景 新浪网",
+      "publishedAt": "2026-09-04T08:41:20.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "上海专精特新企业亮相中博会，秀出“智在上海”新图景 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWgxTVQ0RXdHNjdfTkFvYS1PNnZCNE43dTh4RlNncmFLM1NXa01waWYzbWN1UllzbHhockRpWGVFdjlDdWtoeUVjTWlWWW5VQVY4MG9lQ1hqVjI4VXpYSVZiYnppeFJJak1WaHltTDNSeHBEd1BWWThyQ1JMSFZJdHV5aEhMUTh0ZUR1RA?oc=5",
+      "excerpt": "上海专精特新企业亮相中博会，秀出“智在上海”新图景 Sohu",
+      "publishedAt": "2026-09-04T07:14:48.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "深化供需交流，共促智能辅具成果转化——泉州市福德假肢矫形器有限公司与“智护安行”项目负责人胡景超交流 - mtz.china.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RYWk5dUYyUFdDR2c3NEdYeENCaU9BckNBSGd3ajRQZGszek05WjB6bjV2Y1BnNU1SZG52MklWeVR0ZlI2ZnFmd2I1WTVua0FLVlhraWFROU0wbk5WNVE?oc=5",
+      "excerpt": "深化供需交流，共促智能辅具成果转化——泉州市福德假肢矫形器有限公司与“智护安行”项目负责人胡景超交流 mtz.china.com",
+      "publishedAt": "2026-09-02T06:11:42.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "虚实无界重塑社交澳门龙门客栈资料2022年正式发布新一代真人互动平台-体坛网_体坛+ - 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zOUN5SUFlNWQ3dm41R0R1NWxTRmUzd3JfSlh1Nnl2bjFEZzIwRThsYllpY3h5UU9iUnZ6QU9QMXk4U0lQT1piMU5LNHgzckJWamNN?oc=5",
+      "excerpt": "虚实无界重塑社交澳门龙门客栈资料2022年正式发布新一代真人互动平台-体坛网_体坛+ 体坛",
+      "publishedAt": "2026-09-03T12:45:23.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "鹿山新材深耕高分子材料赛道 专业投顾视角拆解企业成长逻辑 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXZfeTdUZHhNTXIwczdOY3IwajRoc2tTRTNacXZNQ29DU2xRUVp0ckU1akJ3eVgxRVA2THFrazNfQmNab211MFJoNnR0YmFjZXUxeDJ3RGpHelh1OUdLOUpBU1kxdTJRQzBwMDZ6MzdIZUc3TTVoRWU4dm1XMmRGcVNJbDIxclc0?oc=5",
+      "excerpt": "鹿山新材深耕高分子材料赛道 专业投顾视角拆解企业成长逻辑 Sohu",
+      "publishedAt": "2026-09-04T09:35:16.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
+      "url": "https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/",
+      "excerpt": "Fifteen member organizations will deliver viable working solutions within a two-year timeframe, the ARM Institute said. The post ARM Institute gets $90M for 10 projects to modernize military manufacturing appeared first on The Robot Report.",
+      "publishedAt": "2026-09-05T14:22:41.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
+      "url": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/",
+      "excerpt": "Enovis said it plans to bring a robotic system targeting the knee within the next two years, followed by a system focusing on the shoulder. The post Enovis to acquire surgical tech provider eCential Robotics for $180M appeared first on The Robot Report.",
+      "publishedAt": "2026-09-05T12:30:37.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "2026世界机器人大会在京闭幕 - cast.org.cn",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1BQSUZBTzJ2OGd3azFya010VkxqM0RkcFNSb3dnS0ZaUVVGTnVWUHQwTko5dFVjNFVZNDNpdmlHUkM4cklGZm45ZFA0cXBnYjB4MHh1TlRKZUpzNmpZejBPWkRUblhTZFZCZnBCYmlDUUlHblBZNUVZcFAyXzhTTXo3eGhKVW1JX1d5UnhlVlE?oc=5",
+      "excerpt": "2026世界机器人大会在京闭幕 cast.org.cn",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Cyborg Roaches Can Stab You With Needles",
+      "url": "https://spectrum.ieee.org/cyborg-rescue-roach",
+      "excerpt": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnerving, to say the least, this prototype paramedic cyborg, or “Paraborg,” might one day help deliver life",
+      "publishedAt": "2026-09-05T13:00:04.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Video Friday: Digit Redecorates",
+      "url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+      "excerpt": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul: 22–23 September 2026, SEOUL IRO",
+      "publishedAt": "2026-09-04T16:00:05.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning",
+      "url": "https://huggingface.co/papers/2609.03199",
+      "excerpt": "Robot learning increasingly depends on broad and diverse demonstrations, yet collecting robot data remains expensive and poorly suited to covering the long tail of real-world tasks. To address this bottleneck, we introduce RoboTok, an internet-scale data engine that, given a query human manipulation",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "meta": "👍 73",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "excerpt": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "publishedAt": "2026-09-03T11:00:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-06T01:18:14.679Z",
+  "collectedAt": "2026-09-06T06:03:59.751Z",
   "articles": [
     {
       "sourceId": "tactile-news-zh",
@@ -1240,6 +1240,24 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xQUxnZHlwX0VoMGpMdGR4ODR3d2xkdTZOYXdvSnNMRmpvMVg0dWt2N1VPOUhTbElHSmltNFU4dDdFOW8ySm1ONVdWNUEycHY0cU9ycHJQaGVrS2RPVHpONWpyR3Y?oc=5",
       "excerpt": "撞墙学走路……中国北京出现全球首家“机器人幼儿园” 아시아경제",
       "publishedAt": "2026-09-02T05:17:21.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "sprunkle游戏网页版：AI与机器人加速落地，解锁千行百业新场景 - 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KdWVMNWtLS3F5NTJrV0NvWW9nQVVNdnhBeGhvcTNTcDlLX1VBSTl0cVdBMWFwLTRzRzNXY25VR3FZQ1FwWTFPUF9Udlg?oc=5",
+      "excerpt": "sprunkle游戏网页版：AI与机器人加速落地，解锁千行百业新场景 体坛",
+      "publishedAt": "2026-09-05T06:49:39.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "从设计语言到结构创新 IM体育电竞网址 打造美学与耐用性新标杆 - 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yaGZ4dW5obFpLVE9EbmF6Z3JKVWVzU0hHRkE2b1E5VEtkUkh2WGlpcWdEc0t4RHlFTHZ5WGlTcFRwc2YyMkZJSG05clVoZw?oc=5",
+      "excerpt": "从设计语言到结构创新 IM体育电竞网址 打造美学与耐用性新标杆 体坛",
+      "publishedAt": "2026-09-05T14:53:14.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     }

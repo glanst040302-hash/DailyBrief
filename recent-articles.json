@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-06T06:03:59.751Z",
+  "collectedAt": "2026-09-06T10:50:10.818Z",
   "articles": [
     {
       "sourceId": "tactile-news-zh",
@@ -340,15 +340,6 @@
       "url": "https://arxiv.org/abs/2608.30237v1",
       "excerpt": "",
       "publishedAt": "2026-08-31T04:44:33.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "$\\mathcal{N}_0$-Foundation: Towards the Age of Tactile Intelligence",
-      "url": "https://arxiv.org/abs/2608.29601v1",
-      "excerpt": "",
-      "publishedAt": "2026-08-30T06:46:18.000Z",
       "category": "tech",
       "source": "arXiv｜触觉研究"
     },
@@ -1260,6 +1251,33 @@
       "publishedAt": "2026-09-05T14:53:14.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Fulai New Material Delivers Over 30,000 Tactile Sensors to LinkerBot - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmh2RVdTQkI1Smh1bEd2a1lFSUFJSUJ6dlFxTXZOTDRDSkFwOWFqUVc5OVhFV2xlWGpFSnYyQ2RCVEk2ZVp1TnFtd0xnbkF4UkEzRDZTdVJRRFFjXzdUMWdNU3BCdkhnMDlKSDUyRTVDUWUwN2E0UHpJUnlUWkhYWFNlLXktXzFtUnNDbDBkeW5vYWFWRENMTG1saF92ekhUQTAwYnAtc09EaTg2LVFwRG92M3JEcmZhV0E5MXlvdTZyR3RxMURZU053?oc=5",
+      "excerpt": "Fulai New Material Delivers Over 30,000 Tactile Sensors to LinkerBot Gasgoo",
+      "publishedAt": "2026-09-02T11:41:55.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "链上天津｜机器人，加速跑！ - 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zSkkxbWFxYTEwRXF6YUxmOUsySlJqQ1c5LWNOMWNBVGJobUplNnM0SV96UFktaVJvSXlkRENaTmlKOURiYmp6OWZzdjBMZmRpS3V0VmtDQnJyYVk1a0tRY0N5Q3VzZw?oc=5",
+      "excerpt": "链上天津｜机器人，加速跑！ 光明网",
+      "publishedAt": "2026-09-02T09:49:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注 - 风闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HZVlZTG5oX3dOQng0RkxWWGN4VHF0WWRYSU84c2tJY3JYNTR6aFpxeWwxdlVURzE4OWwxWmQwZ1ZyMHQtZkltZ1l3T1d4TC1RQ0hWNjVuVWh3eTQ?oc=5",
+      "excerpt": "世界机器人大会今年不一定「Wow！」，但有五个问题很值得关注 风闻",
+      "publishedAt": "2026-09-05T20:40:10.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
     }
   ]
 }

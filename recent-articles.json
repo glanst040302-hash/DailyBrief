@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-05T23:24:08.468Z",
+  "collectedAt": "2026-09-06T01:18:14.679Z",
   "articles": [
     {
       "sourceId": "tactile-news-zh",
@@ -353,15 +353,6 @@
       "source": "arXiv｜触觉研究"
     },
     {
-      "sourceId": "arxiv-tactile",
-      "title": "Blind Dexterity: Whole-Body Humanoid Manipulation via Pure Proprioception",
-      "url": "https://arxiv.org/abs/2608.29487v1",
-      "excerpt": "",
-      "publishedAt": "2026-08-30T00:32:01.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
       "sourceId": "robot-report",
       "title": "Top 10 robotics stories of August 2026",
       "url": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
@@ -441,16 +432,6 @@
       "excerpt": "Embodied navigation requires agents to translate heterogeneous goals and visual observations into actions across tasks, environments, and robot embodiments. Modern vision-language models (VLMs) already encode spatial priors for visual grounding, spatial reasoning, and pointing, but these capabilitie",
       "publishedAt": "2026-08-31T00:00:00.000Z",
       "meta": "👍 24",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory",
-      "url": "https://huggingface.co/papers/2608.29910",
-      "excerpt": "Interactive world models extend video generation from offline clip synthesis toward persistent simulation of interactive virtual worlds, enabling applications in games, robotics, embodied agents, and XR. Achieving stable long-horizon interactive generation, however, remains challenging, as the model",
-      "publishedAt": "2026-08-30T00:00:00.000Z",
-      "meta": "👍 12",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
     },
@@ -1234,6 +1215,33 @@
       "publishedAt": "2026-09-03T11:00:00.000Z",
       "category": "politics",
       "source": "OpenAI News"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "时间锐评丨北京首批机器人小朋友入园啦：真实场景才是AI最好的课堂(含视频)|北京市|幼儿园|北京首钢|赵芳|幼儿 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QalJ0azFYeHFrQmlndVo0MlV2MnBheEZjMWtJdWZnYXEwTHFsR1FFbS1rOXFjOGp0akhGdlBPb0M1Rlk5cjBEb25jVlJ1ck4waGMzUUpBMnpDa25mT2JLUUV0bi1PV1hsV2RrVWJwZndDZU1WdTE4MDVR?oc=5",
+      "excerpt": "时间锐评丨北京首批机器人小朋友入园啦：真实场景才是AI最好的课堂(含视频)|北京市|幼儿园|北京首钢|赵芳|幼儿 新浪新闻_手机新浪网",
+      "publishedAt": "2026-09-02T08:17:31.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "2018年列出的那35项卡脖子技术，7年过去了，我们闯到了哪一关？ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPai1odl9MT1ZYanpqNC1vb3VKMFlsOEtuSWpsUExGYnN1UVZQaFFLakowLXBfelNObEJrODctcTRnQ3RDMGxVVXYwTC1DQnZDcDcxUFdvTk85YTg1aGs0NGEzT0RTbUVEMV9icU1pSnd3ZF9oc3pmSTdTRXItRUxzUW8xZUItTmNh?oc=5",
+      "excerpt": "2018年列出的那35项卡脖子技术，7年过去了，我们闯到了哪一关？ Sohu",
+      "publishedAt": "2026-09-05T05:10:40.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "撞墙学走路……中国北京出现全球首家“机器人幼儿园” - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xQUxnZHlwX0VoMGpMdGR4ODR3d2xkdTZOYXdvSnNMRmpvMVg0dWt2N1VPOUhTbElHSmltNFU4dDdFOW8ySm1ONVdWNUEycHY0cU9ycHJQaGVrS2RPVHpONWpyR3Y?oc=5",
+      "excerpt": "撞墙学走路……中国北京出现全球首家“机器人幼儿园” 아시아경제",
+      "publishedAt": "2026-09-02T05:17:21.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
     }
   ]
 }

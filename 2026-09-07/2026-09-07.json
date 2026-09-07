@@ -1,0 +1,40 @@
+{
+  "hero_headline": "触觉全栈产品亮相，人形机器人走向家庭场景",
+  "daily_overview": "今日产业动态显示，触觉传感正走向全栈平台：他山科技展示多模态触觉方案，并与学界探索自主进化；帕西尼通过合作切入机器人本体。同时，人形机器人被观察到进入客厅、厨房等现实场景。感知硬件、操作学习与整机部署同步提速，物理交互正成为智能化进程的关键拐点。",
+  "tech_briefs": [
+    {
+      "title": "他山科技全栈触觉产品亮相HICOOL 2026",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUgzVlBwNlV6N1RjYTV2UF9hODFUejNfTkozVkRmYXAyeW5FbVFzZTRvT3J3YUl6YVVjQndzT2RaS29TbGttQVY4eW95TnlkOFhQTHBaejdHQTUtVmU1ZzZEd21uenhUNVF5bFpDMTMyOXhkTldHV19PZnBzMFM2RFpXNWlOQml0?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "他山科技展示全栈触觉产品，涵盖多模态触觉感知与电子皮肤方案。公司联合强化学习先驱萨顿教授，探索触觉数据驱动的具身智能自主进化路径。触觉传感作为物理交互的核心入口，其全栈化与自监督学习结合可能拓展机器人操作能力边界。",
+      "importance": 9
+    },
+    {
+      "title": "智在无界与帕西尼达成全面合作",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdFlBV2RMazAyQUZZcmtJQ1ktOGRhYXhYS1BCbzl6R0REMjQtWVNlQ3EzODBTM2Z5Y0xNbVlibTgwRXpyS2hzTEg1T0hhalpySE9UN3pkSGljMEJGZjUzcG1FQnNoTXU1VmRTZVRkMGVHT2JPNUhHbjQzYnhUTjdCQU1tamxpT2t0d2o3LXQ4S0w0UVRFNi01RUh3MTFEZ2Z5M2czd0NCUVh0TzlBMVAwTDBDSUh6eTFzdkEzUnBSWXJWZm9vWjIyX3hoYjFJRnpsNFlmOHhOS29KVFM1eklHZHB5dDhsZ2wzR1l6YnFtZlhSSHM1VXhUazhUY1ZPUms?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "智在无界与帕西尼宣布全面合作，将触觉传感器方案引入机器人零部件设计。合作目标是推动整机感知与执行结构协同优化，缩短从样机到量产的链路。触觉传感正从部件层向上延伸，与运动结构融合以提升灵巧操作的闭环控制。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "人形机器人走进更多应用场景 世界机器人大会",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPelI4RXVXVzd5Q2ZMclkxTmVvYVhtRk9zb2g2TGFFWU50UHVqcklHYndaT19UZ0w1TGw3V1NZSWNPUGxzck1lOFRLcnpZMV9vU0ZwcnBrOGRkVWRTVERnRy13ZnpYOTNKWEltX0VnVXpSWWZPd0NiQnJmT2NadUlrb19tanJOZHUtTUxiVkVKQVJnMkxyb2ZzNG1DV1c3QlVzblFzVEs4RFJjblhwT0xnT0VR?oc=5",
+      "source": "Google News｜世界机器人大会",
+      "summary": "世界机器人大会相关报道指出，人形机器人正从展厅走向客厅、厨房等真实场景。应用面扩大对末端执行与力/触觉感知提出更高要求。场景渗透反映具身智能商业化由专用向通用过渡，是感知—决策—行动闭环落地的关键信号。",
+      "importance": 8
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "触觉部件与机器人本体的连接正在加强，家庭场景的渗透则检验可靠性。短期看合作展示增多，长期取决于规模化降本与数据闭环。",
+  "keywords": [
+    "触觉传感器",
+    "全栈触觉",
+    "电子皮肤",
+    "具身智能",
+    "人形机器人",
+    "帕西尼",
+    "家庭场景"
+  ]
+}

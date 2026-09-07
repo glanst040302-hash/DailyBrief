@@ -1,24 +1,6 @@
 {
-  "collectedAt": "2026-09-07T04:55:15.168Z",
+  "collectedAt": "2026-09-07T10:09:57.118Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "报告：机器人六维力传感器实现国产主导切换，头部厂商市占率突破80% - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTWhacUdFOTBwbUZYQTdyQTNjTE5pa0U4UF9sLWJUQmxYdU1rQUYwMGdOanlQNUh4ZzI4VGh0b3lJUENTZW5DUTZWbW83Mmc?oc=5",
-      "excerpt": "报告：机器人六维力传感器实现国产主导切换，头部厂商市占率突破80% finance.sina.com.cn",
-      "publishedAt": "2026-08-31T06:44:46.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "报告：机器人六维力传感器实现国产主导切换，头部厂商市占率突破80% - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQalN5Q0pNczQ1emluVUM3WG14TTU4RGY0RzJ3b0Q1cTdnVF9GUTFlU0dJUTdULWNkNDYtVUFOMlR1RVhQU2pua3Q5WjRZMjZOZmFiMFN6aDZhWEx0b0IzZlMxb0NTcm9TQjVDeXlKQVl1MEJYMkljcS1XWXQ2U0hGTDBrampra0VZaHYzUFpoUDZoR25vYmdYQWIxaVc3T01jZnc?oc=5",
-      "excerpt": "报告：机器人六维力传感器实现国产主导切换，头部厂商市占率突破80% 富途牛牛",
-      "publishedAt": "2026-08-31T06:48:22.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
     {
       "sourceId": "tactile-news-en",
       "title": "FibTac : a fiber-based pneumatic gripper with embodied tactile sensing - Nature",
@@ -66,28 +48,10 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "CCID赛迪《2026年中国人形机器人六维力传感器市场调研报告》深度解读 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XaW5vTXpxbXR1MmJaQWpDVWVSa0NVYUNyQV9LMHhuX2k2ai1TaXdIb0t2MUVBdy1fcC02YUxOQ2VoSlI5ZWZ5V1VDWWctenZrTzVuajY2UzJvT0VWVUE?oc=5",
-      "excerpt": "CCID赛迪《2026年中国人形机器人六维力传感器市场调研报告》深度解读 中华网",
-      "publishedAt": "2026-08-31T07:44:30.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项 - 雷峰网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80bVMtVjBVaDJkbElaNGVwcjZuSndsVkotdEdFNWh5N0VGdFZTd1ptLTVqY3hVWUozMGc1MXZXT3pVeVJlRWJQSDU3ZFV5aVJTckg5TmdkZ2hIWW1sZmxDZnZfVEtKekxYeTJUbmpn?oc=5",
       "excerpt": "对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项 雷峰网",
       "publishedAt": "2026-08-31T12:49:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "80%市占率背后：国产六维力传感器撑起人形机器人量产核心感知底座 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81dXVsall4NXlzY18xeDFMSUs5SDh1djd5d0RZNkc4M3RyeElKVTAxckFfVm1zZC1BWW1kRXdsTnRnNmRzdGg3bXBKVEszdFUtSEYzdTREeDV3Y3Q1a1Z5NjBsN3MxLW1UWG5LaG1YTzBTX2dqdXBR?oc=5",
-      "excerpt": "80%市占率背后：国产六维力传感器撑起人形机器人量产核心感知底座 新浪财经",
-      "publishedAt": "2026-08-31T06:50:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -106,24 +70,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91amVIT0xfUmh1Q3NiejUwalpmR2FkdFpmQk9MUlRJOXJYdFQxOU9rZkFGQk9ZMHVYeGRVNzhjYW1TblFpX0NZekxvYWswYjN6Mjk1TXhHUlJiOE5WNnpvSzNFRk52Zw?oc=5",
       "excerpt": "智元机器人第2万套MEgo交付；机器人六维力传感器实现国产主导切换｜数智早参 mrjjxw.com",
       "publishedAt": "2026-08-31T23:00:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "一个机器人捏碎了面包，但评分系统说它成功了 - techwalker.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UN3NfZVVtVzhZM2RNckxVX0tJUEhFa3hzejUwVXM4S0R5dEl2R1doeFhUQUFDQjFvT0tOUy1ObHRSYm12WTBSQV85ZXM4S21YX2pBNjFpaDBJTlV3b0Nn?oc=5",
-      "excerpt": "一个机器人捏碎了面包，但评分系统说它成功了 techwalker.com",
-      "publishedAt": "2026-08-31T06:10:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "常州郑陆一企业给机器人造“皮肤”，公司客户覆盖宁德时代、比亚迪、小米汽车… - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02WS1ZTk9UM056SFNLTTQxTDlWN0I5YUxlNEtFUWM4SEpoWVdzZzFNTkF4Y3FFZk85Mlk5d0xYakt0N3Jfd09Od1lQQ0xaNEdETDBWRWpRMEhpb0ZPN2lBN29MYlZCejhqTTVMckJaNEJnbmMtN0E?oc=5",
-      "excerpt": "常州郑陆一企业给机器人造“皮肤”，公司客户覆盖宁德时代、比亚迪、小米汽车… 新浪财经",
-      "publishedAt": "2026-08-31T08:09:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -162,15 +108,6 @@
       "publishedAt": "2026-08-31T18:46:48.000Z",
       "category": "finance",
       "source": "The Robot Report"
-    },
-    {
-      "sourceId": "openai-news",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "excerpt": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
-      "category": "politics",
-      "source": "OpenAI News"
     },
     {
       "sourceId": "tactile-news-en",
@@ -243,33 +180,6 @@
       "publishedAt": "2026-08-31T12:49:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "Anomaly Detection on Small Industrial Components via Vision-Based Tactile Sensing",
-      "url": "https://arxiv.org/abs/2608.30506v1",
-      "excerpt": "",
-      "publishedAt": "2026-08-31T09:40:35.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "SpectraTac: A Compact Camera-Free Optical Tactile Sensor with Distributed Color Sensing",
-      "url": "https://arxiv.org/abs/2608.30368v1",
-      "excerpt": "",
-      "publishedAt": "2026-08-31T07:25:51.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "Data-Centric Neuromotor Interfaces for Portable Human-Machine Interaction",
-      "url": "https://arxiv.org/abs/2608.30301v1",
-      "excerpt": "",
-      "publishedAt": "2026-08-31T06:17:46.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
     },
     {
       "sourceId": "robot-report",
@@ -353,29 +263,11 @@
       "source": "OpenAI News"
     },
     {
-      "sourceId": "openai-news",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "excerpt": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
-      "category": "politics",
-      "source": "OpenAI News"
-    },
-    {
       "sourceId": "tactile-news-zh",
       "title": "鹿山新材与金三智能、华拟智能达成战略合作 电子皮肤产品切入仿生机器人应用 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tel9QTVdxcEg2VFZ2QVBCODg2c2wxeTNhRVVjSU5wdjByb2o2UzBuY0ZzRENUUlh4Z3p3U2lodEJVNV92bjMxbTlib25Od0Jlallsdk5LWWFGOGh6M3p1Qm5HNXFZUQ?oc=5",
       "excerpt": "鹿山新材与金三智能、华拟智能达成战略合作 电子皮肤产品切入仿生机器人应用 东方财富",
       "publishedAt": "2026-08-31T13:42:01.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "机器人六维力传感器行业前三厂商合计占据92.8%的市场份额 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51UV9kd1ZQRVl4bEUyQ1hQQVcyN19Mc1N1TmpRQnFHUlIzRE9SS0JwcjBrSUxKQTN2NHVzaWZ5R2FBV0MwTUJlWHJmendmakRGb2ppQVNuRDJ5ak9OYWlWSHp4QndhcThleXRFeW9mTGkxVjdOQXItT0tBR1JNY00?oc=5",
-      "excerpt": "机器人六维力传感器行业前三厂商合计占据92.8%的市场份额 新浪财经",
-      "publishedAt": "2026-08-31T08:13:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -540,15 +432,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96ajlROU1lVkpXaUo4cVJPSkJfbUxGOTRGZmpGeW11R0VQTXFSX05SU2JobzdaSm9TekdqYXVmQy1aQ2htSmJmY3k1M2hKMElGMjUxaktWOElLTmdhUFoxejJtTWZySzUyOWk0TmQ5Z1c?oc=5",
       "excerpt": "他山科技全系触觉产品亮相HICOOL 2026全球创业者峰会，探索具身智能“自主进化” 中国科技网",
       "publishedAt": "2026-08-31T13:38:17.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "80%市占率背后：国产六维力传感器撑起人形机器人量产核心感知底座 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2x2TjlidUxuQVA5OXhmOEFLd1FSN0g0SlhGMl9ra0tNYXdhQWdQOTl4aVVxYWVCbDZPNmxubVRfUUV2d1RqYzFMUXJZWWRucUZUVG5qaFVYMGp4NHhVaXVDTkttcHYyeFRSc2VoSDhvcXY4T3NiYU1iMHpjX2NCZl9Wdm1IcWF5YnIxMQ?oc=5",
-      "excerpt": "80%市占率背后：国产六维力传感器撑起人形机器人量产核心感知底座 Sohu",
-      "publishedAt": "2026-08-31T07:25:19.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -1222,15 +1105,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "港科大百万奖金创业赛首次落户上海 以赛促创 沪港合作培植本土硬科技 - shio.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmlKeXowUjl5NHk5U0ZMaDg2UFJ3X25USUxFMThyX0d6WkRPSENDaGM0Znc2MEVmRXljRUgzYWJGeHhFckFZNmdUR2haN0NSajRVWEJBTV9fZE9jbzlKSmNQWFpCRXJva194Y3FZVENZbXVGSS1YR3hXYVF1QnZ3dWQtRU1Ob2R2dTgyWGNXd21YRVFBNGg1TU9n?oc=5",
-      "excerpt": "港科大百万奖金创业赛首次落户上海 以赛促创 沪港合作培植本土硬科技 shio.gov.cn",
-      "publishedAt": "2026-08-31T07:43:21.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "9 月 2 日股市个股利好消息汇总|惠天热电|盈趣科技|鹿山新材|金三智能|华拟智能|比亚迪股份|远东股份|行云科技|200mw风电项目|all in ai|电子皮肤产品|仿生机器人|2026年8月新能源汽车销量44.03万辆|智能电池储能|算力ai业务|2026年上半年营收同比增长497.11%| - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iNW9fZEtuXzFBdEczNjhiNmVmbmNvay1MZl9SS3FVdjJUeF9uTFA3Y2RZRUZOQU5panV5dnk4Vy03Z2pvSGlJcHVWdlJ6X2dxZ2ZEbkVwczBNSXJFQ2hiRGlwMA?oc=5",
       "excerpt": "9 月 2 日股市个股利好消息汇总|惠天热电|盈趣科技|鹿山新材|金三智能|华拟智能|比亚迪股份|远东股份|行云科技|200mw风电项目|all in ai|电子皮肤产品|仿生机器人|2026年8月新能源汽车销量44.03万辆|智能电池储能|算力ai业务|2026年上半年营收同比增长497.11%| 新浪网",
@@ -1254,6 +1128,61 @@
       "excerpt": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes placed in a shared world frame, as required by downstream applications such as gaming, AR/VR, simul",
       "publishedAt": "2026-09-04T00:00:00.000Z",
       "meta": "👍 2",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "2025年度18胜电竞官网：AI机器人技术突破引领行业变革 - 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EaDJ2UUVmS09Pck5TX3REYUlWZlkzSnhiS3dOQkVkRW5PMWxaaUlhWl9LMnVOZjYyYUV2TVNfNk42OXMyd1drR2pRT3c?oc=5",
+      "excerpt": "2025年度18胜电竞官网：AI机器人技术突破引领行业变革 体坛",
+      "publishedAt": "2026-09-07T02:22:32.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "智在无界与帕西尼达成全面合作 - gasgoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdFlBV2RMazAyQUZZcmtJQ1ktOGRhYXhYS1BCbzl6R0REMjQtWVNlQ3EzODBTM2Z5Y0xNbVlibTgwRXpyS2hzTEg1T0hhalpySE9UN3pkSGljMEJGZjUzcG1FQnNoTXU1VmRTZVRkMGVHT2JPNUhHbjQzYnhUTjdCQU1tamxpT2t0d2o3LXQ4S0w0UVRFNi01RUh3MTFEZ2Z5M2czd0NCUVh0TzlBMVAwTDBDSUh6eTFzdkEzUnBSWXJWZm9vWjIyX3hoYjFJRnpsNFlmOHhOS29KVFM1eklHZHB5dDhsZ2wzR1l6YnFtZlhSSHM1VXhUazhUY1ZPUms?oc=5",
+      "excerpt": "智在无界与帕西尼达成全面合作 gasgoo.com",
+      "publishedAt": "2026-09-07T05:06:14.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "HICOOL 2026｜他山科技全栈触觉产品亮相，携手萨顿教授共探具身智能“自主进化” - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUgzVlBwNlV6N1RjYTV2UF9hODFUejNfTkozVkRmYXAyeW5FbVFzZTRvT3J3YUl6YVVjQndzT2RaS29TbGttQVY4eW95TnlkOFhQTHBaejdHQTUtVmU1ZzZEd21uenhUNVF5bFpDMTMyOXhkTldHV19PZnBzMFM2RFpXNWlOQml0?oc=5",
+      "excerpt": "HICOOL 2026｜他山科技全栈触觉产品亮相，携手萨顿教授共探具身智能“自主进化” Sohu",
+      "publishedAt": "2026-09-07T07:12:54.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "2026世界机器人大会举办人形机器人落地成核心看点- 业界 - 亿邦动力网",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1UlZDajBabUFFR3c1UmJPTnhxVGRlWUUyZFdVRW9YbXo0dFVyTWozYnJHMk5wNDY0N2R6WmRaS3F0Q29rWkE?oc=5",
+      "excerpt": "2026世界机器人大会举办人形机器人落地成核心看点- 业界 亿邦动力网",
+      "publishedAt": "2026-09-04T07:15:42.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "当人形机器人走进更多应用场景|世界机器人大会|光明日报|环球网|客厅|厨房_手机新浪网 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPelI4RXVXVzd5Q2ZMclkxTmVvYVhtRk9zb2g2TGFFWU50UHVqcklHYndaT19UZ0w1TGw3V1NZSWNPUGxzck1lOFRLcnpZMV9vU0ZwcnBrOGRkVWRTVERnRy13ZnpYOTNKWEltX0VnVXpSWWZPd0NiQnJmT2NadUlrb19tanJOZHUtTUxiVkVKQVJnMkxyb2ZzNG1DV1c3QlVzblFzVEs4RFJjblhwT0xnT0VR?oc=5",
+      "excerpt": "当人形机器人走进更多应用场景|世界机器人大会|光明日报|环球网|客厅|厨房_手机新浪网 新浪网",
+      "publishedAt": "2026-09-07T01:49:44.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2609.02780",
+      "excerpt": "Streaming video understanding is a critical capability for real-world applications, including embodied intelligence, autonomous driving, industrial monitoring, surveillance and early warning, and wearable assistants. However, processing continuous video streams with multimodal large language models ",
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "meta": "👍 1",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
     }

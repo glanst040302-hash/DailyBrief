@@ -1,42 +1,6 @@
 {
-  "collectedAt": "2026-09-06T10:50:10.818Z",
+  "collectedAt": "2026-09-07T00:18:17.299Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "“力小了会脱手，力大了会捏碎”|世界机器人大会|中国新闻周刊|灵巧手|机器人|触觉_手机新浪网 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGZ1YnA2ZzJfRjdJTWxyWHA3V1dSaWMySDlTQWZiRmc0Y0tjTktyMHJvckM5NTRDYlJnNkU3cHJXVWxfcDE4Wno5ZVRQVl9DQTdjN1JDdVhraVZ2R0ZWa0tfSVZ6MmFNZDVHb3p1bVBxeUE3ZVNjc1pWUXBxRXh3TlNjTVc2NnlIYWMxRnA1dVVuVEt2UC1EaDluNkNKdExnaU9lNWpqTHhMN2ZDZGc4Yk5B?oc=5",
-      "excerpt": "“力小了会脱手，力大了会捏碎”|世界机器人大会|中国新闻周刊|灵巧手|机器人|触觉_手机新浪网 新浪财经",
-      "publishedAt": "2026-08-30T12:40:38.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "港科大“百万奖金创业赛”落户上海，在长三角下了盘硬科技大棋 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mZTVtY3NuZmZHUExVY1VLTnh6Um5na0IybG0yWkVuX3pZV255Tm1ncWc2RmR0a3ZCSjNLY0lCQWpNdFg3aTh5bjVpTkZyWGZfLWI5a3R0bnVnd0Jp?oc=5",
-      "excerpt": "港科大“百万奖金创业赛”落户上海，在长三角下了盘硬科技大棋 上观新闻",
-      "publishedAt": "2026-08-30T12:41:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "The edge AI wall: Why embodied AI requires new mathematics",
-      "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics/",
-      "excerpt": "Computational overload is not a bug of a specific planner, but an edge AI wall limiting physical and embodied AI. The post The edge AI wall: Why embodied AI requires new mathematics appeared first on The Robot Report.",
-      "publishedAt": "2026-08-30T12:45:51.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "80%市占率背后：国产六维力传感器撑起人形机器人量产核心感知底座 - 环球网",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvTm5pRmc2UEJQUzNRdmlNMXRDQ2tIQV9zNXJlRWM3OGxPNzJmZl9EREJuWFRoWDhUYURZWHUxeVVVSGxvZkd6U0JqdzNhQVRiOGtBQ0pmY0VCb2s?oc=5",
-      "excerpt": "80%市占率背后：国产六维力传感器撑起人形机器人量产核心感知底座 环球网",
-      "publishedAt": "2026-08-30T15:47:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
     {
       "sourceId": "tactile-news-zh",
       "title": "半年报里的探索：福莱新材开始给电子皮肤“建组织、定指标” - 搜狐网",
@@ -52,15 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTWhacUdFOTBwbUZYQTdyQTNjTE5pa0U4UF9sLWJUQmxYdU1rQUYwMGdOanlQNUh4ZzI4VGh0b3lJUENTZW5DUTZWbW83Mmc?oc=5",
       "excerpt": "报告：机器人六维力传感器实现国产主导切换，头部厂商市占率突破80% finance.sina.com.cn",
       "publishedAt": "2026-08-31T06:44:46.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "报告：机器人六维力传感器实现国产主导切换，头部厂商市占率突破80%_财经_24H快讯 - bihainews.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04eDNqNVZyRzhIYy1SeHE3ejV3MWczY3ZHSjdYRXlJdkVHM1VWTXRrMUZ4WGJDWGxoYkhkX3hPMExuZmxDb05vMkttOEdobEd6WTRrWWZGUERwa21jMHJYS2xEbkRfdw?oc=5",
-      "excerpt": "报告：机器人六维力传感器实现国产主导切换，头部厂商市占率突破80%_财经_24H快讯 bihainews.com",
-      "publishedAt": "2026-08-30T15:51:02.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -407,46 +362,6 @@
       "source": "The Robot Report"
     },
     {
-      "sourceId": "huggingface-papers",
-      "title": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
-      "url": "https://huggingface.co/papers/2608.30821",
-      "excerpt": "Composable scene modeling aims to recover a real indoor scene as complete, editable object assets arranged as observed, giving robot simulation and embodied AI a simulation-ready replica of the real environment whose objects can be manipulated individually. Existing pipelines decompose the task into",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "meta": "👍 70",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
-      "url": "https://huggingface.co/papers/2608.30935",
-      "excerpt": "Embodied navigation requires agents to translate heterogeneous goals and visual observations into actions across tasks, environments, and robot embodiments. Modern vision-language models (VLMs) already encode spatial priors for visual grounding, spatial reasoning, and pointing, but these capabilitie",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "meta": "👍 24",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Lies We Can See: Joint Verbal and Non-Verbal Deception by VLM Agents in Embodied Social Interactions",
-      "url": "https://huggingface.co/papers/2608.30428",
-      "excerpt": "Strategic deception by LLM and VLM agents has emerged as a central AI alignment and safety concern. Social-deduction games (where each player holds a hidden role and communicates with others to deduce identities) serve as the canonical testbed, particularly in multi-agent settings. Existing testbeds",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "meta": "👍 11",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Scaffolding Foundation Models into Physical-World Agents Pushes the Frontier of Long-Horizon Navigation",
-      "url": "https://huggingface.co/papers/2608.30396",
-      "excerpt": "Long-horizon physical-world agents must reason over distant goals while grounding decisions in reliable closed-loop behavior. Today's foundation models split these capabilities: vision-language models (VLMs) infer missing information and adapt high-level plans but remain brittle and inefficient at r",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "meta": "👍 6",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
       "sourceId": "openai-news",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "url": "https://openai.com/index/path-to-astra",
@@ -574,16 +489,6 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training",
-      "url": "https://huggingface.co/papers/2609.00188",
-      "excerpt": "Robotic manipulation faces a fundamental scaling challenge: robust generalization demands broad physical experience, yet action-labeled robot trajectories are expensive to collect and inherently limited in diversity. Egocentric videos offer a far more scalable source of embodied experience, capturin",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "meta": "👍 39",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching",
       "url": "https://huggingface.co/papers/2609.01404",
       "excerpt": "Multimodal Large Language Models (MLLMs) are strong perceivers of images and video. We ask how far that reach extends into acting: dropping an MLLM directly into a drone's control loop, with its entire action space declared solely in the prompt. Recent systems approach this setting but increasingly ",
@@ -707,15 +612,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQW9rZWYwUVNYaDdNbS00OFBPOUxIdWhWaXNManNCNVFJaFI3SERVT2h1LTNpdDdzV1NuTFlIOEZiSC0wX1hxX1o3S0JERTdrTlVjZjJmcEhDNzhsZFBXSENiQmRjMzc5UHhKM3NMNWZ3S2Z5R2g5SjdwVGpaRVVSaVkyVUp5dUdOTmlDMg?oc=5",
       "excerpt": "福莱新材向灵心巧手批量交付超3万套触觉传感器 Sohu",
       "publishedAt": "2026-09-01T09:38:26.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "港科大百万奖金创业大赛首设上海赛区，硬科技项目寻找长三角落地点 - shobserver.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQkJEUHA1em1pdkNHSEdSVV8wSlotYy1sMlgtRTdpMkV6SklROVhOazJ5WkJhek5zTzBTSzNNcVlCUUZ5cHpBdTZCR3dUQnFNR3FKT3FHLWNldUNRdWhUc09WU0I4ZVNoZnduVEl1ejBQVEZiTmRYRzNzTWVOYzVLV083TllHcS1qLVE?oc=5",
-      "excerpt": "港科大百万奖金创业大赛首设上海赛区，硬科技项目寻找长三角落地点 shobserver.com",
-      "publishedAt": "2026-08-30T11:32:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -915,15 +811,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3UHI1UW14a29DZFg5LVpNY1FHMVJ2Y1d2UUhKUWhvRGVrUE13bmMtVDFOQVJQZmxGU0xVVWczaElteS1Gc3dfMVB5NmJHWDk1WWww?oc=5",
       "excerpt": "仿生柔性驻极体触觉传感器，实现自供电与自校准触觉成像 电子工程专辑",
       "publishedAt": "2026-09-04T23:11:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "“力小了会脱手，力大了会捏碎” - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LRTVEZmZXanVoRlNHNG15cHV1TmlPaUNmMGVBMzRFNVduS3dLMlRVMHRkWC1JWFV2N0hYSWZtWE90OUZqbll0X1FoTlRMM0Q4X2N4U2RqQXpBZURCTjVlR0MzaXZhZWY5T0ozbjNmUnZkRExRRU9fODVkUTA?oc=5",
-      "excerpt": "“力小了会脱手，力大了会捏碎” 新浪财经",
-      "publishedAt": "2026-08-30T12:09:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -1278,6 +1165,123 @@
       "publishedAt": "2026-09-05T20:40:10.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "千觉发布整手触觉解决方案2.0，补齐从局部感知到整手交互的关键能力 - shobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PRXh3aV9CV0FZOWFfLW93RlZxWnpyWnE0RTdBaTVvX2ZtaHExY19uN3JwTDJ4X1c3UDNCRGJ6WEJXdUF0MWRRcmQwTlRLR0ptcEJmZnM4R0ZQV3RUNXc?oc=5",
+      "excerpt": "千觉发布整手触觉解决方案2.0，补齐从局部感知到整手交互的关键能力 shobserver.com",
+      "publishedAt": "2026-09-01T02:08:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "西安高新区万豪酒店[拾光之旅・秋日派对]菜品品鉴会圆满举办 循四时秋序感受时节之美 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMi7wVBVV95cUxQMy1HUXBBRmNoVWc3alVraXRjR1d3Z05oMmxiRjYxa1Y3R2JMNjI2NFprT0R3ZWRBcF9qSXRyY0d3cFg2emd5bUhhUElydUlsQnZaamVGUUpSN0pCejNoZkVWZEJxY0pCLUtpYjNlZHdZWkFtc0JYc3hGSC1uVmZVdGw4cnF0VllTU2ZFRTRPdE1NRkRtWVI1cU9JbHlEM1hRckhOM1hYajVwWS04QVlzVGxGUG9iQk1EcjI0Nm43THdDVmNZSVF1Rk1EU29WYlNpN2xNZl85UTFaSzdZbWhFLVZsVnNidG1CRlk1LUI4S0FjT3hrZFZ6MTZ0NnVFdXh0amtJb3c0b19ld1hJaThvQ1JoSklscHZIdVllbFBRN2ZFVHRrTjNzczRleU5PNjg2NWNNOHdPeVRJenFnaXV6d194Z2tHYlc4ektzTV9DVlJrLWV0dFNtZ0Q2OHc5Q1NhZE9EZEhndndMT1hvbGhHd0d0SEpPX1BtSFctM053M0o5MjFTV1MtMjFTU0JFVUxmUGNreUxHX2hGclBPZzVVZkZjT3BrS0ZlbEg1TVRPMGh5RXlhejVsQnFQRDZSVzJpRWVER2lnVm5DWTlsOWdPY05RNnJfT0V0Z2kzQlZsVURSbS03dVg1NmFrZlhScXo5eFEydGZuaC1YdVRVSWdWQzJSSTlEZV9wU0VhZ1hZMEZNSUtHNUVwdGFrcmtjMWdmVm5QcHZvNGh6RXN6b0JvUlhrSUVqM1N0c3pvNW5IcExtN1pma2d0aVRNTFZQSHU3YWVLaWpfMlZkeHBHTGk5LTFpYUEwQzRsdllSODMwQXVOaDlyZzhlbm9EWGhWTlNxUlc0QXI1dzlxcmxITlhYdkliZ29ZbDNfZTNON2ZrU3RtMnk0WmlueGNZMjFlX2luamdQSVV0X2pRMVZKTGVyU3ZKVW9TaUMwRVRiN2hJM1JDaW5BM3c4dUl3cERSMHh5b2hwWXd4S0FwcXFrVnMw?oc=5",
+      "excerpt": "西安高新区万豪酒店[拾光之旅・秋日派对]菜品品鉴会圆满举办 循四时秋序感受时节之美 新浪网",
+      "publishedAt": "2026-09-02T05:59:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "全球首个多模态物理交互引擎环球APP首页发布重塑数字娱乐体验- 体坛网_体坛+ - 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9faGhtdml6NVNha1ZrTXVwbUFHanhzOFJac3N2dTNfVXlBWEcwbDdoSC1XcjllVHpLWTJObVlvUjR1X2tWWEdEYzFxMG5Ccmh0QmI5VTU2RjhacUtUZHBEZk5Paw?oc=5",
+      "excerpt": "全球首个多模态物理交互引擎环球APP首页发布重塑数字娱乐体验- 体坛网_体坛+ 体坛",
+      "publishedAt": "2026-09-06T10:26:53.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "泛亚微透半年报：核心产品放量新产能加速释放_股市直播_市场 - sc.stock.cnfol.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpd213TW9KMHVIYUlUdlVQYU9KSzA4N25NLVZjbDRQNzYtNXBiamlhZ2d4WVNkNWxRU21OQkdsMVU1dGVyWnBfZWYzY2ZRbFRvcmJJVlljQlB5M180cVRsdTdWdEwyX21vcVAzOQ?oc=5",
+      "excerpt": "泛亚微透半年报：核心产品放量新产能加速释放_股市直播_市场 sc.stock.cnfol.com",
+      "publishedAt": "2026-09-04T02:12:12.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "杏盛平台注册登录正式发布：引领AI助手新纪元，智能交互再升级 - 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yaS01V2tNVFk0TVJSRTNHQkkzQnhyZjY0WndRQWRSbW5zUVNJMjVDZjJTN2RqTUQ3by1aQ3N2eTFqeXBWMTdtcTAyQzBhdnI0?oc=5",
+      "excerpt": "杏盛平台注册登录正式发布：引领AI助手新纪元，智能交互再升级 体坛",
+      "publishedAt": "2026-09-05T01:57:55.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "比亚迪与帕西尼签署合作协议，推进工业机器人应用_车市动态 - 中金在线",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wMjd4QjVQS1FETXdicG9HcVdWYlQwbldHQk9Hei1vQnpmcW80WGVHRVZhVzEyV245ektWbjgzOUhTdTFUa05keWRaSnhLcThOSm1PVDh6cVVJRHVVNzV6Wnh6Sl9ZYUhuSjlv?oc=5",
+      "excerpt": "比亚迪与帕西尼签署合作协议，推进工业机器人应用_车市动态 中金在线",
+      "publishedAt": "2026-08-31T11:13:17.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "张华在2026世界电子产业峰会首提‘智能娱乐生态’，宣告信德APP引领行业新范式_体坛网_体坛+ - 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMG5GZFVTM0c3dkdBNFZ2Z29WRUp4dzFhMDFJcEZsWnYzMG1rNzNxWWdIaDJ6Q2NIdUM3eXRRenFLbjNnUzlsby1DRVBMRDMw?oc=5",
+      "excerpt": "张华在2026世界电子产业峰会首提‘智能娱乐生态’，宣告信德APP引领行业新范式_体坛网_体坛+ 体坛",
+      "publishedAt": "2026-09-05T21:09:06.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "全场景沉浸之钥：YOBO18COM：重新定义游戏视界与交互体验- 体坛网_体坛+ - 体坛",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xay1sbkV3R1J1NHZRMXZIUmphQlllYzFYN0RnTnY3TzRYbXlabEpwSzBBSWstVTdJc3VINXpvaDM0U0VET3RZOGYtU1FLdlY0Mnc?oc=5",
+      "excerpt": "全场景沉浸之钥：YOBO18COM：重新定义游戏视界与交互体验- 体坛网_体坛+ 体坛",
+      "publishedAt": "2026-09-05T19:09:12.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "以“精微”见“广大”，杭州最年轻城区的具身智能卡位战 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamdwNXd4Q083d0tkTGpKYUw5WmxTVnU2RVFWNnVseUZnODQ0RE9mcDUta01wVWRnT0Z5OGpQM20yOHdncW9fTnRscndteVNwUm15TXN5a01sREI2NkhtYTFvUktmLWZfajNTM0pmcFRLVTFBaEhjS29xUmMtYzZEY0RsQkRPT2Fj?oc=5",
+      "excerpt": "以“精微”见“广大”，杭州最年轻城区的具身智能卡位战 Sohu",
+      "publishedAt": "2026-09-03T01:49:15.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "奥比中光：多维协同聚力，拓宽物理AI产业合作新边界 - t.cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00aHdsd3FhR3k3OHRqZWxGRFZMdWhDZWtIdGV3clIxQU9jMmpqOU9EU0tyQU5wdmFiNGVjdUVPX3otd3p3NWpWd1h2LU9Qa1ZOb3l3by0tSkl6aElLeHRUbUZ2M09feFpUN2V5MW1rTDY?oc=5",
+      "excerpt": "奥比中光：多维协同聚力，拓宽物理AI产业合作新边界 t.cj.sina.cn",
+      "publishedAt": "2026-08-31T02:11:39.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Eric Sivertson discusses FPGAs and robot security",
+      "url": "https://www.therobotreport.com/eric-sivertson-discusses-fpgas-robot-security/",
+      "excerpt": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security. The post Eric Sivertson discusses FPGAs and robot security appeared first on The Robot Report.",
+      "publishedAt": "2026-09-06T14:30:01.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Pressure sensors can help improve robotic gripping accuracy",
+      "url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
+      "excerpt": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking. The post Pressure sensors can help improve robotic gripping accuracy appeared first on The Robot Report.",
+      "publishedAt": "2026-09-06T12:30:17.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "excerpt": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "publishedAt": "2026-09-06T08:00:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
     }
   ]
 }

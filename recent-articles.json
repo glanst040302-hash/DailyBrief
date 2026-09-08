@@ -1,123 +1,6 @@
 {
-  "collectedAt": "2026-09-07T10:09:57.118Z",
+  "collectedAt": "2026-09-08T00:44:32.310Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-en",
-      "title": "FibTac : a fiber-based pneumatic gripper with embodied tactile sensing - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85Qk94ckNoTjhqZGEtSGZkVFpGZWx5bWdPYzNzWUF3ejhodnNWcFl1cFYtR0t5MG5JNnB2R04wNmx1LUFyOWdnUnJiLTNkc0NHWGhiODVUSnBlMDM0Um9B?oc=5",
-      "excerpt": "FibTac : a fiber-based pneumatic gripper with embodied tactile sensing Nature",
-      "publishedAt": "2026-08-31T10:25:08.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Rat-Inspired Whisker Sensors Could Improve Endoscopic Navigation - AZoSensors",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhZE5NYlo2UVh2SHo0UUNvQVZXbEFUUHpNMkZKb1BkVFFtMmR0TGt6Z3dpNXZOTnE1cHV1R1dyYUY3dC1CajA1UzNBYUFUV1lZUWJsdDNQLXgzSnBFOEE?oc=5",
-      "excerpt": "Rat-Inspired Whisker Sensors Could Improve Endoscopic Navigation AZoSensors",
-      "publishedAt": "2026-08-31T10:32:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "How technology is transforming China's vegetable powerhouse - Hortidaily",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSThSYjNXYWs5WVBnMWJveXh5dTRSSjZkUmQzejNqT0xRZWRoMmhQZGluSGhGYXJveDBiMXRWenhrckJlcGxEcTZDS0hYRmotSXZCRHpGa1IyQjBVcG0yRnlrYW5yNDJJak94V3NLNmdaRkRpTS0xbHNEdk53UlhkQnhqQU0tcFMzWDhnUzc3SjNRY0dDY3RTSW5RaEJiT0lVcUpiMk9R?oc=5",
-      "excerpt": "How technology is transforming China's vegetable powerhouse Hortidaily",
-      "publishedAt": "2026-08-31T12:29:03.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "奥迪威：公司参股的合资公司推出应用“柔性电子皮肤”的AI陪伴机器人 - eastmoney.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yclc3TmdPTEhTN1pET19aNGhlaXRhZzktcEd3bHpweXJxRXVGX2JmYjh4dVIyYTJlZXc4MGVOVzZpdFFjS05heEp3V0VIUWE3bjBGZEJlMjV4R0RvQTJDeQ?oc=5",
-      "excerpt": "奥迪威：公司参股的合资公司推出应用“柔性电子皮肤”的AI陪伴机器人 eastmoney.com",
-      "publishedAt": "2026-08-31T16:05:08.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "《2026年中国人形机器人六维力传感器市场调研报告》发布 - 电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RMzUyTjUzTWZhM0NhQzNzTEp0MzJhN2J6WmVUazA3TWNPZUhkWXVYU3pJV3FudThYa1g4ZXViR3h0cXd3VDUwQ0oxbHFVYU5rQWc4?oc=5",
-      "excerpt": "《2026年中国人形机器人六维力传感器市场调研报告》发布 电子工程专辑",
-      "publishedAt": "2026-08-31T23:11:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项 - 雷峰网",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80bVMtVjBVaDJkbElaNGVwcjZuSndsVkotdEdFNWh5N0VGdFZTd1ptLTVqY3hVWUozMGc1MXZXT3pVeVJlRWJQSDU3ZFV5aVJTckg5TmdkZ2hIWW1sZmxDZnZfVEtKekxYeTJUbmpn?oc=5",
-      "excerpt": "对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项 雷峰网",
-      "publishedAt": "2026-08-31T12:49:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "人形机器人六维力传感器市场实现国产主导，行业前三中国企业合计份额达92.8% - finance.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdG5hTDc5cDZiaGltOXk0c2hlTHpkcm14QnVVcmVvM2lXdEZyR1dJZ0FYbGp1MHB1dUtxaTZ1M3Q0Z3NLV2hVMEJSZ056WUZhUl8wYVhuUkZKem9nc2l3X1k0bVVmcXBibFlpYmlHVHlZYmJZWDNiX2wwNldjNHZpSmlhbG81TnRIVGlsOXBNZkhSenQ5SnBKTQ?oc=5",
-      "excerpt": "人形机器人六维力传感器市场实现国产主导，行业前三中国企业合计份额达92.8% finance.sina.cn",
-      "publishedAt": "2026-08-31T12:17:08.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "智元机器人第2万套MEgo交付；机器人六维力传感器实现国产主导切换｜数智早参 - mrjjxw.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91amVIT0xfUmh1Q3NiejUwalpmR2FkdFpmQk9MUlRJOXJYdFQxOU9rZkFGQk9ZMHVYeGRVNzhjYW1TblFpX0NZekxvYWswYjN6Mjk1TXhHUlJiOE5WNnpvSzNFRk52Zw?oc=5",
-      "excerpt": "智元机器人第2万套MEgo交付；机器人六维力传感器实现国产主导切换｜数智早参 mrjjxw.com",
-      "publishedAt": "2026-08-31T23:00:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "CMD放量、高性能线束贡献增量， 泛亚微透高端新材料平台加快落地 - 雷达财经",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTY0pZMWE0NHdGWmR3VHc0R1lxU0FpTERQM1BNQlB1Y2NDc0ZkMjNhdWlWenFkVkdHRlFCSmVKZkV5NHQwaU94Nmx4amlmZkk?oc=5",
-      "excerpt": "CMD放量、高性能线束贡献增量， 泛亚微透高端新材料平台加快落地 雷达财经",
-      "publishedAt": "2026-08-31T14:05:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Skild AI unveils S1 flagship robot foundation model",
-      "url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/",
-      "excerpt": "Skild AI says its S1 robot foundation model enables robots to learn new tasks just by seeing a video of it being performed. The post Skild AI unveils S1 flagship robot foundation model appeared first on The Robot Report.",
-      "publishedAt": "2026-08-31T21:14:08.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "How better grippers can unlock physical AI",
-      "url": "https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai/",
-      "excerpt": "Physical AI depends on smarter grippers to give robots the dexterity, sensing and adaptability needed to handle real-world tasks. The post How better grippers can unlock physical AI appeared first on The Robot Report.",
-      "publishedAt": "2026-08-31T20:20:25.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Reframe Systems raises $40M to scale its robotic microfactories for home building",
-      "url": "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building/",
-      "excerpt": "Reframe Systems aims to build a network of automated microfactories near communities where homes are needed. The post Reframe Systems raises $40M to scale its robotic microfactories for home building appeared first on The Robot Report.",
-      "publishedAt": "2026-08-31T18:46:48.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Humanoid robots gain a sense of touch, lifting tactile sensor adoption above 60% - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWlOeWFoeExScE5PcXhuQ3llRkFLSzVXV25RZklMdzMzRjBJeG0wZnNER3k4VllNUm9nbWw5alNxdHE2RTVLWWNwdjhmVHEta1VMaS03T0lZcHR3alhsdEJHWGdseHVGTEw0MFRTeXVNYnhkY0c1Mjhoc3hoM0RZUHlETU9abTA?oc=5",
-      "excerpt": "Humanoid robots gain a sense of touch, lifting tactile sensor adoption above 60% digitimes",
-      "publishedAt": "2026-08-31T23:38:26.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
     {
       "sourceId": "tactile-news-en",
       "title": "‘Robot kindergarten’ opens in Beijing, exploring self-learning beyond human-led training - globaltimes.cn",
@@ -156,28 +39,10 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "鹿山新材与金三智能、华拟智能达成战略合作 电子皮肤产品切入仿生机器人应用 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iYWVjWUFXRlRfNXFhanU5aWgzTmtOWW9QdFpWaDhRWXhWbUZsa1pCSnlLU1M1OTF5WHFSMnpLbEY5b1NTNEVvTnJVZWFXdnRSZnpERE5PRjlQWmlmTFBIZlNYeFg?oc=5",
-      "excerpt": "鹿山新材与金三智能、华拟智能达成战略合作 电子皮肤产品切入仿生机器人应用 东方财富",
-      "publishedAt": "2026-08-31T22:33:54.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "千觉发布整手触觉解决方案2.0，补齐从局部感知到整手交互的关键能力|上观新闻|灵巧手|机器人|指尖|掌心_手机新浪网 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWdZVzg1RGNLYVB3dGNKX1JsMXR5MUxNQ0toZkkxWkE0eWw5MlpSS2d3NEE4WVlyU0FGd3g4dlE1OXRHLVU2QTBNNEdQZy1GY25rcDMxWTNWX0M1cXVQVXFlaldteEdIYWhCU3RVYXMzTHF0bmZ3N2JhbnM3Nzd5aGp4Z1lxZnFqeUVhWmpyRnN5M2dXTHdON0QzRFdtZWluTTZtWWpvbw?oc=5",
       "excerpt": "千觉发布整手触觉解决方案2.0，补齐从局部感知到整手交互的关键能力|上观新闻|灵巧手|机器人|指尖|掌心_手机新浪网 新浪财经",
       "publishedAt": "2026-09-01T15:00:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUNvQS04WTFmOFNEV0UzT1Q0RHRxNWlYYXgtdEMtaEF6ZHhnbTI2WnlzZWJ4YWNIdEpJRW1FSElfcktFZFk1dXlxZk05Z1NURDZmZ1Zxc2wtaUtuZEdQRXFfZS10NDhxX1pZZFctTGJGc0ZvNTY2dzlNODlSdEtzeFRmY2JWV2pQ?oc=5",
-      "excerpt": "对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项 Sohu",
-      "publishedAt": "2026-08-31T12:49:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -236,15 +101,6 @@
       "source": "The Robot Report"
     },
     {
-      "sourceId": "robot-report",
-      "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
-      "url": "https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31/",
-      "excerpt": "Early bird pricing for RoboBusiness 2026, which saves attendees $200 on full conference passes, will end Aug. 31. The post Early bird pricing for RoboBusiness 2026 ends August 31 appeared first on The Robot Report.",
-      "publishedAt": "2026-08-31T12:41:56.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
       "sourceId": "openai-news",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "url": "https://openai.com/index/path-to-astra",
@@ -264,15 +120,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "鹿山新材与金三智能、华拟智能达成战略合作 电子皮肤产品切入仿生机器人应用 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tel9QTVdxcEg2VFZ2QVBCODg2c2wxeTNhRVVjSU5wdjByb2o2UzBuY0ZzRENUUlh4Z3p3U2lodEJVNV92bjMxbTlib25Od0Jlallsdk5LWWFGOGh6M3p1Qm5HNXFZUQ?oc=5",
-      "excerpt": "鹿山新材与金三智能、华拟智能达成战略合作 电子皮肤产品切入仿生机器人应用 东方财富",
-      "publishedAt": "2026-08-31T13:42:01.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "时间锐评丨北京首批机器人小朋友入园啦：真实场景才是AI最好的课堂 - app.myzaker.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YNXlGYXROTHhHOVVJOUI3OEVKLUdFbzNzR3FJN0VNek1rZWZGYUx5QkQzd2tOdWYzSWxkN2p3cmViWGl1WGJiZzBSUElHdHJzZVpFd2RfN09XRUUydk9tQzR6NU5FTE1KaDhWYzFoT3VKa2FlZ2x3?oc=5",
       "excerpt": "时间锐评丨北京首批机器人小朋友入园啦：真实场景才是AI最好的课堂 app.myzaker.com",
@@ -286,15 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ25Jd2JWQTJkVTRneVF6QXVoeENOU053dC1tdmVVdFFyU0hfYWNtUER3ZHdnZWgxd0htb2VNVFplek5vYmoteXR2N0JIZ2xPTGtsbDQ5ZVdkLUx4MG1IVWhXS0tDcjdibXBkNjNqNmRHTVZlVzBMWkt0VUE0TkhSVzQtU0xDWFRkQ1dkdQ?oc=5",
       "excerpt": "千觉发布整手触觉解决方案2.0，补齐从局部感知到整手交互的关键能力 sohu.com",
       "publishedAt": "2026-09-01T02:08:44.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "CMD放量、高性能线束贡献增量， 泛亚微透高端新材料平台加快落地 - 雷达财经",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fOHpwQkJCV2hENUI3NTJOMWsybnd4QzZxNlZiS2hrVzhTSzJQOU9kTTBaOFJlWWJlSGF0alUwdkQ3MjJQSU5HWVFzSzJXdw?oc=5",
-      "excerpt": "CMD放量、高性能线束贡献增量， 泛亚微透高端新材料平台加快落地 雷达财经",
-      "publishedAt": "2026-08-31T14:05:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -342,26 +180,6 @@
       "publishedAt": "2026-09-02T15:29:23.000Z",
       "category": "finance",
       "source": "The Robot Report"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching",
-      "url": "https://huggingface.co/papers/2609.01404",
-      "excerpt": "Multimodal Large Language Models (MLLMs) are strong perceivers of images and video. We ask how far that reach extends into acting: dropping an MLLM directly into a drone's control loop, with its entire action space declared solely in the prompt. Recent systems approach this setting but increasingly ",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "meta": "👍 21",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds",
-      "url": "https://huggingface.co/papers/2609.01453",
-      "excerpt": "Dexterous manipulation policies learned by imitation are typically evaluated for robustness to variation in scenes, objects, or instructions, but their performance across task execution speeds is less often examined. This leaves open how much temporal robustness a learner retains relative to the exp",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
     },
     {
       "sourceId": "ifr-industry",
@@ -425,15 +243,6 @@
       "publishedAt": "2026-09-02T07:22:59.000Z",
       "category": "tech",
       "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "他山科技全系触觉产品亮相HICOOL 2026全球创业者峰会，探索具身智能“自主进化” - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96ajlROU1lVkpXaUo4cVJPSkJfbUxGOTRGZmpGeW11R0VQTXFSX05SU2JobzdaSm9TekdqYXVmQy1aQ2htSmJmY3k1M2hKMElGMjUxaktWOElLTmdhUFoxejJtTWZySzUyOWk0TmQ5Z1c?oc=5",
-      "excerpt": "他山科技全系触觉产品亮相HICOOL 2026全球创业者峰会，探索具身智能“自主进化” 中国科技网",
-      "publishedAt": "2026-08-31T13:38:17.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
     },
     {
       "sourceId": "tactile-news-zh",
@@ -681,15 +490,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "鹿山新材、金三智能、华拟智能三方达成战略合作 - cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sZ1ZNaklYdzI2TGVYUGVjcVJKMTJMLWhzSEhFRm1uUVRsRWxhYU8wYjlkcWY3UTFtd1dybXRnRU1Cb1V0UzktRF95cw?oc=5",
-      "excerpt": "鹿山新材、金三智能、华拟智能三方达成战略合作 cj.sina.cn",
-      "publishedAt": "2026-08-31T12:28:21.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "展會觀察：北京2026年世界機器人大會 手指應用為人形機器人下一突破重點 - DIGITIMES",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjNGR21sLXdmcm1mVU5GakppWXdCU0xiNGdnZDh6SUNZTUtZZnNQYmE5ZUlOd2V6czlpd1VzcVdVaWF6cUwxQUdOUXM2c2FlWklJVFRKSFU5UU5zdklZbFN6OWYzRUJSMXN2ZVpPdE1nRUp0VHlPOGR0XzkzRmRncQ?oc=5",
       "excerpt": "展會觀察：北京2026年世界機器人大會 手指應用為人形機器人下一突破重點 DIGITIMES",
@@ -784,15 +584,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EeVRpRFlUTGZzUlY3ZjF6M0djSE5kVlhEN2NENFoxSG1ic1Y5cHhmR0xmMWJJbFlFbDAzVTdLNDJFUjgtT1lCOUlKZGRDR1B0T1VEMV9Sd05VdUtqZk54R2F3?oc=5",
       "excerpt": "昨天涨停，今天封死跌停！人形机器人热门股紧急澄清 同花顺",
       "publishedAt": "2026-09-04T06:13:07.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "比亚迪与帕西尼签署合作协议，推进工业机器人应用 - gasgoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOc0dzc05yNXRuVVZIQ25oWmJMcmhadXRNV280bzBwTU5iVTEyYWJmQmVOeFhPSHdFU2liR0JGQ3NITTBlZEZWRmx0enhOa2RJdDUwTG9ZclcyUHdTSDNIeXV1OGxYRUk0eUdTSTJkZkY4T3NVZlBnNGpxakp5Y1NDdkZmUURIeDg1R1k1SnlUVy1EdmdYakcwa2hVOXF1TWtmdGlfU3dlaVZORXgxN19xMlRoaEJqSnpuSjNvc3AxUUNRc0h5SloxM0dnY0pzSjF0N0JGVWVPRUpIYXNQc2tOVkRCbkczbVJocXhmLS1PcHRjaEhaYUdxTG90Yzl1RlZhOE54b09MTzIyb3VsVDl3eTl3T1JCM0FscHdPSkNaMVYwVkZvdTEzc3kxQU1mTkJhRlJGaUwxa0RYUk5GUnBXdy1CXzlxMkVSWVViZFc4X1M0ejRRRVNmaEtaUm1FM0Zf?oc=5",
-      "excerpt": "比亚迪与帕西尼签署合作协议，推进工业机器人应用 gasgoo.com",
-      "publishedAt": "2026-08-31T10:22:31.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -1042,15 +833,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "比亚迪与帕西尼签署合作协议，推进工业机器人应用_车市动态 - 中金在线",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wMjd4QjVQS1FETXdicG9HcVdWYlQwbldHQk9Hei1vQnpmcW80WGVHRVZhVzEyV245ektWbjgzOUhTdTFUa05keWRaSnhLcThOSm1PVDh6cVVJRHVVNzV6Wnh6Sl9ZYUhuSjlv?oc=5",
-      "excerpt": "比亚迪与帕西尼签署合作协议，推进工业机器人应用_车市动态 中金在线",
-      "publishedAt": "2026-08-31T11:13:17.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "张华在2026世界电子产业峰会首提‘智能娱乐生态’，宣告信德APP引领行业新范式_体坛网_体坛+ - 体坛",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMG5GZFVTM0c3dkdBNFZ2Z29WRUp4dzFhMDFJcEZsWnYzMG1rNzNxWWdIaDJ6Q2NIdUM3eXRRenFLbjNnUzlsby1DRVBMRDMw?oc=5",
       "excerpt": "张华在2026世界电子产业峰会首提‘智能娱乐生态’，宣告信德APP引领行业新范式_体坛网_体坛+ 体坛",
@@ -1185,6 +967,132 @@
       "meta": "👍 1",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Liquid Metals Can Stretch Thousands of Percent. Printing Them Is the Hard Part - AZoM",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSVVFRRlJKWVJ4cERiR1hES2dTdVZNYUo2dUY4aXlpWEdBdHhYbUk4bkFaXzlrZ2pIN2VzQWRiZHN3OGx5UW5tbUJfZHFIOEg4bU41b0RB?oc=5",
+      "excerpt": "Liquid Metals Can Stretch Thousands of Percent. Printing Them Is the Hard Part AZoM",
+      "publishedAt": "2026-09-07T04:14:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "华峰超纤(300180.SZ)：目前暂无直接配套机器人的电子皮肤产品 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yM1MwdVVydFFHcEpoYnFYdzN0RjRCVzFNMmtTc1VrcEFMZV9wdXJEWGhKMjFSOUFlcjJQT2JVQTc2Vnc5YkNnbXF2QnhjLXVpNm00OS1neVFNZlZKcEpnZWk3UjRzc19YcEg0?oc=5",
+      "excerpt": "华峰超纤(300180.SZ)：目前暂无直接配套机器人的电子皮肤产品 TradingView",
+      "publishedAt": "2026-09-07T13:24:39.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "研报掘金丨东方证券：维持岱美股份“买入”评级，目标价14.40元 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwczlQcEVSb1dlT0loQ2RWTG53Mm5tYlF1U2VVSGFVNlV5bUViVmFFRVFOQXN4MGdwTkRfczJUSzZhV1p0ekRjZTN4YWdJbW5fa0JRTWlqQWdMRlFDNGFQVkRpV1Jfb3dKV2c?oc=5",
+      "excerpt": "研报掘金丨东方证券：维持岱美股份“买入”评级，目标价14.40元 TradingView",
+      "publishedAt": "2026-09-07T07:59:30.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "华峰超纤：公司目前暂无直接配套机器人的电子皮肤产品 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYThpbzVaY1NkazhLVkdWYzFGbFJhNEZ3bXBXTEdkZFBTZk9ja3ZZaVc5ZE93bWwwVERtMDY5SjhkYV8wRDJyOE9USGRSQjFhbWlNelRxUTdZRUJjRTlzN2tJNjg4MncwN1N3aTBQQ0pMMWZqSEIwYTJZZ1lJZHZHNzJRbDVEVUVjVjVQUA?oc=5",
+      "excerpt": "华峰超纤：公司目前暂无直接配套机器人的电子皮肤产品 Sohu",
+      "publishedAt": "2026-09-07T13:30:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争 - t.cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42VWhLdlVoTEpFWTJock9Ga2hDV21mYW5wQVY1Tko1cktta0FMN29lMENLRzZZQ0o2NE1VT2o5N1pUQWlaYmhsX3A3OGNDU3VYY2t4TjFLUXRBRExxSGVud05ScGFqbld6bzlIUFdBM0l1UQ?oc=5",
+      "excerpt": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争 t.cj.sina.cn",
+      "publishedAt": "2026-09-07T09:49:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "【调研快报】安培龙接待线上参加公司2026年半年度业绩说明会的全体投资者调研 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTExxb0RFRFVfWmFGWlNlSm9qcWZwZld1Mnp3YXV0UnNPcE5Dc1VDMnlBM3VydHd4QzRXZnpNdGdLd3VoeU9CX0ZlNU12U2U4ZnpKc012ejMwSDFXTWVBdzJoVQ?oc=5",
+      "excerpt": "【调研快报】安培龙接待线上参加公司2026年半年度业绩说明会的全体投资者调研 东方财富",
+      "publishedAt": "2026-09-07T11:16:44.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "从GitHub到融资PPT，一颗传感器的“自研”变身术 - 维科号",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5RTVwSXR0SDF4dGh2djB6S1N6UzFCWHgxaFVFVVZDaGZoZXBEYkhPNUc3TlVNUThjM25XdEFjRWMzdTNpRFFodzN3TjFNa2M?oc=5",
+      "excerpt": "从GitHub到融资PPT，一颗传感器的“自研”变身术 维科号",
+      "publishedAt": "2026-09-07T05:51:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
+      "url": "https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/",
+      "excerpt": "Rudy Cohen, the co-founder and CEO of Inbolt, will reframe where physical AI pays off at RoboBusiness this fall. The post Inbolt to discuss physical AI’s deployment problem at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-09-07T14:00:13.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+      "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+      "excerpt": "Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot business. The post Agility Robotics reports $1.8M revenue ahead of humanoid SPAC appeared first on The Robot Report.",
+      "publishedAt": "2026-09-07T13:17:45.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "MassRobotics shares member survey results around FCC restrictions",
+      "url": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/",
+      "excerpt": "MassRobotics has found that companies were split on the FCC ban on new foreign-produced mobile robots. The post MassRobotics shares member survey results around FCC restrictions appeared first on The Robot Report.",
+      "publishedAt": "2026-09-07T12:30:16.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "以赛促研 机器人“跑”出赛场“走”进生活 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tQUtUcEp0TDQwU1ZvejlWeDlQMmw4UXhYTGpqUHBFT0tBU0pWRWpTU1QwWHZpMWZnVzJwd2pDeEV4ek5iak9PY01vXzk2bmpBaTJQbUFXX2ZJMHowVjIxWUtxZC0tWG5ZMmdUMkY1ZFNyQQ?oc=5",
+      "excerpt": "以赛促研 机器人“跑”出赛场“走”进生活 新浪网",
+      "publishedAt": "2026-09-07T12:28:59.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "当人形机器人走进更多应用场景|世界机器人大会|光明日报|环球网|客厅|厨房_手机新浪网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1haSXRtZDJ2N0FRWXBDbEowTE40YjFUV1BHeG80RDRuTFlSVUM1R1hqelYtQlVybDBQTFlhTFVqVHdfNXlqenV0M015MU1sX0stSjFmLTAtTzFoNTlSaDZRYVh1empWcUxHQUQzM081RWlrTm5BNkdBZ0ZRc180YVJpS2xWcHFVbl9ZaEJ0TW9sSHZZeXpYaTd4WHB5SjlFYlpjTnFlYw?oc=5",
+      "excerpt": "当人形机器人走进更多应用场景|世界机器人大会|光明日报|环球网|客厅|厨房_手机新浪网 新浪财经",
+      "publishedAt": "2026-09-07T17:25:10.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "This Robot Will Draw Your Blood Now",
+      "url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+      "excerpt": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe glides across the arm, mapping how deep the vessel runs and which way it bends. D",
+      "publishedAt": "2026-09-07T13:00:01.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    },
+    {
+      "sourceId": "ifr-industry",
+      "title": "Collaborative Robotics in Textile Manufacturing - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbW5zc2t2cDBOYzByUzlRVEdZVHNwY05qQ1U3RzM4SUNJaU1kbkh0Qkc4TTJmSmVqRGUyQzBOTmFqQVVvc0lycDdqc1J1VVVGUy1XVDRhNUkyMzVqdUh4VF9pNGl6SnNRemxsMTBGSDI4bzBUSHZ1S1JheEpCWGF5MHdn?oc=5",
+      "excerpt": "Collaborative Robotics in Textile Manufacturing IFR International Federation of Robotics",
+      "publishedAt": "2026-09-07T12:49:38.000Z",
+      "category": "politics",
+      "source": "IFR｜机器人产业"
     }
   ]
 }

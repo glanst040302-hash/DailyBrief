@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-09",
+  "articles": [
+    {
+      "sourceId": "robot-report",
+      "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
+      "url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+      "excerpt": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments. The post Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics appeared first on The Robot Report.",
+      "publishedAt": "2026-09-08T20:39:51.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "AI can’t outrun a humanoid’s hardware",
+      "url": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/",
+      "excerpt": "The remarkable progress in AI has brought robotics closer to machines capable of determining what they should do. The next major advance may depend on whether their physical systems can execute those decisions efficiently, precisely and safely. The post AI can’t outrun a humanoid’s hardware appeared",
+      "publishedAt": "2026-09-08T19:03:09.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Why vision AI is the safety backbone of the automated job site",
+      "url": "https://www.therobotreport.com/why-vision-ai-is-safety-backbone-of-automated-job-site/",
+      "excerpt": "Vision AI doesn't replace robots or human judgement; it provides the continuous perception that allows both to operate safely together. The post Why vision AI is the safety backbone of the automated job site appeared first on The Robot Report.",
+      "publishedAt": "2026-09-08T16:05:04.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "浙江人形携 NAVIAI 亮相 2026 世界机器人大会， 一脑多机方案落地多场景 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3WExwa1Z1Ql9fbXZaTTJjdEk5Q1QxY0tFejVSa1k0NERONGhlUHRxOXgwOVB1N1N2U1ZnOHkyVDlzYXBmLXRLOWxXRXZDSUxPSjdJY3V3elB4aGUwTDZtNEk1T1IwWElyWjlVNERMVUpXdw?oc=5",
+      "excerpt": "浙江人形携 NAVIAI 亮相 2026 世界机器人大会， 一脑多机方案落地多场景 新浪网",
+      "publishedAt": "2026-09-08T20:29:11.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "excerpt": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
+    }
+  ]
+}

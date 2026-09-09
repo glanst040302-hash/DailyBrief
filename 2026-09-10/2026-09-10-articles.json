@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-10",
+  "articles": [
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "让AI拥有身体与触觉 机器人的“表面功夫”能有多厉害？ - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pdE4tcHMwZk5rbHVpc0cyam1YNmJvZDJYT0JsZnB4TmxHMjNLZjlITG5qY21UbFdXNzU3QnJGbTFoZmkzUHM4M3FHNU9MMnE3TmxFUnBhOGZUZVVjcTM5Ykd3VWpZSkFRNUxWMl9jVnA?oc=5",
+      "excerpt": "让AI拥有身体与触觉 机器人的“表面功夫”能有多厉害？ 新浪网",
+      "publishedAt": "2026-09-09T20:01:03.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "What bricklaying has taught Monumental about robots in construction",
+      "url": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
+      "excerpt": "The construction industry is rife with opportunity for robotics, but the technology hasn't broken in at scale yet. The post What bricklaying has taught Monumental about robots in construction appeared first on The Robot Report.",
+      "publishedAt": "2026-09-09T21:08:06.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Unitree shares down 53% from IPO debut",
+      "url": "https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/",
+      "excerpt": "The market is pulling back on Unitree's $66 billion valuation from its debut on the Shanghai Stock Exchange just last month. The post Unitree shares down 53% from IPO debut appeared first on The Robot Report.",
+      "publishedAt": "2026-09-09T19:34:57.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness",
+      "url": "https://www.therobotreport.com/agibot-share-plans-scale-humanoids-from-lab-to-real-world-at-robobusiness/",
+      "excerpt": "AGIBOT plans to give attendees actionable insights on identifying high-value robotics use cases and building sustainable developer ecosystems. The post AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-09-09T16:43:28.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "机器人成为中国高端制造出口新名片 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uYS00TVlUbGlKR3pNY2xsSWdndjZ2WHB0dW9zd3d5WjhkMFQzYms2bVRnbkNmaFRXMGxQRl9zRjhsS2ZxY0RSTXJGXzZFaFlZa0pCMVpuMHpBZ0tWc3UtRmhPS09wMnRzMXR3OHFVdW8?oc=5",
+      "excerpt": "机器人成为中国高端制造出口新名片 新浪网",
+      "publishedAt": "2026-09-09T22:00:58.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "excerpt": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "publishedAt": "2026-09-09T17:00:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
+    }
+  ]
+}

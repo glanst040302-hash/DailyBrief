@@ -1,0 +1,56 @@
+{
+  "hero_headline": "宇树较IPO首日跌53%，人形机器人估值回归",
+  "daily_overview": "机器人触觉与AI身体融合引关注，建筑机器人Monumental以砌砖场景验证商业化，中国机器人出口成为高端制造新名片。资本端宇树股价较IPO首日回落53%，市场降温；OpenAI加码安全治理，智能化在技术跃升与风险约束间展开。",
+  "tech_briefs": [
+    {
+      "title": "让AI拥有身体与触觉，机器人表面技术受关注",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pdE4tcHMwZk5rbHVpc0cyam1YNmJvZDJYT0JsZnB4TmxHMjNLZjlITG5qY21UbFdXNzU3QnJGbTFoZmkzUHM4M3FHNU9MMnE3TmxFUnBhOGZUZVVjcTM5Ykd3VWpZSkFRNUxWMl9jVnA?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "报道聚焦机器人表面触觉技术，探讨AI拥有身体后的感知路径。\n触觉传感被视为具身智能与环境交互的关键能力。\n该观察指向电子皮肤与力觉传感器的产业化前景。",
+      "importance": 5
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "砌砖经验助推Monumental建筑机器人规模化",
+      "url": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
+      "source": "The Robot Report",
+      "summary": "建筑机器人公司Monumental从砌砖作业中总结落地路径。\n施工场景的重复性与结构化特征正成为机器人切入口。\n真实部署将持续验证机器人在物理世界的感知与执行闭环。",
+      "importance": 6
+    },
+    {
+      "title": "机器人成为中国高端制造出口新名片",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uYS00TVlUbGlKR3pNY2xsSWdndjZ2WHB0dW9zd3d5WjhkMFQzYms2bVRnbkNmaFRXMGxQRl9zRjhsS2ZxY0RSTXJGXzZFaFlZa0pCMVpuMHpBZ0tWc3UtRmhPS09wMnRzMXR3OHFVdW8?oc=5",
+      "source": "Google News｜世界机器人大会",
+      "summary": "机器人产品正成为高端制造出口的增长亮点。\n出口规模上升显示中国机器人产业全球竞争力增强。\n具身智能整机与零部件供应链随出口走向规模化。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "宇树股价较IPO首日跌53%，估值大幅回调",
+      "url": "https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/",
+      "source": "The Robot Report",
+      "summary": "宇树科技上市一个多月，股价较IPO首日已下跌53%。\n市场正在消化此前约660亿美元的上市高估值。\n估值回调将影响人形机器人赛道后续融资与定价预期。",
+      "importance": 7
+    },
+    {
+      "title": "Paul Christiano加入OpenAI基金会安全委员会",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI News",
+      "summary": "AI对齐专家Paul Christiano加入OpenAI基金会董事会及安全委员会。\n具备对齐、安全与标准经验的人士进入治理层。\n此举可能强化通用AI模型安全评估与行业规范的内嵌。",
+      "importance": 5
+    }
+  ],
+  "editor_note": "触觉传感与真实部署交相验证，产业叙事正从概念转向硬指标。资本降温有助挤出估值泡沫，安全治理则为规模落地划定清晰边界。",
+  "keywords": [
+    "触觉传感器",
+    "机器人出口",
+    "具身智能",
+    "人形机器人",
+    "建筑机器人",
+    "宇树科技",
+    "AI安全",
+    "估值回调"
+  ]
+}

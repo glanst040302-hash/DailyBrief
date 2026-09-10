@@ -1,0 +1,55 @@
+{
+  "hero_headline": "触觉数据缺口制约灵巧操作，协作机器人专利战升级",
+  "daily_overview": "今日智能化主线仍是数据与闭环：触觉数据匮乏卡住灵巧操作落地，Skild AI 借英伟达物理 AI 以单段视频迁移新任务。产业侧，泰瑞达以三项优傲专利起诉节卡，协作机器人专利摩擦升温；Swarmer 拟 2.24 亿美元收购乌克兰无人地面平台厂商。",
+  "tech_briefs": [
+    {
+      "title": "触觉数据短缺成灵巧操作瓶颈",
+      "url": "https://spectrum.ieee.org/tactile-data-robots",
+      "source": "IEEE Spectrum｜Robotics",
+      "summary": "IEEE Spectrum 指出，高质量触觉数据匮乏仍是灵巧操作的卡点。\n触觉数据集与采集标定标准，正成为电子皮肤与力传感器落地的前提。\n数据缺口直接约束灵巧手与触觉传感走向规模化训练和真实部署。",
+      "importance": 9
+    },
+    {
+      "title": "柯马为迪卡侬部署抓取码垛系统",
+      "url": "https://www.therobotreport.com/comau-automates-picking-handling-and-palletizing-for-decathlon/",
+      "source": "The Robot Report",
+      "summary": "柯马为迪卡侬物流环节部署拣选、搬运与码垛一体化自动化系统。\n方案整合 MyCo 协作机器人、ROS2 架构、AI 视觉与模块化夹爪。\n模块化夹爪加视觉的组合，反映抓取环节对力控与触觉反馈的现实需求。",
+      "importance": 5
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "Skild AI 借英伟达物理 AI 单视频学任务",
+      "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "source": "NVIDIA Robotics",
+      "summary": "Skild AI 基于英伟达物理 AI 技术栈，让机器人从单段视频学习新任务。\n目标场景是产线、仓库任务与布局频繁变更、重新编程成本高的问题。\n降低示教数据依赖，推动感知—决策—行动闭环向少样本迁移演进。",
+      "importance": 8
+    },
+    {
+      "title": "Swarmer 拟 2.24 亿美元收购 Ratel",
+      "url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
+      "source": "The Robot Report",
+      "summary": "Swarmer 宣布以最高 2.24 亿美元收购乌克兰无人地面车辆厂商 Ratel Robotics。\n双方计划在乌克兰落地集群软件与无人地面平台的结合。\n军用无人平台放量会外溢牵引执行器、传感器与力控供应链。",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "泰瑞达以三项优傲专利起诉节卡",
+      "url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
+      "source": "The Robot Report",
+      "summary": "泰瑞达机器人依据三项 Universal Robots 专利起诉协作机器人厂商节卡。\n涉案专利覆盖机器人接口、安全制动与关节结构等基础设计。\n专利摩擦或改变国内协作厂商的出海路径与供应链合规成本。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "触觉数据的采集与标准化进度，比传感器本身更决定灵巧手上限；专利与并购则提醒，竞争已从单点硬件转向体系与合规。",
+  "keywords": [
+    "触觉数据",
+    "电子皮肤",
+    "灵巧操作",
+    "物理 AI",
+    "协作机器人专利",
+    "无人地面平台",
+    "具身智能"
+  ]
+}

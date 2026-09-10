@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-11",
+  "articles": [
+    {
+      "sourceId": "robot-report",
+      "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
+      "url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
+      "excerpt": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints. The post Teradyne Robotics sues JAKA over 3 Universal Robots patents appeared first on The Robot Report.",
+      "publishedAt": "2026-09-10T22:14:26.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
+      "url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
+      "excerpt": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine. The post Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M appeared first on The Robot Report.",
+      "publishedAt": "2026-09-10T20:10:22.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Comau automates picking, handling, and palletizing for Decathlon",
+      "url": "https://www.therobotreport.com/comau-automates-picking-handling-and-palletizing-for-decathlon/",
+      "excerpt": "Comau's system incorporates its MyCo cobot, ROS2 software architecture, AI-powered vision systems, and a modular gripper. The post Comau automates picking, handling, and palletizing for Decathlon appeared first on The Robot Report.",
+      "publishedAt": "2026-09-10T18:49:08.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Robots Are Learning to Feel",
+      "url": "https://spectrum.ieee.org/tactile-data-robots",
+      "excerpt": "Dexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has held back progress. This is now starting to change as academic labs and startups race to build new ta",
+      "publishedAt": "2026-09-10T18:22:35.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    },
+    {
+      "sourceId": "nvidia-robotics",
+      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "excerpt": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horiz",
+      "publishedAt": "2026-09-10T16:30:35.000Z",
+      "category": "finance",
+      "source": "NVIDIA Robotics"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "excerpt": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
+    }
+  ]
+}

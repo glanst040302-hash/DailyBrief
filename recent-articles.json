@@ -1,123 +1,6 @@
 {
-  "collectedAt": "2026-09-10T23:06:18.318Z",
+  "collectedAt": "2026-09-11T23:11:42.995Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Eric Li: The Robot Tactile Sensing Breakthrough Arrives by End of This Year — Optical Sensor Resolution Already 200x Human Fingertips - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NOHpjNzB4VlJWYW9ocGxNSUJmdU9wVTBZaDdmazZvbndUNllQTkZxVnRoM2FsZWUtZWFQY1ZiVmFsX1ZVckVBNnVUNkNTUmJnSC14QkVmdERQcnM?oc=5",
-      "excerpt": "Eric Li: The Robot Tactile Sensing Breakthrough Arrives by End of This Year — Optical Sensor Resolution Already 200x Human Fingertips finance.biggo.com",
-      "publishedAt": "2026-09-04T02:09:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "China’s robotics industry accelerates shift from demonstration to real-world deployment at WRC 2026 - Global Sources",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc1JxbGIzcTQ0aDk2eHNJTVM1QS0xODJWc3UtXzEyYnJLWlVhMGR1cTlRZUk0N2xfY21fcFdUdXlpeGE1RDgzOVVQTUlWbDdOWXpxMnpVS2VnT1BaMkhlN3BFbTFVRTJFeHp4TnZCMzByRGJpdTAxakwwTjJsRFdJQ0Y1UEY2cllKRG9iZERrT0UxczNhYkk3U3dRQ1VSZ0FkenVjNlQ4ci1iMU0wMFRiSVlIN0FOTmZSby0wME9NODE4R3ViYUUxWHFuc2ZCLWpZNjhSRlRIdE9NLWdQVGFBemttMjJmXzl0Y0lQRENmOXJLbUZJZkd0Qg?oc=5",
-      "excerpt": "China’s robotics industry accelerates shift from demonstration to real-world deployment at WRC 2026 Global Sources",
-      "publishedAt": "2026-09-04T08:26:54.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "CeNS researchers unlock strong piezoelectricity in peptides through molecular self-assembly - Indian Pharma Post",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY1l2bDhHMXZNTWRGQlcwQjVDdkdNNEkwbnkyMXZMaHY0TmY5NEMyWnQtX1NKbW9mbTVfRVlhTEJMMTVIWC1fbVRDTWdyZThjUTZKa19wV0VoaFJfZXZaSDJGWm5QdDBsNFRmRmJIcjNIaUxGTkJvR0JNQUo2NzlDaWJ0dUV0aWIwOVBMdkJiMnh6ZDBEd0k5cVF0ZWpRSWJGVU9DeTVkeGx2NnZQTFFpaUJIZVc2Z2loVThqX3EzTjcxQmd6Q0ZmYXBZRDVJUdIB1AFBVV95cUxPZHcwYVJQVGdtcUtTZlRDTzhHNTVZR2dxb082Z29uako0QUl2d2tNN0s5VVRLRXZ3SVROdUJXM19vN2hkQ2dKOHNVZUNDQjdyc3hObjVseHI2M0xreENuUDNoQjFOdWI3bnJfTW8yU3pJeWtPN096bnVrSWI4RVpQcTkyS1ptVVk0bkxOTkRIa1NGOFJOZHJBdml5Y0piSGV3bmZvLWE3d1RLTEdndmpWb2RCdTRMZFVhV3p6VjR3VnUxRWlGYXdqNy01NllWLUhYaDlYbA?oc=5",
-      "excerpt": "CeNS researchers unlock strong piezoelectricity in peptides through molecular self-assembly Indian Pharma Post",
-      "publishedAt": "2026-09-04T11:11:43.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "MOVA IFA 2026: State-of-the-art sensors and premium smart living - CyberShack",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LeDZtMmRJdzhIVjFiMG9na3BzdHNBaG8zSE9NMEdUcncyZUVPdURwU1dCbGdHTkN1N29kcTZoUi1wSlRLZ2FLRE9BV1Jrem1rbHBfNVoweU1PYWZXN0JwM04zenA1WGZmVnEwVmhGcUo?oc=5",
-      "excerpt": "MOVA IFA 2026: State-of-the-art sensors and premium smart living CyberShack",
-      "publishedAt": "2026-09-04T08:00:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "仿生柔性驻极体触觉传感器，实现自供电与自校准触觉成像 - 电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3UHI1UW14a29DZFg5LVpNY1FHMVJ2Y1d2UUhKUWhvRGVrUE13bmMtVDFOQVJQZmxGU0xVVWczaElteS1Gc3dfMVB5NmJHWDk1WWww?oc=5",
-      "excerpt": "仿生柔性驻极体触觉传感器，实现自供电与自校准触觉成像 电子工程专辑",
-      "publishedAt": "2026-09-04T23:11:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "明新旭腾：电子皮肤等产品尚处前期研发及与客户联合开发阶段 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkdCb2NpcWc0VlFLc184WVRvRldzakcwNkFhaE9DaENQeTMxT3N1VWFYRVMzN2V3RGVfaERQeUNic0JBVkhkc0loTGRzckpGWUFWaHlnV1FURkNoUU5GcXpaemw3dEE2ZXVULWJ0dmJfRmFMclJBMG9obzhxaWlLM1ZrbHlsam1oR25ZQg?oc=5",
-      "excerpt": "明新旭腾：电子皮肤等产品尚处前期研发及与客户联合开发阶段 Sohu",
-      "publishedAt": "2026-09-04T05:58:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "上海28家专精特新企业亮相第21届中博会，中小企业占6成以上 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWZVU3RVN1p4cG9DRXFST3dSNlluY3pBUFFlUnFvRDVvVDVIV05FU1BmS1pmM19Ga3VHa1ZQcHlGdjZPRlk5Y0lfMGJwaVhTdy1yaG44T2dDWmhpcXNZWDFULXcwUy1lZzJoZklteTBrU1NHai1XUDFVNEZTcVEwMm5hdlc3bk9GTzRlTg?oc=5",
-      "excerpt": "上海28家专精特新企业亮相第21届中博会，中小企业占6成以上 Sohu",
-      "publishedAt": "2026-09-04T10:25:59.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "昨天涨停，今天封死跌停！人形机器人热门股紧急澄清 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkdnWWIxc19hQTRfRU9LV1dHd3hnakdMWjU0VVpnNG1QSGt1dDRRTnBYY2E0ZEhvSnoycW5yUWNGbkFsU0ZvZWc1VkFVVVQ0QlZ2NXBCM01PT3U2OU1nRWNURVdoRXNScU1tbVFPZUFTSV9Xb1Q1SjZPSVFqeUZMWU0yVEY1ZWFsWVE5ag?oc=5",
-      "excerpt": "昨天涨停，今天封死跌停！人形机器人热门股紧急澄清 Sohu",
-      "publishedAt": "2026-09-04T06:08:25.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "展會觀察：北京2026年世界機器人大會 手指應用為人形機器人下一突破重點 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjNGR21sLXdmcm1mVU5GakppWXdCU0xiNGdnZDh6SUNZTUtZZnNQYmE5ZUlOd2V6czlpd1VzcVdVaWF6cUwxQUdOUXM2c2FlWklJVFRKSFU5UU5zdklZbFN6OWYzRUJSMXN2ZVpPdE1nRUp0VHlPOGR0XzkzRmRncQ?oc=5",
-      "excerpt": "展會觀察：北京2026年世界機器人大會 手指應用為人形機器人下一突破重點 DIGITIMES",
-      "publishedAt": "2026-09-04T12:08:46.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "How FPGAs become the gatekeepers of physical AI security",
-      "url": "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/",
-      "excerpt": "Eric Sivertson, vice president of security business at Lattice Semiconductor, explains how FPGAs can act as deterministic guardrails for robotic systems. The post How FPGAs become the gatekeepers of physical AI security appeared first on The Robot Report.",
-      "publishedAt": "2026-09-04T18:09:54.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
-      "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
-      "excerpt": "Submit now to be part of the Robotics Startup Radar, which brings together some of the most promising robotics startups. The post Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar appeared first on The Robot Report.",
-      "publishedAt": "2026-09-04T16:33:59.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Lyte raises $165M to help robots better sense their surroundings",
-      "url": "https://www.therobotreport.com/lyte-raises-165m-help-robots-better-sense-their-surroundings/",
-      "excerpt": "Lyte AI plans to use its second round of funding this year to scale production of its AI and perception capabilities. The post Lyte raises $165M to help robots better sense their surroundings appeared first on The Robot Report.",
-      "publishedAt": "2026-09-04T14:32:52.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Robot.com partners with Sodexo to roll out more sidewalk delivery robots",
-      "url": "https://www.therobotreport.com/robot-com-partners-sodexo-rolls-out-more-sidewalk-delivery-robots/",
-      "excerpt": "Robot.com says college campuses will continue to be an important part of its strategy as it scales sidewalk delivery robots. The post Robot.com partners with Sodexo to roll out more sidewalk delivery robots appeared first on The Robot Report.",
-      "publishedAt": "2026-09-04T14:15:23.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
     {
       "sourceId": "tactile-news-en",
       "title": "3D Printing News Briefs, September 5, 2026: Electronic Skin, Cartilage, Cookies, & More - 3DPrint.com",
@@ -138,55 +21,10 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "昨天涨停，今天封死跌停！人形机器人热门股紧急澄清 - 同花顺",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EeVRpRFlUTGZzUlY3ZjF6M0djSE5kVlhEN2NENFoxSG1ic1Y5cHhmR0xmMWJJbFlFbDAzVTdLNDJFUjgtT1lCOUlKZGRDR1B0T1VEMV9Sd05VdUtqZk54R2F3?oc=5",
-      "excerpt": "昨天涨停，今天封死跌停！人形机器人热门股紧急澄清 同花顺",
-      "publishedAt": "2026-09-04T06:13:07.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "CMD放量、高性能线束贡献增量，泛亚微透高端新材料平台加快落地 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VdktHNWJiTTB6dWJlU0hkQXR1TEJBMGM4bEp2a01EN1ZWQ2NRbjA2UXYzdzhtdkpnZFdDamV1OW1fdVpieGtKekJQOWZyemtSTWlfQU84cmZRTGpDWE02Vg?oc=5",
-      "excerpt": "CMD放量、高性能线束贡献增量，泛亚微透高端新材料平台加快落地 东方财富",
-      "publishedAt": "2026-09-04T19:02:06.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "8814新葡萄旧版亮相2026 ChinaJoy，动态光影与低延迟技术引爆全场 - 体坛",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpY2lhMkVzWFRlYXkydlg5azN6RVdJbjlMWXpMMElUbTZFM3JRc3BxYVpFZEFGNWpFUTFiWTFHQTRMQ3BKMUx0VDBJZEg1dE5aejBtNXNuUllZOXlQZHc?oc=5",
       "excerpt": "8814新葡萄旧版亮相2026 ChinaJoy，动态光影与低延迟技术引爆全场 体坛",
       "publishedAt": "2026-09-05T03:15:37.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "上海专精特新企业亮相第二十一届中博会，人工智能赋能制造业展现新图景 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRnd2WWg5QXFGTk1aRDFvUGl6UXhwNzZBeEFMMVF5QzhxWnk1bm1FMXJiMWo4c2N3SDNWWkZYU0xLZnVUUEZQVUN0U0VfSjJuRXAxdElRUnNhLXUtNVhoVzVzZ1dwbWwtNE1MNEp1Vmo4d1dkWmZYVFREZGxqMVE?oc=5",
-      "excerpt": "上海专精特新企业亮相第二十一届中博会，人工智能赋能制造业展现新图景 新浪网",
-      "publishedAt": "2026-09-04T08:41:20.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "上海专精特新企业亮相中博会，秀出“智在上海”新图景 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWgxTVQ0RXdHNjdfTkFvYS1PNnZCNE43dTh4RlNncmFLM1NXa01waWYzbWN1UllzbHhockRpWGVFdjlDdWtoeUVjTWlWWW5VQVY4MG9lQ1hqVjI4VXpYSVZiYnppeFJJak1WaHltTDNSeHBEd1BWWThyQ1JMSFZJdHV5aEhMUTh0ZUR1RA?oc=5",
-      "excerpt": "上海专精特新企业亮相中博会，秀出“智在上海”新图景 Sohu",
-      "publishedAt": "2026-09-04T07:14:48.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "鹿山新材深耕高分子材料赛道 专业投顾视角拆解企业成长逻辑 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXZfeTdUZHhNTXIwczdOY3IwajRoc2tTRTNacXZNQ29DU2xRUVp0ckU1akJ3eVgxRVA2THFrazNfQmNab211MFJoNnR0YmFjZXUxeDJ3RGpHelh1OUdLOUpBU1kxdTJRQzBwMDZ6MzdIZUc3TTVoRWU4dm1XMmRGcVNJbDIxclc0?oc=5",
-      "excerpt": "鹿山新材深耕高分子材料赛道 专业投顾视角拆解企业成长逻辑 Sohu",
-      "publishedAt": "2026-09-04T09:35:16.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -214,15 +52,6 @@
       "url": "https://spectrum.ieee.org/cyborg-rescue-roach",
       "excerpt": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnerving, to say the least, this prototype paramedic cyborg, or “Paraborg,” might one day help deliver life",
       "publishedAt": "2026-09-05T13:00:04.000Z",
-      "category": "finance",
-      "source": "IEEE Spectrum｜Robotics"
-    },
-    {
-      "sourceId": "ieee-robotics",
-      "title": "Video Friday: Digit Redecorates",
-      "url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
-      "excerpt": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul: 22–23 September 2026, SEOUL IRO",
-      "publishedAt": "2026-09-04T16:00:05.000Z",
       "category": "finance",
       "source": "IEEE Spectrum｜Robotics"
     },
@@ -268,15 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9faGhtdml6NVNha1ZrTXVwbUFHanhzOFJac3N2dTNfVXlBWEcwbDdoSC1XcjllVHpLWTJObVlvUjR1X2tWWEdEYzFxMG5Ccmh0QmI5VTU2RjhacUtUZHBEZk5Paw?oc=5",
       "excerpt": "全球首个多模态物理交互引擎环球APP首页发布重塑数字娱乐体验- 体坛网_体坛+ 体坛",
       "publishedAt": "2026-09-06T10:26:53.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "泛亚微透半年报：核心产品放量新产能加速释放_股市直播_市场 - sc.stock.cnfol.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpd213TW9KMHVIYUlUdlVQYU9KSzA4N25NLVZjbDRQNzYtNXBiamlhZ2d4WVNkNWxRU21OQkdsMVU1dGVyWnBfZWYzY2ZRbFRvcmJJVlljQlB5M180cVRsdTdWdEwyX21vcVAzOQ?oc=5",
-      "excerpt": "泛亚微透半年报：核心产品放量新产能加速释放_股市直播_市场 sc.stock.cnfol.com",
-      "publishedAt": "2026-09-04T02:12:12.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -335,25 +155,6 @@
       "source": "OpenAI News"
     },
     {
-      "sourceId": "wrc-news",
-      "title": "世界机器人大会上秀功夫 武汉智动力量产机器人“四肢和小脑” - 荆楚网",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SczVXOG1ra1VqT2lCWGtGMnBMcFd6RmpvUFp2MXhwZkZ1SXRDSklRbGRNNnNiNk9BeDF1RTl2TF9EeHFvN1kyZ0dhd29BUHR1RXk1R180ZkJqa3BQeWx5aDdkeGF2a1B1Vy03QVF3?oc=5",
-      "excerpt": "世界机器人大会上秀功夫 武汉智动力量产机器人“四肢和小脑” 荆楚网",
-      "publishedAt": "2026-09-04T00:35:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
-      "url": "https://huggingface.co/papers/2609.05416",
-      "excerpt": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes placed in a shared world frame, as required by downstream applications such as gaming, AR/VR, simul",
-      "publishedAt": "2026-09-04T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
       "sourceId": "tactile-news-zh",
       "title": "2025年度18胜电竞官网：AI机器人技术突破引领行业变革 - 体坛",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EaDJ2UUVmS09Pck5TX3REYUlWZlkzSnhiS3dOQkVkRW5PMWxaaUlhWl9LMnVOZjYyYUV2TVNfNk42OXMyd1drR2pRT3c?oc=5",
@@ -379,15 +180,6 @@
       "publishedAt": "2026-09-07T07:12:54.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "2026世界机器人大会举办人形机器人落地成核心看点- 业界 - 亿邦动力网",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1UlZDajBabUFFR3c1UmJPTnhxVGRlWUUyZFdVRW9YbXo0dFVyTWozYnJHMk5wNDY0N2R6WmRaS3F0Q29rWkE?oc=5",
-      "excerpt": "2026世界机器人大会举办人形机器人落地成核心看点- 业界 亿邦动力网",
-      "publishedAt": "2026-09-04T07:15:42.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
     },
     {
       "sourceId": "wrc-news",
@@ -715,15 +507,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "上海28家专精特新企业亮相第21届中博会，中小企业占6成以上 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40LUtZQjNYekhXdEVTRThfZnpaM0x2am9LUElkNWNKTEVNYnpCM2R0NC1DeFh4SXFsWFZSU2JmNVZPT3dtTEh4Umktd0tNQTVOelJ6QmtxNzhxQQ?oc=5",
-      "excerpt": "上海28家专精特新企业亮相第21届中博会，中小企业占6成以上 上观新闻",
-      "publishedAt": "2026-09-04T10:25:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "加速规模化产业布局，帕西尼回应“北上”落地新总部 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VejlLQUFIMXdMQmpKLUsyTnJSRGVjU3BfdjBUWFlsaU5NQTlnTGJLX20wRFVaZjdUWlBWb0RHR3gtX2gxeWc2YzJzSkE4OGp4UDRoVFZobGdyYlNvWklRdWpMSERJdw?oc=5",
       "excerpt": "加速规模化产业布局，帕西尼回应“北上”落地新总部 央广网",
@@ -932,16 +715,6 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2609.05588",
-      "excerpt": "World-action models (WAM) predict future states to guide robot actions, enabling learning from both action-free video and action-labeled interaction. Most inherit pretrained video generators, leaving WAM pretraining and scaling underexplored. We introduce Genie Envisioner Act 2.0 (GE-Act 2.0), a wor",
-      "publishedAt": "2026-09-04T00:00:00.000Z",
-      "meta": "👍 46",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
       "url": "https://huggingface.co/papers/2609.08084",
       "excerpt": "Monocular depth estimation is a ubiquitous yet highly ill-posed computer vision task, with downstream applications in scene reconstruction, computational photography, and robotics, among others. Despite the field's maturity, recent models still struggle to generalize to out-of-distribution inputs an",
@@ -952,31 +725,11 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "SceneMosaic: Efficient and Diverse Simulation-Ready Scene Generation via Hybrid Agentic Layout Evolution",
-      "url": "https://huggingface.co/papers/2609.05594",
-      "excerpt": "Diverse and simulation-ready indoor scenes are essential for interactive entertainment and embodied AI, yet their scalable generation remains challenging. Recent agentic text-to-3D scene pipelines that rely on vision-language models (VLMs) can generate scenes of high fidelity but require costly iter",
-      "publishedAt": "2026-09-04T00:00:00.000Z",
-      "meta": "👍 41",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements",
       "url": "https://huggingface.co/papers/2609.07498",
       "excerpt": "Transferring human hand demonstrations to robotic grippers has recently emerged as a cost-effective solution for robot learning. However, existing methods are largely confined to simple, planar tasks and fail to handle complex spatial movements (e.g., intricate trajectories involving rotations or fl",
       "publishedAt": "2026-09-07T00:00:00.000Z",
       "meta": "👍 25",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
-      "url": "https://huggingface.co/papers/2609.05324",
-      "excerpt": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under predefined settings, offering limited insight into model reasoning under increasing spatial and procedural c",
-      "publishedAt": "2026-09-04T00:00:00.000Z",
-      "meta": "👍 20",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
     },
@@ -1343,6 +1096,198 @@
       "publishedAt": "2026-09-09T13:00:00.000Z",
       "category": "politics",
       "source": "OpenAI News"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Aidin Robotics Raises USD 12.1M from HD Hyundai Robotics and Samsung Venture Investment - Wowtale",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yXzRQR3FuMWYxX3BVODQtUlJRZWZyQ3llek9nNktaZVFtaDZjN0pUS1B2QXZDcS1kVVZsdTAxNlNJdloyLUJROTdjMlJUQ0s4WndF?oc=5",
+      "excerpt": "Aidin Robotics Raises USD 12.1M from HD Hyundai Robotics and Samsung Venture Investment Wowtale",
+      "publishedAt": "2026-09-11T08:29:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Women In Tech: Top 10 Women In Robotics In 2026 - techround.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZGlnZzFFbUxKWmMtSjQ4OUwtTnkwOUthMy1uREU0UklUWTdraUZPODA5Zkk2dWlkaGRCcUVyQkhHd0NvWG9UWWQtUmdtQzZVWXJDbmZRT1hFSDFHVG9XbW54cHZNQXN4VXdsRF9kNE5JVVdpNWQ1aEp6UFhocnRnNWlB?oc=5",
+      "excerpt": "Women In Tech: Top 10 Women In Robotics In 2026 techround.co.uk",
+      "publishedAt": "2026-09-10T15:00:30.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "IFA 2026: MOVA takes AI to the next level - Appliance Retailer",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcllWclZzeG1nbzhISFV1MjFoRnFJQlFsTFU0Z2hOWkVfOGt1UzJVdkRNTmRYOWVQemVOZW9qTnRiakczTWlEMDF1WnFGOUE2N0E3OFV3WWItbGlmTHRtX3ZGMnotZnl3VnVSci03VkdtOWFUaUtiM01VNlZFQm9QS2QwRUM?oc=5",
+      "excerpt": "IFA 2026: MOVA takes AI to the next level Appliance Retailer",
+      "publishedAt": "2026-09-11T04:33:14.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "From Robot Olympics to Real Life: Which Robotics Technologies Could Actually Help Humans? - Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2tETUZqaFh2eWxUQThKQkdXMVd4Mkc1dHd3d2hEMU0tNmNXZ0dObUlESmYwVVVzWGFONnRiVTUzTmJkRVduaHRCMXF2QXliTzlqUnhOOHpLNnlhLWQ2NGY0TzJIQnhvSWhIWU8zSm0xaWE2dUVXLTFlRzl3Y2ZNV1d0eWpBSWxyWUZTbVB2T21YUWJFQjdBZ3k2QTRwd3YwTmxhcDB4QnB3Q2pxc2U3dTA0R2l1a185SGRTb2Z2STNrRFdLZWNaWtIB1gFBVV95cUxNVFBWM3ZFNm16Q1g5RGdmSDdUelFxTDVLZ0MzczlhTHlUNjhZc1poaDlBVmlGaWtESmdBVHYxRmljU19GTUtjNGlNRXQwYkxNc1J4VG1ZbTdBaGRsVWlwSWo4eXBQNF9EbXRPRTZOZml3ZEpOek1ycFVPYlpzbjgxaUVEMV9DVVRBVlFxYS1Md25BUHNlYnhDbVJseDl6czYwX3MwRnlHZDM2aFJXdmhZU09SOF9WUkIxT1FzVnJ1b0d3eVBpUmxidThPdHJ0enNRbUV1bDRB?oc=5",
+      "excerpt": "From Robot Olympics to Real Life: Which Robotics Technologies Could Actually Help Humans? Analytics Insight",
+      "publishedAt": "2026-09-05T04:30:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "具身智能的电子皮肤饥渴，一家三年的威海公司突出重围 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkNjbUFfQS1VdEtQT0RkeUhYTmdRY3lZYUF6OTlXcEtQM01vdTJ0dEVXSk9xbTlNSGpZSTZqc05UMTJQLXI3TXVXT0VpUzFySzhraGhHekQ0WW50Y0dJYTBpWHVLTXBYUmNXUVMtQVBhYlV3Y3ZwdHBsckVXVTlLd19ucjNWX29JMDduYQ?oc=5",
+      "excerpt": "具身智能的电子皮肤饥渴，一家三年的威海公司突出重围 Sohu",
+      "publishedAt": "2026-09-11T14:35:18.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "华峰超纤：公司目前暂无直接配套机器人的电子皮肤产品 - 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KQ3pRWGlBNm9ueTVjSjdLeTBMMTlRM2syNWJ1YnBHUzN3SWdsUzJJUlYxNk5pdGxsblR5WTQ0Rmw5RXZ5LWg3N24yM3M3VExwRWdYVndR?oc=5",
+      "excerpt": "华峰超纤：公司目前暂无直接配套机器人的电子皮肤产品 腾讯新闻",
+      "publishedAt": "2026-09-07T13:29:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "千觉机器人-千觉XTac UMI G1多模态数字采集设备 | 申报2026第八届金辑奖中国汽车新供应链百强 - gasgoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYWUtsbzZ4bTJzUjBpRlBqc09hSFdTX0l2WGszX3hfMG9HQkw4VzNhQVhjaXpWN2U0Z09adUVIRTRCeGJaWUE0OFRzbUE1Wjhx?oc=5",
+      "excerpt": "千觉机器人-千觉XTac UMI G1多模态数字采集设备 | 申报2026第八届金辑奖中国汽车新供应链百强 gasgoo.com",
+      "publishedAt": "2026-09-11T04:28:25.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "蚂蚁集团入股戴盟机器人：注册资本增至209.2万元 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGaGZzWUxvZEVJOEx1VTNUWHk1Y2t4MEhqZjhPY3RzTEJJTFVFeHBFVFR2U3ZDLWZkYmpOUTVVbENxMnlnNmg1ZQ?oc=5",
+      "excerpt": "蚂蚁集团入股戴盟机器人：注册资本增至209.2万元 凤凰网",
+      "publishedAt": "2026-09-10T06:09:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "分分彩票软件会员产业产值年均增速32%以上，现存相关企业超6.8万家 - 体坛加",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jOXFvcC1KUW9ESTdJSWJrb0hoUWpzVmd3VWFpbmdIcFJRdzMzczRJeG55WTNZTDVxWWRNMHE1dzZVVzVkcnU5UVR2aUpraXli?oc=5",
+      "excerpt": "分分彩票软件会员产业产值年均增速32%以上，现存相关企业超6.8万家 体坛加",
+      "publishedAt": "2026-09-10T05:19:47.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "全场景沉浸之钥：大发登录网站：重新定义游戏视界与交互体验 - 体坛加",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPNFo2bDgzc2F3YU5QYXowUEV1YnQ1MUY4elpTUWh2dE1OSFBnTU5yb25BQS01Z3FuMzgzUE9xbnZOdTFHcVNBUTNpal9WRVpyQjZCQnlCazU0Z04ydU1lWm13?oc=5",
+      "excerpt": "全场景沉浸之钥：大发登录网站：重新定义游戏视界与交互体验 体坛加",
+      "publishedAt": "2026-09-11T00:36:53.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "arxiv-tactile",
+      "title": "Compact Visuotactile World Models for Lifting: Prediction, Reward Alignment, and Force Constraints",
+      "url": "https://arxiv.org/abs/2609.09597v2",
+      "excerpt": "",
+      "publishedAt": "2026-09-09T01:50:54.000Z",
+      "category": "tech",
+      "source": "arXiv｜触觉研究"
+    },
+    {
+      "sourceId": "arxiv-tactile",
+      "title": "Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction",
+      "url": "https://arxiv.org/abs/2609.07747v2",
+      "excerpt": "",
+      "publishedAt": "2026-09-07T16:47:39.000Z",
+      "category": "tech",
+      "source": "arXiv｜触觉研究"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "One brick at a time: How Monumental uses robotics to build walls",
+      "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
+      "excerpt": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls. The post One brick at a time: How Monumental uses robotics to build walls appeared first on The Robot Report.",
+      "publishedAt": "2026-09-11T21:09:01.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+      "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
+      "excerpt": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize field deployments. The post Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-09-11T19:49:40.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "How to select the right rack and pinion system for high-precision linear motion",
+      "url": "https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion/",
+      "excerpt": "GAM explains why robotics designers should consider pinion size when thinking about motion control for high-precision applications. The post How to select the right rack and pinion system for high-precision linear motion appeared first on The Robot Report.",
+      "publishedAt": "2026-09-11T14:35:47.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "How drone developers are navigating changing regulatory landscapes to help farmers",
+      "url": "https://www.therobotreport.com/how-hylio-drone-developers-navigate-changing-regulatory-landscape-help-farmers/",
+      "excerpt": "Before the FCC put restrictions on foreign-made robots, it had already set similar restrictions on drones last year, noted Hylio. The post How drone developers are navigating changing regulatory landscapes to help farmers appeared first on The Robot Report.",
+      "publishedAt": "2026-09-11T12:21:16.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "WRC 2026：海康机器人三大实景场景集中亮相 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzVW1aUmlyVTNNUHNTNGZpSkZDaWZ0UEhidGNOb3NGd3dHdmJFalBHRU02OFBuMVZyQUEwU05DWTQzellSZ0FnWGU5UmlaUTVHb0Q3VDc1S1MtRDNBMEp3SXFva0dncnFDUHlGRjhMNU1yZw?oc=5",
+      "excerpt": "WRC 2026：海康机器人三大实景场景集中亮相 新浪网",
+      "publishedAt": "2026-09-11T03:19:15.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
+      "url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+      "excerpt": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul: 22–23 September 2026, SEOUL IRO",
+      "publishedAt": "2026-09-11T15:30:04.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
+      "url": "https://huggingface.co/papers/2609.07064",
+      "excerpt": "Large Vision-Language Models (LVLMs) have achieved strong performance on diverse visual tasks, yet their ability to reconstruct and reason about the 3D structure of the scene depicted in 2D images -- referred to as spatial intelligence -- remains limited. Existing approaches attempt to address this ",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "meta": "👍 67",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
+      "url": "https://huggingface.co/papers/2609.11561",
+      "excerpt": "Mainstream robotic policies often adopt a Markovian formulation, but many complex real-world manipulation tasks are inherently non-Markovian, requiring long-horizon memory beyond the current observation. Existing memory mechanisms often rely on language summaries, growing visual windows, or their co",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "meta": "👍 9",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
+      "url": "https://huggingface.co/papers/2608.15380",
+      "excerpt": "In systems built on Robot Operating System 2 (ROS 2) and using Data Distribution Service (DDS), a single network-impaired or throttled subscriber on a RELIABLE topic can cause backpressure that degrades throughput and latency for all other subscribers, including safety-critical ones sharing the publ",
+      "publishedAt": "2026-09-06T00:00:00.000Z",
+      "meta": "👍 1",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
     }
   ]
 }

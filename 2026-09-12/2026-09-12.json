@@ -1,0 +1,25 @@
+{
+  "hero_headline": "建筑砌墙机器人进入真实施工落地阶段",
+  "daily_overview": "当日候选信息集中在机器人落地侧：建筑砌墙机器人以真实工地为试验场，自动驾驶与机器人在野外部署的交叉被搬上行业会议。触觉传感器、柔性电子与灵巧手方向暂无实质增量，感知硬件上游缺位。智能化进程仍由工程部署与场景验证驱动，而非底层器件突破。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "Monumental 公布机器人砌墙的落地路径",
+      "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
+      "source": "The Robot Report",
+      "summary": "Monumental 首席执行官在播客中介绍公司用机器人砌筑墙体的实践路径。\n施工场景对定位精度、力控与末端执行器一致性提出远高于演示的要求。\n砌筑作业的力反馈与接触状态判断，是触觉与力传感器在建筑机器人中的直接落点。",
+      "importance": 5
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "当日候选多为访谈与会议预告，缺乏器件级或部署数据支撑。砌墙机器人值得跟踪，但其感知方案与触觉配置尚未披露。",
+  "keywords": [
+    "建筑机器人",
+    "砌墙机器人",
+    "力控",
+    "自动驾驶",
+    "野外部署",
+    "机器人落地",
+    "触觉传感器"
+  ]
+}

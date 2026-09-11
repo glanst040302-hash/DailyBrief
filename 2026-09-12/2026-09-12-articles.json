@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-12",
+  "articles": [
+    {
+      "sourceId": "robot-report",
+      "title": "One brick at a time: How Monumental uses robotics to build walls",
+      "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
+      "excerpt": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls. The post One brick at a time: How Monumental uses robotics to build walls appeared first on The Robot Report.",
+      "publishedAt": "2026-09-11T21:09:01.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+      "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
+      "excerpt": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize field deployments. The post Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-09-11T19:49:40.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    }
+  ]
+}

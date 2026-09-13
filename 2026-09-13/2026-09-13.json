@@ -1,0 +1,39 @@
+{
+  "hero_headline": "机器人皮肤订单半年内爆发，触觉感知加速落地",
+  "daily_overview": "全球智能化焦点集中于触觉感知：多家媒体报道机器人皮肤订单半年内爆发，直指百亿级市场；新型电子皮肤传感器将接触、压力与近距感知集成于单一器件；石墨烯与铁颗粒复合皮肤给出低成本材料路径。产业链正从实验室验证转入批量交付，感知规模化左右具身智能落地节奏。",
+  "tech_briefs": [
+    {
+      "title": "机器人皮肤订单半年内爆发，百亿级市场受关注",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ySTNpVWpuX3pyZ0psdDZSNnRwdzd0YkNaUW0weklKX19Jal9yUk9RSzRWNVVaSnkwdFlYU0RaeldPaVZKakd5WnltQ1I3UlRtb3A0Q0VNNjM5NFRfRFdnWFptNEpUYXNFSy1UQng0ak9KcURwckRzRw?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "多家媒体同期报道机器人皮肤订单在半年内集中爆发\n下游灵巧手与整机厂商加快导入电子皮肤，供应链进入放量阶段\n触觉感知由样机验证转向批量交付的标志性信号（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "电子皮肤传感器可同时感知触压与近距物体",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHNVZ2lmR180bU1CTVZXMkh1TjIzZW1heUE0ZlVMNkZTNzVXeWUtNF9JNDFORG10Y2hFSV81T3JDRkcwbXBpSG9mdG0tcHpWOW1hRzkxdGVpRGV5N080TktqaVFjQ190X3gweVFxdnBDVHR4TEVFLWFWS2VZaWF2eDYzd2lqaXNzWnllWEpkWDhHOWZWaU5aNkVVVlBReklHdWdiSnJGSmQxazQ?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "报道称新型电子皮肤传感器可检测接触、压力与临近物体\n单一器件集成触觉与近距感知，减少对独立接近传感器的依赖\n为机器手提供更紧凑的感知前端与更低的集成成本",
+      "importance": 7
+    },
+    {
+      "title": "石墨烯与铁颗粒复合皮肤赋予机器人类人触觉",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejktNjI0c25wUS1IY1Rta1VFVTItc3d6VGYxa1JOUFRockNJLWlmZzlNcVdPcUhveGlreDhJUS1aaUdQOFlnLURIM0lJdmFjOXU0UkxLdk85MjkxdGFNTjczbll6eHdKRTk4TWNwUnlhYlRhZTRfRUtrdVV6ZS1rU1RsX1RmTkhsQ2F2dnEwNG5zLWJHa19QdHYzVnpDUQ?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "研究团队以石墨烯与铁颗粒复合制备机器人皮肤，实现类人触觉\n材料方案兼顾柔性与传感响应，指向低成本可制造路线\n材料端突破直接影响触觉传感器的成本与量产可行性",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "订单爆发的说法尚缺公开数据支撑，但多家媒体同期指向同一供需变化，产能与客户验证进度值得持续追踪。",
+  "keywords": [
+    "电子皮肤",
+    "触觉传感器",
+    "机器人皮肤",
+    "石墨烯",
+    "柔性电子",
+    "近距感知",
+    "具身智能"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "hero_headline": "帕西尼全栈触觉新品亮相WRC，具身感知加速收敛",
+  "daily_overview": "今日两条线索：帕西尼在世界机器人大会发布全栈触觉新品，从触觉传感器向灵巧手与整机感知链路收敛；模型侧，Perplexity 将 GPT-6 Astra 接入端到端生产系统，人工确认频次明显下降。触觉数据供给与代理自主执行共同决定机器人闭环上限，两侧仍在早期验证与整合阶段。",
+  "tech_briefs": [
+    {
+      "title": "帕西尼WRC发布全栈触觉感知新品",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5ZkExVUlBdFFrMGNPaVhXVlotN3dtczNDbG5OZ3pYQXpJekJkQy1CZV9TOUIyMGJQS1A5TVBYaVdhVjJienphXzhhby1QN19zX0NnTnU5cXNSdVlkMml0Y3YwOEdVNGhScHlVWUQ0N2w?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "帕西尼在世界机器人大会发布触觉感知新品，主打全栈自研路线。\n覆盖从触觉传感器到灵巧手感知链路，指向人机共生的落地场景。\n全栈整合有利于统一标定与数据接口，是触觉模组走向量产的关键一步。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [
+    {
+      "title": "Perplexity用GPT-6 Astra接管端到端系统",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI News",
+      "summary": "Perplexity 使用 GPT-6 Astra 撰写沟通内容、修改软件并监控生产系统。\n人工确认频次较早期模型明显下降，单次自主执行区间被拉长。\n代理自主度提升后，感知与状态反馈的可靠性成为闭环中的新瓶颈。",
+      "importance": 5
+    }
+  ],
+  "editor_note": "触觉全栈化的价值在于把标定与数据接口握在自己手里；模型侧自主度上升，感知端可靠性与可验证性正成为共同瓶颈。",
+  "keywords": [
+    "帕西尼",
+    "触觉传感器",
+    "电子皮肤",
+    "灵巧手",
+    "WRC",
+    "GPT-6 Astra",
+    "具身智能",
+    "端到端代理"
+  ]
+}

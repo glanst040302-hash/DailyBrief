@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-14",
+  "articles": [
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "帕西尼新品亮相WRC：以全栈技术解锁人机共生新图景 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5ZkExVUlBdFFrMGNPaVhXVlotN3dtczNDbG5OZ3pYQXpJekJkQy1CZV9TOUIyMGJQS1A5TVBYaVdhVjJienphXzhhby1QN19zX0NnTnU5cXNSdVlkMml0Y3YwOEdVNGhScHlVWUQ0N2w?oc=5",
+      "excerpt": "帕西尼新品亮相WRC：以全栈技术解锁人机共生新图景 新浪网",
+      "publishedAt": "2026-09-13T18:40:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "excerpt": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
+    }
+  ]
+}

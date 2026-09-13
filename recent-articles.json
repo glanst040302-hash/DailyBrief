@@ -1,42 +1,6 @@
 {
-  "collectedAt": "2026-09-13T00:53:18.496Z",
+  "collectedAt": "2026-09-13T23:06:03.205Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "全球首个多模态物理交互引擎环球APP首页发布重塑数字娱乐体验- 体坛网_体坛+ - 体坛",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9faGhtdml6NVNha1ZrTXVwbUFHanhzOFJac3N2dTNfVXlBWEcwbDdoSC1XcjllVHpLWTJObVlvUjR1X2tWWEdEYzFxMG5Ccmh0QmI5VTU2RjhacUtUZHBEZk5Paw?oc=5",
-      "excerpt": "全球首个多模态物理交互引擎环球APP首页发布重塑数字娱乐体验- 体坛网_体坛+ 体坛",
-      "publishedAt": "2026-09-06T10:26:53.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Eric Sivertson discusses FPGAs and robot security",
-      "url": "https://www.therobotreport.com/eric-sivertson-discusses-fpgas-robot-security/",
-      "excerpt": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security. The post Eric Sivertson discusses FPGAs and robot security appeared first on The Robot Report.",
-      "publishedAt": "2026-09-06T14:30:01.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Pressure sensors can help improve robotic gripping accuracy",
-      "url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
-      "excerpt": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking. The post Pressure sensors can help improve robotic gripping accuracy appeared first on The Robot Report.",
-      "publishedAt": "2026-09-06T12:30:17.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "openai-news",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "excerpt": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "publishedAt": "2026-09-06T08:00:00.000Z",
-      "category": "politics",
-      "source": "OpenAI News"
-    },
     {
       "sourceId": "tactile-news-zh",
       "title": "2025年度18胜电竞官网：AI机器人技术突破引领行业变革 - 体坛",
@@ -205,15 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTc2dmZNcGRpRm5XQV9pc1l0OWZLOGc4WmlJTkZxNWtCSy16X0ZocGNfRlQ4Uk15WjItd3RvWENKSzNab1dhM3NLdEdqR1R3d0JNb193dWQ1T0d2TGE3YTYzLWktRVpvWXFKa3JpVWJYZUVKYkxnWmR3M19JUmVYTlg3ZXhTLWdtaGtQdEM3eTVhMFNkVjhHMXhFblY5TFJDR1BjYXdCeUhSTVBh?oc=5",
       "excerpt": "Electronic Skin for Prosthetics Senses Temperature and Pressure The Good Men Project",
       "publishedAt": "2026-09-07T22:35:36.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "PUDU D7 Named Honoree in IFA Innovation Awards for Best in IFA Next & Emerging Technologies - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLVQwT0haSmx0TUdvWXNZYk5LQ2FFaVc1ZFlSeVpZVnBsbVhFNE9UdU4wc2ZfaEFQTlEzM1VqbGZqcmtwYmlUVlNBN0Njb0NUaVQtUjE2RV9kMGRpV1UxdDdack9DekM0SnhoclRrbHdRNGZVTmpheVU4YU1SVUhEQ09Wc2ZHaHhoUVVSWVBQem14NFQxMDRyYXQ2TElFR01wMFJZd3gxYWU2WEtBSE1fZmk3ZWNnZFFkLWZ2NkhCVTQxOWhMRU5NSGl1Ym1XM2ZPU3MtTWdUeWNmR25RQ0g4SG9mNWtGQnEteXc?oc=5",
-      "excerpt": "PUDU D7 Named Honoree in IFA Innovation Awards for Best in IFA Next & Emerging Technologies StreetInsider",
-      "publishedAt": "2026-09-06T12:11:45.000Z",
       "category": "tech",
       "source": "Google News｜触觉传感器"
     },
@@ -1218,15 +1173,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争 - xueqiu.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jR1J2aVF1M2tCaXBxMlBpeWsxSmFQRFR0YmQ5SDhXc1M3RFpKbDNRakZsWkdPcTVfX0hLN0R1ZlRjTTloQXJ1M1lEYkhDRmMy?oc=5",
-      "excerpt": "机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争 xueqiu.com",
-      "publishedAt": "2026-09-06T19:11:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "机器人的手是热的，机器人皮肤订单大爆发 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IUml2QzRIcnUxeGJ6cktYeUtwZS01bFNBellra2hxa1VkQ1NQY3ZiQkJJTzN0Nk9NOGlpTENOUFJoanBCazFsVkZkVUZsVE1DV0ZBS05PQjMxaXB5OEE?oc=5",
       "excerpt": "机器人的手是热的，机器人皮肤订单大爆发 京报网",
@@ -1278,15 +1224,6 @@
       "publishedAt": "2026-09-12T12:35:38.000Z",
       "category": "finance",
       "source": "The Robot Report"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "走向实用，具身智能机器人还要闯几关？ - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wRkZQZm9uSzNQbnZCY0JFM0FDQUZyWmZjak9yRENvY1VEVFZpODAzUGhTVlVsek1Bd2RfWEp5dENydm5mMUpQQ2pMaDZSVXFGRDBJdWxXVzIxbWI3aGVTNjJpTWk5WXZsX3Z6V2lJRmlmRC1ReklB?oc=5",
-      "excerpt": "走向实用，具身智能机器人还要闯几关？ 封面新闻",
-      "publishedAt": "2026-09-06T15:57:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
     },
     {
       "sourceId": "wrc-news",
@@ -1359,6 +1296,159 @@
       "publishedAt": "2026-09-11T20:46:54.000Z",
       "category": "politics",
       "source": "IFR｜机器人产业"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "New electronic skin sensor detects touch, pressure and nearby objects - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGpYWmVKLUdmNkU0NkxoR1h3UHpRaDR4WjJUQVJibDFZTW92eGI0OGNLTDE1RTZaRTdCTW1DcFo5UFE4ZGV0Nl9QcTJaRGVFR2g1bnZfQzE1dlVQUWdRRm95VEhpTnU4amZiUHJtdmgxa3FibkpCQWJ6QnhXQi1sNkt6TVJzX1gwLXRxbmxyaG5OeFQ1b0tvVQ?oc=5",
+      "excerpt": "New electronic skin sensor detects touch, pressure and nearby objects Yahoo Tech",
+      "publishedAt": "2026-09-12T23:07:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "“半年内，订单爆发”！百亿风口，来了→ - app.dahecube.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSN0U1YzExUjNyWUJnemRYcS1UTTZaeGllTjV2dl9CR20yWlh5Y3BXaHFLcHgxRlc1VnhGT2NEN01xMm9QNHY4WGtQa19vUkNVRERyM0dxUjdleURXa0VjWHdiSEVHUUFjMEE?oc=5",
+      "excerpt": "“半年内，订单爆发”！百亿风口，来了→ app.dahecube.com",
+      "publishedAt": "2026-09-13T00:43:29.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "千觉机器人亮相浦江创新论坛，集中呈现多维触觉能力|灵巧手|数据|指尖|物体|传感器_手机新浪网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxPMXBhZjhQal9kVThaYmVxWWJIMXdPdHNZdmhlMTlCcEJha2V0ZzBHZHdRc25yMTJkdXRZY0l2cHpoSXI3UnZvNV93N1FLMmRqdUM1R1BYRXc3T2dtNG5YWXJsZFM3WTk5c0Roa0lZT2xONVBGLWpNX0pfNGpuYUI1MXRXTnlmRFE3RG9FQk5zSG96eUNITU42UEVBY0tQOUZoMi1GWFlrV1dSeldzQXVnMkJQOVlqaDllMmRyb3A4R1NwM2ZTWGd6THpxd2JkWjlJX0VEM3h5UlBIRkVfWGF1NldOU013cU02cTBQQjNQbWN1TVRrTy1Fai1VanBqdVNIRGE0UG4zSVN5cVhNY1otQWlOVUZfY0llZFlzaXBWb0ZVRFBNamJkV0xZVk9nS0VoeTIxZlhzck9TR2cwYmxxN01fNVhnRFhZVUVrc2NZYkFYQUdPeWpqZ0ZhZ0ZVUVdQdFZGTjR6TDRTalFFcHFQdVJtQUF4Ry1kcUQ3bnZsSDl1NTB3TnZrUnphQTRGQ3R5eDY0SXB5dXg2Y3NMMGZ2UVVtRm94TE9GZVQ1ZXBneGNUci1hZXgtalZRZHc2am04TTloTTRfSXRxSjZ3VWdFTGZKLV9OcjExc29oYm5wLTlHNlNjckxYdlhfUlh3RkhoV3JmYlVOUjltQlNzUF96ZXNiWml4N3hJOW90NWUxRGxjZldnNThfdU8zUTc2MktBTU1FVW9SUXpzYko1em1EbUlLamhMWVB3cUpTREFCUUdzT2pRNWlZVTFuZnB2clhuZkptSmRFSzZieEY5cWVKVWR3QWJzaUlUYlVLZkpNM1dEOW5DZFdaV0E4aXBHQURtMUVfZFlUTklTSGNBZy02bElubDRuQ0wtRzZjVUMybXBQYWs?oc=5",
+      "excerpt": "千觉机器人亮相浦江创新论坛，集中呈现多维触觉能力|灵巧手|数据|指尖|物体|传感器_手机新浪网 新浪财经",
+      "publishedAt": "2026-09-12T07:00:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "帕西尼新品亮相WRC：以全栈技术解锁人机共生新图景 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5ZkExVUlBdFFrMGNPaVhXVlotN3dtczNDbG5OZ3pYQXpJekJkQy1CZV9TOUIyMGJQS1A5TVBYaVdhVjJienphXzhhby1QN19zX0NnTnU5cXNSdVlkMml0Y3YwOEdVNGhScHlVWUQ0N2w?oc=5",
+      "excerpt": "帕西尼新品亮相WRC：以全栈技术解锁人机共生新图景 新浪网",
+      "publishedAt": "2026-09-13T18:40:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "机器人的手是热的，机器人皮肤订单大爆发 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1d3UnZ2bktMbUFyaXlTSkZDZVhRdWZWWEFaUVVjTkhKX2MwLWZfODAwTGozcU50dXdRRW1ZbXYwWHFsODFsY0RsNzFKcVdGLXVxT0hrWFJ2Q2ppUzhIS0lBd3VhdWdoVndPREpZY19TS0dlTThJcDF1bUs4V2Y2TGFVODVuazhm?oc=5",
+      "excerpt": "机器人的手是热的，机器人皮肤订单大爆发 Sohu",
+      "publishedAt": "2026-09-12T16:16:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "千觉机器人亮相浦江创新论坛，集中呈现多维触觉能力 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVBORVpwM3hFX2QxUGoxYXRhUkx2LXA5M1NGTnF5dnF0dkRqRHBKWUdDcEM3Y3VZOTZPZUhwLUh4d19BcFJobWV2dGE1RzFha2V5OUs1djFaRGpjYldBc1Jmb0taeUs5aGxmbVN0V1RCUjN3c1JXQjgyMlJrQWdMQUxRUXFMc0E?oc=5",
+      "excerpt": "千觉机器人亮相浦江创新论坛，集中呈现多维触觉能力 新浪财经",
+      "publishedAt": "2026-09-12T03:49:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "Nature Communications 机器人采草莓不再“捏烂”：五根软手指，集齐视觉触觉两大法宝 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CQ3dDWC1rRzl0bVdnWnI4RUJzN0VVRG8xX0VyaWlpY29CV2hIUzA0bi1jbXozalR4TUFXR3NCdDJNcjNZNWZWS2dfVG1Iekg5ODZaUm1seWJKM1RpMlZ1eTRsUTRlb21yd1l2MUZhSUo?oc=5",
+      "excerpt": "Nature Communications 机器人采草莓不再“捏烂”：五根软手指，集齐视觉触觉两大法宝 新浪网",
+      "publishedAt": "2026-09-13T07:37:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "【行业预测：2030年国内人形机器人电子皮肤需求将达152.5万平方米、对应市场规模约274亿元】_期货_24H快讯 - bihainews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HbDRlcXZRdTJ4VklVOUVzd1ZyQjBfXzBRUGFXa2gyVWp1cDVLNUpFRlFLZHczYllhNVY1T29uaHBqTDR3N3o4N2ZoNXlNVlhVMTl2TXcyRUhHLXEwVzMtTEJLYVVzdw?oc=5",
+      "excerpt": "【行业预测：2030年国内人形机器人电子皮肤需求将达152.5万平方米、对应市场规模约274亿元】_期货_24H快讯 bihainews.com",
+      "publishedAt": "2026-09-13T07:53:03.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "机器人皮肤衣订单爆发！这个百亿赛道普通人该看懂什么 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUxXOE1oSUlVX0FfMGZ5LVlEZ0x6SGJlM2RwOUxEVGR4UWtvaUlxMEJoaU9CUkh3SHNWYTQ1Sk1yRkVUVDRKbU9nbXFuMkZmM2ZlZG5VYkx4VFlZd0NTRWg2bmIzejlpT2YwaG9sQi03M25NZU9OOGtJMzNLbEg2X0ZRaHNhM291?oc=5",
+      "excerpt": "机器人皮肤衣订单爆发！这个百亿赛道普通人该看懂什么 Sohu",
+      "publishedAt": "2026-09-13T02:23:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "机器人皮肤订单爆了 迎来商业化爆发 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43Qm5RVFpab1FKOEFuZm1iRmhxeFZUZDEzTGZjbV9PTTl5NHVrUjBnNEpKVFdJZUxuNEZicV9jTE94dGVLcGtJWmVtMFROS1pSLWFwZm12OVpaSHAzYnotR29vY2plX0ROdFVNcU9KQTI?oc=5",
+      "excerpt": "机器人皮肤订单爆了 迎来商业化爆发 中华网",
+      "publishedAt": "2026-09-13T09:43:27.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "How autonomous fleets are changing what’s possible in American agriculture",
+      "url": "https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture/",
+      "excerpt": "Autonomous tractors can help American agriculture, as exemplified in ASI's collaboration with U.S. Sugar and Everglades Equipment. The post How autonomous fleets are changing what’s possible in American agriculture appeared first on The Robot Report.",
+      "publishedAt": "2026-09-13T12:45:12.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "道胜体育官网亮相2026世界机器人大会：具身智能正在走出实验室的深水区信号 - 体坛加",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EaGlhZDJGcks5RHEwM0V4bnVNRGk2MnQ0VjlVX19HQWhUMUdNQzBvOGJ0dUFJQ0h0NzlLalg5TTNqVmZvWWZYYXBPY19HeGFJV1Vfdlh1cmRJdW93MlhHbWhB?oc=5",
+      "excerpt": "道胜体育官网亮相2026世界机器人大会：具身智能正在走出实验室的深水区信号 体坛加",
+      "publishedAt": "2026-09-11T16:01:01.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "中国机器人产业“加速跑”为世界提供新机遇 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnT2pXZWM4SG5TN1oyNHRnTDVLeHVvcGFuRWlLbVY3VzBVWGJudWlncWtMN3JiejVBeW1sU2NVNGc3SEpubEozOG5WMVhPM3NBRmR5LWJXQ2JCM2tZM2tsTE1VaGFvUDlCck9WWXV5eEY?oc=5",
+      "excerpt": "中国机器人产业“加速跑”为世界提供新机遇 新浪网",
+      "publishedAt": "2026-09-13T02:07:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "世界机器人大会翻车瞬间，机器人也想摸鱼 - xw.qq.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEd2puelVlTE50TkZSMmlvU1hLaExCdHozSnVTaXFpaVVCQzdCXy1tTTVFUVRIeklZRjMxajdiQWc3czI3cWJnUlJCazJPY3lIcHFtc2Vn?oc=5",
+      "excerpt": "世界机器人大会翻车瞬间，机器人也想摸鱼 xw.qq.com",
+      "publishedAt": "2026-09-07T09:49:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "宇树科技上市之后，王兴兴如何展望人形机器人的下一个十年？ - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBOHFwdjZFLTBTeGZubVFQQmJZWmx2YkN0cFQxVzRObEl1RHVpQjJxQzhHYmR3eHFwM1lmQmloNmVzZGE5ZDFzNWs2eGswV3ExVkJQbUJ0c1pvcWpHYkRtdkswTFNTS21sTnJHZ01uako?oc=5",
+      "excerpt": "宇树科技上市之后，王兴兴如何展望人形机器人的下一个十年？ 新浪网",
+      "publishedAt": "2026-09-13T07:55:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "【产业观察】WRC 2026观察：现在机器人行业不缺机器人，缺产业化落地通路 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Fam9maUczdTRKbThNZVlIZ1ZWaElCZzY0OWFmTXhYRUhVZm5nVmFoMDJ5S3A2VXlKUnJHY3dOdUdDemxNOGt3WU1EMGZ5clR0UVlHdDczbnZRMUlMTWNzaHRNNGFSM28xVElXVXdMVnE?oc=5",
+      "excerpt": "【产业观察】WRC 2026观察：现在机器人行业不缺机器人，缺产业化落地通路 新浪网",
+      "publishedAt": "2026-09-12T19:14:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "WRC观察｜不一样的声音：科沃斯钱东奇浇冷水，人形机器人进家庭还早呢 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByU29IUll2SDY4MlBVVGQ2amNlM1JZMzIwblJoZmxsWHJNQlpBN1JjREgtS3I0Wm45bWRocDB2bVZ3M1JjcnFYdXJLTExoa21uUWpUeDFmczVMZEoxYjBCZEplM3hPQ2FTcmNPQUc4X0M?oc=5",
+      "excerpt": "WRC观察｜不一样的声音：科沃斯钱东奇浇冷水，人形机器人进家庭还早呢 新浪网",
+      "publishedAt": "2026-09-09T19:27:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
     }
   ]
 }

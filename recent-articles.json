@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-13T23:06:03.205Z",
+  "collectedAt": "2026-09-14T01:00:40.133Z",
   "articles": [
     {
       "sourceId": "tactile-news-zh",
@@ -171,15 +171,6 @@
       "publishedAt": "2026-09-07T22:35:36.000Z",
       "category": "tech",
       "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "福莱新材向灵心巧手批量交付超3万套触觉传感器 - 电子工程专辑",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EamVWZnk4bzE4aVBLLVpacy1WdmJuWlNDbG5Obk9GSHpqeUZEbHZ2WmNlV29nSjBBVkU1ZUc3N1dWeV9hRnhwV2FIaUVsMU50akJn?oc=5",
-      "excerpt": "福莱新材向灵心巧手批量交付超3万套触觉传感器 电子工程专辑",
-      "publishedAt": "2026-09-06T23:11:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
     },
     {
       "sourceId": "tactile-news-zh",
@@ -525,16 +516,6 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining",
-      "url": "https://huggingface.co/papers/2609.07398",
-      "excerpt": "World-Action Models inherit world knowledge from video-generative priors, and channel it into executable control signals through embodied experience. Existing systems, however, are monolithic: the generative backbone, visual representation, architecture, information flow, inference procedure, and tr",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "meta": "👍 49",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
       "url": "https://huggingface.co/papers/2609.08084",
       "excerpt": "Monocular depth estimation is a ubiquitous yet highly ill-posed computer vision task, with downstream applications in scene reconstruction, computational photography, and robotics, among others. Despite the field's maturity, recent models still struggle to generalize to out-of-distribution inputs an",
@@ -545,31 +526,11 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements",
-      "url": "https://huggingface.co/papers/2609.07498",
-      "excerpt": "Transferring human hand demonstrations to robotic grippers has recently emerged as a cost-effective solution for robot learning. However, existing methods are largely confined to simple, planar tasks and fail to handle complex spatial movements (e.g., intricate trajectories involving rotations or fl",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "meta": "👍 25",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
       "url": "https://huggingface.co/papers/2609.09158",
       "excerpt": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm pl",
       "publishedAt": "2026-09-08T00:00:00.000Z",
       "meta": "👍 19",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy",
-      "url": "https://huggingface.co/papers/2609.07470",
-      "excerpt": "Robot foundation models are trained and evaluated predominantly in English, and robot demonstration corpora do not exist for most languages. We study the addition of Greek to an open vision-language-action stack using only machine-rephrased instructions and no architecture changes. The main challeng",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "meta": "👍 17",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
     },
@@ -1069,16 +1030,6 @@
       "publishedAt": "2026-09-11T15:30:04.000Z",
       "category": "finance",
       "source": "IEEE Spectrum｜Robotics"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
-      "url": "https://huggingface.co/papers/2609.07064",
-      "excerpt": "Large Vision-Language Models (LVLMs) have achieved strong performance on diverse visual tasks, yet their ability to reconstruct and reason about the 3D structure of the scene depicted in 2D images -- referred to as spatial intelligence -- remains limited. Existing approaches attempt to address this ",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "meta": "👍 67",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
     },
     {
       "sourceId": "huggingface-papers",

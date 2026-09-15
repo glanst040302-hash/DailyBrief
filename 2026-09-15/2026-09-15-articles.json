@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-15",
+  "articles": [
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "这家六维力传感器“小巨人”企业完成数亿元B轮融资 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FUGo2WDZpY0NJUl9xRjZ3MmkzQlFEcGRhQlpZLXg4eUM3dWtNNXBsak9SNVZOUC00bUN3dF9ZWjM3ek1uNTlvcFFUT1JZMXhKLWNV?oc=5",
+      "excerpt": "这家六维力传感器“小巨人”企业完成数亿元B轮融资 电子工程专辑",
+      "publishedAt": "2026-09-14T23:11:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Why RaaS needs more than a subscription model",
+      "url": "https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/",
+      "excerpt": "At RoboBusiness 2026, a panel of robotics business leaders will examine the practical playbook behind Robots-as-a-Service or RaaS offerings. The post Why RaaS needs more than a subscription model appeared first on The Robot Report.",
+      "publishedAt": "2026-09-14T21:45:57.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
+      "url": "https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/",
+      "excerpt": "Learn from a surgical robotics case study and a discussion of how to best deploy mobile robots in the warehouse in this issue. The post Report covers advances in surgical robots, deploying warehouse automation in the real world appeared first on The Robot Report.",
+      "publishedAt": "2026-09-14T21:01:59.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Arm to discuss scaling physical AI at RoboBusiness",
+      "url": "https://www.therobotreport.com/arm-to-discuss-scaling-physical-ai-at-robobusiness/",
+      "excerpt": "Dermot O'Driscoll, the VP of go-to-market for physical AI at Arm, will examine key compute principles behind trusted physical AI. The post Arm to discuss scaling physical AI at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-09-14T16:09:27.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    }
+  ]
+}

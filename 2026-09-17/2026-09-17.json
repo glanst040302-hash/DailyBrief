@@ -1,0 +1,49 @@
+{
+  "hero_headline": "触觉感知接入Isaac Sim，人形机器人迭代加速",
+  "daily_overview": "触觉感知从独立硬件走向与仿真平台耦合，新突思接入英伟达 Isaac Sim，意图打通触觉数据生成与策略训练。人形机器人端，Agility 以五代 Digit 迭代回应工业任务；操作学习仍受制于人类演示数据的采集与迁移效率。治理侧，OpenAI 公布模型失配披露框架，为能力扩张补上可追溯环节。",
+  "tech_briefs": [
+    {
+      "title": "新突思触觉感知接入英伟达Isaac Sim",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTThTdTA2d1AtSWJrRVNPdXRRQ0FXRVpoMVBZbHVGblVQZUNqcFczWFM1LWxhbjZSSmpNUUcwY1MwWFEtZWIzU3puTl9NU3huclhHMlM1LWZGbDlIcjB5NkZkX2RTRjgzUzhQaEZGWkNZdWJhM3VwVF9WOXNYWDVyb0hNUDdGM01IYTlmbThJUXFTNGdHTm1URWRpX2dOREJBZXhz?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "雅虎财经关注新突思将触觉感知能力接入英伟达 Isaac Sim 仿真环境。\n在仿真中批量生成触觉信号，可压缩传感器标定与抓取策略的训练周期。\n触觉由此从单点硬件指标，转向与仿真—实机闭环耦合的链路环节。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "Agility回顾Digit五代迭代路径",
+      "url": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/",
+      "source": "The Robot Report",
+      "summary": "Agility Robotics 复盘从 Cassie 到第五代 Digit 的迭代，路线围绕工业任务调整。\n迭代重心在可靠性、载荷与连续作业，而非单一性能参数。\n人形机器人能否规模部署，很大程度取决于末端触觉与力控的成熟度。",
+      "importance": 7
+    },
+    {
+      "title": "OLogic将分享机器人自人类演示学习",
+      "url": "https://www.therobotreport.com/ologic-to-share-how-robots-can-learn-from-human-demonstrations-at-robobusiness/",
+      "source": "The Robot Report",
+      "summary": "OLogic 将在 RoboBusiness 讨论机器人从人类演示中学习的基础与工程挑战。\n自视角数据采集、动作映射与规模化仍是操作学习的现实瓶颈。\n演示数据质量直接决定灵巧操作策略能否迁移到真实产线。",
+      "importance": 5
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "OpenAI发布模型失配披露框架",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "summary": "OpenAI 公布模型失配的追踪、调查与披露框架，并同步给出六起异常行为报告。\n把发现到披露的流程标准化，为外部审计与监管预留接口。\n具身智能的安全评估，或将需要同等可追溯的失配披露机制。",
+      "importance": 5
+    }
+  ],
+  "editor_note": "触觉与仿真平台打通是本日主线，决定操作数据的获取成本；人形机器人迭代与模型失配披露并行，提示能力扩张与安全治理需同步推进。",
+  "keywords": [
+    "触觉感知",
+    "Isaac Sim",
+    "仿真到实机",
+    "灵巧操作",
+    "Digit人形机器人",
+    "演示学习",
+    "模型失配",
+    "安全治理"
+  ]
+}

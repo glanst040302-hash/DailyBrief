@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-17",
+  "articles": [
+    {
+      "sourceId": "tactile-news-en",
+      "title": "How Investors May Respond To Synaptics (SYNA) Tactile Sensing Integration With NVIDIA Isaac Sim - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTThTdTA2d1AtSWJrRVNPdXRRQ0FXRVpoMVBZbHVGblVQZUNqcFczWFM1LWxhbjZSSmpNUUcwY1MwWFEtZWIzU3puTl9NU3huclhHMlM1LWZGbDlIcjB5NkZkX2RTRjgzUzhQaEZGWkNZdWJhM3VwVF9WOXNYWDVyb0hNUDdGM01IYTlmbThJUXFTNGdHTm1URWRpX2dOREJBZXhz?oc=5",
+      "excerpt": "How Investors May Respond To Synaptics (SYNA) Tactile Sensing Integration With NVIDIA Isaac Sim Yahoo Finance",
+      "publishedAt": "2026-09-16T20:12:20.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
+      "url": "https://www.therobotreport.com/ologic-to-share-how-robots-can-learn-from-human-demonstrations-at-robobusiness/",
+      "excerpt": "OLogic CEO Ted Larson will explore the foundations of egocentric robot learning and the technical challenges involved in building these systems. The post OLogic to share how robots can learn from human demonstrations at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-09-16T20:31:29.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
+      "url": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/",
+      "excerpt": "From Cassie, to five different versions of Digit, Agility Robotics has adapted its technology to fit industrial tasks. The post The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5 appeared first on The Robot Report.",
+      "publishedAt": "2026-09-16T17:45:50.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Rethinking Robot Safety in the Age of AI",
+      "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "excerpt": "This article is brought to you by VicOne. Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As AI",
+      "publishedAt": "2026-09-16T16:51:02.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "excerpt": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
+    }
+  ]
+}

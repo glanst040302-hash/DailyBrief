@@ -1,0 +1,25 @@
+{
+  "hero_headline": "Synaptics 触觉传感模块接入英伟达仿真",
+  "daily_overview": "全球触觉感知加速向机器人量产链条靠拢。Synaptics 同日发布面向物理 AI 的触觉传感模块，并将触觉与边缘 AI 接入英伟达 Isaac Sim 与 Holoscan，使触觉数据可在仿真中生成、在边缘端闭环。具身智能的感知—决策—行动链路因此新增一个软硬一体的入口，真实部署效果仍待验证。",
+  "tech_briefs": [
+    {
+      "title": "Synaptics 触觉传感模块接入英伟达仿真",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOTZHRi1qLURfVUxZVjVnVmVRN19nNktvLVZDRDdwQWNPZVVYRkJja3dPLWVlam0xVG5yYk9DeTI5Yy1KR2lkc041YXZWQVBjY0FpZ2gyWDY3N2VaM3hSZWpjeUh1OVYwTktMZWdwVU53QnJ6dUJBUnh6em1QX2I3d0tZRnh6QzlQSU9nM0lFcm9ncXp5WEhNM29nS001QmZQWHpyZWxSaHJ4UlZmRnhEcXV6WG94WU9wdHpjaTlYQ0Qyd2dIbjhWb1ltYkJOMmfSAdQBQVVfeXFMTnpVeHpnbm56NFJXWWdtOG1HTEJQRHBDVjlBUFp5LWFET0YyLUJCTlRPSTFQbFhlM1N4bDdUOXRra2VmNGtKcEZuamUwTGVsa1J0TnFUWmduS0YyWWdNdkMzVk45UDdEUUtwYjlTa1Z4S2pUNmFHdUxWbWYxMzBCQUlxUENiTTk4U2czSGtoZklqUk5mQTlJbXl1a2ZGekVNa0VPWWRCYlpZb0ZRQ1RUbVFvRVFaVkFyOWk3cEdydHlUdUx1Z0F5R01HT1IwcDN4bXRwZ2Y?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "Synaptics 发布面向机器人与物理 AI 的触觉传感模块。\n同时将触觉感知与边缘 AI 接入英伟达 Isaac Sim 与 Holoscan。\n触觉可在仿真中生成并在边缘端闭环，为具身智能感知—行动链路提供软硬一体入口。（多家报道）",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "触觉传感的竞争点正从单点器件转向与仿真平台、边缘计算的接口标准，先建成数据闭环者更可能定义后续生态。",
+  "keywords": [
+    "触觉传感",
+    "物理AI",
+    "Isaac Sim",
+    "Holoscan",
+    "边缘AI",
+    "Synaptics",
+    "具身智能"
+  ]
+}

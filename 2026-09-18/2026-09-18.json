@@ -1,0 +1,24 @@
+{
+  "hero_headline": "8月机器人投资达49亿美元，资本保持高位",
+  "daily_overview": "全球机器人产业资本活跃度维持高位，2026年8月共录得49亿美元投资、162笔交易，覆盖多技术方向与国家。资金持续流入具身智能与操作学习赛道，感知层尤其触觉传感仍是决定落地能力的关键瓶颈。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "2026年8月机器人领域投资达49亿美元",
+      "url": "https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/",
+      "source": "The Robot Report",
+      "summary": "The Robot Report 统计2026年8月机器人领域共162笔投资，总额49亿美元。\n披露覆盖技术方向、国家与融资阶段，显示资本未撤离机器人赛道。\n具身智能落地依赖感知与操作闭环，触觉传感器等上游环节是后续资金能否撬动规模的关键。",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "月度总额显示机器人资本仍在高位，但单笔披露有限；触觉等感知层能否获得同等投入值得观察。",
+  "keywords": [
+    "机器人投资",
+    "具身智能",
+    "触觉传感",
+    "资本动向",
+    "操作学习",
+    "感知层"
+  ]
+}

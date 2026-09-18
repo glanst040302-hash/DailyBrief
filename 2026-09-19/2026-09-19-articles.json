@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-19",
+  "articles": [
+    {
+      "sourceId": "robot-report",
+      "title": "The picks-and-shovels strategy behind the robotics boom",
+      "url": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
+      "excerpt": "The real robotics opportunity isn’t a humanoid in every home—it’s packaging robots for the jobs businesses need done today. The post The picks-and-shovels strategy behind the robotics boom appeared first on The Robot Report.",
+      "publishedAt": "2026-09-18T18:57:36.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "SoftBank agrees to acquire Robotics and AI Institute",
+      "url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
+      "excerpt": "The deal has been rumored for a couple of months, but it is now being reviewed by the Committee on Foreign Investment in the United States. The post SoftBank agrees to acquire Robotics and AI Institute appeared first on The Robot Report.",
+      "publishedAt": "2026-09-18T17:14:32.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "F-Prime Capital to give insights on the state of robotics investments at RoboBusiness",
+      "url": "https://www.therobotreport.com/f-prime-capital-give-insights-state-robotics-investments-robobusiness/",
+      "excerpt": "Sanjay Aggarwal and Betsy Mulé of F-Prime Capital will unveil the firm's State of Robotics Investments report at RoboBusiness. The post F-Prime Capital to give insights on the state of robotics investments at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-09-18T16:16:44.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Video Friday: Two Birotors Make a Quadrotor",
+      "url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
+      "excerpt": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul: 22–23 September 2026, SEOUL IRO",
+      "publishedAt": "2026-09-18T16:01:05.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    }
+  ]
+}

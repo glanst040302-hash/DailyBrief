@@ -1,0 +1,25 @@
+{
+  "hero_headline": "软银收购机器人与AI研究所，具身智能竞争加剧",
+  "daily_overview": "今日智能化进程聚焦资本整合：软银收购机器人与人工智能研究所，交易正接受CFIUS审查，显示具身智能领域竞争加剧。触觉传感器产业链暂无重大技术或产品突破，行业静待下一波创新。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "软银同意收购机器人与人工智能研究所",
+      "url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
+      "source": "The Robot Report",
+      "summary": "软银同意收购由 Marc Raibert 创立的机器人与人工智能研究所，交易正接受美国外国投资委员会审查。\n此举可能重塑具身智能领域的研究与商业化格局，扩大软银在机器人产业的布局。\n该研究所聚焦机器人学习与敏捷运动，其技术积累与触觉感知、灵巧操作密切相关。",
+      "importance": 8
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "软银收购RIAI凸显资本对具身智能底层研究的重视，但触觉感知等硬件创新仍是产业瓶颈。",
+  "keywords": [
+    "软银",
+    "机器人与人工智能研究所",
+    "具身智能",
+    "触觉传感器",
+    "收购",
+    "CFIUS审查",
+    "机器人学习"
+  ]
+}

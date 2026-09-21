@@ -1,0 +1,40 @@
+{
+  "hero_headline": "触觉传感落地工业计量，人形机器人开店提速",
+  "daily_overview": "全球智能化沿感知与具身两条主线推进。GelSight与Hexagon将视觉触觉传感整合进便携式工业计量，触觉感知从实验室走向产线质控；医疗电子探索能量采集以支撑低功耗传感节点。人形机器人线下渠道开分店，商业化尝试提速，但规模化仍待验证。",
+  "tech_briefs": [
+    {
+      "title": "GelSight 与 Hexagon 整合触觉计量方案",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlkzMkx6cHVvZ1k5WDVSVjQ4dUJ1dElveC1ScGd4aGw0dEU2YnY0RllNUmNXWHhEZjFqOERQdmxFZEt5V285dzZrSm1LNUw0SHlHQXBhZnJnc0lrU1RkRlpOTF9pRGczd1lqak5KRlVvVU1VSTJqYV9LM25FQWRRYWZJdXgyNlRVTmRiWFlWbUJ4YXRhQ29ta0g0ME9MLW8?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "Hexagon与GelSight将便携式尺寸测量与表面检测整合；GelSight的视觉触觉传感进入工业计量场景；意味着触觉传感从实验室走向产线质量控制。",
+      "importance": 8
+    },
+    {
+      "title": "医疗电子能量采集：设备能否摆脱传统电池？",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNFQ3cm1wLTZldElUQ1RQTS1SX3FEbTF0SFdqdTJvYXpZQkxIVmlDNUx4T0xzTVkzd2RtbGhYa1JtcHhBVktMMVZRelg2R0NXYlNXUks1UlJnSV9XRUY3dFJxYjJwMWpJN20zemFSZERFWnhZeTZGNDlMQjJ3ZDZfVTNKcWRBYTR1ekhSY0VhNnp6U0RTYlB1blpIa1Z3WnA4RndSaTU3YXF3RU1HVUgw?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "医疗电子能量采集技术探索无电池运行；可穿戴与植入设备有望摆脱电池更换；为触觉传感器等低功耗医疗传感节点提供供能思路。",
+      "importance": 5
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "光谷人形机器人7S店加速开分店",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GU0puelpFZTIwQnJHd0JySFB5Q3Via09PZVpmdVA2TUpRRUN0V2RQaWVCQzNaZ3E1SGpkbGpkSGxncmNOWDJTbG02eHFSY1FTU0FIVVFLREhpemdFOFJ3QXo3ZmNfbEZEWkRLd1NpclA?oc=5",
+      "source": "Google News｜世界机器人大会",
+      "summary": "光谷人形机器人7S店正筹备分店；线下体验与销售渠道扩张；反映人形机器人商业化落地尝试。",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "本期聚焦触觉传感的工业落地与医疗供能，二者均指向传感器低功耗、高集成趋势；人形机器人渠道扩张尚属早期商业化信号。",
+  "keywords": [
+    "触觉传感器",
+    "GelSight",
+    "工业计量",
+    "能量采集",
+    "人形机器人",
+    "商业化",
+    "视觉触觉"
+  ]
+}

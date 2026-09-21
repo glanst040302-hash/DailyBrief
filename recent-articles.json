@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-21T01:34:14.721Z",
+  "collectedAt": "2026-09-21T07:05:15.337Z",
   "articles": [
     {
       "sourceId": "tactile-news-en",
@@ -12,28 +12,10 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "电报解读 - cls.cn",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lNVlLLVNQdTBlWW02cW81X2VkUlBOWGZNQmFoRjE3a1NEQzlrUmdsYXU0TXVWTE1DaVZHazZHQ0F6OEVqMFBGRg?oc=5",
-      "excerpt": "电报解读 cls.cn",
-      "publishedAt": "2026-09-14T03:05:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "这家六维力传感器“小巨人”企业完成数亿元B轮融资 - 电子工程专辑",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FUGo2WDZpY0NJUl9xRjZ3MmkzQlFEcGRhQlpZLXg4eUM3dWtNNXBsak9SNVZOUC00bUN3dF9ZWjM3ek1uNTlvcFFUT1JZMXhKLWNV?oc=5",
       "excerpt": "这家六维力传感器“小巨人”企业完成数亿元B轮融资 电子工程专辑",
       "publishedAt": "2026-09-14T23:11:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "电子皮肤市场迎来高速增长预期，人形机器人订单向感知层延伸｜机器人早参 - cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lU0ZtbXF0OE1yM2I2YjZwOE1XU201WGxLbDJOaGY2WlA4UU9iOWJ2OERvX2VuQWQtNVV5VEhqOVNDMk9sWHRMYUZXUTM1RVlxdFllVlgwYTRZaEpLaTQ5Y3NDWEc0cDVqR0M2Z05lN3BZeExQTUJXVVRKVHk2dw?oc=5",
-      "excerpt": "电子皮肤市场迎来高速增长预期，人形机器人订单向感知层延伸｜机器人早参 cj.sina.cn",
-      "publishedAt": "2026-09-14T01:44:02.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -72,15 +54,6 @@
       "publishedAt": "2026-09-14T13:25:40.000Z",
       "category": "finance",
       "source": "The Robot Report"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "万达娱乐账号注册_游戏资讯_黄仁勋之女黄敏珊来华：现身北京2026世界机器人大会 - 体坛",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLQlJ3Q2dRQzI3c2FQRWpUNTNoRWRwYUhEeFpMb3RNZHdxRXR3ZDJVc0JqN1dOOHJzLVdqSXdxQjItTjBmOVlEbw?oc=5",
-      "excerpt": "万达娱乐账号注册_游戏资讯_黄仁勋之女黄敏珊来华：现身北京2026世界机器人大会 体坛",
-      "publishedAt": "2026-09-14T01:38:49.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
     },
     {
       "sourceId": "openai-news",
@@ -192,15 +165,6 @@
     },
     {
       "sourceId": "wrc-news",
-      "title": "航天科技集团新研产品亮相2026世界机器人大会 - spacechina.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ka09YeXdyUFhyVmtfMmZHUnlaakVDeldOUlZHaGs1RjJuR2FhUnBhUEd1Mng5VXRCbUxtYkhFbEpFakJNZlQ2TGREaS1tYnhXcnRBbXhNY1B3bF9oNDU4ZkQ0N0NPWG4zQnJnOENXN0xmdw?oc=5",
-      "excerpt": "航天科技集团新研产品亮相2026世界机器人大会 spacechina.com",
-      "publishedAt": "2026-09-14T06:40:02.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
       "title": "全链智融迭代突破，世界机器人大会透视智能装备产业成长新图景 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53NlkyOHhrMDZyY3RIb1ZpMkFQNWVKVEk3LTIzd1ZhVEVhSWJtY1ZZc2x6ZHQ1N2FxdWdhaFRtSkdnU2dlcUZWZVVsMGx4VEE1MEkwQkZDZl9FaFpuYU04THRocENTOE9mLW5JaHhfS28?oc=5",
       "excerpt": "全链智融迭代突破，世界机器人大会透视智能装备产业成长新图景 新浪网",
@@ -286,15 +250,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tQm9FRUZObzREYkFtWTQtcmVhNjd6Tm1CSjhuMHk0MUpGWFV6MTVyZDdNdE1VbXVIVWZoYk1lSk1DRTZvekVGc1VicEpuc1NOUU4tQg?oc=5",
       "excerpt": "视频|电子皮肤、智能仓库……2026“活力锡山·向新而行”主题采访活动启动，记者探访锡山产业向新力 紫牛新闻",
       "publishedAt": "2026-09-15T12:04:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "电子皮肤市场迎来高速增长预期，人形机器人订单向感知层延伸｜机器人早参 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm9lMDQxSlV2amRVYVIxUHNVU2NUZXppR2dkbmVfVE5tb1BfTXlmQXlod3pyLVVIb0hIWW13Y3Rhd0FqcmNJc29pYllDSFdfbTlieU9LZ1RnWEk5aURzZUF6ck51TEszMVB4cVJlUjN0eVZkbEtJUFZ1UE1UTmkzUnhjRjQ?oc=5",
-      "excerpt": "电子皮肤市场迎来高速增长预期，人形机器人订单向感知层延伸｜机器人早参 新浪财经",
-      "publishedAt": "2026-09-14T01:44:02.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -476,15 +431,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnRXhmd0I2NUFldEEwMEhfSzFHNE9BQzlXV0d0M192V3JCSkdsU1JmTmRKM2tWOGZwVlFHZF9vMzUzRDVidjlOWUtZWlVPTWdU?oc=5",
       "excerpt": "彩宝APP_游戏资讯_黄仁勋之女黄敏珊来华，现身北京2026世界机器人大会 体坛",
       "publishedAt": "2026-09-16T17:29:13.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "从舞台炫技到逐步落地 机器人应用场景持续拓宽 - k.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfcmVUNmJDX0J0bEN4N2xGQXZNRGxXQThCRE1sbjR5eERZZDJ4Y3lnWEZCSG55RmdMUXlScEZkd2Rfa2Rsd2lGZEdXS3N0dU5yMGRmbkJLYmx6blBONF9SVXVfd29Kall5eF9oZDN4dGZrZw?oc=5",
-      "excerpt": "从舞台炫技到逐步落地 机器人应用场景持续拓宽 k.sina.com.cn",
-      "publishedAt": "2026-09-14T06:55:00.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
     },
@@ -1044,15 +990,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "电报解读 - 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWeFk1bEdva2pIYklrUlpBbjY5NUN4T25ubXBYLW5aYlRWOWg4WkpOZkZkX3hQM0FBX2R6QlR0S2p5Q1N2Qmc?oc=5",
-      "excerpt": "电报解读 财联社",
-      "publishedAt": "2026-09-14T03:05:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "视频|电子皮肤、智能仓库……2026“活力锡山·向新而行”主题采访活动启动，记者探访锡山产业向新力 - 紫牛新闻",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hczRrbW5zVnBOY1QydmdVR0JtcTBlWGdrMV81Vm9kdHpvUjRsaV9TZGw4LTBlQ0tzcE1SOVplMnhSZVVvNURyc19kNE1wdTdWeFZIMVV4dERpMHg3TzZZ?oc=5",
       "excerpt": "视频|电子皮肤、智能仓库……2026“活力锡山·向新而行”主题采访活动启动，记者探访锡山产业向新力 紫牛新闻",
@@ -1075,15 +1012,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tUVExVFFJUUJZQmtLOVVRckxCWHRsWTMyZGFMMXJRLWlBUjZZOGlsbFRJa2RFX3ZTMjVWZVZWaF94SHpWdXc3WkNyTHpVeFJh?oc=5",
       "excerpt": "Seeds | 理想、智元押注的触觉公司， 又融了数亿元 gasgoo.com",
       "publishedAt": "2026-09-20T03:01:31.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "富士康、阿尔特等在北京成立智能机器人公司 注册资本5000万 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCQmkyQWs1R3hYNTROZ2l1WWNocWZ3RmROTmN6Y1gxVFltQjJwd1VBYjZvMUZoalBDLS1vVkZuRGxTQ0dtaTh5anNyUVJHeG9VYmtQMnRKQjBmOFdrTnNTSGZR?oc=5",
-      "excerpt": "富士康、阿尔特等在北京成立智能机器人公司 注册资本5000万 观点网",
-      "publishedAt": "2026-09-14T05:03:57.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -1284,6 +1212,71 @@
       "publishedAt": "2026-09-16T21:35:03.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Hexagon and GelSight Integrate Portable Dimensional and Surface Inspection - Metrology and Quality News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlkzMkx6cHVvZ1k5WDVSVjQ4dUJ1dElveC1ScGd4aGw0dEU2YnY0RllNUmNXWHhEZjFqOERQdmxFZEt5V285dzZrSm1LNUw0SHlHQXBhZnJnc0lrU1RkRlpOTF9pRGczd1lqak5KRlVvVU1VSTJqYV9LM25FQWRRYWZJdXgyNlRVTmRiWFlWbUJ4YXRhQ29ta0g0ME9MLW8?oc=5",
+      "excerpt": "Hexagon and GelSight Integrate Portable Dimensional and Surface Inspection Metrology and Quality News",
+      "publishedAt": "2026-09-21T05:00:48.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Energy Harvesting for Medical Electronics: Can Devices Run Without Conventional Batteries? - TimesTech",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNFQ3cm1wLTZldElUQ1RQTS1SX3FEbTF0SFdqdTJvYXpZQkxIVmlDNUx4T0xzTVkzd2RtbGhYa1JtcHhBVktMMVZRelg2R0NXYlNXUks1UlJnSV9XRUY3dFJxYjJwMWpJN20zemFSZERFWnhZeTZGNDlMQjJ3ZDZfVTNKcWRBYTR1ekhSY0VhNnp6U0RTYlB1blpIa1Z3WnA4RndSaTU3YXF3RU1HVUgw?oc=5",
+      "excerpt": "Energy Harvesting for Medical Electronics: Can Devices Run Without Conventional Batteries? TimesTech",
+      "publishedAt": "2026-09-21T06:35:33.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "南方财经全媒体集团 - 南方财经",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fbTFzLUVidWtadElnMVQ2dUtpYzRsWVJMd01JdkxDdW05c21UZGE5Y18zekxBd0VmWTQxLU5vUnZrZEJjTkJpRkNCbHF3Vjg0cTZUNDN0WlVWcHZyQnBzc3I1X2ZlZw?oc=5",
+      "excerpt": "南方财经全媒体集团 南方财经",
+      "publishedAt": "2026-09-21T06:01:18.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "光谷人形机器人7S店忙着开分店 - wuhan.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GU0puelpFZTIwQnJHd0JySFB5Q3Via09PZVpmdVA2TUpRRUN0V2RQaWVCQzNaZ3E1SGpkbGpkSGxncmNOWDJTbG02eHFSY1FTU0FIVVFLREhpemdFOFJ3QXo3ZmNfbEZEWkRLd1NpclA?oc=5",
+      "excerpt": "光谷人形机器人7S店忙着开分店 wuhan.gov.cn",
+      "publishedAt": "2026-09-20T23:45:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "看懂银河通用，就读懂了具身智能的未来 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ONmw2TnZmTHI2VGgyWFExUmV5ZjBIeTVqY3RPRlRFSUlVRUR6ZjRlenNSbG5mMkc1WFhVYWlfbDhqSUZxZEI0NnFPRFFHeGhkZDNHTTRCQlRwQVhYdHBvZjZMRXJTNWlGTmNKaGk1SXM?oc=5",
+      "excerpt": "看懂银河通用，就读懂了具身智能的未来 手机新浪网",
+      "publishedAt": "2026-09-20T11:24:47.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "DeformSmith: Physics Harness-Guided Hierarchical Generation of Deformable Assets for Robot Manipulation",
+      "url": "https://huggingface.co/papers/2609.18620",
+      "excerpt": "Creating deformable assets for robot manipulation requires jointly specifying their geometry, appearance, and physical properties. This is especially challenging for deformable objects, since text and images provide limited evidence about how they deform and respond to contact, yet these responses d",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "meta": "👍 2",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Learning Foresight without Explicit Trajectories for 3D Diffusion Policies",
+      "url": "https://huggingface.co/papers/2609.20669",
+      "excerpt": "3D diffusion policies are strong at generating geometrically grounded actions from current observations, but successful manipulation requires not only knowing what motion is feasible now, but also anticipating where the interaction is heading. Existing policies largely leave such foresight to emerge",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "meta": "👍 1",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
     }
   ]
 }

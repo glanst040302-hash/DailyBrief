@@ -1,15 +1,6 @@
 {
-  "collectedAt": "2026-09-20T23:28:23.262Z",
+  "collectedAt": "2026-09-21T01:34:14.721Z",
   "articles": [
-    {
-      "sourceId": "openai-news",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "excerpt": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "category": "politics",
-      "source": "OpenAI News"
-    },
     {
       "sourceId": "tactile-news-en",
       "title": "Shanghai AI Lab Ships Intern Physical World Model W0 for Force-Tactile Robotics - Pandaily",
@@ -18,15 +9,6 @@
       "publishedAt": "2026-09-14T09:12:57.000Z",
       "category": "tech",
       "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "人形机器人电子皮肤需求放量 2030年市场规模约274亿元 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAteDczeUROeVdPSnhJd3QxU1JsWkRzalNvQ29CbTM2UktuR05Qd05GQzRhQlpJNTY3ZUQtQ09UMlJtLWo2SGhLUE95RnhCQQ?oc=5",
-      "excerpt": "人形机器人电子皮肤需求放量 2030年市场规模约274亿元 观点网",
-      "publishedAt": "2026-09-14T00:46:38.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
     },
     {
       "sourceId": "tactile-news-zh",
@@ -43,15 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FUGo2WDZpY0NJUl9xRjZ3MmkzQlFEcGRhQlpZLXg4eUM3dWtNNXBsak9SNVZOUC00bUN3dF9ZWjM3ek1uNTlvcFFUT1JZMXhKLWNV?oc=5",
       "excerpt": "这家六维力传感器“小巨人”企业完成数亿元B轮融资 电子工程专辑",
       "publishedAt": "2026-09-14T23:11:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "电报解读 - cls.cn",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wOEJWdUVKTHNUT1VpSmRHWk9OWmVVSEl3SGNNLUNKMUhwNXRxbTkxbnBjdnNfT0dQVnV3bXo4Zkt0eklXYnc?oc=5",
-      "excerpt": "电报解读 cls.cn",
-      "publishedAt": "2026-09-13T23:44:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -245,26 +218,6 @@
       "source": "IEEE Spectrum｜Robotics"
     },
     {
-      "sourceId": "huggingface-papers",
-      "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
-      "url": "https://huggingface.co/papers/2609.14973",
-      "excerpt": "We present PhysBrain 1.5, a unified model for understanding physical environments, generating actions, and predicting future states. Motivated by the physical loop of observation, interaction, and environmental change, we bring these capabilities into a common learning framework. Starting from a gen",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "meta": "👍 169",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
-      "url": "https://huggingface.co/papers/2609.15973",
-      "excerpt": "Foundation models have progressed from learning and reasoning over existing knowledge, to increasingly learning through action, tool use, and outcome feedback. We argue that the next frontier is a further transition: from solving and acting within problems specified by humans to participating in the",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "meta": "👍 24",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
       "sourceId": "tactile-news-en",
       "title": "How Investors May Respond To Synaptics (SYNA) Tactile Sensing Integration With NVIDIA Isaac Sim - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTThTdTA2d1AtSWJrRVNPdXRRQ0FXRVpoMVBZbHVGblVQZUNqcFczWFM1LWxhbjZSSmpNUUcwY1MwWFEtZWIzU3puTl9NU3huclhHMlM1LWZGbDlIcjB5NkZkX2RTRjgzUzhQaEZGWkNZdWJhM3VwVF9WOXNYWDVyb0hNUDdGM01IYTlmbThJUXFTNGdHTm1URWRpX2dOREJBZXhz?oc=5",
@@ -338,28 +291,10 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "2030年国内人形机器人电子皮肤需求将达152.5万平方米、对应市场规模约274亿元 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzF6WWpiX0xKSndtRjNFd21aaWFRY0hEeXIwNmdiekhNV05ORFp2TG5FcGFVdnY0bDJBTlE3d1hnZVRtYlprVzFPc0NYY2tsc2JtRk5ab0xzclZXOUpMMWVSQTlSWGtJaEpHUHg2cHdLX0VGenBJaGFKV2VmY2gzMzNLY2JyMFR5SXAwTQ?oc=5",
-      "excerpt": "2030年国内人形机器人电子皮肤需求将达152.5万平方米、对应市场规模约274亿元 Sohu",
-      "publishedAt": "2026-09-14T00:10:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "电子皮肤市场迎来高速增长预期，人形机器人订单向感知层延伸｜机器人早参 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm9lMDQxSlV2amRVYVIxUHNVU2NUZXppR2dkbmVfVE5tb1BfTXlmQXlod3pyLVVIb0hIWW13Y3Rhd0FqcmNJc29pYllDSFdfbTlieU9LZ1RnWEk5aURzZUF6ck51TEszMVB4cVJlUjN0eVZkbEtJUFZ1UE1UTmkzUnhjRjQ?oc=5",
       "excerpt": "电子皮肤市场迎来高速增长预期，人形机器人订单向感知层延伸｜机器人早参 新浪财经",
       "publishedAt": "2026-09-14T01:44:02.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "热点精选：算力+AI PC+AI安全+电子皮肤 - t.cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yeEZIUXN6b0F5Y0xQWTNYT2E0UUNCeXp5ajdPazVxTURQM3YxQUwtejhQNUE2OVJlLXFxT0lZeWN5WHk5aWZuMjVFeXFUeXVoV0NPU3ZiRXJxYzdjOFFhWHl1RDE5QXBhMVBDYzFiaXFWdw?oc=5",
-      "excerpt": "热点精选：算力+AI PC+AI安全+电子皮肤 t.cj.sina.cn",
-      "publishedAt": "2026-09-14T00:16:07.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -434,26 +369,6 @@
       "publishedAt": "2026-09-16T16:51:02.000Z",
       "category": "finance",
       "source": "IEEE Spectrum｜Robotics"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness",
-      "url": "https://huggingface.co/papers/2609.15195",
-      "excerpt": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generalization challenges, while training-free methods exploit multimodal large language models (MLLMs) but of",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "meta": "👍 15",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Disentangling Representation Evolution in Transformers through Directional Decomposition",
-      "url": "https://huggingface.co/papers/2609.15975",
-      "excerpt": "Transformer representations evolve through learned additive transformations that either preserve their current direction or redirect it. We study this evolution as a functional geometry, decomposing learned updates into parallel and perpendicular components. Across pretrained models, we find substan",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "meta": "👍 4",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
     },
     {
       "sourceId": "huggingface-papers",
@@ -660,15 +575,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "人形机器人电子皮肤需求放量 2030年市场规模约274亿元 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fUlFFYTBVcWgyRmg0WXZQcnpPaW1MOTNvc2paX0RlWWNBcnN3a3lQZl8tV2pUZENtNGJPN3VXTXItX0RuNklVWUs3blR1bTdCaW1PUmh0NXFTVXVHYkRuYXZR?oc=5",
-      "excerpt": "人形机器人电子皮肤需求放量 2030年市场规模约274亿元 观点网",
-      "publishedAt": "2026-09-14T00:46:38.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "视频|电子皮肤、智能仓库……2026“活力锡山·向新而行”主题采访活动启动，记者探访锡山产业向新力 - 紫牛新闻",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nZUxpak00eVpHUFN1MmI1WG9pUUxNZ0oxMmp3T1A1cDdydEdESThVWXF5NGVaVTF1R05SaXZHRzdrRWN0S0dXcERsWHV0LVFqUHRReWNKVFhtdG1OeVh5TUxDdGlTd1gxTnVSSEpfMA?oc=5",
       "excerpt": "视频|电子皮肤、智能仓库……2026“活力锡山·向新而行”主题采访活动启动，记者探访锡山产业向新力 紫牛新闻",
@@ -863,15 +769,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KN1htSW1DWVFTUDZJclpYYWNuczFYalhzeTY0TXpkc21OR3NUWHVnem9LNGs2Zm9LLTZWMFJ3a21VdURORUFaZjRkWXFodw?oc=5",
       "excerpt": "服务超300家企业，触觉智能公司「千觉」连续完成两轮数亿元融资 36Kr",
       "publishedAt": "2026-09-18T13:06:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "2030年国内人形机器人电子皮肤需求将达152.5万平方米、对应市场规模约274亿元 - caiwennews.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TcHdDbVdOQ0NjZU11cl92U05ncFFVV1QzNkdVemlZRzd0b0RDQ2V1aGpjSm8ybTBfV3pFWnFkb2piM3JlWTRkMU9lMUpiVjhySVZfcHNYTE1LWW1m?oc=5",
-      "excerpt": "2030年国内人形机器人电子皮肤需求将达152.5万平方米、对应市场规模约274亿元 caiwennews.com",
-      "publishedAt": "2026-09-14T00:01:23.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -1322,6 +1219,69 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2STlUY2NyYjRQczFoYVFZZkpMemxIdW56NHFyOUlVZXZBOHlMcm00VWxlNVVoSHg0cWJsSUNtZVpkX09CYWZ4Qkt1YmxrYVk?oc=5",
       "excerpt": "特马得出是雪人猜一生肖_游戏资讯_黄仁勋之女黄敏珊来华：现身北京2026世界机器人大会 体坛加",
       "publishedAt": "2026-09-17T16:25:56.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "猿声科技与拓普集团战略合作，共筑具身智能“感知-执行”链路 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk5Ba0lqWFU5Nm90Z0RmNnl3a2FEOF9FbUZpMUt0bVBEa01HR01Zbkk0dHVHcU1LNWR5aU11T2JqY0ppYzY4WWRMZnp6bGZ5MzNGZEZUQVg2Q0x5ZmRTTXNwWWwxUDlIOFNIV0NGaUtGVzctbktHbUNrc0xKWTlCRU45RkViYTdXdzhEaw?oc=5",
+      "excerpt": "猿声科技与拓普集团战略合作，共筑具身智能“感知-执行”链路 Sohu",
+      "publishedAt": "2026-09-16T13:35:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "【投融资动态】千觉机器人战略融资，融资额数亿人民币，投资方为蓝驰创投、中金资本等 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYl9XazJNcXF0RnFnQVA2U0FyY0NteUJtbEk0TXhfcDZPVGRQSGJHWnExbnlVdGZyS2FabXBZWGdqb05qUGF0TmdSTmdBLUphcHFra1dreDdHZmZfSFJJX1k4bmV6MkFsdjBQczRvUUVrTE01S3pERVNxTWJPVWJfbEZDOXRZOHI3VF9IZw?oc=5",
+      "excerpt": "【投融资动态】千觉机器人战略融资，融资额数亿人民币，投资方为蓝驰创投、中金资本等 Sohu",
+      "publishedAt": "2026-09-20T11:32:03.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "Seeds | 理想、智元押注的触觉公司，又融了数亿元 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vS0ZuZkd1OEZZYXZaVlBQVFBub0NGTWo4NW1zZDBMbnM5bWVFTHNfZFdNaVdfcllHWVNiUlczUnhYdXFrYXZDQWdCRjJCQlUxeVlqbmNheWpacDA?oc=5",
+      "excerpt": "Seeds | 理想、智元押注的触觉公司，又融了数亿元 汽车之家",
+      "publishedAt": "2026-09-20T04:25:33.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "arxiv-tactile",
+      "title": "ZeroTouch: Tactile-Supervised Visual Contact Estimation for Contact-Rich Manipulation",
+      "url": "https://arxiv.org/abs/2609.21726v1",
+      "excerpt": "",
+      "publishedAt": "2026-09-18T13:03:10.000Z",
+      "category": "tech",
+      "source": "arXiv｜触觉研究"
+    },
+    {
+      "sourceId": "arxiv-tactile",
+      "title": "ME-Dex 1.0: Bringing Heterogeneous Tactile Sensing into World Action Modeling",
+      "url": "https://arxiv.org/abs/2609.21449v1",
+      "excerpt": "",
+      "publishedAt": "2026-09-18T08:00:06.000Z",
+      "category": "tech",
+      "source": "arXiv｜触觉研究"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "中国机器人闯出“智造出海”新路径 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xSlprMVRXT2RtQUFYbHRrWWFReHBSTGdWS3R2cHhrUzVaSE94VnBsYUZDTVNabTZBc2pnUGJSdG5RcmVkQl92OEVBRWEzLXRqcTRFRE5JVk1Qa05vbjBzeVk0QjUxTThuMFJhQS1SRkRiQQ?oc=5",
+      "excerpt": "中国机器人闯出“智造出海”新路径 京报网",
+      "publishedAt": "2026-09-17T04:58:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "网络平台娱乐把机器人踹瘫痪了上热搜 本人发文回应 - 体坛加",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0NzN1WTg3SW9vTHNkZ0E2NjlzR0RyRG1zUUlCZmI0R2tXVi0wQ1pDYmhxdmJBNGhTLTNYVkF4ZW43a0xMRElUZENHMDlVR00wYlVyOEt3?oc=5",
+      "excerpt": "网络平台娱乐把机器人踹瘫痪了上热搜 本人发文回应 体坛加",
+      "publishedAt": "2026-09-16T21:35:03.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
     }

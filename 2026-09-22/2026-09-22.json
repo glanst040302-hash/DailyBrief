@@ -1,0 +1,39 @@
+{
+  "hero_headline": "电子皮肤商业化提速，物理AI安全部署成焦点",
+  "daily_overview": "触觉产业链方面，鹿山新材推进电子皮肤商业化，加速柔性传感落地。机器人与具身智能领域，IAC完成公路赛道超车，物理AI规模化部署对安全层级提出新要求。整体看，感知硬件与自主系统正从研发走向真实场景验证，产业化节奏加快。",
+  "tech_briefs": [
+    {
+      "title": "鹿山新材推进电子皮肤商业化",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wZ21CSDh5Z1pFTF9ocG1JNXhkSEkxSWxOMDk1bTJ2X1A0WW9nZ3ZJd0NMY2g2ZFk5TkhoeDQ4cDJoMkd4WkJ0MGgwaDlxZHJ1TTB5QU1rdXBDc3g0cWhOUU9vVQ?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "鹿山新材聚焦电子皮肤赛道，加速商业化进程。电子皮肤是触觉传感的重要技术方向，商业化推进有助产业链成熟。与触觉主线直接相关。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "IAC完成拉古纳塞卡自动驾驶竞速赛",
+      "url": "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca/",
+      "source": "The Robot Report",
+      "summary": "IAC在拉古纳塞卡完成自动驾驶竞速赛。首次在公路赛道实现自动驾驶超车。展示感知—决策—行动闭环在高速场景的可靠性。",
+      "importance": 6
+    },
+    {
+      "title": "物理AI规模化部署需全层级安全",
+      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "source": "NVIDIA Robotics",
+      "summary": "英伟达发文阐述物理AI规模化部署的安全需求。ABI Research 预测 2035 年 L3-5 自动驾驶车达 4900 万辆。安全层级设计将影响机器人与具身智能落地节奏。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "电子皮肤商业化是触觉传感器走向量产的关键一步，而物理AI的安全部署框架将决定机器人规模化应用的速度。",
+  "keywords": [
+    "电子皮肤",
+    "触觉传感器",
+    "物理AI",
+    "自动驾驶",
+    "安全部署",
+    "柔性传感"
+  ]
+}

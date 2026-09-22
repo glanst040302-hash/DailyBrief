@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-22",
+  "articles": [
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "鹿山新材：聚焦电子皮肤赛道 加速推进商业化进程 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wZ21CSDh5Z1pFTF9ocG1JNXhkSEkxSWxOMDk1bTJ2X1A0WW9nZ3ZJd0NMY2g2ZFk5TkhoeDQ4cDJoMkd4WkJ0MGgwaDlxZHJ1TTB5QU1rdXBDc3g0cWhOUU9vVQ?oc=5",
+      "excerpt": "鹿山新材：聚焦电子皮肤赛道 加速推进商业化进程 东方财富",
+      "publishedAt": "2026-09-21T22:52:24.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "极佳视界首席科学家朱政：建设“机器人造机器人”产线 - 中证网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96TVJCclFEYklERDNGTkUtYVlrUGFPNm1kSXN0NGxvZnEwMFhoTmxNTUY4Y25jUkVMbC1pdlFTMTZCZzFYejNCR2RJY1hiVnBXckk5ZzAzQlR3enRLN1o0a2Y5VmJNUFFadUh5WFYxWmt1WG1Pc1YtSQ?oc=5",
+      "excerpt": "极佳视界首席科学家朱政：建设“机器人造机器人”产线 中证网",
+      "publishedAt": "2026-09-21T23:33:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "IAC completes autonomous racing event at Laguna Seca",
+      "url": "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca/",
+      "excerpt": "At Laguna Seca, Unimore Racing won the Indy Autonomous Challenge, marking the IAC's first autonomous car overtakes on a road course. The post IAC completes autonomous racing event at Laguna Seca appeared first on The Robot Report.",
+      "publishedAt": "2026-09-21T18:02:09.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "nvidia-robotics",
+      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "excerpt": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter r",
+      "publishedAt": "2026-09-21T16:00:46.000Z",
+      "category": "finance",
+      "source": "NVIDIA Robotics"
+    }
+  ]
+}

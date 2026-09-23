@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-23",
+  "articles": [
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Embodied AI Startup Paxini Kicks Off Mainland IPO Bid Amid Sector Volatility - Caixin Global",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXNPQlhxZ3I0dzE4c3VFRHZjMTB3a3ppMDdHcGR3RHQtY1VjVUt2eEdlSm9uNWNGTHcydEIwbEJxdHdKTDE0U0tJRlhnT2p2REE5blJSWVhKRnlMQzdvTERWaVN1VE9pZ2Znck00QzdJYTlURy1SLVJiLVFuZFAxVUxyV3AzaEVRMi00WkVoYU93cmdqNjlzRVZGVXB5Yko1UWRWUWxFaWVCSEdkTHl6MFM0QUVsVzRIMWJ3eE4xM0U1cVpqRlRROGdRNA?oc=5",
+      "excerpt": "Embodied AI Startup Paxini Kicks Off Mainland IPO Bid Amid Sector Volatility Caixin Global",
+      "publishedAt": "2026-09-22T19:41:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "千觉机器人与智域基石达成战略合作 - gasgoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnZTFFZ2o4UFV4RGozeURYU1ktWm13VzJ5RmdrUjE2V0NydWhNQjZiVXQzNG4wUVIzekk0M3JPb09hS0Q1N0pDMmVnRk5LbGgw?oc=5",
+      "excerpt": "千觉机器人与智域基石达成战略合作 gasgoo.com",
+      "publishedAt": "2026-09-23T00:44:34.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
+      "url": "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/",
+      "excerpt": "Intel's Nagesh Puppala will discuss why the next phase of robotics innovation depends on more than bigger models or better simulations. The post Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-09-22T21:31:19.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Why outdoor robots fail (and how to build systems that survive)",
+      "url": "https://www.therobotreport.com/why-outdoor-robots-fail-how-to-build-systems-that-survive/",
+      "excerpt": "Learn practical strategies for building reliable outdoor robots from WiBotic, Burro, and Nextpower at RoboBusiness in Silicon Valley. The post Why outdoor robots fail (and how to build systems that survive) appeared first on The Robot Report.",
+      "publishedAt": "2026-09-22T18:00:37.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA",
+      "url": "https://www.therobotreport.com/isaac-ros-5-0-brings-ai-agents-robotics-development-says-nvidia/",
+      "excerpt": "The release brings new agentic workflows and platform support to NVIDIA Isaac ROS to help developers deploy robotics applications faster. The post Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA appeared first on The Robot Report.",
+      "publishedAt": "2026-09-22T17:51:19.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "excerpt": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "publishedAt": "2026-09-22T18:00:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "hero_headline": "帕西尼冲刺内地IPO，触觉传感器资本化提速",
+  "daily_overview": "触觉传感器赛道现资本化信号，帕西尼启动内地IPO申报，千觉机器人与智域基石合作补工程落地；英伟达Isaac ROS 5.0引入智能体工作流，感知—决策—行动闭环的软件底座继续收敛；OpenAI发布GPT-6双模型，前沿智能分层供给为具身决策添新选项。",
+  "tech_briefs": [
+    {
+      "title": "帕西尼启动内地IPO，触觉传感器迎资本窗口",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXNPQlhxZ3I0dzE4c3VFRHZjMTB3a3ppMDdHcGR3RHQtY1VjVUt2eEdlSm9uNWNGTHcydEIwbEJxdHdKTDE0U0tJRlhnT2p2REE5blJSWVhKRnlMQzdvTERWaVN1VE9pZ2Znck00QzdJYTlURy1SLVJiLVFuZFAxVUxyV3AzaEVRMi00WkVoYU93cmdqNjlzRVZGVXB5Yko1UWRWUWxFaWVCSEdkTHl6MFM0QUVsVzRIMWJ3eE4xM0U1cVpqRlRROGdRNA?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "帕西尼感知科技启动内地IPO申报，时点处于行业波动期。\n公司以触觉传感器与灵巧手为核心，上市后将成为该赛道稀缺标的。\n一级市场通道打开，有助触觉产业链扩产与成本下行。",
+      "importance": 8
+    },
+    {
+      "title": "千觉机器人与智域基石达成战略合作",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnZTFFZ2o4UFV4RGozeURYU1ktWm13VzJ5RmdrUjE2V0NydWhNQjZiVXQzNG4wUVIzekk0M3JPb09hS0Q1N0pDMmVnRk5LbGgw?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "千觉机器人与智域基石签署战略合作。\n双方拟围绕触觉感知与具身智能场景做协同。\n视触觉落地仍缺可验证的工程案例与批量数据。",
+      "importance": 5
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "英伟达发布Isaac ROS 5.0，引入智能体工作流",
+      "url": "https://www.therobotreport.com/isaac-ros-5-0-brings-ai-agents-robotics-development-says-nvidia/",
+      "source": "The Robot Report",
+      "summary": "英伟达发布Isaac ROS 5.0，新增智能体工作流与平台支持。\n开发者可更快从仿真走向实机部署机器人应用。\n感知—决策—行动闭环的软件底座进一步标准化。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "OpenAI发布GPT-6 Sol与Luna双模型",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI News",
+      "summary": "OpenAI推出GPT-6 Sol与Luna，在能力与成本间给出不同组合。\n面向日常工作场景，前沿智能按层级供给。\n模型能力边界外扩，为具身上层决策提供新选项。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "触觉公司的资本化与机器人软件底座的标准化同日推进，硬件数据积累与工程验证仍是估值和落地的共同瓶颈。",
+  "keywords": [
+    "触觉传感器",
+    "帕西尼",
+    "Isaac ROS 5.0",
+    "具身智能",
+    "GPT-6",
+    "灵巧手",
+    "IPO"
+  ]
+}

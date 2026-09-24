@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-24",
+  "articles": [
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "他山科技CEO回应公司股改：有上市计划 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KdWs4X0FFS1VEQjVSd1R1UHkyZVBjV3FQSnJYUzFZMkpQemNiQ0hjbXdVOXdxaEJlRTdsdUlzRUVCbjJ6NWMxYTZSQQ?oc=5",
+      "excerpt": "他山科技CEO回应公司股改：有上市计划 新浪财经",
+      "publishedAt": "2026-09-24T03:34:03.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
+      "url": "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier/",
+      "excerpt": "While this is the first intentional step by Arduino into robotics, the company has over 20 years of experience working with robotics developers. The post With the new VENTUNO Q board, Arduino hopes to make robotics development easier appeared first on The Robot Report.",
+      "publishedAt": "2026-09-23T18:04:35.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "ifr-industry",
+      "title": "Service Robots’ Impact Human Life - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VRkRoZk83MmZmQTJIcFBzT1kzamdzVE1FbmdCQVU2ajZ3Y3VjX3p3b1NiQjNnM0hZSTRucGNRMkNqOEQxTm14LU1FWnJWUHYwczRqS3ZRQ280N2lpbmo5UW5NdDVDdHctNE5BLTNwQmpGM3pJbEpRMkRnVm4?oc=5",
+      "excerpt": "Service Robots’ Impact Human Life IFR International Federation of Robotics",
+      "publishedAt": "2026-09-24T06:05:25.000Z",
+      "category": "politics",
+      "source": "IFR｜机器人产业"
+    }
+  ]
+}

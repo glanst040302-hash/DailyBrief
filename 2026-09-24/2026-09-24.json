@@ -1,0 +1,42 @@
+{
+  "hero_headline": "他山科技启动股改，触觉传感赛道加速资本化",
+  "daily_overview": "今日智能化进程聚焦两条主线：触觉传感企业他山科技完成股改并释放上市信号，赛道资本化提速；Arduino 推出面向机器人的 VENTUNO Q 开发板，意在降低具身智能硬件与原型开发门槛。IFR 则从服务机器人视角提示机器人正加速进入人类日常场景，感知可靠性与安全边界仍是落地关键。",
+  "tech_briefs": [
+    {
+      "title": "他山科技确认股改，CEO 称有上市计划",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KdWs4X0FFS1VEQjVSd1R1UHkyZVBjV3FQSnJYUzFZMkpQemNiQ0hjbXdVOXdxaEJlRTdsdUlzRUVCbjJ6NWMxYTZSQQ?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "他山科技 CEO 确认公司已完成股改，并明确有上市计划\n触觉传感企业进入证券化阶段，资本路径进一步打开\n触觉器件是电子皮肤与灵巧手核心环节，融资能力将影响产能与研发节奏",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "Arduino 发布 VENTUNO Q 开发板，降低机器人开发门槛",
+      "url": "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier/",
+      "source": "The Robot Report",
+      "summary": "Arduino 推出 VENTUNO Q 开发板，首次系统性切入机器人硬件平台\n该板面向机器人开发者，意在简化原型搭建与工程化流程\n感知—决策—行动闭环的开发工具链扩容，利于中小团队加快迭代",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "IFR 发布服务机器人对人类生活影响分析",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VRkRoZk83MmZmQTJIcFBzT1kzamdzVE1FbmdCQVU2ajZ3Y3VjX3p3b1NiQjNnM0hZSTRucGNRMkNqOEQxTm14LU1FWnJWUHYwczRqS3ZRQ280N2lpbmo5UW5NdDVDdHctNE5BLTNwQmpGM3pJbEpRMkRnVm4?oc=5",
+      "source": "IFR｜机器人产业",
+      "summary": "国际机器人联合会就服务机器人对人类生活的影响发布分析\n覆盖家庭、医疗、物流等场景，强调渗透率持续上升\n机器人走出工业场景后，感知与人机安全问题更为突出",
+      "importance": 5
+    }
+  ],
+  "editor_note": "触觉传感仍是具身智能最稀缺的环节，资本化能否转化为稳定量产与标定能力，值得持续观察。",
+  "keywords": [
+    "触觉传感器",
+    "他山科技",
+    "上市计划",
+    "Arduino",
+    "机器人开发板",
+    "服务机器人",
+    "具身智能",
+    "IFR"
+  ]
+}

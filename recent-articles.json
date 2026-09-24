@@ -1,51 +1,6 @@
 {
-  "collectedAt": "2026-09-24T06:15:36.576Z",
+  "collectedAt": "2026-09-24T23:24:14.192Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-en",
-      "title": "'Robot kindergarten' opens in Beijing - People's Daily Online",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yUmhzV1JtTURMbW5KRkRHQllBRWhsbkVPT01iS2diYl80aEhiVlFiYWlOWWt4cHJpcU5jcUI2V3B1X2ROS0NUWlYzTF9zVlBRYWo0RmQ0TzcwV3lwWk1SbVpBZw?oc=5",
-      "excerpt": "'Robot kindergarten' opens in Beijing People's Daily Online",
-      "publishedAt": "2026-09-17T06:54:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "沙利文报告：坤维科技领跑中国六维力传感器赛道 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IUDBzT1dXeHRLU0hBdkJhVHBiTG1PQ1RCbkYwWVdCZUZnb2FTSzJpODgzdG9MV3l6RUFHay1YZEtwZko5b1BnR1JGQ3ppaUpuczlmTzJkQlR2Z2Qtb2doZ180SDBxQkw4U1djT0c5QjRndE5PMjJnM3NGZFFxMlE?oc=5",
-      "excerpt": "沙利文报告：坤维科技领跑中国六维力传感器赛道 新浪财经",
-      "publishedAt": "2026-09-17T10:26:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Robotics investments reach $4.9B in August 2026",
-      "url": "https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/",
-      "excerpt": "The August 2026 Robotics Investments Report includes a table with all 162 investments rounds, complete with breakdowns by technology, country, funding stage, and more. The post Robotics investments reach $4.9B in August 2026 appeared first on The Robot Report.",
-      "publishedAt": "2026-09-17T16:18:55.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Arm Total Design for Physical AI brings more than 80 developers together",
-      "url": "https://www.therobotreport.com/arm-total-design-for-physical-ai-brings-more-than-80-developers-together/",
-      "excerpt": "With its new program and its Robotics Capability Framework, Arm aims to bring more clarity and unity to the robotics industry. The post Arm Total Design for Physical AI brings more than 80 developers together appeared first on The Robot Report.",
-      "publishedAt": "2026-09-17T12:30:13.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "ifr-industry",
-      "title": "Do Robots Bring Production Back Home? - ifr.org",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtbmxNSkZzN21CVHpXVWlrcnNZQUtpblhOY1VGN2FXMi1XRFNEblN4UG56ZG1QVE0yakUyMk1PSXZFZ3pTREhWRTNpdXM0S2ExMTVxM3h2UlN1SVVZU3B4Ml9HYjBEYlhJ?oc=5",
-      "excerpt": "Do Robots Bring Production Back Home? ifr.org",
-      "publishedAt": "2026-09-17T15:50:31.000Z",
-      "category": "politics",
-      "source": "IFR｜机器人产业"
-    },
     {
       "sourceId": "tactile-news-en",
       "title": "Tiny tactile sensor could help distinguish tissues during minimally invasive surgery - Medical Xpress",
@@ -90,15 +45,6 @@
       "publishedAt": "2026-09-18T06:18:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "TouchSight: Bare-Handed Tactile Prediction from Egocentric Video via Generative Visual Augmentation",
-      "url": "https://arxiv.org/abs/2609.20414v1",
-      "excerpt": "",
-      "publishedAt": "2026-09-17T13:58:43.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
     },
     {
       "sourceId": "robot-report",
@@ -174,24 +120,6 @@
     },
     {
       "sourceId": "tactile-news-en",
-      "title": "'Robot kindergarten' opens in Beijing - People's Daily Online",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qODRXWERfN3hVZ21iZVJSazVlaEhOV29DMFhpWGVQMlZSeS1xaXFYSEdqeHpJRS1iMDlEdkNRWkZVUkdoVk9SQU5kdDNoQWpXWlFMaXhGVW9KME1QNWp6WUVyTGo?oc=5",
-      "excerpt": "'Robot kindergarten' opens in Beijing People's Daily Online",
-      "publishedAt": "2026-09-17T06:54:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "AI data centres expected to drive 20% of Infineon’s revenue - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTFdBYnNYWFEtOEZrMHg0TktKWEZ1T0llN05hUExLMTNyQ3dRWHUwdjNmcmJTcmw3TmZtUUwtMjRFbDBPWnVpUXI3YnRYV0Q2LVpOU1RRWFFxUU5KOWtWY0VnUXV0MWJfM1FFN2ExVE9oeWJQaHZFZ3hHbV9OY0lvcWpqN2tRQVZjcmhiYXh6SVhGTW1RS29TWkVPOEZQaUZYV3BpcE5iRzFpRjNEZFI4Zm9oQzdsdw?oc=5",
-      "excerpt": "AI data centres expected to drive 20% of Infineon’s revenue TradingView",
-      "publishedAt": "2026-09-17T13:51:06.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
       "title": "\"Whiskers\" Allow Drones to Navigate at Night - Tomorrow's World Today",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbEVjc0E4RlZ5dkxMa19QSDg5WmdmSGdqd2xGTGJ3bVZKdnk2dldJVElqeHJ5S1l4Wl9KTndJdFRHQkROUVMzX1ZnSm5haHR3a3hhZnl6TU96Q1lEMTFQVVQyTTFybnJWb0hIaUNRbFhmanppbkhhLXR4QnRTRlZyb2ZQWmhPeU8ybU05a18xMXdCQQ?oc=5",
       "excerpt": "\"Whiskers\" Allow Drones to Navigate at Night Tomorrow's World Today",
@@ -219,15 +147,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "沙利文报告：坤维科技领跑中国六维力传感器赛道 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNklNN1hRaEstZ05BcjJCV2RaOFdZRG9ZN1d6ejIzMlM5ZnZIa200SmZEcE9XRThDSVAycGJzNzc3a3AzLXc1ZVFPcWZnVllqSVJaZkQyckdlZV8wVFRyWFJBSDZTOFFLWVdJd19QWDA2TmgtZHN5Qmwxdmx2N3Bva1JqQkotakEwc012T0N3?oc=5",
-      "excerpt": "沙利文报告：坤维科技领跑中国六维力传感器赛道 新浪财经",
-      "publishedAt": "2026-09-17T10:26:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "逛展、集章、看路演！一场可逛可玩可对接的嘉年华来啦，报名戳→ - 京报网",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBReHJjSVdReXYxLVVsNW1VNzZYUk9Yd29FNDdqZG84MjRiR2F4bG9lYkxBbUk4WFF4SVhaMmhYb0F2NTFieDVNZ3RXUzVFUXUtc21OYU9MSi1XekwzNVlqTGtOODZfZG1Va1lMcGNyNnpFQQ?oc=5",
       "excerpt": "逛展、集章、看路演！一场可逛可玩可对接的嘉年华来啦，报名戳→ 京报网",
@@ -246,28 +165,10 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "单月两融、累计超40亿！当具身智能驶向物理AI，资本为何加速向帕西尼收敛？ - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzYWJ6bVJ0YWdPd1VoLTZyR1R6UElpLXowVDhpZjloTzhpUjhMWmN0N2dyb2hGcF9RQkd6alRObjRlZG9JaDVTVVZwTDdDZEg1ajE0dVRnbWJEVWVUNzB1SHJqSkswVEVPMGpGbkdB?oc=5",
-      "excerpt": "单月两融、累计超40亿！当具身智能驶向物理AI，资本为何加速向帕西尼收敛？ 中华网",
-      "publishedAt": "2026-09-17T13:37:58.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "千觉再获数亿元融资！知名机构蓝驰创投、中金资本、靖亚资本加注 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGQwSXIyUzdNekhaRkNZRHk1RUM2M21KemNKWk9hSHkxbXNXYTlWZzk5QVdDb0duWUpsc3hUX0JMMmhzSjlsTGYwc2FONDlyVEY1eTVUek14MVFvNWlsdjhHdWFlUXlUOWxabldlT3BVT1lmbzVUeENhMDJHS0h0V3U5aDdldk5k?oc=5",
       "excerpt": "千觉再获数亿元融资！知名机构蓝驰创投、中金资本、靖亚资本加注 Sohu",
       "publishedAt": "2026-09-19T20:32:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "单月两轮融资落地，帕西尼B++轮官宣，国家队与产业资本同场加注 - t.cj.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GMmdFUlRiU1FNaE5Ca1BBQmZoYmFnLVUzcmVuc3hpMnlkZDRDN3ljdkJxM1hIV2N6WG9hdUp4U251UHBLLTlMd3ZuazBFM2dMUE1CSXF1anlIMkJkY2RGREd1NHpNQldpSGtkaGw2V1k?oc=5",
-      "excerpt": "单月两轮融资落地，帕西尼B++轮官宣，国家队与产业资本同场加注 t.cj.sina.cn",
-      "publishedAt": "2026-09-17T12:56:57.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -345,15 +246,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "沙利文报告：坤维科技领跑中国六维力传感器赛道-AI云资讯 - icloudnews.net",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmVm9mQXBFcHRxZnAzQXhXNVNjSmZDdS1WZWl0TFg2TlhndkUwU1pnMXRLZW1lVXMtTTRnTU9zT3ROMXFKQWRNb3BpYW5sdnZjbmc?oc=5",
-      "excerpt": "沙利文报告：坤维科技领跑中国六维力传感器赛道-AI云资讯 icloudnews.net",
-      "publishedAt": "2026-09-17T10:26:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "蓝点触控张鹏玲：力传感器正走向具身“标配”，目前产能接近满产 - 21财经",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGI5bjNfM2MwWjJmamVJWEIxckVLNVNoLUw0RU05RnBWdVRxYTVhVTdjTDBRUWRZX3VmOFVEd1lpZ0NXTXNCTXlLd2dHVmVJbWZRX3JtdGpfdURUaFlIVG5VZ1dJMTlHMHdQTVJzVC04UFdZdnMwMTVrbHlTZ3dIWGw0LUxUa3VCczhfU1NEZw?oc=5",
       "excerpt": "蓝点触控张鹏玲：力传感器正走向具身“标配”，目前产能接近满产 21财经",
@@ -421,15 +313,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10OC1Jcko5ZWhJOHdJbWR4LXFMVzBPYWpzWXVUUmkxYjU1cTBkWlhIcEhIY2tVbUliQTB3bFF6RHc1em13eFJGYmg4aDl3N25XbGhta1pNTk1kLWg1QTNYY25WLTlYRXhrallzNkljUkNac3N0Y1BBcnlUcUVOUQ?oc=5",
       "excerpt": "参考消息特稿|中国机器人闯出“智造出海”新路径 手机新浪网",
       "publishedAt": "2026-09-18T14:36:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "特马得出是雪人猜一生肖_游戏资讯_黄仁勋之女黄敏珊来华：现身北京2026世界机器人大会 - 体坛加",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2STlUY2NyYjRQczFoYVFZZkpMemxIdW56NHFyOUlVZXZBOHlMcm00VWxlNVVoSHg0cWJsSUNtZVpkX09CYWZ4Qkt1YmxrYVk?oc=5",
-      "excerpt": "特马得出是雪人猜一生肖_游戏资讯_黄仁勋之女黄敏珊来华：现身北京2026世界机器人大会 体坛加",
-      "publishedAt": "2026-09-17T16:25:56.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
     },
@@ -1206,15 +1089,6 @@
     },
     {
       "sourceId": "wrc-news",
-      "title": "VWIN德赢登录不上_游戏资讯_黄仁勋之女黄敏珊来华：现身北京2026世界机器人大会 - 体坛",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CbEplaWc3MUlBWjhRVU53eV91VFhlWGFfRkxDWk9xVHZfUEtpdU45R19kckxvaFhjVllCV2ZoVWxMSHVaWkNaTjRGOA?oc=5",
-      "excerpt": "VWIN德赢登录不上_游戏资讯_黄仁勋之女黄敏珊来华：现身北京2026世界机器人大会 体坛",
-      "publishedAt": "2026-09-17T08:29:11.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
       "title": "新浪网· - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zS2xqZURKYUFUaG5BZERHdkUwdlRwMW1BbVE2czlTOUIzeC1IM0FVbkI3dHJNRUlXMVlFQ1lPXzA4dVJxd2lQR0hQX21wbEUtdzVPZUdFM0YtbnViWHplbV9ndw?oc=5",
       "excerpt": "新浪网· 手机新浪网",
@@ -1315,6 +1189,251 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VRkRoZk83MmZmQTJIcFBzT1kzamdzVE1FbmdCQVU2ajZ3Y3VjX3p3b1NiQjNnM0hZSTRucGNRMkNqOEQxTm14LU1FWnJWUHYwczRqS3ZRQ280N2lpbmo5UW5NdDVDdHctNE5BLTNwQmpGM3pJbEpRMkRnVm4?oc=5",
       "excerpt": "Service Robots’ Impact Human Life IFR International Federation of Robotics",
       "publishedAt": "2026-09-24T06:05:25.000Z",
+      "category": "politics",
+      "source": "IFR｜机器人产业"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "帕西尼启动A股IPO辅导 百亿估值触觉巨头迁京“赶考” - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU1VMQUl6TC1tM3ZGVkNPUm1ERzdqdWFiUGpxZHphSWJXN3lsQ1lOeWlTUHZPNzlQbllqT2ZfdVloVU1pX3hIcGZpWGMyWVI3ZVAtaWNqUWFLd2h3M3NLd0R2bkdmbXc0aW5ENWNpSWtQS2RLNXgzMkRNVWt4eTZLMnNoZDVtSlRmbVFrTkxsdw?oc=5",
+      "excerpt": "帕西尼启动A股IPO辅导 百亿估值触觉巨头迁京“赶考” 21财经",
+      "publishedAt": "2026-09-21T06:01:11.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "有企业人形机器人两年降价超七成，“硬件越来越不值钱”同时，具身智能“卖铲人”迎来规模化叙事 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPM3pWSDVGVEJSeFRKSWxENWN2blVNQm80YXYtMmljblFrX1VkbV95a0FBVzAwTHdfWHNIc294d1Q2S0VldFhuZWdkZ0ZOel9DYTlQRDdYbDZDZ3dkYjl6Q2ZBS3VSMWJwNkstOEpmRWg2d210VWhHVjRtazY5NjhXWnh0TzQyc19BMzdIaHplbTdsUUprSG8zci1OcWd0a0xGdXpMemM0MXdIQmJYcUI5a1o3NEpBUUpVeDBpRmRhMU5sWGJ6X1gzM0VoQVZsVHYwcTFwRzJCX0dmLVhGb0NFaGZTNzE3WHdsV2tLTFFsNjdZUGU3Z190QzlXbG1ZdDhraUZaNVUxcGg2SDZFTHp0TGdOT0VGczRuSVpiSHBWWTdVdnEyamxHNk9RSnhBWWtpeTFibVlXUmZ3eS01OHJzejZFVmtqYVR0OTZBUFJQY25TUWhFUEVXVTNQZlNHb2MxQUNwMUhqYW9zTkpBeTNkUjNLN0JzcHJYWWdvWlFTeGkwWDhfMUNqMDJlVVBNZTFmdHZ1UnEyUHY3RmJCVU5tMkduaU5qdl9kUkgtRXlUY19JaWRud3pYLTdlZFh4TWVDN2dLZGVPMXR3Ni16OEJFbzdHc3d5ZE5rYndSTWV0ZUI1UjVhQy1HbThtUGpPbGYwNDAzR19OTFpHRl9NM3hxVWw4TENlTXN4TlBDVS1SUmdrZmZuaExRWk5keG0yazB5Yllud3VfcDFKeTQ?oc=5",
+      "excerpt": "有企业人形机器人两年降价超七成，“硬件越来越不值钱”同时，具身智能“卖铲人”迎来规模化叙事 新浪财经",
+      "publishedAt": "2026-09-22T06:52:35.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "IPO | 百亿估值触觉感知独角兽帕西尼启动A股上市辅导 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ydzc2djhDdTA1SHlFYTBhaDlOMjlPUklLZ3lKSk5LdXAtMmdVbE5lVWswc2VQNlF0Z1hfbDNQZzlSdXhGbng3VXpVOC1HWGFwZmVfTmZiQ2Z4ZEdVQ0dsRG9rWHZ6bDFQS3Z4aXlqZw?oc=5",
+      "excerpt": "IPO | 百亿估值触觉感知独角兽帕西尼启动A股上市辅导 新浪财经",
+      "publishedAt": "2026-09-21T06:46:29.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "可逛可玩可对接！百家科技企业亮相海淀科技嘉年华 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lSm5nM3N4UFFTTEdOOE83djA0clBMaWZKTTJWeVE2UVFXdWljNjBQenhsTGZXVlVfREstMTJJQlVUeWtPaFJvYUJPaFRMLUV5dUljWjJkSTFxSFppQnc?oc=5",
+      "excerpt": "可逛可玩可对接！百家科技企业亮相海淀科技嘉年华 京报网",
+      "publishedAt": "2026-09-19T08:46:17.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "一具身智能独角兽，启动IPO！全球第一，国泰海通辅导 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMDRMWWZrbHNNblZ4X0pzb1BveUtMV1lFMUxGV1I2U1RsTkd5SDJKVFhlNHl0cGNTQTdvWUxqTndWZDN3SWxIZ2lfTVRkRXg2WDJhOFlIWXE0ZWRMLUcwVEY1dnhWNkV1TlBFMzdYUTF4TWgtTjZPQzk5T2FrUDREODNOUkIwSnc?oc=5",
+      "excerpt": "一具身智能独角兽，启动IPO！全球第一，国泰海通辅导 新浪财经",
+      "publishedAt": "2026-09-21T00:24:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "具身智能“卖铲人”开启规模化量产时代 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2xtaTVPMXBWTHZNMjZsdmdrVjdCVWktMWU2MmZsWDU3THk4VkIxZG9PMEc3Qlg0RHM1MThmWVBBZ09GelVlMEZIWUdVeko3by02S1IwMjNXU0VpdGRnTjNaNzRaZjV0WFI3MFZjalJhZHdQWVdHaXE3ZlBob2sxcFRfb0VFRUVL?oc=5",
+      "excerpt": "具身智能“卖铲人”开启规模化量产时代 搜狐网",
+      "publishedAt": "2026-09-23T13:57:49.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "单月再融超40亿断层领跑，三星入股帕西尼：具身感知赛道格局加速收敛 - 风闻",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40bE5uV0JMclhRNmNMSFpWZkJUdF9Xc081MU1hWlVKZnJmVmhWMWk0T01VNEdwN1REeWJwWFdnQV9LbERQeVZqRHlVckxCSFN5R0xCd1l2eTd1SWc3UDBET1NTTkg3YXV0OGVBNnh3?oc=5",
+      "excerpt": "单月再融超40亿断层领跑，三星入股帕西尼：具身感知赛道格局加速收敛 风闻",
+      "publishedAt": "2026-09-19T04:12:20.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "看得见还得摸得着！资本疯狂涌入，人形机器人即将迎来“触觉”革命 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03UGs3ajhwVURJOVVnUUNOcTNua19VVlFpcmt4UmlkWFh5bVZXb3NUZ29Kb0VnQWhRRDNXNnJRVGp2Y0szTWJrdkRSSFpsaXc1MC1n?oc=5",
+      "excerpt": "看得见还得摸得着！资本疯狂涌入，人形机器人即将迎来“触觉”革命 搜狐网",
+      "publishedAt": "2026-09-18T23:35:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "帕西尼触觉基座深层赋能，深圳大学 RoboLab 团队破解触觉跨操作者泛化难题 - 具身之家",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEM0NKVUxiUVNpd00tcGk4aUU4TEh2QUlmTVVMNTdoSXhVRE1wTkM3YzAyVTFQc0pVWnBTZDZybXJzQ3h1TUdvS1lXd2h6SzVPejBhUThBRQ?oc=5",
+      "excerpt": "帕西尼触觉基座深层赋能，深圳大学 RoboLab 团队破解触觉跨操作者泛化难题 具身之家",
+      "publishedAt": "2026-09-24T03:03:17.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "「柏锐智芯」完成数千万天使轮融资，加速 DVS 视触觉全栈技术商业化落地 - 具身之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYaG5HZmYydVExei1tbEhDWll6VEpaSHUwMkpqcnhpdVFXb2J1bkNBaHVXTEtFbEluS0J2YU15WVRtcDRfU2Y4a1Z3b2JEcWwtM3hGTGMwUDE?oc=5",
+      "excerpt": "「柏锐智芯」完成数千万天使轮融资，加速 DVS 视触觉全栈技术商业化落地 具身之家",
+      "publishedAt": "2026-09-22T12:58:31.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "中国开设“机器人幼儿园”，训练人工智能机器人学习和适应 - TNN Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zNnRkZ29XVVlOVS1mTU5jXzVUZGZRaTdlNENNam1JWlBlbnByU2ZsMVU3UE1kbXNZV2tWNWZrckUteUNOb3AzOTMtd19UTmtVdVlDX29B?oc=5",
+      "excerpt": "中国开设“机器人幼儿园”，训练人工智能机器人学习和适应 TNN Thailand",
+      "publishedAt": "2026-09-22T03:08:41.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "5 million robots are now at work in factories worldwide, reports the IFR",
+      "url": "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports/",
+      "excerpt": "China still leads the world in industrial robot installations, but the U.S. and Germany are also significant markets, found the IFR. The post 5 million robots are now at work in factories worldwide, reports the IFR appeared first on The Robot Report.",
+      "publishedAt": "2026-09-24T20:15:51.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Why you should look beyond the spec sheet when choosing motion architecture",
+      "url": "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture/",
+      "excerpt": "Choosing the right motion architecture is about understanding how the entire system will behave in use, explains Kollmorgen. The post Why you should look beyond the spec sheet when choosing motion architecture appeared first on The Robot Report.",
+      "publishedAt": "2026-09-24T16:39:14.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Epson introduces AX6 cobot with compact design, no-code programming",
+      "url": "https://www.therobotreport.com/epson-introduces-ax6-cobot-compact-design-no-code-programming/",
+      "excerpt": "Epson Robots has expanded its six-axis robot line with the AX6, a lightweight force- and power-limited arm. The post Epson introduces AX6 cobot with compact design, no-code programming appeared first on The Robot Report.",
+      "publishedAt": "2026-09-24T14:51:07.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "ANYbotics opens the door for inspections with ANYmal robots",
+      "url": "https://www.therobotreport.com/anybotics-opens-the-door-for-inspections-with-anymal-robots/",
+      "excerpt": "ANYbotics partnered with dormakaba and LEGIC Identsystems to enable the ANYmal quadruped to gain access like a badged employee. The post ANYbotics opens the door for inspections with ANYmal robots appeared first on The Robot Report.",
+      "publishedAt": "2026-09-24T13:27:58.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "世界机器人大会 欧洲机器人协会提出产业发展建议 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55cFNEcjVzSmZIQVNIY0VLNmVmbHVqaS1uRjFILWtTRlJaUG9qSUZXQ0h0MFhnQVhtWGw0Y3NLN2xkNlRpT3piclo4RFNtSmlmOFRKaVNYUUFvaklEZVpRdnBIM1F6anVuZlMyUDI2aERnSVJqUmQ3NG5JbG5tU3M?oc=5",
+      "excerpt": "世界机器人大会 欧洲机器人协会提出产业发展建议 新浪财经",
+      "publishedAt": "2026-09-24T09:06:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "41家企业69款产品亮相北京通州大运河 园林机器人接受40天实景检验 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3Q3JubVdqM3lBanlsQXViVXVELTlHVWhENDN3eVdFRTdiSzhaOThZbG1TSHdXWjV1UGhnOW1ySEVneTlQMEdQdmszdlBGX3AyaVpXaG0yWW9tTWtYYWFfeFpxUE1WaS1DQjB5LXJMZHM?oc=5",
+      "excerpt": "41家企业69款产品亮相北京通州大运河 园林机器人接受40天实景检验 中国科技网",
+      "publishedAt": "2026-09-24T12:37:31.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "世界机器人大会观察 从围栏机器到人形机器人：北美机器人演进背后元器件产业迎来多重变革 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Zzd4YUdMU2FGekVwZnZ1SFUyOUMwdERGTHl6cmt3bVpVMm1ZbWZrak9sNXN1SnlkZGFjbjdWbmtOWmtHVUJuSmFweGg0TWR3MllCTllMWnNGMmFPMkVlNzh1WXF2NnZsXzFnY3JwNkF1X09wMUMyNXRpM3M5YW8?oc=5",
+      "excerpt": "世界机器人大会观察 从围栏机器到人形机器人：北美机器人演进背后元器件产业迎来多重变革 新浪财经",
+      "publishedAt": "2026-09-24T09:20:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+      "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+      "excerpt": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on",
+      "publishedAt": "2026-09-24T18:00:04.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
+      "url": "https://huggingface.co/papers/2609.25187",
+      "excerpt": "Task planning bridges high-level instructions and executable behavior in long-horizon manipulation, yet modern Vision-Language-Action (VLA) systems often leave this intermediate structure implicit. Existing chain-of-thought (CoT) planners also tend to rely on coarse task-level annotations or seriali",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "meta": "👍 1",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI",
+      "url": "https://huggingface.co/papers/2609.24815",
+      "excerpt": "Scalable simulation is essential for robot data generation, policy training, evaluation, and safe iteration, yet real-world interaction is costly and conventional simulators require labor-intensive construction. We present Uranus, a data-driven robot simulator built around a joint-trajectory-conditi",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "meta": "👍 1",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "ifr-industry",
+      "title": "Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
+      "excerpt": "Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics",
+      "publishedAt": "2026-09-24T10:58:16.000Z",
+      "category": "politics",
+      "source": "IFR｜机器人产业"
+    },
+    {
+      "sourceId": "ifr-industry",
+      "title": "European Union's Industrial Robot Stock Hits Record 700,000 Units - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVjJweExxNHFMTmtLMTFYQ3hVelhYcU0yeUNkTEhKOTFhd2RvWmtiQzNzM0Rwc3RTamdmSEt3SWxGbm15OEItdndjem5zbkFoQ3RHUEcyQ3FXclRZNkFSazBaZWtud1JkaUh4bW5rcWRTdUZTczNhTmNXbTNCSWtwWFU3MVBYcEFiVFE?oc=5",
+      "excerpt": "European Union's Industrial Robot Stock Hits Record 700,000 Units IFR International Federation of Robotics",
+      "publishedAt": "2026-09-24T12:58:25.000Z",
+      "category": "politics",
+      "source": "IFR｜机器人产业"
+    },
+    {
+      "sourceId": "ifr-industry",
+      "title": "U.S. now Second-Largest Robotics Market, Following China - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa000aThFNkcxN0ZmZDdUR3N3VnRsOXFEWVU1ZlpNd1NBTTJIbGNHMHBlVThTWkNyckRNaUJpS2tDMGtEQThZWE1pWHRZRXNsN0lsN2FadDA3bEMxUUZnb2t3QUp0RC12OEFweHRyRmVJQlJJZXF6UVk5LXI4T3FnVXg4TnU3Vmc?oc=5",
+      "excerpt": "U.S. now Second-Largest Robotics Market, Following China IFR International Federation of Robotics",
+      "publishedAt": "2026-09-24T12:45:56.000Z",
+      "category": "politics",
+      "source": "IFR｜机器人产业"
+    },
+    {
+      "sourceId": "ifr-industry",
+      "title": "President’s Report by Jane Heffner - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGNpUXBvVnpBbUNzVUJLaWhUTkFVVEJkZmxfY3JpSEtGdWxQd2hQTHhtdVFiVUJDUmJVUktvNWItU1gtN3dDRFRGckxUV21KOVZoMmN0Z2RwOEZrTE1lMHZ2UElsWndxaXFkakVFUTJyOWNwQ2g5UWtNeTBrdHRnZm9Wc3pURFE?oc=5",
+      "excerpt": "President’s Report by Jane Heffner IFR International Federation of Robotics",
+      "publishedAt": "2026-09-24T10:58:16.000Z",
+      "category": "politics",
+      "source": "IFR｜机器人产业"
+    },
+    {
+      "sourceId": "ifr-industry",
+      "title": "China Installs 59 Percent of World's Industrial Robots - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTBmVFBpaWFEOHJxa2VKbTZnYVEwNVFfSnlYNi1EbW9nY1V4ZGw4aWJJbk04bDJ0aWMtcHlfUVFtdUoxZXFKRGUwc0sxejhIVThCMmlaQUJTZ2ktNVhqelN5NzVaUFltbGs1MFNFNHRfeXBMSVFoSG1nV2lfaVJJSU5zSWFtRVNLTlE?oc=5",
+      "excerpt": "China Installs 59 Percent of World's Industrial Robots IFR International Federation of Robotics",
+      "publishedAt": "2026-09-24T12:12:53.000Z",
+      "category": "politics",
+      "source": "IFR｜机器人产业"
+    },
+    {
+      "sourceId": "ifr-industry",
+      "title": "World Robotics 2026 - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjNDWTdvMG11OFViRVNDNnhMVjVuRTdrcUwtblJyRjdCaGxRME94Y0FlZ2xCUHczR0ZKcUVoclVFQ29ZU3J4MmpqZzdDbU9oclVRUzRIdUFWOFAtZnZONk1MdzBPWEdxeTBZZUpwVUQzc20wd3p4eE94cHI5cnIxMG5ZaXlUU3g3Tm1qbjZB?oc=5",
+      "excerpt": "World Robotics 2026 IFR International Federation of Robotics",
+      "publishedAt": "2026-09-24T11:43:18.000Z",
       "category": "politics",
       "source": "IFR｜机器人产业"
     }

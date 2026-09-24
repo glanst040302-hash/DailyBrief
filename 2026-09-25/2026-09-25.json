@@ -1,0 +1,32 @@
+{
+  "hero_headline": "IFR：全球在役工业机器人突破500万台",
+  "daily_overview": "今日候选情报有限：IFR 公布全球工厂在役机器人达 500 万台，中国仍是最大安装市场；运动控制架构讨论提醒业界，执行器与力控的系统级表现决定落地质量。触觉传感器与电子皮肤方向暂无实质增量。智能化主线仍沿规模部署与工程可靠性两轴推进。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "IFR：全球在役工业机器人增至500万台",
+      "url": "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports/",
+      "source": "The Robot Report",
+      "summary": "IFR 最新统计显示全球工厂在役工业机器人达 500 万台。\n中国继续位居安装量首位，美国与德国同为主要市场。\n规模化部署抬高对力觉与触觉反馈的需求，构成感知—执行闭环的落地基数。",
+      "importance": 8
+    },
+    {
+      "title": "运动控制架构选型不应只看规格表",
+      "url": "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture/",
+      "source": "The Robot Report",
+      "summary": "Kollmorgen 提出，运动架构选型需评估整机在真实工况下的系统行为。\n规格表参数难以覆盖热、振动与整定后的综合表现。\n执行器与力控的实际性能直接决定接触类任务的可重复性。",
+      "importance": 5
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "今日候选以产业统计与工程方法为主，缺少触觉器件层面的新事实；建议关注规模化部署后力觉反馈环节的供给缺口。",
+  "keywords": [
+    "工业机器人",
+    "IFR",
+    "运动控制",
+    "执行器",
+    "力觉反馈",
+    "规模化部署",
+    "具身智能"
+  ]
+}

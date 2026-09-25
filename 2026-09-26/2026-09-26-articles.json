@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-26",
+  "articles": [
+    {
+      "sourceId": "robot-report",
+      "title": "Amazon to invest $100M in new Indiana manufacturing facility",
+      "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
+      "excerpt": "The new facility will produce products that power Amazon's fulfillment and robotics network across North America. The post Amazon to invest $100M in new Indiana manufacturing facility appeared first on The Robot Report.",
+      "publishedAt": "2026-09-25T18:59:01.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "General Robotics is betting on modular intelligence, not one robot brain",
+      "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/",
+      "excerpt": "Rather than training one model to do everything, General Robotics composes specialized capabilities—helping robots adapt across tasks and form factors. The post General Robotics is betting on modular intelligence, not one robot brain appeared first on The Robot Report.",
+      "publishedAt": "2026-09-25T18:43:22.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Video Friday: Life’s Better With a Little Robot Goose",
+      "url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+      "excerpt": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. IROS 2026: 27 September–1 October 2026, PITTSBURGH CoRL",
+      "publishedAt": "2026-09-25T16:00:04.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    }
+  ]
+}

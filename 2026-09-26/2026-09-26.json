@@ -1,0 +1,32 @@
+{
+  "hero_headline": "亚马逊1亿美元投建工厂，模块化机器人智能升温",
+  "daily_overview": "全球智能化今日主线集中在机器人架构选择与供应链落地。有初创公司主张以模块化能力组合替代单一通用大脑，以提升跨任务、跨形态的适应能力；亚马逊则投入1亿美元在印第安纳新建制造基地，为其北美履约与机器人网络供应关键产品。触觉传感器及上下游当日无实质增量，故不作收录。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "通用机器人押注模块化智能，而非单一机器人大脑",
+      "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/",
+      "source": "The Robot Report",
+      "summary": "General Robotics 主张以模块化能力组合替代单一通用模型。其思路是按任务与本体拆分专用能力，让机器人跨任务、跨形态适配。该路线直接关系具身智能感知—决策—行动闭环的可扩展性，报道未给出量化部署数据。",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "亚马逊投1亿美元建印第安纳工厂，供机器人与履约网络",
+      "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
+      "source": "The Robot Report",
+      "summary": "亚马逊宣布投资1亿美元在印第安纳州新建制造设施。该设施生产支撑其北美履约与机器人网络的关键产品。属自建产能与供应链垂直整合，可能影响机器人相关部件的内部供给与成本结构。",
+      "importance": 6
+    }
+  ],
+  "editor_note": "当日候选以机器人架构与供应链为主，触觉传感器侧无实质新增。模块化路线与自建产能能否兑现，仍待部署与量产数据验证。",
+  "keywords": [
+    "模块化智能",
+    "具身智能",
+    "亚马逊",
+    "供应链",
+    "机器人制造",
+    "触觉传感"
+  ]
+}

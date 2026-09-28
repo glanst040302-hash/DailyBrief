@@ -1,33 +1,6 @@
 {
-  "collectedAt": "2026-09-27T05:52:21.960Z",
+  "collectedAt": "2026-09-28T00:55:35.023Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Xense Robotics and Dewu Form Strategic Partnership to Advance Smart Authentication - autonews.gasgoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXlpbExFYmdldklESXhObTZVZVY4bF94cXlab1d2OWNOSUdvVjVHd3BxVkg4MmhHRHNQV3FuLVd0VjNhVmt1eFktM2RfQWtMdUlSWDJxeEsyQ1ZOem5sbVZOeWFNQmczeHM2VzZFMEl1anNCQ01JVWpRUzFLa0ZLa2N6cGExdmw1aHZlTXRtTXkzV1JSTnpPV2E1NWhmcWlQS3RIN2c3aGFGN0RBOWNodjY5NEJsZmtMaGt2SjdMWXhsLWpCWkp4MXFaUFZLS2Fxa0VvdVRreFk1MEVS?oc=5",
-      "excerpt": "Xense Robotics and Dewu Form Strategic Partnership to Advance Smart Authentication autonews.gasgoo.com",
-      "publishedAt": "2026-09-20T05:55:08.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "What do you do with a humanoid robot when it breaks down?",
-      "url": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
-      "excerpt": "Decommissioning a humanoid robot is not a matter of traditional scrapping. It's a highly technical, high-stakes surgical endeavor. The post What do you do with a humanoid robot when it breaks down? appeared first on The Robot Report.",
-      "publishedAt": "2026-09-20T12:45:45.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "【投融资动态】千觉机器人战略融资，融资额数亿人民币，投资方为蓝驰创投、中金资本等 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYl9XazJNcXF0RnFnQVA2U0FyY0NteUJtbEk0TXhfcDZPVGRQSGJHWnExbnlVdGZyS2FabXBZWGdqb05qUGF0TmdSTmdBLUphcHFra1dreDdHZmZfSFJJX1k4bmV6MkFsdjBQczRvUUVrTE01S3pERVNxTWJPVWJfbEZDOXRZOHI3VF9IZw?oc=5",
-      "excerpt": "【投融资动态】千觉机器人战略融资，融资额数亿人民币，投资方为蓝驰创投、中金资本等 Sohu",
-      "publishedAt": "2026-09-20T11:32:03.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
     {
       "sourceId": "tactile-news-en",
       "title": "Hexagon and GelSight Integrate Portable Dimensional and Surface Inspection - Metrology and Quality News",
@@ -56,24 +29,6 @@
       "source": "Google News｜触觉产业链"
     },
     {
-      "sourceId": "wrc-news",
-      "title": "光谷人形机器人7S店忙着开分店 - wuhan.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GU0puelpFZTIwQnJHd0JySFB5Q3Via09PZVpmdVA2TUpRRUN0V2RQaWVCQzNaZ3E1SGpkbGpkSGxncmNOWDJTbG02eHFSY1FTU0FIVVFLREhpemdFOFJ3QXo3ZmNfbEZEWkRLd1NpclA?oc=5",
-      "excerpt": "光谷人形机器人7S店忙着开分店 wuhan.gov.cn",
-      "publishedAt": "2026-09-20T23:45:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "看懂银河通用，就读懂了具身智能的未来 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ONmw2TnZmTHI2VGgyWFExUmV5ZjBIeTVqY3RPRlRFSUlVRUR6ZjRlenNSbG5mMkc1WFhVYWlfbDhqSUZxZEI0NnFPRFFHeGhkZDNHTTRCQlRwQVhYdHBvZjZMRXJTNWlGTmNKaGk1SXM?oc=5",
-      "excerpt": "看懂银河通用，就读懂了具身智能的未来 手机新浪网",
-      "publishedAt": "2026-09-20T11:24:47.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
       "sourceId": "tactile-news-zh",
       "title": "鹿山新材：聚焦电子皮肤赛道 加速推进商业化进程 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wZ21CSDh5Z1pFTF9ocG1JNXhkSEkxSWxOMDk1bTJ2X1A0WW9nZ3ZJd0NMY2g2ZFk5TkhoeDQ4cDJoMkd4WkJ0MGgwaDlxZHJ1TTB5QU1rdXBDc3g0cWhOUU9vVQ?oc=5",
@@ -88,15 +43,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96TVJCclFEYklERDNGTkUtYVlrUGFPNm1kSXN0NGxvZnEwMFhoTmxNTUY4Y25jUkVMbC1pdlFTMTZCZzFYejNCR2RJY1hiVnBXckk5ZzAzQlR3enRLN1o0a2Y5VmJNUFFadUh5WFYxWmt1WG1Pc1YtSQ?oc=5",
       "excerpt": "极佳视界首席科学家朱政：建设“机器人造机器人”产线 中证网",
       "publishedAt": "2026-09-21T23:33:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "智元、理想押注，千觉机器人再获数亿元融资 - 机器人大讲堂",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UR0VzR0dqUnVwRXpVN1ZfY1ZrOFF1UkdxVnk0NTZJZjlkSUNjQU5ESkpuT2hhU0lOdDJ1NXd4UUpXT0F3RlRLVU0yOFc4dGdGRWoydHZ4VQ?oc=5",
-      "excerpt": "智元、理想押注，千觉机器人再获数亿元融资 机器人大讲堂",
-      "publishedAt": "2026-09-20T07:00:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -135,15 +81,6 @@
       "publishedAt": "2026-09-21T12:59:00.000Z",
       "category": "finance",
       "source": "The Robot Report"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "配套酒店正式封顶！北人亦创国际会展中心提升工程项目将于2027年底全面竣工 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWDlhaTQ4UXVpYWlBaVhnUW1OWjAtUXhYZTZlaDZVMTMxY3FSeXh3a0NrRFRBQnprTWpjeV85c3FLaG04MUhXMlhZeGRpOE5fZDlrRExaZmtTNDBLcEdLZ2RrSVVHOU9VVFo3RHNMZ0FTSUZMQ045blZEN05ZLVJra1gxZWlGczEx?oc=5",
-      "excerpt": "配套酒店正式封顶！北人亦创国际会展中心提升工程项目将于2027年底全面竣工 搜狐网",
-      "publishedAt": "2026-09-20T12:17:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
     },
     {
       "sourceId": "nvidia-robotics",
@@ -214,15 +151,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUZEN1UmVMS1hZbkhtdUE4MzJtc2JjbkZNYmFQR0hTc1BIVTJFSVI3T2RIT2pkVG1GbVdJSEZXZ05aTkpYSlpxYUEzSUdVX2dCWmtBQXgzc2xrbEh3clhtaUtESS0?oc=5",
       "excerpt": "人形机器人公司帕西尼开启A股上市辅导 公司估值超百亿元 财新",
       "publishedAt": "2026-09-22T13:04:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "智元、理想押注，千觉机器人再获数亿元融资 - 机器人大讲堂",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DenZTXzNpcXdXTDBJLTQ0MXhKOWJPTzlObzJ2bEc0SGhiS2dZQkt0RndfYmxyMFJWTmw4VlExbE9uMkYtc00xdlgxanY?oc=5",
-      "excerpt": "智元、理想押注，千觉机器人再获数亿元融资 机器人大讲堂",
-      "publishedAt": "2026-09-20T10:58:35.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -299,24 +227,6 @@
       "source": "arXiv｜触觉研究"
     },
     {
-      "sourceId": "arxiv-tactile",
-      "title": "HapticWAM: Distilling Imagined Touch into a World-Action Model without Inference-Time Tactile Sensing",
-      "url": "https://arxiv.org/abs/2609.23888v1",
-      "excerpt": "",
-      "publishedAt": "2026-09-20T21:49:50.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "ContactDP: Contact-Guided Diffusion Policy for Tight Insertion Tasks",
-      "url": "https://arxiv.org/abs/2609.23800v1",
-      "excerpt": "",
-      "publishedAt": "2026-09-20T18:40:48.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
       "sourceId": "robot-report",
       "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
       "url": "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/",
@@ -387,26 +297,6 @@
       "publishedAt": "2026-09-22T12:00:41.000Z",
       "category": "finance",
       "source": "NVIDIA Robotics"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies",
-      "url": "https://huggingface.co/papers/2609.24118",
-      "excerpt": "Vision-Language-Action (VLA) policies achieve strong performance in robotic manipulation but remain brittle once execution deviates from nominal trajectories. We propose CARE (Corrective Atomic Robotic Execution), a framework that improves recovery by learning from failures encountered during execut",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "meta": "👍 11",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies",
-      "url": "https://huggingface.co/papers/2609.24682",
-      "excerpt": "Vision-Language-Action (VLA) models map observations to actions with no objective that accounts for how the world responds, so their robustness is bounded primarily by data coverage. World models carry precisely that missing objective and are better grounded for it, yet rolling the future forward co",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "meta": "👍 5",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
     },
     {
       "sourceId": "openai-news",
@@ -626,31 +516,12 @@
     },
     {
       "sourceId": "wrc-news",
-      "title": "配套酒店正式封顶！北人亦创国际会展中心提升工程项目将于2027年底全面竣工 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ackJ3ZWQtNV9mbE1WWElJejVfWHQ0N0Z3blVPSk1FNFEtRlZzS1lsTEE1ZUlYa3I5NFFodUR6MUdZSGpjRkpjT0ZNRTNWZFRTaXBRQXZRS2V6VzBpUzBGc3V3ellzZ3BBcmdHUkNUTXlwZw?oc=5",
-      "excerpt": "配套酒店正式封顶！北人亦创国际会展中心提升工程项目将于2027年底全面竣工 京报网",
-      "publishedAt": "2026-09-20T12:14:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
       "title": "新浪网· - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zS2xqZURKYUFUaG5BZERHdkUwdlRwMW1BbVE2czlTOUIzeC1IM0FVbkI3dHJNRUlXMVlFQ1lPXzA4dVJxd2lQR0hQX21wbEUtdzVPZUdFM0YtbnViWHplbV9ndw?oc=5",
       "excerpt": "新浪网· 手机新浪网",
       "publishedAt": "2026-09-21T07:00:00.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "HappyWorld-Bench",
-      "url": "https://huggingface.co/papers/2609.24308",
-      "excerpt": "Evaluating world models requires assessing both the quality of the worlds they generate and their consistency and responsiveness under exploration, interaction, and modification. We introduce HappyWorld-Bench, a comprehensive benchmark that evaluates whether generated worlds remain reliable as agent",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "meta": "👍 22",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
     },
     {
       "sourceId": "huggingface-papers",
@@ -752,15 +623,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ydzc2djhDdTA1SHlFYTBhaDlOMjlPUklLZ3lKSk5LdXAtMmdVbE5lVWswc2VQNlF0Z1hfbDNQZzlSdXhGbng3VXpVOC1HWGFwZmVfTmZiQ2Z4ZEdVQ0dsRG9rWHZ6bDFQS3Z4aXlqZw?oc=5",
       "excerpt": "IPO | 百亿估值触觉感知独角兽帕西尼启动A股上市辅导 新浪财经",
       "publishedAt": "2026-09-21T06:46:29.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "一具身智能独角兽，启动IPO！全球第一，国泰海通辅导 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMDRMWWZrbHNNblZ4X0pzb1BveUtMV1lFMUxGV1I2U1RsTkd5SDJKVFhlNHl0cGNTQTdvWUxqTndWZDN3SWxIZ2lfTVRkRXg2WDJhOFlIWXE0ZWRMLUcwVEY1dnhWNkV1TlBFMzdYUTF4TWgtTjZPQzk5T2FrUDREODNOUkIwSnc?oc=5",
-      "excerpt": "一具身智能独角兽，启动IPO！全球第一，国泰海通辅导 新浪财经",
-      "publishedAt": "2026-09-21T00:24:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -874,16 +736,6 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
-      "url": "https://huggingface.co/papers/2609.25187",
-      "excerpt": "Task planning bridges high-level instructions and executable behavior in long-horizon manipulation, yet modern Vision-Language-Action (VLA) systems often leave this intermediate structure implicit. Existing chain-of-thought (CoT) planners also tend to rely on coarse task-level annotations or seriali",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI",
       "url": "https://huggingface.co/papers/2609.24815",
       "excerpt": "Scalable simulation is essential for robot data generation, policy training, evaluation, and safe iteration, yet real-world interaction is costly and conventional simulators require labor-intensive construction. We present Uranus, a data-driven robot simulator built around a joint-trajectory-conditi",
@@ -970,15 +822,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16YnZOcWlMMmhjYVFBYVVBOVhGUndhUVUxY0E3YW84Wk4zSEFESTg1ZENPSU84QUlvQXg2WDAyaUtWQ3ZUM0dBaGVKQ2pUOG42ZVoyNk8wWWZzS3lEUzNHeFhQT1VhamlNa0E?oc=5",
       "excerpt": "博杰股份(002975.SZ)：2026年上半年，人形机器人测试板块实现的营业收入占公司总营收低于1% TradingView",
       "publishedAt": "2026-09-21T13:08:38.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "【投融资动态】千觉机器人战略融资，融资额数亿人民币，投资方为蓝驰创投、中金资本等 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0Y1UmpVWVlsN1ZzY0prc2pMUmdmTV9Pb2VUSE4xaEJXV09HbGJ1c29FSjhwQW9MbmRibFo0WU9yVDlEb1ctVS1uUUVqaEE3OGIxbG1SR0pSQVVmY1N1Rm1DQy1xdFoweV9hdU5SbTBVVnAxMm9yeFotYWFzREdqSXhfQzFiQ2Ix?oc=5",
-      "excerpt": "【投融资动态】千觉机器人战略融资，融资额数亿人民币，投资方为蓝驰创投、中金资本等 搜狐网",
-      "publishedAt": "2026-09-20T11:16:15.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -1105,15 +948,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDlybzdYaWk0RE9hMnI1NFhRcGJwclFLRS10Y1lrakpIQnA5QUVtbnU3aTlGai1HUVhRVnptQWYxY0R0YUN4bmo0ZE1WbjBIRHhLNXZZekRYSDJyb1RiTmtTUEs2TkVCN3Q3Sk5meEpJMlpNUE9YUWpwYTJYMl81cmhBaGxHU09O?oc=5",
       "excerpt": "单次任务成功率达99%，具身智能为何仍难持续交付？ 搜狐网",
       "publishedAt": "2026-09-22T09:01:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "具身智能真实机会在哪里 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yU3hydFdpNUVwcnF1QVVDZ0hBR3NNLXpHYWVfMHQyV1Y3TllqMWQ1b1lnR3dDZHlzZUVLdS1QbVhhQWJlNjk3QXlsOFZWR2FlVGNj?oc=5",
-      "excerpt": "具身智能真实机会在哪里 搜狐网",
-      "publishedAt": "2026-09-20T11:42:00.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
     },
@@ -1281,6 +1115,141 @@
       "publishedAt": "2026-09-27T03:47:55.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "对抗出汗与运动干扰！青岛科技大学团队研发新型离子电子皮肤 - news.sciencenet.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3ckQ4dm9ncElpSWVMWU45YmQ0dU9WTENNWTgwc1BqX2phOE1RSVdSQnYxWHNvc2ZQYjJlc0hleVpLdGF6NGl3ZlNublJ3VUxURmV4bmRPSUlHbERLOTY1TkRNY20?oc=5",
+      "excerpt": "对抗出汗与运动干扰！青岛科技大学团队研发新型离子电子皮肤 news.sciencenet.cn",
+      "publishedAt": "2026-09-27T04:54:30.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "触觉传感器从10万降到199元机器人价格打下来了 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFY1WHFQcE5RclNNM3hDMW5BMzREWUFKaGh3M3NjUU1qYnB4VllfRlAtY1pNbnFoUllYY0JsZXdCbVV2eTZDMk9UaW5tS2NzeTdZXzNSdlliSnpQMVpiTDZpbVVXRElCLTg3Rm9KN3RxWUFQby1hdUxjX3BleldvbzBmeTZGQQ?oc=5",
+      "excerpt": "触觉传感器从10万降到199元机器人价格打下来了 finance.sina.com.cn",
+      "publishedAt": "2026-09-27T13:46:39.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "触觉传感器月出货数万枚， 他山科技完成股改 - gasgoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hR3dpVW9mcUZqcDFhTnhzdjJIZTB1dW9ZcmRDdWdtdUFEYml3cTNqM2pvcUp6NmhPVWZ4eFQyR2Ffb3FtenNjSzV6U29yNmRT?oc=5",
+      "excerpt": "触觉传感器月出货数万枚， 他山科技完成股改 gasgoo.com",
+      "publishedAt": "2026-09-23T09:29:28.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "武进这家企业，机器人“力觉”第一！ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYl85OXdfZ000QkdpeG9URWRwMTUtOFFNY04yS0hHVVgtNUp6cHJ2bjR2SXV3ZDExTFNVRU0yX2RrcTMwZ1AwbWF3OW4xT19za2tUSGlYTFo2RFRGWXVMWEdoTllwNEZDaDBjbGkwOUphTVFfTlE?oc=5",
+      "excerpt": "武进这家企业，机器人“力觉”第一！ 新浪财经",
+      "publishedAt": "2026-09-27T08:32:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "特斯拉Optimus最新消息：周产数百台仍卡100颗螺丝？3个维度说清+FAQ - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IUFpfT0JzRlhmSGZyMVhXcmY0eWFRS3hjWDV3cEZpRGJ6Ny0za1piZTRkcVlXbUVnUERtMDZOTzh1dkdac1lxbV9hZURjWjd4UkthZGl4VW5kZThiMjhhT0hyN3ZpTm5FcGdxU08zRGRxUQ?oc=5",
+      "excerpt": "特斯拉Optimus最新消息：周产数百台仍卡100颗螺丝？3个维度说清+FAQ 手机新浪网",
+      "publishedAt": "2026-09-27T16:35:40.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "小智一周要闻 | 曝特斯拉机器人团队在长三角审厂；智元第2万台具身机器人下线 - gasgoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPWkJrYXg2ZXo3RHNSMGMybnNfa29LazVSaVBpQUJRRjktdlY4aUplTGVLNFNmdWZaVjdOdFp2dURZdnFyTEpNdEUtRmdPcmJLY0UtRVBDNnNnalI1djRHZDdJTkYzWmFTREZhdXRaNjZEaVUyZExrVTJoYTZZWWE0dVktbXBjZHZyVkQ0VjBTUVZWazBiQXVSa2JpZ2xTUGJzTDZyT2R5NEptODZmVXBWMzkxbmpva3NXeTdscGppV2xTVjBrS0JHa2FVZEx3aHBJRlRoR3FqbkZDOWExOGhZOHZvbWowOFdiZmNBeUZXMF9hT3F4eklCajBqTFZvZjNsZ2pUYmpkazFMZkxtVGxtYTlyUEhYWEtidUtSMUQ0c2hOcmNfc1VDVFp6d3hHalY5Y25wWlloblB3LWpBMmZ4WUJDR3dqVXM1dlVKY2c2VEJ4cFg0?oc=5",
+      "excerpt": "小智一周要闻 | 曝特斯拉机器人团队在长三角审厂；智元第2万台具身机器人下线 gasgoo.com",
+      "publishedAt": "2026-09-27T08:51:33.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "他山科技CEO回应公司股改：有上市计划 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44cUF3RGVsOXV0ZmxCeUhfTFc0UE54Z3UyZ1RKMzA0OE9jWXZHM1lVa0NiSzN6RnhFMTExWDJJTmNOemdEWHZzSWRWWkVBSVE?oc=5",
+      "excerpt": "他山科技CEO回应公司股改：有上市计划 finance.sina.com.cn",
+      "publishedAt": "2026-09-24T03:34:03.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "帕西尼启动IPO辅导：估值破百亿，比亚迪京东三星押注 - caifuhao.eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPb1pUdG9rX2NiMUxUUGlhRFlCTHNIVHp2ZGtlVHJtRnItc2c4Zk1DaU4zaGlYZFBaMHJXZUJuLVREenBCalhBTXB1LWFfX3lFTnZKUGFvVjlzZEVoWlMyR0RxUmtLRC1DSE16OWZnQl9xUW1adzB4TjlieV9LMVA3ZXdsSUFFUjNjdFdkNDJzcFFiSFdwd2Zpd0duZzFzdlUwZk9HT1hWdFRUaUJPNFIyWVJUZE5lQ1Q5RG9GQldTemFFMi1NelNEbWRTNnRRUk9DZ3dNNlFSRzRZdXlTdmJwNHZxT2VWNlRweGU1clA1dDVMY0tuVGtmeUpDYWxaM2luZGc?oc=5",
+      "excerpt": "帕西尼启动IPO辅导：估值破百亿，比亚迪京东三星押注 caifuhao.eastmoney.com",
+      "publishedAt": "2026-09-22T08:35:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Asimov’s laws are not enough to keep robotics and AI safe",
+      "url": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
+      "excerpt": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI. The post Asimov’s laws are not enough to keep robotics and AI safe appeared first on The Robot Report.",
+      "publishedAt": "2026-09-27T12:26:44.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "【最新】未来是可以走进去的？！国庆假期，世界机器人大会将登陆虹桥 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFNnYmJmam9yZ1pmSnI2ZjNmY0x6c3hnSlBhdi1aWE9Ja3RaODdXcWJTdkRJcjhnNzBmcWZtejkzR2szT1cwN1h0Z0pfdV9PNFEyYk9WTElDOUF0anVvTFI5cURYT2xOYlpCLTVOTjJFajBRVXRWcEZIQ0tiU2xXYS1uWi1JOGs?oc=5",
+      "excerpt": "【最新】未来是可以走进去的？！国庆假期，世界机器人大会将登陆虹桥 新浪财经",
+      "publishedAt": "2026-09-26T13:21:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "北交所重点专精特新企业培育专项行动落地海淀区，110余位企业高管参加 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JUG1mSG90Ykt0OTZ5emhycjQxWjdadGJ5Yld3Sll3NHZVY0EzX3F1NnJpbm5XUUl0VHhscWhHc0R1LWh0YnhIUk5TVldnQ1FLWkYzcm5LaHBBNlNaZzV6Q3RHc2M?oc=5",
+      "excerpt": "北交所重点专精特新企业培育专项行动落地海淀区，110余位企业高管参加 新京报",
+      "publishedAt": "2026-09-23T13:45:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "无人之境，有“人”向前 - 南京广播电视台",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EUkMybFlKOWNCOS04YWFNbEJXU2JaR0pCTlVhSnFhVHVuYmxlWW5oY1U1Y3hJRVJTc3JGR1QzLXhzZFExZnFUdjVIekJRTHFKN1l6LTVKcnlNOU1FUm9wQ1kzd1k?oc=5",
+      "excerpt": "无人之境，有“人”向前 南京广播电视台",
+      "publishedAt": "2026-09-27T10:25:30.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "大规模具身智能主题乐园“长隆飞船乐园”在广东横琴开园 - 中青在线",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wZHRuSmFiOHpsVTNOdUhCNGcyVTVzQ0xpV0ZoYk0tbHUzb2taMHUtUFFFVEJTLVlwbUR6NDZCdjRQMnBySU90RlZOZjVqMXZIUEZvRTl6M3Y1dTdQWkhjZzdNTDB6TE5WTHJpNHhUUjV1OElibElrMQ?oc=5",
+      "excerpt": "大规模具身智能主题乐园“长隆飞船乐园”在广东横琴开园 中青在线",
+      "publishedAt": "2026-09-27T08:18:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "单次任务成功率达99%，具身智能为何仍难持续交付？ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vc2d0cjJJd3Q5SWEzY01FZzZ3cHJiS0Jnd2RxclhNTDBmOFYzckdDbTh1c29YaHA0bkVNazRwQVhfT2tjZ2IzV3BFbHNXX0FsOHRyOEFKbFJUUk5ENS1XSFdrTUt5cEk?oc=5",
+      "excerpt": "单次任务成功率达99%，具身智能为何仍难持续交付？ 搜狐网",
+      "publishedAt": "2026-09-22T09:01:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "ifr-industry",
+      "title": "International Federation of Robotics - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kMnJJQm1uSWNpRjZrUGZxREtnWGNzRDZKX0EwanNQVjFJV3M0eXJRMlVoZFhCenRpQzNoRVN4eHdPeDZhb0Fnb21qVnJWenN2cExxbHhWemhVOHp2cklERDdBRk1sWFJDRkEtRk93ZzlPSVZLc0JJ?oc=5",
+      "excerpt": "International Federation of Robotics IFR International Federation of Robotics",
+      "publishedAt": "2026-09-26T22:46:54.000Z",
+      "category": "politics",
+      "source": "IFR｜机器人产业"
     }
   ]
 }

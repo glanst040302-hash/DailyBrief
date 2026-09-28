@@ -1,0 +1,24 @@
+{
+  "hero_headline": "Optimus周产数百台，装配工序成瓶颈",
+  "daily_overview": "全球人形机器人仍处量产爬坡期，特斯拉Optimus周产数百台，装配环节被紧固工序卡住，暴露手部与执行器结构件的工艺一致性问题。触觉传感与灵巧手是感知—操作闭环的末端环节，其标定、封装与装配良率直接决定整机节拍。当日其余方向缺少具备实质增量的一手信息，暂不填充。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "特斯拉Optimus周产数百台，装配环节受限",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IUFpfT0JzRlhmSGZyMVhXcmY0eWFRS3hjWDV3cEZpRGJ6Ny0za1piZTRkcVlXbUVnUERtMDZOTzh1dkdac1lxbV9hZURjWjd4UkthZGl4VW5kZThiMjhhT0hyN3ZpTm5FcGdxU08zRGRxUQ?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "据媒体转述，Optimus目前周产数百台，装配受约100颗螺丝的紧固工序制约。\n瓶颈从算法侧转向装配与来料一致性，说明硬件工艺仍是规模化前提。\n手部与执行器的装配良率直接关联触觉单元标定与封装，是触觉产业链的关键下游验证点。",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "单一候选不足以支撑全量简报，本期仅保留具备事实增量的人形机器人量产线索；触觉上游动态静待更可靠的原始证据。",
+  "keywords": [
+    "特斯拉Optimus",
+    "人形机器人量产",
+    "装配工艺",
+    "灵巧手",
+    "触觉传感",
+    "感知—操作闭环"
+  ]
+}

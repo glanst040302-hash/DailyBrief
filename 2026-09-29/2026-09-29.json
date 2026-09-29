@@ -1,0 +1,54 @@
+{
+  "hero_headline": "泛亚微透电子皮肤小批量供货北美，具身供应链提速",
+  "daily_overview": "触觉产业链延续材料与器件落地：泛亚微透电子皮肤与耐弯折线缆小批量供货，纳米银线厂商强调柔性电极规模化，蚕丝基底电子皮肤拓展非机器人场景。机器人侧，Sharpa演示高频抓取，Gecko Robotics引入智能体安全平台。感知材料与部署安全两端推进，真实场景验证仍是主线。",
+  "tech_briefs": [
+    {
+      "title": "泛亚微透布局电子皮肤，已小批量供货北美客户",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wcjFNaXhIaDZZc3hxbF9oOTRKM1ZDM2JDMFdqaU5Sd2lkai1uRHZCcjdVa3psMzJaZVVHb2JkWUZva0trb2ZteTltR2JvOFg5Wlp5U01BODRpb3dnMGJGOQ?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "泛亚微透9月28日回应人形机器人业务，称已布局电子皮肤与耐弯折线缆。\n相关产品进入小批量供货阶段，客户为北美头部机器人企业。\n电子皮肤由实验室走向供应链，触觉感知的国产配套开始成型。",
+      "importance": 8
+    },
+    {
+      "title": "纳米银线厂商以柔性电极切入传感上游",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ORm9IbTJlUm85ZkZ2eW4ycGx6V1VGdy1WbnAwelVqbzR3N2N1RW1sazdQNUpGZllXR0hEWkkyblpMTEE1a25pbEQ0YVE1cWMyaHI1UEFmZ3B2SHg4b2tTajJER043MENpZUFSNzBLVHpmdDBxYjhEZVNfaWRxdw?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "国内纳米银线企业披露十二年产业化路径，产品覆盖柔性透明电极。\n纳米银线兼顾导电性与弯折寿命，是柔性触觉器件的关键上游材料。\n材料端国产化推进，为电子皮肤与柔性传感器降本提供条件。",
+      "importance": 6
+    },
+    {
+      "title": "蚕丝电子皮肤用于植物生理信号监测",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1JYYVI1cTY5T29KXzlENzFLRjdDaEhzWF9SblMxbVZWajZJOUQwQnA0cFhuVUphV0dtenZpLURza0RZYWpTcXdMYzdfZ2hZZVI5dFYxcS1SY3RyejVKam9GMzk3MEJIQ08wd1BHVVhmZGpWaFl6eGhrRWU0Umd5ZHpOQmhCVGpjRXRfYy1UMk8xcWc?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "研究者以蚕丝为基底制备电子皮肤，用于采集植物微弱生物电信号。\n该方案验证了天然纤维材料在柔性传感中的灵敏度与生物相容性。\n非机器人场景的拓展，为触觉材料提供新的技术储备。",
+      "importance": 4
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "Sharpa发布三款机器人新品，演示高频抓取",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeUwyaUVJMy01WmlyZ0hSSHh1YjZDemNjRXJGVk5GcHZrS09lYmxkVXdaeTVqSTVIZkJ1cjhPTG1JNUt2aExmWDk4dlhzbHhZamVYOGFfQ3RRVGl3MnpYMzN4eTJRNDg0UTd0Z01sS3lPTHJ0elN2VE12d1RGS3NKS19OY0I0dw?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "Sharpa连发三款机器人新品，并在挑战赛演示环节实现零失手。\n高频抓取考验感知—决策—执行的闭环实时性与手部精细控制。\n灵巧操作能力正成为具身智能产品化的直接竞争点。",
+      "importance": 8
+    },
+    {
+      "title": "Gecko Robotics接入英伟达智能体安全平台",
+      "url": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
+      "source": "The Robot Report",
+      "summary": "Gecko Robotics采用英伟达Open Agent Safety平台，为自主控制系统增加安全与管控。\n力图把安全约束前移到机器人自主决策环节，降低工业现场部署风险。\n安全框架补齐后，具身系统在巡检等真实场景的规模化更可预期。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "今日无政策与监管层面的实质变化；触觉供应链看点集中在上游材料与电子皮肤的小批量落地，后续需关注其一致性、寿命与标定能力。",
+  "keywords": [
+    "电子皮肤",
+    "纳米银线",
+    "柔性传感",
+    "泛亚微透",
+    "灵巧手",
+    "具身智能",
+    "智能体安全"
+  ]
+}

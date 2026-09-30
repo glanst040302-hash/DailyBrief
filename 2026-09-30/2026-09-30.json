@@ -1,0 +1,32 @@
+{
+  "hero_headline": "电子皮肤企业再获亿元级融资，人形力觉集成待标准化",
+  "daily_overview": "触觉感知赛道延续融资热度，一家回国创业的电子皮肤公司再获亿元级资金，资本持续押注机器人皮肤与柔性传感的量产前景；人形机器人端，力与扭矩传感应用正从选型走向工程落地，集成与防损成为公开议题。智能化推进的重心仍在上游感知器件的成本与可靠性。",
+  "tech_briefs": [
+    {
+      "title": "斯坦福博士后团队电子皮肤项目再获亿元级融资",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nLTRhbTNvejFNV01xSndnZHJmWDNUS0o4ajN2RU9uUDMzY1E2Y2o3V0hYcC1EaXBuSGZ2ci1NUkwxd2RWaERzdExDUFM?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "国内电子皮肤企业完成新一笔亿元级融资，创始人具斯坦福博士后背景\n资金继续流入机器人皮肤这一上游环节，指向柔性传感量产验证阶段\n电子皮肤是触觉产业链中材料、电极、读出与封装能力的集成出口",
+      "importance": 7
+    },
+    {
+      "title": "人形机器人力与扭矩传感应用课程将开讲",
+      "url": "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026/",
+      "source": "The Robot Report",
+      "summary": "ForceN 将在 RoboBusiness 开设力与扭矩传感课程，面向人形机器人集成方\n内容聚焦传感器使用方式与过载损坏规避，属工程实践层面的知识输出\n反映人形机器人力觉集成尚未标准化，仍依赖传感器供应商支持",
+      "importance": 3
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "当日实质增量集中在上游触觉器件：电子皮肤融资说明资本耐心仍在，力觉集成尚缺标准方案，仍需供应商提供工程支持。",
+  "keywords": [
+    "电子皮肤",
+    "柔性传感",
+    "力/扭矩传感器",
+    "人形机器人",
+    "触觉感知",
+    "上游融资",
+    "工程集成"
+  ]
+}

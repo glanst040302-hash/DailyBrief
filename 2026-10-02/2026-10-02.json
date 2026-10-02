@@ -1,0 +1,33 @@
+{
+  "hero_headline": "波士顿动力新人形手取消小指，灵巧手设计向实用收敛",
+  "daily_overview": "9月机器人发布集中于IMTS、ROSCon、IROS等展会，行业进入方案高频迭代。波士顿动力新人形手取消小指以简化自由度，灵巧手设计从拟人化转向任务与成本导向。触觉感知与操作学习仍是具身智能商业化瓶颈，产业链围绕可靠性与量产成本收敛。",
+  "tech_briefs": [
+    {
+      "title": "波士顿动力新人形手取消小指",
+      "url": "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/",
+      "source": "The Robot Report",
+      "summary": "波士顿动力在新一代人形机器人手部设计中取消小指自由度。\n工程师曾用胶带把小指与无名指捆住一天，验证缺失该自由度对日常操作的影响。\n灵巧手的自由度取舍直接决定触觉阵列布局、标定工作量与成本，是人形机器人能否稳定完成操作任务的关键变量。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "2026年9月机器人十大新闻盘点",
+      "url": "https://www.therobotreport.com/top-10-robotics-stories-of-september-2026/",
+      "source": "The Robot Report",
+      "summary": "The Robot Report 汇总 2026 年 9 月 IMTS、ROSCon、IROS 等现场发布的机器人进展。\n发布节奏高度集中在行业展会，反映人形与具身智能厂商进入集中展示期。\n对操作硬件而言，展会正成为灵巧手与触觉感知方案集中验证的窗口。",
+      "importance": 3
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "两家候选均指向操作端：手部自由度取舍与展会节奏，说明触觉硬件仍是人形机器人最需要工程决断的环节。",
+  "keywords": [
+    "灵巧手",
+    "波士顿动力",
+    "触觉传感",
+    "人形机器人",
+    "具身智能",
+    "自由度",
+    "展会迭代"
+  ]
+}

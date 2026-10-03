@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-03",
+  "articles": [
+    {
+      "sourceId": "robot-report",
+      "title": "Inside Omron’s next-generation LD mobile robots",
+      "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
+      "excerpt": "In mobile robotics, software, safety, and fleet management are becoming just as important as the robot itself, according to an OMROM project manager. The post Inside Omron’s next-generation LD mobile robots appeared first on The Robot Report.",
+      "publishedAt": "2026-10-02T23:01:36.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
+      "url": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness/",
+      "excerpt": "Experts from Eli Lilly and Purdue University will reveal findings about the perception of robots on the manufacturing floor. The post Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-10-02T21:12:14.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Runway introduces Praxis-1 world action model for robotics",
+      "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
+      "excerpt": "When Runway does release Praxis-1 publicly, it plans to ship it with open weights rather than as a closed model. The post Runway introduces Praxis-1 world action model for robotics appeared first on The Robot Report.",
+      "publishedAt": "2026-10-02T18:32:13.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
+      "url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+      "excerpt": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026: 9–12 November 2026, AUSTIN Humanoids 2026: 6",
+      "publishedAt": "2026-10-02T16:30:02.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
+    }
+  ]
+}

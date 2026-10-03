@@ -1,0 +1,40 @@
+{
+  "hero_headline": "Runway 发布 Praxis-1 世界动作模型，承诺开放权重",
+  "daily_overview": "今日智能化焦点集中在具身智能的模型基座。Runway 推出面向机器人的 Praxis-1 世界动作模型，并承诺以开放权重公开，操作学习再添一条开源路径；欧姆龙披露下一代 LD 移动机器人架构，强调软件、安全与车队管理权重上升。触觉传感与柔性电子侧当日无实质增量，模型层接口正趋于标准化。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "Runway 发布 Praxis-1 机器人世界动作模型",
+      "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
+      "source": "The Robot Report",
+      "summary": "Runway 推出面向机器人的 Praxis-1 世界动作模型。\n官方计划以开放权重而非闭源方式发布。\n世界模型与动作生成合流，为具身策略学习提供新基座，也抬高了对末端力觉反馈的需求。",
+      "importance": 8
+    },
+    {
+      "title": "欧姆龙披露下一代 LD 移动机器人架构",
+      "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
+      "source": "The Robot Report",
+      "summary": "欧姆龙项目经理介绍下一代 LD 移动机器人方案。\n软件、安全与车队管理被列为与本体同等重要的能力。\n移动平台能力提升后，物流场景对接触感知与力控的接入空间随之打开。",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "OpenAI 发布 GPT-6 系列模型选型指南",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI News",
+      "summary": "OpenAI 面向创业公司发布 GPT-6 系列选型指南。\n内容涵盖推理强度调节、提示与技能编排、工具协同与生产化。\n模型侧接口与工程范式趋稳，间接影响具身智能决策层的技术选型。",
+      "importance": 5
+    }
+  ],
+  "editor_note": "触觉产业链当日无实质新增，唯一值得记录的是世界动作模型开始走向开放权重，具身策略的准入门槛可能因此下移。",
+  "keywords": [
+    "Praxis-1",
+    "世界动作模型",
+    "具身智能",
+    "移动机器人",
+    "开放权重",
+    "GPT-6",
+    "操作学习"
+  ]
+}

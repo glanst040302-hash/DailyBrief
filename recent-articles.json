@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-04T06:03:01.518Z",
+  "collectedAt": "2026-10-04T12:15:17.719Z",
   "articles": [
     {
       "sourceId": "tactile-news-zh",
@@ -7,15 +7,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFY1WHFQcE5RclNNM3hDMW5BMzREWUFKaGh3M3NjUU1qYnB4VllfRlAtY1pNbnFoUllYY0JsZXdCbVV2eTZDMk9UaW5tS2NzeTdZXzNSdlliSnpQMVpiTDZpbVVXRElCLTg3Rm9KN3RxWUFQby1hdUxjX3BleldvbzBmeTZGQQ?oc=5",
       "excerpt": "触觉传感器从10万降到199元机器人价格打下来了 finance.sina.com.cn",
       "publishedAt": "2026-09-27T13:46:39.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "武进这家企业，机器人“力觉”第一！ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYl85OXdfZ000QkdpeG9URWRwMTUtOFFNY04yS0hHVVgtNUp6cHJ2bjR2SXV3ZDExTFNVRU0yX2RrcTMwZ1AwbWF3OW4xT19za2tUSGlYTFo2RFRGWXVMWEdoTllwNEZDaDBjbGkwOUphTVFfTlE?oc=5",
-      "excerpt": "武进这家企业，机器人“力觉”第一！ 新浪财经",
-      "publishedAt": "2026-09-27T08:32:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -29,15 +20,6 @@
       "source": "Google News｜触觉产业链"
     },
     {
-      "sourceId": "tactile-news-zh",
-      "title": "小智一周要闻 | 曝特斯拉机器人团队在长三角审厂；智元第2万台具身机器人下线 - gasgoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPWkJrYXg2ZXo3RHNSMGMybnNfa29LazVSaVBpQUJRRjktdlY4aUplTGVLNFNmdWZaVjdOdFp2dURZdnFyTEpNdEUtRmdPcmJLY0UtRVBDNnNnalI1djRHZDdJTkYzWmFTREZhdXRaNjZEaVUyZExrVTJoYTZZWWE0dVktbXBjZHZyVkQ0VjBTUVZWazBiQXVSa2JpZ2xTUGJzTDZyT2R5NEptODZmVXBWMzkxbmpva3NXeTdscGppV2xTVjBrS0JHa2FVZEx3aHBJRlRoR3FqbkZDOWExOGhZOHZvbWowOFdiZmNBeUZXMF9hT3F4eklCajBqTFZvZjNsZ2pUYmpkazFMZkxtVGxtYTlyUEhYWEtidUtSMUQ0c2hOcmNfc1VDVFp6d3hHalY5Y25wWlloblB3LWpBMmZ4WUJDR3dqVXM1dlVKY2c2VEJ4cFg0?oc=5",
-      "excerpt": "小智一周要闻 | 曝特斯拉机器人团队在长三角审厂；智元第2万台具身机器人下线 gasgoo.com",
-      "publishedAt": "2026-09-27T08:51:33.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
       "sourceId": "robot-report",
       "title": "Asimov’s laws are not enough to keep robotics and AI safe",
       "url": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
@@ -45,24 +27,6 @@
       "publishedAt": "2026-09-27T12:26:44.000Z",
       "category": "finance",
       "source": "The Robot Report"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "无人之境，有“人”向前 - 南京广播电视台",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EUkMybFlKOWNCOS04YWFNbEJXU2JaR0pCTlVhSnFhVHVuYmxlWW5oY1U1Y3hJRVJTc3JGR1QzLXhzZFExZnFUdjVIekJRTHFKN1l6LTVKcnlNOU1FUm9wQ1kzd1k?oc=5",
-      "excerpt": "无人之境，有“人”向前 南京广播电视台",
-      "publishedAt": "2026-09-27T10:25:30.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "大规模具身智能主题乐园“长隆飞船乐园”在广东横琴开园 - 中青在线",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wZHRuSmFiOHpsVTNOdUhCNGcyVTVzQ0xpV0ZoYk0tbHUzb2taMHUtUFFFVEJTLVlwbUR6NDZCdjRQMnBySU90RlZOZjVqMXZIUEZvRTl6M3Y1dTdQWkhjZzdNTDB6TE5WTHJpNHhUUjV1OElibElrMQ?oc=5",
-      "excerpt": "大规模具身智能主题乐园“长隆飞船乐园”在广东横琴开园 中青在线",
-      "publishedAt": "2026-09-27T08:18:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
     },
     {
       "sourceId": "tactile-news-en",
@@ -1317,6 +1281,42 @@
       "publishedAt": "2026-09-28T10:11:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "[PRNewswire] AGILINK surpasses 15,000 dexterous hands shipped - Yonhap News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZX3UzRkpPaUc1WEtNaE1WWFZiZlEwYjlvQW4yQ2dzSU10N2FUWDZ5TVNjaGt4WWNQQThVZFE4c01hUDJDb19WS1lBTXNQaTJoN09KMnFUT2Vadw?oc=5",
+      "excerpt": "[PRNewswire] AGILINK surpasses 15,000 dexterous hands shipped Yonhap News Agency",
+      "publishedAt": "2026-09-30T13:00:49.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "对抗出汗与运动干扰！科学家研发新型离子电子皮肤—论文 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPclJnRmw4ak4xU1RlR2p2V2NESHg3OFRWUENrUVdFV204b01PV1c1WXl5MVkzTEpLZ2hZYXgxYlBoWmdUbW5UMHVrUGMwZlpJMHNEN0tSaXlWV0hYNDVrRzZWWlpfLThWYkJlTzh3cDhZZ3dpd0QtbkNUY1B6UWkzVWxIdzRwZw?oc=5",
+      "excerpt": "对抗出汗与运动干扰！科学家研发新型离子电子皮肤—论文 科学网—新闻",
+      "publishedAt": "2026-09-28T23:44:25.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "三箭齐发！Sharpa三大新品IROS全球首秀，三位一体再次刷新灵巧操作上限 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VUWJrXzllMEhaOUlRYzRONlZ0V2k0R0NtbEthMGk0djM3N0lMY1kwaGxlSkFGTTZKVUJ2WXlndDRTZTVYVlNUN1NSOVV6QQ?oc=5",
+      "excerpt": "三箭齐发！Sharpa三大新品IROS全球首秀，三位一体再次刷新灵巧操作上限 36kr.com",
+      "publishedAt": "2026-09-27T15:59:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "【国内动态】未来是可以走进去的？！国庆假期，世界机器人大会将登陆虹桥 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5U0Y4ZWhaYTZwM3BJMEZmUmpnYktiaHR0aU5icDNxOTNNSTdXVTdHQkpOTWg4NTE1MVVNNjFsaWo2dkVPQ0FaNDBlaVF1Nld3V0U3cThRUFdmWGQyNDE3ajdUYVV6SXlPaFlsVUIzdk5KdDdIeVE?oc=5",
+      "excerpt": "【国内动态】未来是可以走进去的？！国庆假期，世界机器人大会将登陆虹桥 新浪财经",
+      "publishedAt": "2026-09-30T23:40:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
     }
   ]
 }

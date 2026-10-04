@@ -1,33 +1,6 @@
 {
-  "collectedAt": "2026-10-03T00:25:10.131Z",
+  "collectedAt": "2026-10-04T00:09:04.481Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "编织机器人电子皮肤成为可能！院士专家把复杂电路系统“织入”纤维又细又柔 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ORDdmaW1KM2VZOEdoUHQ2UXRoNy13eFZPRXpjRFp5VjhVdm5fRzBVdE9xWHNQVE40eWYyRU9ONzQ4WGFtYVJwajB0Uk9NUGhZTERLLTQ1UWYzdw?oc=5",
-      "excerpt": "编织机器人电子皮肤成为可能！院士专家把复杂电路系统“织入”纤维又细又柔 上观新闻",
-      "publishedAt": "2026-09-26T09:22:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "新浪网· - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GLWpYaTgyR1o1eGlKRjRqWXBocnJSRDNJWnBhVWNOeGs5V0NaMmR0YldZeVlHdGk0ZXh1aFBRMWdZaU5EbkdiQjdJbW5jQWtrS29oTXV0a01iMlo5N1ctTUdDSQ?oc=5",
-      "excerpt": "新浪网· 手机新浪网",
-      "publishedAt": "2026-09-26T02:12:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
-      "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis/",
-      "excerpt": "While robotaxis prove their driving ability, scaling the industry globally requires solving the unglamorous challenge of fast, local vehicle servicing. The post From 14 cities to 15,000: What it will take to scale robotaxis? appeared first on The Robot Report.",
-      "publishedAt": "2026-09-26T12:34:55.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
     {
       "sourceId": "tactile-news-zh",
       "title": "编织机器人电子皮肤成为可能！院士专家把复杂电路系统“织入”纤维又细又柔_上观新闻 - jfdaily.com",
@@ -102,15 +75,6 @@
     },
     {
       "sourceId": "wrc-news",
-      "title": "【最新】未来是可以走进去的？！国庆假期，世界机器人大会将登陆虹桥 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFNnYmJmam9yZ1pmSnI2ZjNmY0x6c3hnSlBhdi1aWE9Ja3RaODdXcWJTdkRJcjhnNzBmcWZtejkzR2szT1cwN1h0Z0pfdV9PNFEyYk9WTElDOUF0anVvTFI5cURYT2xOYlpCLTVOTjJFajBRVXRWcEZIQ0tiU2xXYS1uWi1JOGs?oc=5",
-      "excerpt": "【最新】未来是可以走进去的？！国庆假期，世界机器人大会将登陆虹桥 新浪财经",
-      "publishedAt": "2026-09-26T13:21:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
       "title": "无人之境，有“人”向前 - 南京广播电视台",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EUkMybFlKOWNCOS04YWFNbEJXU2JaR0pCTlVhSnFhVHVuYmxlWW5oY1U1Y3hJRVJTc3JGR1QzLXhzZFExZnFUdjVIekJRTHFKN1l6LTVKcnlNOU1FUm9wQ1kzd1k?oc=5",
       "excerpt": "无人之境，有“人”向前 南京广播电视台",
@@ -128,29 +92,11 @@
       "source": "Google News｜世界机器人大会"
     },
     {
-      "sourceId": "ifr-industry",
-      "title": "International Federation of Robotics - IFR International Federation of Robotics",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kMnJJQm1uSWNpRjZrUGZxREtnWGNzRDZKX0EwanNQVjFJV3M0eXJRMlVoZFhCenRpQzNoRVN4eHdPeDZhb0Fnb21qVnJWenN2cExxbHhWemhVOHp2cklERDdBRk1sWFJDRkEtRk93ZzlPSVZLc0JJ?oc=5",
-      "excerpt": "International Federation of Robotics IFR International Federation of Robotics",
-      "publishedAt": "2026-09-26T22:46:54.000Z",
-      "category": "politics",
-      "source": "IFR｜机器人产业"
-    },
-    {
       "sourceId": "tactile-news-en",
       "title": "Electronic skin lets users 'see' touch instantly - techxplore.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiNVFPdnFtcEFEZFluYnpUX0ljRzUzWndiU2dfU3Zhd0xlVVZoRFRLSGpMbEtDRzdGZXdmcFZCVDkxYy0wS0U2N3JNSzcyRndnWHZDUG5Tb25wV2VGOUtQQmxFd0Fxa3c2LW9YVm9UOWZIblA5WkhSNjdjcEQ?oc=5",
       "excerpt": "Electronic skin lets users 'see' touch instantly techxplore.com",
       "publishedAt": "2026-09-28T12:40:07.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "How Tactile Sensing Fills the Gap Vision Can’t Measure - Quality Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnZwNEVwWHRmZUtPaXVQYXN6SElkYUpLa2ZNVUlxR2ZHQ2J3VWtvUXRzYjRibWV6ODdZcXdvUGNGOU5ieVh3QU43WjRSS2dPZkRVcTBlLTZ2ZWp1ejdlUFpQd0Y1MEFLaWoxaE9pZHROc1NhZEdMa2ZmbXNZcTREcHJSZUlFUnZ3V0ZDQ2JlWktDbVRmb2ZmRE9iYw?oc=5",
-      "excerpt": "How Tactile Sensing Fills the Gap Vision Can’t Measure Quality Magazine",
-      "publishedAt": "2026-09-26T04:00:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉传感器"
     },
@@ -542,15 +488,6 @@
       "source": "arXiv｜触觉研究"
     },
     {
-      "sourceId": "arxiv-tactile",
-      "title": "GlowTact: Simple and Compact Vision-Based Tactile Sensing with High Sensitivity and Spatial Resolution",
-      "url": "https://arxiv.org/abs/2609.32471v1",
-      "excerpt": "",
-      "publishedAt": "2026-09-26T11:01:17.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
       "sourceId": "robot-report",
       "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
       "url": "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026/",
@@ -594,16 +531,6 @@
       "publishedAt": "2026-09-29T10:40:50.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Recursive Harness Distillation across Agents for Robot Manipulation",
-      "url": "https://huggingface.co/papers/2609.33378",
-      "excerpt": "A central goal in robotics is to enable manipulation across changing tasks and environments. Vision-language-action (VLA) models provide broad manipulation capabilities but can struggle when execution requires diagnosing failures and adapting behavior. Strong agents can discover effective interventi",
-      "publishedAt": "2026-09-27T00:00:00.000Z",
-      "meta": "👍 30",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
     },
     {
       "sourceId": "openai-news",
@@ -784,16 +711,6 @@
       "excerpt": "Vision-language-action (VLA) models perform well on shorter-horizon manipulation tasks but still struggle with long-horizon tasks that require multiple dependent manipulations from a single command. Online reinforcement learning (RL) can improve these policies through environment interaction, yet ma",
       "publishedAt": "2026-09-28T00:00:00.000Z",
       "meta": "👍 5",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "AnyStep-WAM: Budget-Aligned Distillation and Adaptive Inference for World Action Models",
-      "url": "https://huggingface.co/papers/2609.33748",
-      "excerpt": "World-action models (WAMs) couple predictive visual modeling with action generation, typically relying on iterative denoising with a fixed denoising steps. However, manipulation tasks contain actions chunks with varying sensitivity to generation errors: critical actions require precision, while less",
-      "publishedAt": "2026-09-27T00:00:00.000Z",
-      "meta": "👍 4",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
     },
@@ -1310,6 +1227,105 @@
       "publishedAt": "2026-10-02T16:15:00.000Z",
       "category": "politics",
       "source": "OpenAI News"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "IROS 2026 | PaXini Showcases Full-Stack Tactile Strategy for Physical AI - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWTdkNmVaWlVwT29QU05kVUtYT3piWUc0RnlvVzg3WmlSRUl3RVZpQkI2aTR3SVpGTEpkN3BqQ015SzJ5RW85RkdMQTBxTjhPYW1BTVEyaS1WazlaXzZoY1M3YTlxenFock1sWERDbF9MbmZHUnV1TjU3UmN5bTZSVWVUV3R1LXBPMVlfSmJFUG9RQkw4?oc=5",
+      "excerpt": "IROS 2026 | PaXini Showcases Full-Stack Tactile Strategy for Physical AI Digital Journal",
+      "publishedAt": "2026-10-03T14:08:03.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Just Over a Year Since Inception, LumiBot Challenges Embodied AI's Data Bottleneck at IROS 2026 - The Malaysian Reserve",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHpZcmRkUVIzQ3NOQXgxSEhfUDJPOHVOc0hkaXBUaFJ6T01Eb3RzaUVvT2RxclVDOExRTFVJQ3VXWlpkSkxnU2syZlQ1blJxb2tUa0N1VmVMTXM5QmpaSjZfcmJMT0tRRjBqblplNU8tSFFpVUNFWXExMUR0Mk5fTnBpQU1CZVRhRV93VnlsRGgtVk5NY09YSE44eTNic3hSTFNlT2VSMHc4blJHZzEyajlpSUZySFBWQ0w2QWt0Y2M2dGF2aVJhMVVPVm1hbUdpZkZj?oc=5",
+      "excerpt": "Just Over a Year Since Inception, LumiBot Challenges Embodied AI's Data Bottleneck at IROS 2026 The Malaysian Reserve",
+      "publishedAt": "2026-09-30T03:33:14.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "电子皮肤90亿的市场，谁在分？ - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaUnZBeXkzbno1SVl6dWwyWVUzTk1CM1gtcUUzWDNPd3FQSmFzcGJJNktxaE1qc0lTYzNYdXBYRi03SGNfdzFhdkdtUUhXalQtZVZn?oc=5",
+      "excerpt": "电子皮肤90亿的市场，谁在分？ 电子工程专辑",
+      "publishedAt": "2026-10-03T00:30:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "山东轻工职业学院在省级大学生创新大赛中荣获金奖 - hb.dzwww.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BdzdET0paNlZuS1kzQWYxemJobWJGQ3NLZEdtOF9HQ1ZJTFBZQjFpY1BGdm9OSUpIY0FWUGdEckxQNlg3c2Zac0c4SEdLb1k0?oc=5",
+      "excerpt": "山东轻工职业学院在省级大学生创新大赛中荣获金奖 hb.dzwww.com",
+      "publishedAt": "2026-09-29T06:21:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "大寰机器人携多款灵巧手亮相IROS，全直驱13自由度灵巧手全球首秀-AI云资讯 - icloudnews.net",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OM3NmTXRsLTlYa0FGdTBPYUVId0J5TlJDWGV4a3JNUzNNdlFRRFdFeE5BVDVneERCbUJzNnBtSkk2cGRxTGtIZFVieFItcm9wZUE?oc=5",
+      "excerpt": "大寰机器人携多款灵巧手亮相IROS，全直驱13自由度灵巧手全球首秀-AI云资讯 icloudnews.net",
+      "publishedAt": "2026-09-30T01:48:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "Sharpa连发三款机器人新品，眼疾手快挑战赛“零失手” - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44TDZjbm9mdHJ3OWJTOUJXQTQwUzE4Q191amhWWWNXZjFORU1HN2V0N0lqSGNRbmRmVlpCQV9CUnVJa2xRSjVtMnM0LUNUT2pETTR2aG5BQXZBdDBrVmtlUw?oc=5",
+      "excerpt": "Sharpa连发三款机器人新品，眼疾手快挑战赛“零失手” 搜狐网",
+      "publishedAt": "2026-09-28T13:59:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "The physical AI race will be won in the patent office",
+      "url": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
+      "excerpt": "Patent protection is important for robotics startups, but they should be strategic in determining what IP is important, says Lightbringer. The post The physical AI race will be won in the patent office appeared first on The Robot Report.",
+      "publishedAt": "2026-10-03T14:30:07.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "长沙：工程机械产业沃土长出物理AI新枝|世界机器人大会|新华每日电讯|长沙市|新华社|机器人_手机新浪网 - finance.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTZyT2lCMEtKeTlFd0pWVVYtMXdOTjdVQ1o1TXVtY1A2T3UxbTUzWDhpNjFxbzZwVzNWdWZMaUo2VHNjNVUzU21NZFFFaEctNnN0NEZiZndTTGt4MTdVeTRaTXhhUlRpenVJc1M4VFJDUUpnYjdCb3IwYzY3MDZHZG13cmFtcjVBMm1mMmI1Q05GY3E4Sng0LXlJVWhTVmU5Uk9YWnA2ODQwM0trUm1GNGF3?oc=5",
+      "excerpt": "长沙：工程机械产业沃土长出物理AI新枝|世界机器人大会|新华每日电讯|长沙市|新华社|机器人_手机新浪网 finance.sina.cn",
+      "publishedAt": "2026-09-29T10:53:31.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "量产提速、场景深耕！2026世界机器人大会释放产业升级强信号 - wenxuan.news",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGelRDVEdBYmpPR0ZmTzJLS01ZNmdJSW53WmpjaUVXakh6UUM3eFM2X0EwbEJZcTVySEczaC1BcTM4OE1DYkVUNV9wbEN5dWFLY3c?oc=5",
+      "excerpt": "量产提速、场景深耕！2026世界机器人大会释放产业升级强信号 wenxuan.news",
+      "publishedAt": "2026-09-30T19:50:06.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "爆火的螃蟹机器人“跳跳”开源了，还将免费送出100台 - mtz.china.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBYWtjWW41Z3AwR19ROTlGUlp4RTV0ZTk5bWV3dmExY3BUVDhxdHQtX2NQaWxYX0hGMzZEUi1aYXpGbTJ5STBNTFBJLVVqbUhob09NT0lfZ0JmQTZKSHc?oc=5",
+      "excerpt": "爆火的螃蟹机器人“跳跳”开源了，还将免费送出100台 mtz.china.com",
+      "publishedAt": "2026-09-30T01:17:13.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "华为、腾讯、阿里都盯上的生意：不造机器人，却想控制所有机器人 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JS2YydGNtZk5jVFhtTFctckRyY0FVX1hzVWZ5TnNKSWlhb0R6Qkh4VE1uejZpM1gzQkNSMTFTbXpwOXVlbFpoOFBwdkZHdw?oc=5",
+      "excerpt": "华为、腾讯、阿里都盯上的生意：不造机器人，却想控制所有机器人 36kr.com",
+      "publishedAt": "2026-09-27T14:11:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
     }
   ]
 }

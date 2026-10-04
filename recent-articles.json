@@ -1,33 +1,6 @@
 {
-  "collectedAt": "2026-10-04T00:09:04.481Z",
+  "collectedAt": "2026-10-04T06:03:01.518Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "编织机器人电子皮肤成为可能！院士专家把复杂电路系统“织入”纤维又细又柔_上观新闻 - jfdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fX1dyYlFmSDY5YnNVRWZSOXZRckNVbV9yVFVkSll4c2Voay1DQ1gycERYSlR3NTJsdGJEY0JpZUItMnJWVm0zYnFZZVoxdERaY3VHSFUtQlg?oc=5",
-      "excerpt": "编织机器人电子皮肤成为可能！院士专家把复杂电路系统“织入”纤维又细又柔_上观新闻 jfdaily.com",
-      "publishedAt": "2026-09-27T02:02:53.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "501亿市场规模，仅卖1.92万只，灵巧手还算不过来经济账就价格战？ - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmJuaENfNUEtV1J6M0hfZm1SOWRRSXRZRkVFWklEM0pKMUZOY1lJVFpZNkt1N0NSU1F4cTBRN3FBYjJOTHkxSVE3RzJmazZCNjhOWlhEQ1M4SFl1ODRjbEU0VjhYT3dHR1kwaV95SmxEUGpZbnp2dTMydWhQd0RhTG0yX1JhQzRD?oc=5",
-      "excerpt": "501亿市场规模，仅卖1.92万只，灵巧手还算不过来经济账就价格战？ sohu.com",
-      "publishedAt": "2026-09-27T03:47:55.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "对抗出汗与运动干扰！青岛科技大学团队研发新型离子电子皮肤 - news.sciencenet.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3ckQ4dm9ncElpSWVMWU45YmQ0dU9WTENNWTgwc1BqX2phOE1RSVdSQnYxWHNvc2ZQYjJlc0hleVpLdGF6NGl3ZlNublJ3VUxURmV4bmRPSUlHbERLOTY1TkRNY20?oc=5",
-      "excerpt": "对抗出汗与运动干扰！青岛科技大学团队研发新型离子电子皮肤 news.sciencenet.cn",
-      "publishedAt": "2026-09-27T04:54:30.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
     {
       "sourceId": "tactile-news-zh",
       "title": "触觉传感器从10万降到199元机器人价格打下来了 - finance.sina.com.cn",
@@ -479,15 +452,6 @@
       "source": "arXiv｜触觉研究"
     },
     {
-      "sourceId": "arxiv-tactile",
-      "title": "Learning with Object-centric Representations of Tactile Interactive Perception for Robot Manipulation",
-      "url": "https://arxiv.org/abs/2609.33235v1",
-      "excerpt": "",
-      "publishedAt": "2026-09-27T05:24:12.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
       "sourceId": "robot-report",
       "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
       "url": "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026/",
@@ -738,15 +702,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTYUNvZHprZ1BpNG9LWThZZE45ZV95TXZnczJDUHRNTVBHVmg3cm5mNVg4Uk83M1d6NWF6RkFzOHZZUGJFYjNQenQ3RkkxUE93MXRGdS11WHdMLW5QTUFJQzJsT1BmUlBmWHc?oc=5",
       "excerpt": "机器人价格打下来了！触觉传感器从10万降到199元 app.dahecube.com",
       "publishedAt": "2026-09-27T13:44:09.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
-      "title": "把电路系统“纺”进纤维 机器人或拥有电子皮肤 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SSFpfQVMzWnlHTkpWU01OUG5IWmhIQzlDTy1adWlhTkoxZG1SNDZuc3ZKUWxkR1h4TDNEeVhoMUVEdTEyZTRxOWpzQmU1Mkx5WlRyaldPQlEzeDM5eUJHVjlxTUpnNXd2SW95U3dheFZ1RHZ2c0E1dw?oc=5",
-      "excerpt": "把电路系统“纺”进纤维 机器人或拥有电子皮肤 新浪财经",
-      "publishedAt": "2026-09-27T03:01:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉产业链"
     },
@@ -1326,6 +1281,42 @@
       "publishedAt": "2026-09-27T14:11:00.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Scientists develop electronic skin tattoos to monitor health - ehealth.eletsonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV011eGE0SWQyaTdxTUJpSTZmN0p4Y2h6V1dfeDlWdUVnN3RjbGVxNzJaUFJHUW9fM1pfSHRMaFV3SVhzYU9namEyNU12cEdXTHRnWXJXNmpsc2VGendXZjcwYVQzUDNSWkg3Nk4zWl93SmpTZXlBRXdKVGlOdWp0LUFRckZQbzZlM3A0RUNidW9SLXNQLWZOT1ZrQkdxU1NLNVZj?oc=5",
+      "excerpt": "Scientists develop electronic skin tattoos to monitor health ehealth.eletsonline.com",
+      "publishedAt": "2026-09-29T01:08:24.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "东华大学团队研发可编程纺丝技术 编织机器人电子皮肤成为可能 - sh.chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlRXB6UVZfMVFmMzAwMFNocFo3eVpZNU81OUYwOTNpWFlnbmxoVExadk9INzNnZFAzOHk1LVdsVnUyQXB4SkE3WDdZRnIwY09nZmlRV1dFSUZsY1VVbzdJVHVZSk5INXg2Ym5FdA?oc=5",
+      "excerpt": "东华大学团队研发可编程纺丝技术 编织机器人电子皮肤成为可能 sh.chinanews.com.cn",
+      "publishedAt": "2026-10-01T05:32:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "杭州灵巧手公司亮相IROS 2026，展示从感知到决策再到执行的全栈闭环 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DUzZqWk9jX3g2Y0owOVJ5Z1ZmTTZJSndsdEt0ei1qaU9IUGxfdUZYdW1aNkNRTUo2dk8yUUFlTi1WVDFKMXdPWF9hUDBBZVhvQVY3UVJNRlp1TWRxOGdudnhUQ2NFMUNTNFBwVFNrNzBMZ0czR0diS3VLcTMwaUk?oc=5",
+      "excerpt": "杭州灵巧手公司亮相IROS 2026，展示从感知到决策再到执行的全栈闭环 新浪财经",
+      "publishedAt": "2026-09-30T05:58:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "从一只快拆数采手套，看触觉数据的下半场 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02bGtfNG95T0Q5T0xSQXFWaWo0bzRxLXA3NTVuWFVVMTN5TmczeWtrRjRYZ0R3MFdSbU1rVUQ4T0ZJWm9pUjFQVjRWQU1PY29sWldvZnZsUmpiRmlzLXV2Zg?oc=5",
+      "excerpt": "从一只快拆数采手套，看触觉数据的下半场 搜狐网",
+      "publishedAt": "2026-09-28T10:11:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
     }
   ]
 }

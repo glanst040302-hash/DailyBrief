@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-04T23:03:11.063Z",
+  "collectedAt": "2026-10-05T01:52:54.716Z",
   "articles": [
     {
       "sourceId": "tactile-news-en",
@@ -153,15 +153,6 @@
       "publishedAt": "2026-09-28T21:48:56.000Z",
       "category": "finance",
       "source": "IEEE Spectrum｜Robotics"
-    },
-    {
-      "sourceId": "openai-news",
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "excerpt": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "category": "politics",
-      "source": "OpenAI News"
     },
     {
       "sourceId": "mit-ai",
@@ -358,15 +349,6 @@
       "url": "https://arxiv.org/abs/2609.35450v1",
       "excerpt": "",
       "publishedAt": "2026-09-28T15:43:26.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "TacGooseBumps (TacGB): Retrofitting Normal-Only Tactile Sensors with Shear Encoding for Learning Contact-Rich Manipulation",
-      "url": "https://arxiv.org/abs/2609.34006v1",
-      "excerpt": "",
-      "publishedAt": "2026-09-27T23:04:32.000Z",
       "category": "tech",
       "source": "arXiv｜触觉研究"
     },
@@ -578,26 +560,6 @@
       "source": "Google News｜世界机器人大会"
     },
     {
-      "sourceId": "huggingface-papers",
-      "title": "LLMs are General Asynchronous Agents",
-      "url": "https://huggingface.co/papers/2609.35427",
-      "excerpt": "Modern LLMs are increasingly capable as autonomous agents, but they follow sequential interaction cycles: read, think, reply or call tools, repeat. Many real-world use cases are not sequential: voice assistants, embodied agents, and monitoring systems receive new inputs while they think or perform a",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "meta": "👍 61",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "StructRL: Online Structured Reinforcement Learning for Long-Horizon Vision-Language-Action Tasks",
-      "url": "https://huggingface.co/papers/2609.36352",
-      "excerpt": "Vision-language-action (VLA) models perform well on shorter-horizon manipulation tasks but still struggle with long-horizon tasks that require multiple dependent manipulations from a single command. Online reinforcement learning (RL) can improve these policies through environment interaction, yet ma",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "meta": "👍 5",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
       "sourceId": "openai-news",
       "title": "Disrupting a coordinated model-distillation campaign",
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
@@ -770,31 +732,11 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "The Low-Rank Structure of VLA Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2609.34599",
-      "excerpt": "Reinforcement learning (RL) is increasingly used to post-train vision-language-action (VLA) models, yet how RL reshapes these policies remains poorly understood. We find that RL across widely used flow-based VLA models, including π_{0.5} and GR00T~N1.5/N1.6, on LIBERO, ManiSkill, MetaWorld, and CALV",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "meta": "👍 8",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "Beyond the Remembered World: Predictive 4D Belief for Persistent Navigation in Evolving Worlds",
       "url": "https://huggingface.co/papers/2609.39166",
       "excerpt": "Persistent spatial memory enables embodied agents to navigate familiar environments across repeated visits. However, targets may move while unobserved, including during navigation, making remembered locations unreliable by the time an agent arrives. Despite advances in memory retrieval and state pre",
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "meta": "👍 4",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "NavHarness: Towards Lifelong Embodied Navigation",
-      "url": "https://huggingface.co/papers/2609.34276",
-      "excerpt": "Frontier models can now perform well on individual embodied navigation tasks through multi-round multimodal reasoning with simple tools. Across successive tasks, however, an agent must also rely on an evolving map and earlier search records, both of which may be incomplete or conflict with new obser",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "meta": "👍 3",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
     },
@@ -930,15 +872,6 @@
       "url": "https://arxiv.org/abs/2609.35450v2",
       "excerpt": "",
       "publishedAt": "2026-09-28T15:43:26.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "TacGooseBumps (TacGB): Retrofitting Normal-Only Tactile Sensors with Shear Encoding for Learning Contact-Rich Manipulation",
-      "url": "https://arxiv.org/abs/2609.34006v2",
-      "excerpt": "",
-      "publishedAt": "2026-09-27T23:04:32.000Z",
       "category": "tech",
       "source": "arXiv｜触觉研究"
     },
@@ -1286,6 +1219,42 @@
       "sourceId": "wrc-news",
       "title": "回到成都“主场” 新都“机器人天团”依旧人气爆棚 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSQlgtOWRBN3FhbEd0UHVzM1VjYlg3ZzdNWGdvb25kTTdWRHhmQ19OMDV6M2NfOWFaYkl6U2IyTGxhOWxyQVEtNjFBcjRQbU9jY2c?oc=5",
+      "excerpt": "回到成都“主场” 新都“机器人天团”依旧人气爆棚 搜狐网",
+      "publishedAt": "2026-09-30T11:59:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "从一只快拆数采手套，看触觉数据的下半场 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xY2tudDhWSnpRZ0xOUVAwZG5VTHN4RktTYWpLMWdEZmdKcVB1T09NT05LQ2RpZnlNbVhJT2pQRlNVY3FwZzBCMldZZ1ZsWmJscXFJ?oc=5",
+      "excerpt": "从一只快拆数采手套，看触觉数据的下半场 搜狐网",
+      "publishedAt": "2026-09-28T10:11:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "arxiv-tactile",
+      "title": "SimpleTouch: Can Vision-Language-Action Models Master Contact-Rich Manipulation Without Tactile Policy Pretraining?",
+      "url": "https://arxiv.org/abs/2610.02784v1",
+      "excerpt": "",
+      "publishedAt": "2026-10-02T04:19:13.000Z",
+      "category": "tech",
+      "source": "arXiv｜触觉研究"
+    },
+    {
+      "sourceId": "arxiv-tactile",
+      "title": "SoTa: Soft Tactile Skins for Dexterous Manipulation",
+      "url": "https://arxiv.org/abs/2610.02338v1",
+      "excerpt": "",
+      "publishedAt": "2026-10-01T18:08:59.000Z",
+      "category": "tech",
+      "source": "arXiv｜触觉研究"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "回到成都“主场” 新都“机器人天团”依旧人气爆棚 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12VWx2Y0xITl9pN1RHa2FGdGRvVlZZbzBndEo5WFp5S3JTVzUwQU94S1ZMNE5IdjVhMmZiS3o3VTZUbVZETGxxQm1vZnVNWlVIcVRGZEJpQ0RoRU9wQklLTUFCNHRfb0k?oc=5",
       "excerpt": "回到成都“主场” 新都“机器人天团”依旧人气爆棚 搜狐网",
       "publishedAt": "2026-09-30T11:59:00.000Z",
       "category": "finance",

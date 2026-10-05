@@ -1,0 +1,33 @@
+{
+  "hero_headline": "北京设机器人训练场，具身数据采集提速",
+  "daily_overview": "当日候选信息以机器人与具身智能的场景侧动态为主：北京出现以「幼儿园」形态集中训练的机器人场地，指向真实操作数据的规模化采集；世界机器人大会与青少年赛事同期举行，消费与教育侧热度上升。触觉传感、灵巧手与力控标定等上游环节暂无新增事实披露，产业链当日缺乏可验证的硬件或标准增量。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "北京设机器人训练场，集中采集操作数据",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05R3U0UWV5REJQNUJRU2xTMnFwMGtPc201cUViRF9UcTl3dmpsamUxTUhadnpodjAzbXBoY0FnWHBGTVZoQldpT0M3WGhPRndNc1pNd2JtUE1HeDBWeTV0TGVMcUtyZzN6OGRaVWZMNEczUXZzMDRPZA?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "北京出现以「幼儿园」形式运行的机器人训练场地，集中开展真实环境操作训练。\n具身智能的竞争重心正从模型规模转向可复用的真实场景数据与训练基础设施。\n数据采集环节的标定与同步方案，决定力觉、触觉等模态能否真正进入操作学习闭环。",
+      "importance": 5
+    },
+    {
+      "title": "机器人大赛与展会密集，现场以科普演示为主",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zRHFrQXk0WjgwdUh5bEpHdXNUZEhwYXB0amFQQ3dRU3JfclhiY1NYQ2xpc19WNFRDNVZzNElUVmRxRS1BVG5PaUdGWHF1NDg?oc=5",
+      "source": "Google News｜世界机器人大会",
+      "summary": "世界机器人大会与 Robotex 亚洲总决赛同期举行，现场多为形态类演示与青少年赛事。\n展会与赛事的密集举办，反映机器人教育与消费侧关注度继续上升。\n公开信息未涉及灵巧手配置、传感方案或量产计划，对触觉供应链暂无实质增量。（多家报道）",
+      "importance": 3
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "当日有效信息集中在训练数据与公众场景，缺少传感、封装与标准层面的硬事实，故仅保留两条并下调优先级。",
+  "keywords": [
+    "具身智能",
+    "操作数据采集",
+    "机器人训练场",
+    "世界机器人大会",
+    "青少年机器人赛事",
+    "触觉传感",
+    "灵巧手",
+    "力控标定"
+  ]
+}

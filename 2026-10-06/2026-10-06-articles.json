@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-06",
+  "articles": [
+    {
+      "sourceId": "robot-report",
+      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
+      "url": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
+      "excerpt": "The companies plan to integrate Teradyne robotics and test technologies with the Bright Machines manufacturing platform. The post Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing appeared first on The Robot Report.",
+      "publishedAt": "2026-10-05T23:34:35.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "FCC robot restrictions could accelerate shift to local AI",
+      "url": "https://www.therobotreport.com/fcc-robot-restrictions-could-accelerate-shift-to-local-ai/",
+      "excerpt": "Companies deploying physical AI today need to decide which AI workloads belong on the robot, what can remain in the cloud, and whether the underlying technology stack can meet rising expectations for security, safety, and supply-chain transparency. The post FCC robot restrictions could accelerate sh",
+      "publishedAt": "2026-10-05T17:30:12.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    }
+  ]
+}

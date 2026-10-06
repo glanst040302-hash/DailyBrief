@@ -1,0 +1,33 @@
+{
+  "hero_headline": "泰瑞达加码机器人制造，FCC 限制推动端侧 AI",
+  "daily_overview": "泰瑞达投资 Bright Machines，把机器人及测试技术嵌入 AI 基础设施制造；美国 FCC 对机器人限制的讨论升温，业界预期 AI 推理加速向端侧迁移。制造力控装配与端侧感知需求同步抬升，触觉传感与边缘计算成为具身智能落地支点。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "泰瑞达投资 Bright Machines 布局 AI 基建制造",
+      "url": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
+      "source": "The Robot Report",
+      "summary": "泰瑞达宣布投资 Bright Machines，计划把机器人及测试技术整合进后者制造平台。\n目标指向 AI 基础设施的自动化生产，属于机器人在真实产线的规模化部署。\n产线自动化将增加力控装配与触觉反馈渗透，为触觉传感器带来增量需求。",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "FCC 机器人限制讨论或推动 AI 端侧化",
+      "url": "https://www.therobotreport.com/fcc-robot-restrictions-could-accelerate-shift-to-local-ai/",
+      "source": "The Robot Report",
+      "summary": "美国 FCC 对机器人的限制讨论升温，业内认为将加速 AI 推理从云端转向本地。\n若监管落地，机器人厂商需重新划分端侧与云端的算力分配。\n端侧感知权重上升，触觉信号的处理与融合将更依赖本地计算。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "两条消息指向同一趋势：机器人落地既受制造端自动化拉动，也受监管重塑技术栈。触觉与端侧算力是下一阶段务实投入点。",
+  "keywords": [
+    "触觉传感器",
+    "机器人制造",
+    "端侧 AI",
+    "FCC 监管",
+    "具身智能",
+    "边缘计算",
+    "力控装配"
+  ]
+}

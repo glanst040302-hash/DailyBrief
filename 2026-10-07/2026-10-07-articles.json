@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-07",
+  "articles": [
+    {
+      "sourceId": "robot-report",
+      "title": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
+      "url": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
+      "excerpt": "Before Boston Dynamics, Prasad served as senior vice president and head scientist for Alexa and artificial general intelligence at Amazon. The post Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO appeared first on The Robot Report.",
+      "publishedAt": "2026-10-06T21:00:30.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
+      "url": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
+      "excerpt": "TwelveLabs says its Pegasus 1.6 model understands first-person video and supports workflows including labeling for robotics developers. The post Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs appeared first on The Robot Report.",
+      "publishedAt": "2026-10-06T20:07:48.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Sovereign AI, same landlord — thoughts on the physical AI race",
+      "url": "https://www.therobotreport.com/sovereign-ai-same-landlord-thoughts-physical-ai-race/",
+      "excerpt": "While physical AI architecture alternatives are growing in number, NVIDIA has taken a sovereign strategy to ensuring its role. The post Sovereign AI, same landlord — thoughts on the physical AI race appeared first on The Robot Report.",
+      "publishedAt": "2026-10-06T17:47:50.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "FireDome builds autonomous ‘artillery’ for wildfire defense",
+      "url": "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/",
+      "excerpt": "FireDome builds autonomous wildfire defense systems to protect communities and infrastructure before firefighters arrive. The post FireDome builds autonomous ‘artillery’ for wildfire defense appeared first on The Robot Report.",
+      "publishedAt": "2026-10-06T16:00:31.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "在国庆节邂逅一场青少年科创盛宴 - 上海科技报",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84MU92aUZ3VTFQTWEyZ3BWQ2kxWGQwejZ4OWZtZ1NzV1RWcmZWZU1OemVRU1ZUX3NTN1BXcEFoc0NuNVlCZVktUVdacG0ycVR3M001WEFmOA?oc=5",
+      "excerpt": "在国庆节邂逅一场青少年科创盛宴 上海科技报",
+      "publishedAt": "2026-10-06T16:44:35.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "excerpt": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "category": "politics",
+      "source": "OpenAI News"
+    }
+  ]
+}

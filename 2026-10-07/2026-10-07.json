@@ -1,0 +1,40 @@
+{
+  "hero_headline": "波士顿动力换帅，物理AI视频数据工具提速",
+  "daily_overview": "今日智能化主线集中在机器人与物理AI：波士顿动力换帅，前亚马逊高管接任CEO；TwelveLabs推出Pegasus 1.6，以第一人称视频理解支撑机器人数据标注；FireDome将自主系统用于野火防御。触觉传感器与柔性电子今日无实质新增。",
+  "tech_briefs": [],
+  "finance_briefs": [
+    {
+      "title": "Pegasus 1.6：面向物理AI的视频理解模型",
+      "url": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
+      "source": "The Robot Report",
+      "summary": "TwelveLabs发布Pegasus 1.6视频理解模型。可解析第一人称视频，并支持机器人开发者的数据标注流程。物理AI的操作学习正愈发依赖视频与多模态感知数据。",
+      "importance": 7
+    },
+    {
+      "title": "FireDome用自主系统承担野火防御",
+      "url": "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/",
+      "source": "The Robot Report",
+      "summary": "FireDome开发自主野火防御系统，在消防力量抵达前保护社区与基础设施。系统以自主发射装置完成感知与拦截动作。属机器人从工厂走向户外基础设施的真实部署。",
+      "importance": 5
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "波士顿动力任命前亚马逊高管Prasad为CEO",
+      "url": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
+      "source": "The Robot Report",
+      "summary": "波士顿动力任命Rohit Prasad为首席执行官。Prasad此前在亚马逊负责Alexa与通用人工智能研究。管理层更替或影响人形机器人商业化与物理AI战略节奏。",
+      "importance": 8
+    }
+  ],
+  "editor_note": "触觉侧今日无实质新增，物理AI进展集中在视觉数据与组织调整；感知—行动闭环的短板仍在触觉反馈与力控环节。",
+  "keywords": [
+    "波士顿动力",
+    "物理AI",
+    "视频理解",
+    "具身智能",
+    "数据标注",
+    "野火防御",
+    "触觉传感器"
+  ]
+}

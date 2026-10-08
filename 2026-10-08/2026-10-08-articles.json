@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-08",
+  "articles": [
+    {
+      "sourceId": "tactile-news-en",
+      "title": "New display technology combines record brightness with pixels that stretch like rubber - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkJrLXo1S2JNUzhNVkFlY0oyZkR3dHl5eDd6d0JYQ0V4WlFydlJjdVJxaEJqenRuR21CM1JjM1A0TTdyT19uQ1pBMnpCUGhMU1MzbmlaR1QyeFI0enlZeW9LaWg3VGVCUkI2ZXZyR1NRa3UyaDFreVFYVW16VXFsY21uQmdRUWs?oc=5",
+      "excerpt": "New display technology combines record brightness with pixels that stretch like rubber Phys.org",
+      "publishedAt": "2026-10-07T20:30:02.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "冲刺“全球触觉感知第一股” - 天津日报",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2NjNE94ejN6dFVLS19aV2NieXN4LS05NElRT0R5YWREdUdTTnQzNWtMYUc2RTFkZ3VLZ1IyYWVIQ0xlN280WUhULVVFUnpXOXByRHY0LTMtNHRGRENYUkNubjlWZjRfVHJQNThhLVh1MmxkOFU1R19ER0ZBV1Bfd0ZR?oc=5",
+      "excerpt": "冲刺“全球触觉感知第一股” 天津日报",
+      "publishedAt": "2026-10-07T21:00:29.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "PTC acquisition positions Schneider Electric to challenge Siemens",
+      "url": "https://www.therobotreport.com/ptc-acquisition-positions-schneider-electric-challenge-siemens/",
+      "excerpt": "The Schneider Electric acquisition of PTC gives it a 'digital thread' from design through operations, but it needs to integrate data and software, says Interact Analysis. The post PTC acquisition positions Schneider Electric to challenge Siemens appeared first on The Robot Report.",
+      "publishedAt": "2026-10-07T21:07:53.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Teradyne Robotics, Elite Robots settle cobot dispute",
+      "url": "https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute/",
+      "excerpt": "Teradyne Robotics and Elite Robots have settled their software dispute, ending the legal case without disclosing the terms of the agreement. The post Teradyne Robotics, Elite Robots settle cobot dispute appeared first on The Robot Report.",
+      "publishedAt": "2026-10-07T16:20:52.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "科技赋能文旅，广东横琴点亮“海洋假期”|世界机器人大会|国庆节|广东省|珠海市|国庆假期 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUFZWUFDaUQzTDgyUDZheHJRTE1uVmQ4RXZJZVk3WFBiZlNEcUlOTDlUY2hrNFJlMXNKNUdFUDY5V3VTZlNfVlJoUGFmNFdCcUYtN09NQWhFMmRDVEtjb1ZOZEt4Z1FMeUkzdnNZRk5UdDM5bzdRN1VSMEtRamF3aEp5OFBQZTE3aFNQSC0tblhaOHZWUHl0Tg?oc=5",
+      "excerpt": "科技赋能文旅，广东横琴点亮“海洋假期”|世界机器人大会|国庆节|广东省|珠海市|国庆假期 新浪财经",
+      "publishedAt": "2026-10-07T17:37:01.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    }
+  ]
+}

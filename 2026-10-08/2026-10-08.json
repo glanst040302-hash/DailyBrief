@@ -1,0 +1,48 @@
+{
+  "hero_headline": "触觉感知企业冲刺上市，可拉伸显示刷新亮度",
+  "daily_overview": "触觉感知赛道出现首个冲刺公开市场的企业，显示技术则在可拉伸像素与亮度上取得突破，两者共同指向柔性材料与读出电路的复用路径。协作机器人厂商结束软件纠纷，工业自动化巨头借收购补齐数字主线，感知层竞争正从器件向数据与平台延伸。",
+  "tech_briefs": [
+    {
+      "title": "触觉感知企业冲击全球第一股",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2NjNE94ejN6dFVLS19aV2NieXN4LS05NElRT0R5YWREdUdTTnQzNWtMYUc2RTFkZ3VLZ1IyYWVIQ0xlN280WUhULVVFUnpXOXByRHY0LTMtNHRGRENYUkNubjlWZjRfVHJQNThhLVh1MmxkOFU1R19ER0ZBV1Bfd0ZR?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "天津日报报道一家触觉感知企业正冲刺上市，自称目标为全球触觉感知第一股。\n若成行，将为触觉传感器提供首个公开市场定价与融资通道。\n该赛道长期缺少规模化资本出口，此举或加速电子皮肤与灵巧手感知层的量产投入。",
+      "importance": 8
+    },
+    {
+      "title": "可拉伸显示实现纪录亮度像素",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkJrLXo1S2JNUzhNVkFlY0oyZkR3dHl5eDd6d0JYQ0V4WlFydlJjdVJxaEJqenRuR21CM1JjM1A0TTdyT19uQ1pBMnpCUGhMU1MzbmlaR1QyeFI0enlZeW9LaWg3VGVCUkI2ZXZyR1NRa3UyaDFreVFYVW16VXFsY21uQmdRUWs?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "Phys.org 报道一种新型显示技术，像素可像橡胶一样拉伸并实现创纪录亮度。\n可拉伸电子与柔性显示、电子皮肤共用材料与结构基础。\n若工艺可放大，柔性电极、封装与读出环节有望复用于触觉传感阵列。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "泰瑞达机器人与艾利特和解协作机器人纠纷",
+      "url": "https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute/",
+      "source": "The Robot Report",
+      "summary": "泰瑞达机器人与中国协作机器人厂商艾利特就软件纠纷达成和解，诉讼终结但条款未披露。\n纠纷了结消除了双方在协作机器人市场的法律不确定性。\n协作机器人是力控与安全感知的主要落地载体，格局变化将影响触觉方案选型。",
+      "importance": 5
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "施耐德收购PTC对标西门子自动化",
+      "url": "https://www.therobotreport.com/ptc-acquisition-positions-schneider-electric-challenge-siemens/",
+      "source": "The Robot Report",
+      "summary": "施耐德电气收购PTC，获得贯穿设计与运营的数字主线，意在挑战西门子。\n行业分析认为其仍须完成数据与软件整合，成效待观察。\n工业自动化软件与机器人数字主线加速融合，传感数据接入成为其中一环。",
+      "importance": 6
+    }
+  ],
+  "editor_note": "今日两条触觉线索均属早期信号：上市进程未披露细节，可拉伸显示仍在实验室阶段，宜持续跟踪工艺可放大性与量产节奏。",
+  "keywords": [
+    "触觉感知",
+    "电子皮肤",
+    "可拉伸显示",
+    "柔性电子",
+    "协作机器人",
+    "工业软件",
+    "上市融资"
+  ]
+}

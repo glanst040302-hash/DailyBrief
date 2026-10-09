@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-09",
+  "articles": [
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Tesla Wants to Give Optimus a Skin That Can Feel - TeslaNorth.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13blpVbFRWYWxYVGJDenZSbVhHaVlfVnZ4ZmtFM0JxU3NJSDJ3Vkk3R0tuRDlCaDZ0ZG4wemJYNWJ3cWJUUko1dDcxYkREYk1BR1FmTDBBemxYOEo2cHV2VkJsZVloczRJMWFYT0lCamxYc1VmRXN4MTR3?oc=5",
+      "excerpt": "Tesla Wants to Give Optimus a Skin That Can Feel TeslaNorth.com",
+      "publishedAt": "2026-10-08T16:47:15.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "超薄电子皮肤让触摸实时“看得见” - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMEdmLWxvNlI5TGFGQVhKNzRxNndiNXZGMVJDd0t1eURZNHlRUnVuNzliZ0VLUUVFcEx6NkVROExXdS0wMFF2RnFoaUdDblM4aThqbzhHVzFTZDBwMFBJaF84TGFwb1dDWm1IUVlBRU0?oc=5",
+      "excerpt": "超薄电子皮肤让触摸实时“看得见” 中国科技网",
+      "publishedAt": "2026-10-08T18:02:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "SafeWorld emerges from stealth to build, deploy robot safety simulation technologies",
+      "url": "https://www.therobotreport.com/safeworld-emerges-stealth-build-deploy-robot-safety-simulation-technologies/",
+      "excerpt": "SafeWorld’s platform provides testing and simulation software to help enterprises evaluate and deploy robots safely and responsibly. The post SafeWorld emerges from stealth to build, deploy robot safety simulation technologies appeared first on The Robot Report.",
+      "publishedAt": "2026-10-08T21:09:48.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Jabil discusses the pace of humanoid robot development and production",
+      "url": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
+      "excerpt": "Jabil, which is working with robot developers such as Apptronik, provides a design perspective on humanoid progress. The post Jabil discusses the pace of humanoid robot development and production appeared first on The Robot Report.",
+      "publishedAt": "2026-10-08T16:16:21.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "川源蹲点观察丨机器人来了：机器人学校该怎么办？ - 新浪新闻",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nd0ZNZnlYdWFhS1BfRzhkcDdob2lfdTdxN0lOMUVnMXN6WGtTR04xOGtIckhnXzF4eTU1TVhqaW9lbGVwNUhWcUtBaW5DRk5zRUhJZC1SVGVEX3RJU1pWbWRGUms0TlBNYjhwR2NnSmdWamJ1M3c?oc=5",
+      "excerpt": "川源蹲点观察丨机器人来了：机器人学校该怎么办？ 新浪新闻",
+      "publishedAt": "2026-10-08T16:35:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    }
+  ]
+}

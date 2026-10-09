@@ -1,0 +1,47 @@
+{
+  "hero_headline": "特斯拉Optimus拟配感知皮肤，触觉成具身智能新战场",
+  "daily_overview": "今日智能化主线仍围绕具身智能的感知补齐展开：特斯拉为Optimus引入可感知皮肤方案，国内超薄电子皮肤实现触摸实时可视化，触觉正从实验室走向整机集成。制造端，捷普披露人形机器人研发与量产节奏，SafeWorld推出机器人安全仿真平台，产业化前置环节同步推进。",
+  "tech_briefs": [
+    {
+      "title": "特斯拉拟为Optimus打造可感知皮肤",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13blpVbFRWYWxYVGJDenZSbVhHaVlfVnZ4ZmtFM0JxU3NJSDJ3Vkk3R0tuRDlCaDZ0ZG4wemJYNWJ3cWJUUko1dDcxYkREYk1BR1FmTDBBemxYOEo2cHV2VkJsZVloczRJMWFYT0lCamxYc1VmRXN4MTR3?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "TeslaNorth报道，特斯拉正为Optimus人形机器人开发具备触觉感知能力的皮肤方案。\n若落地，整机感知将从视觉主导扩展到接触力与材质识别，补上操作闭环的触觉一环。\n该方向将直接拉动柔性基底、触觉阵列、读出电路与封装标定等上游环节。",
+      "importance": 9
+    },
+    {
+      "title": "超薄电子皮肤实现触摸实时可视化",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMEdmLWxvNlI5TGFGQVhKNzRxNndiNXZGMVJDd0t1eURZNHlRUnVuNzliZ0VLUUVFcEx6NkVROExXdS0wMFF2RnFoaUdDblM4aThqbzhHVzFTZDBwMFBJaF84TGFwb1dDWm1IUVlBRU0?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "中国科技网报道，一种超薄电子皮肤可将触摸信号实时转化为可见图像。\n该路线把力—电—光转换集成于薄膜，为触觉标定与空间分辨率提供新的验证手段。\n属于触觉传感在材料、像素化与封装环节的实质技术增量。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "捷普披露人形机器人研发与量产节奏",
+      "url": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
+      "source": "The Robot Report",
+      "summary": "捷普结合与Apptronik等开发商的合作经验，给出人形机器人研发与制造节奏的设计侧判断。\n设计与代工服务商介入，意味着人形机器人开始向可制造性与产能规划过渡。\n量产节奏直接决定电子皮肤与力传感器的采购规模与规格收敛。",
+      "importance": 7
+    },
+    {
+      "title": "SafeWorld结束隐身推出机器人安全仿真平台",
+      "url": "https://www.therobotreport.com/safeworld-emerges-stealth-build-deploy-robot-safety-simulation-technologies/",
+      "source": "The Robot Report",
+      "summary": "SafeWorld结束隐身状态，推出面向企业的机器人安全测试与仿真软件平台。\n平台用于在真实部署前评估机器人安全性与责任边界，降低落地风险。\n仿真与安全验证是具身智能由演示走向规模部署的必要前置环节。",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "触觉皮肤竞争已从论文转向整机与产线，谁先解决标定一致性与封装良率，谁就更早拿到人形机器人的规模化订单。",
+  "keywords": [
+    "特斯拉Optimus",
+    "电子皮肤",
+    "触觉传感器",
+    "人形机器人",
+    "安全仿真",
+    "量产制造",
+    "具身智能"
+  ]
+}

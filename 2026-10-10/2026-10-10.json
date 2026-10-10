@@ -1,0 +1,47 @@
+{
+  "hero_headline": "六维力传感器与触觉布局同步升温，人形机器人手部再迭代",
+  "daily_overview": "国内传感器厂商加速向人形机器人力觉环节靠拢，震裕科技联合开发六维力传感器力控方案，柯力传感以战略参股切入触觉赛道。海外方面，波士顿动力披露 Atlas 新手设计细节，业界同时反思人形演示难以通过泛化测试，数据质量与人类判断被视为走向可靠部署的关键。",
+  "tech_briefs": [
+    {
+      "title": "震裕科技回应：六维力传感器力控方案联合开发",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ybTU0Mk5HbTBqVllTSWxydi1WNmRJNm9EdnNGbjVWU19XZ2JiaTVXanZFWmNaRFBsNGYzRzcyeF9MT2U1V3kxUXFvOGVWZEhjY0F6bVE5YUVONU5OMmJzRzRR?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "公司在互动平台确认人形机器人相关布局。\n六维力传感器力控方案由公司参与联合开发。\n力觉感知是灵巧操作与整机力控的核心环节。",
+      "importance": 6
+    },
+    {
+      "title": "柯力传感回应：以战略参股布局触觉传感器",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rS1paMGFGRzRIeHh4TzhCMTZRSmFSb1EyRXZMSjNmSm9qMzBMTEpWOFpHTUNocUpZcTFzb0JGelItZVFZS3dWY2phenhWYUpyalhqSndRenV4WjdaaWtnRU53?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "公司就机器人传感器话题作出回应。\n通过战略参股方式进入触觉传感器领域。\n传统称重传感企业向机器人触觉赛道延伸。",
+      "importance": 6
+    },
+    {
+      "title": "波士顿动力披露 Atlas 新手设计细节",
+      "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
+      "source": "The Robot Report",
+      "summary": "波士顿动力介绍 Atlas 人形机器人重新设计的手部。\n机器人行为负责人受访说明设计取舍与行为考量。\n手部结构与触觉反馈直接影响灵巧操作能力。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "人形机器人演示为何仍难过泛化关",
+      "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
+      "source": "The Robot Report",
+      "summary": "行业分析指出人形机器人演示难以泛化到真实场景。\n需要更高质量数据与人类判断介入训练闭环。\n泛化不足制约具身智能的规模化落地。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "传感器企业以联合开发与参股方式切入机器人力觉，仍属早期卡位；能否兑现取决于数据闭环与泛化能力。",
+  "keywords": [
+    "六维力传感器",
+    "触觉传感器",
+    "灵巧手",
+    "人形机器人",
+    "具身智能",
+    "泛化能力",
+    "力控方案"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-10",
+  "articles": [
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "震裕科技10月9日回应人形机器人话题：六维力传感器力控方案由公司联合开发_公司新闻 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ybTU0Mk5HbTBqVllTSWxydi1WNmRJNm9EdnNGbjVWU19XZ2JiaTVXanZFWmNaRFBsNGYzRzcyeF9MT2U1V3kxUXFvOGVWZEhjY0F6bVE5YUVONU5OMmJzRzRR?oc=5",
+      "excerpt": "震裕科技10月9日回应人形机器人话题：六维力传感器力控方案由公司联合开发_公司新闻 证券之星",
+      "publishedAt": "2026-10-09T23:06:25.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "柯力传感10月9日回应机器人传感器话题：战略参股布局触觉传感器领域_公司新闻 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rS1paMGFGRzRIeHh4TzhCMTZRSmFSb1EyRXZMSjNmSm9qMzBMTEpWOFpHTUNocUpZcTFzb0JGelItZVFZS3dWY2phenhWYUpyalhqSndRenV4WjdaaWtnRU53?oc=5",
+      "excerpt": "柯力传感10月9日回应机器人传感器话题：战略参股布局触觉传感器领域_公司新闻 证券之星",
+      "publishedAt": "2026-10-09T23:04:23.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Why humanoid robot demos still fail the generalization test",
+      "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
+      "excerpt": "How better data and human judgment can help robots move beyond demos toward reliable real-world performance. The post Why humanoid robot demos still fail the generalization test appeared first on The Robot Report.",
+      "publishedAt": "2026-10-09T19:28:41.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
+      "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
+      "excerpt": "The Robot Report spoke with Alberto Rodriguez, the director of robot behavior for Atlas at Boston Dynamics, about the humanoid's new hand. The post Boston Dynamics gives more insight into its redesigned humanoid hand appeared first on The Robot Report.",
+      "publishedAt": "2026-10-09T16:59:57.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    }
+  ]
+}

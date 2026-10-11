@@ -1,0 +1,33 @@
+{
+  "hero_headline": "电容触觉传感器迎座舱需求，机器人上岗仍待破题",
+  "daily_overview": "今日触觉产业链聚焦电容式触觉传感器的中长期扩张逻辑，汽车数字座舱被列为主要增量场景。具身智能一侧，机器人从演示走向真实岗位仍受数据、成本与模型能力三重制约，落地节奏取决于感知—决策—行动闭环的稳定性。整体呈现需求端先行、供给端仍在爬坡的格局，车规量产与数据积累构成两条并行主线。",
+  "tech_briefs": [
+    {
+      "title": "电容式触觉传感器市场至2035年由座舱驱动",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ29zUnNpbkFuMUtZd1lzaG12eEJXa0ItTW9NZy1kZ212eU5kU1B4TjEybGRJVy1Sd1RzNFJERVNzc3NDUFh4QU1IaDBUbHZ1emE4UDVBbDFEeTJtc3N1dXV5WU55WmxNVXVEQk5rY3BDTHRTUWpuQUM3cWJ5VVJZdnNKY2cyTHk1RnJLYnVVZkxteHpPa2xrZjItY3dqMjQwakk2VTU2YVdmOWNtOVpTUHJhRnZqbFRBVEdpaw?oc=5",
+      "source": "Google News｜触觉传感器",
+      "summary": "市场研究机构给出至2035年的电容式触觉传感器扩张预期，汽车数字座舱被列为需求主引擎。\n这意味着触觉感知正从工业与实验场景转向消费级量产链路，验证节奏随之加快。\n若座舱成为规模入口，柔性电极、读出电路与封装标定的降本压力将同步上升。（多家报道）",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "机器人上岗需先过数据、成本、模型三关",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWR0ZYWXcyR3BWVm85OGJ0UWl4Q2tOd3FQdjJqTW9ybi1YckR3SV9XSnR0TkJCbWtrUFItUHN5ai04SkJMaG1vSmdIZEF1U2N4Zkx5VDJzUVFDbFlKSmplXzhaM2pramdINTdxMm1DVFd0Ni1aZFV4NQ?oc=5",
+      "source": "Google News｜世界机器人大会",
+      "summary": "世界机器人大会相关讨论指出，机器人进入真实岗位仍需跨越数据、成本与模型三道门槛。\n这揭示具身智能的演示能力与规模化部署之间仍存在明显落差。\n力觉与触觉数据的稀缺，是制约感知—决策—行动闭环稳定性与商业化速度的关键环节。",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "触觉赛道当前多由需求侧叙事驱动，真正的分水岭仍在于车规级量产与机器人数据闭环能否同期兑现。",
+  "keywords": [
+    "触觉传感器",
+    "电容式触觉",
+    "电子皮肤",
+    "具身智能",
+    "数据闭环",
+    "数字座舱",
+    "灵巧手"
+  ]
+}

@@ -1,24 +1,6 @@
 {
-  "collectedAt": "2026-10-10T02:15:52.432Z",
+  "collectedAt": "2026-10-11T01:12:53.307Z",
   "articles": [
-    {
-      "sourceId": "tactile-news-en",
-      "title": "IROS 2026 | PaXini Showcases Full-Stack Tactile Strategy for Physical AI - Digital Journal",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWTdkNmVaWlVwT29QU05kVUtYT3piWUc0RnlvVzg3WmlSRUl3RVZpQkI2aTR3SVpGTEpkN3BqQ015SzJ5RW85RkdMQTBxTjhPYW1BTVEyaS1WazlaXzZoY1M3YTlxenFock1sWERDbF9MbmZHUnV1TjU3UmN5bTZSVWVUV3R1LXBPMVlfSmJFUG9RQkw4?oc=5",
-      "excerpt": "IROS 2026 | PaXini Showcases Full-Stack Tactile Strategy for Physical AI Digital Journal",
-      "publishedAt": "2026-10-03T14:08:03.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "The physical AI race will be won in the patent office",
-      "url": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
-      "excerpt": "Patent protection is important for robotics startups, but they should be strategic in determining what IP is important, says Lightbringer. The post The physical AI race will be won in the patent office appeared first on The Robot Report.",
-      "publishedAt": "2026-10-03T14:30:07.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
     {
       "sourceId": "robot-report",
       "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
@@ -165,15 +147,6 @@
     },
     {
       "sourceId": "tactile-news-en",
-      "title": "IROS 2026 | PaXini Showcases Full-Stack Tactile Strategy for Physical AI - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQckVoUlVyQUVFLWRib283SFFSTnJYWVVSdFFIVktZd2EtNjJldExMZ04tdzBUSF9rUTZFa3RIbGFmdWxkc0phMHJIbEVPSnZGVzVQNlY5OGZicTlzdHBXdEJTdzI0Y0tCV2VPRlFMbGZZclp2emt4aFpQcGlwc2R6VS0zb1NHOERxNERVci14cVVJdlM5N2JNNGpCS0FXNVZDNXVxaTBOZ3F3eXBJdFBqYW1jNXctWHVOOWZsdUwxbDVqSndNb1NCdGdlRTQtOHBKSGhYVHJxemhfQXhVcmpSM2kxM1dGZw?oc=5",
-      "excerpt": "IROS 2026 | PaXini Showcases Full-Stack Tactile Strategy for Physical AI The Globe and Mail",
-      "publishedAt": "2026-10-03T12:49:02.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
       "title": "Detects Robot Fingertip Movement and Force... Development of Ultra-Small 3-Axis Magnetic Sensor [Reading Science] - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oa2hFS0l2VHlpb19pYkg2Y0VVUFphOVc5dFRoNkhEbTF3d09xbk4zSXMxZkpBcWR0bVd0aGFMZ0d3eVlucjRZMTBIQU1MSThZLXlaUTVPbW5LZjdKbXBXR1hKd18?oc=5",
       "excerpt": "Detects Robot Fingertip Movement and Force... Development of Ultra-Small 3-Axis Magnetic Sensor [Reading Science] 아시아경제",
@@ -196,33 +169,6 @@
       "url": "https://arxiv.org/abs/2610.08068v1",
       "excerpt": "",
       "publishedAt": "2026-10-06T10:00:56.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "Distributed Cascade Force Control of Soft-Tactile-Based Multi-robot System for Object Transportation",
-      "url": "https://arxiv.org/abs/2610.04775v1",
-      "excerpt": "",
-      "publishedAt": "2026-10-03T21:30:33.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "Robot Learning with Visual Predicted Force",
-      "url": "https://arxiv.org/abs/2610.04741v1",
-      "excerpt": "",
-      "publishedAt": "2026-10-03T20:11:33.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "AgenticTactileVLA: Contact-Guided Execution-Time Supervision for Generalizable Dexterous Manipulation without VLA Retraining",
-      "url": "https://arxiv.org/abs/2610.04391v1",
-      "excerpt": "",
-      "publishedAt": "2026-10-03T09:29:02.000Z",
       "category": "tech",
       "source": "arXiv｜触觉研究"
     },
@@ -288,16 +234,6 @@
       "publishedAt": "2026-10-06T16:44:35.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "DiVeR: Decision-Critical Verifier Learning for VLA Test-Time Scaling",
-      "url": "https://huggingface.co/papers/2610.04933",
-      "excerpt": "Scaling robot data and model capacity has improved Vision-Language-Action (VLA) policies, but further progress is constrained by the high cost of robotic data. Verifier-guided test-time scaling offers an efficient alternative by sampling multiple action candidates and selecting the one most likely t",
-      "publishedAt": "2026-10-04T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
     },
     {
       "sourceId": "openai-news",
@@ -730,16 +666,6 @@
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "CoDance: Learning Reactive and Compliant Human-Humanoid Interaction from Video",
-      "url": "https://huggingface.co/papers/2610.05324",
-      "excerpt": "Partnered human-humanoid interaction couples locomotion with continuous physical contact. A humanoid needs to coordinate with a person's motion while responding to interaction forces and maintaining stable and natural movement. We present CoDance, a framework for learning reactive and compliant huma",
-      "publishedAt": "2026-10-04T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
       "title": "RoboJEPA: Scaling Robotic Latent World Models",
       "url": "https://huggingface.co/papers/2610.10515",
       "excerpt": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we pr",
@@ -1088,6 +1014,150 @@
       "publishedAt": "2026-10-09T07:00:00.000Z",
       "category": "politics",
       "source": "OpenAI News"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Ex-DJI engineer's tactile sensor startup Moxian raises $1.49M - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOek5GZk1ESTVkd2dwakI3dnFZbVNYVGhkeklzb25ENHBZNmdzSkhHeUZtMVlWZXRXVDZTTDQ0T1VGeVR4TTlrTEx2VnZKZkZQRkdlVlBTNkRDeUpyazVkWlZ5VUNBYjk2OTBFVzJoSUhKRjloaExGbGx3d09EZEEwaE80b3VPMlhCbTA3dm11V3hZM0JIM3hXcndR?oc=5",
+      "excerpt": "Ex-DJI engineer's tactile sensor startup Moxian raises $1.49M Dealroom",
+      "publishedAt": "2026-10-10T05:15:53.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Capacitive Tactile Sensor Market To 2035: Automotive Cockpits Fuel Expansion - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ29zUnNpbkFuMUtZd1lzaG12eEJXa0ItTW9NZy1kZ212eU5kU1B4TjEybGRJVy1Sd1RzNFJERVNzc3NDUFh4QU1IaDBUbHZ1emE4UDVBbDFEeTJtc3N1dXV5WU55WmxNVXVEQk5rY3BDTHRTUWpuQUM3cWJ5VVJZdnNKY2cyTHk1RnJLYnVVZkxteHpPa2xrZjItY3dqMjQwakk2VTU2YVdmOWNtOVpTUHJhRnZqbFRBVEdpaw?oc=5",
+      "excerpt": "Capacitive Tactile Sensor Market To 2035: Automotive Cockpits Fuel Expansion - News and Statistics IndexBox",
+      "publishedAt": "2026-10-10T19:21:04.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "“Image quality remains intact even when stretched like a rubber band”: DGIST develops world’s brightest “stretchable quantum dot display” - Asia Research News |",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeXVyNFN3NUhlV0xJYXRVNjRIdXduUmM2bDJfNVU4ajlNdmpHVklNYXVfRmhqbFhJVUpMd2Yyc09QbDZ4R0FvbkcwZzdIcklkdnFxVzJNeUxYV3dGbmpscHBDN2s4eVIwc3JYTTZxVFNldjJXanprU1V3ZGhXTm9xUFJJWlU4ZEtRc2FCU0QtZ1Frdy00RXNLVEtmdmZCd2d3dzVEVW9IS3JLdkNrTng2V19RX2wzU21iRk9ZOW85ZHctYUtiSVpSNlRTdXJaejd4ZFZfZzc2V1hTRjFGbDlRbEZ1Rm8?oc=5",
+      "excerpt": "“Image quality remains intact even when stretched like a rubber band”: DGIST develops world’s brightest “stretchable quantum dot display” Asia Research News |",
+      "publishedAt": "2026-10-07T03:18:23.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "IROS 2026|PaXini Showcases Full-Stack Tactile Strategy for Physical AI - https://www.irishsun.com/",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYlB4WlN1Y3lPSE1sbkJkdWZWR0U4eVRZYWdfQkh5TXpfNmFTMlFUOFFyc2l6MTMzSFR4ZnFtTWFIODMzOTlVVWFGZ1NaTnFUWmstaFAtaUpFbzRRMzBrdC1lQnZGV0ZudjFVWVlWWUtZSWV2MGFlWUVJNXZ3c19LYmdSUWpOdGlPY2oyUlNPRWVZS2o2dW5vOGI0Tm8zRVRDYzE5bzNRRjVYZmJld0E?oc=5",
+      "excerpt": "IROS 2026|PaXini Showcases Full-Stack Tactile Strategy for Physical AI https://www.irishsun.com/",
+      "publishedAt": "2026-10-08T11:49:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "柯力传感：通过参股公司积极布局触觉传感器领域 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EWkJBbXdaV2podDBMMVRMa2tpajJIbFZNcXZFU0hRTHZHZnN3NVpDLVJ1Wklmb1haM0ZmaVBMbUdfcm1uVkdEdk5WT1hLQ18teHVrQzZn?oc=5",
+      "excerpt": "柯力传感：通过参股公司积极布局触觉传感器领域 搜狐网",
+      "publishedAt": "2026-10-09T08:02:30.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026 - 雷峰网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZNlFPZlRtSWlFMG9RTDJxcGpKRFZ3MHBVd1N1R044YTgydGpVZnFkOGFScFZhbnRmRFZvbzNIUTZoWkVsaGpFRFJqbmtYeEUtYmJKUTg0bU1UZ1BIZUN1eU4tZnhiM3k5YmtkaWtR?oc=5",
+      "excerpt": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026 雷峰网",
+      "publishedAt": "2026-10-10T03:25:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "电容式触觉传感器市场展望2035：汽车数字座舱驱动扩张 - 新闻和统计 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ2ZLQTFwdXJQbk9wRFZoUUdjQng4WVphY1k0WlZPY0FKVmlkMThRNjdFQjZ3OE5zVTZKRUNBVl9EckhwSHUwd2VkY1NrbU9pSnp1YkExSndicDY4Ti1CajZJSVIxaUFMbmxPNDNtU190aDhQNnRTMk44X3hselgwTDdDN1BWWlZHZFFJek5yaWh2bEkyVnRQd0FsR3Z5VFNiS3E5OWpUY2FZSE5BNXRIdnhSZG1TY3NOMDNHRVEzOENvM2tWdXN3?oc=5",
+      "excerpt": "电容式触觉传感器市场展望2035：汽车数字座舱驱动扩张 - 新闻和统计 IndexBox",
+      "publishedAt": "2026-10-10T19:21:04.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "从 CES 到 IROS，途见正推动柔性触觉成为具身智能的通用语言|具身之家 - 具身之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wc0xpRDFnUjhPREw1clk1WVFhMFhzYkRTRmZGckk2eVd0eUNyV3p6bmZ0alREbEdieWRfaTRqUThib1FIYUdaQ3h5M1p0RlRMZDB2NWkxc0Q?oc=5",
+      "excerpt": "从 CES 到 IROS，途见正推动柔性触觉成为具身智能的通用语言|具身之家 具身之家",
+      "publishedAt": "2026-10-10T13:14:21.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "大疆前工程师匡正创业做数采设备 获李泽湘投资 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90emZHZkN0OS1VbG5JZldVZDluOUs5cFJZVFZ6Z29nc0pnS2NieUpwSWx2X0JkYkgzQU1RWV9ycGh4WUpDam5Zb2U0OXkzNGdpZ3hr?oc=5",
+      "excerpt": "大疆前工程师匡正创业做数采设备 获李泽湘投资 eu.36kr.com",
+      "publishedAt": "2026-10-09T13:24:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Why dexterity is physical AI’s real bottleneck",
+      "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
+      "excerpt": "The next major challenge in robotic dexterity is making the entire system reliable enough to turn capabilities into useful work. The post Why dexterity is physical AI’s real bottleneck appeared first on The Robot Report.",
+      "publishedAt": "2026-10-10T12:45:15.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "机器人“上岗”要先过三关|世界机器人大会|具身智能|数据|成本|模型 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWR0ZYWXcyR3BWVm85OGJ0UWl4Q2tOd3FQdjJqTW9ybi1YckR3SV9XSnR0TkJCbWtrUFItUHN5ai04SkJMaG1vSmdIZEF1U2N4Zkx5VDJzUVFDbFlKSmplXzhaM2pramdINTdxMm1DVFd0Ni1aZFV4NQ?oc=5",
+      "excerpt": "机器人“上岗”要先过三关|世界机器人大会|具身智能|数据|成本|模型 新浪财经",
+      "publishedAt": "2026-10-10T21:59:05.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "量产提速、场景深耕！2026世界机器人大会释放产业升级强信号 - 文轩新闻",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGelRDVEdBYmpPR0ZmTzJLS01ZNmdJSW53WmpjaUVXakh6UUM3eFM2X0EwbEJZcTVySEczaC1BcTM4OE1DYkVUNV9wbEN5dWFLY3c?oc=5",
+      "excerpt": "量产提速、场景深耕！2026世界机器人大会释放产业升级强信号 文轩新闻",
+      "publishedAt": "2026-10-10T07:22:01.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "钱启敏：规划6G更适用工业自动化场景 比如机器人做高难度手术 个人体感暂时有限 - 第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtT3JDbEJsX3FjdkZXUHhKM1VxeWNyWmdOY2ZVUVNCOUFRVm4tLWJ4WUFZR0VRNHlaMldCalc0NDRiWHY0THA0bnJPZ3laNUhCWjhoUg?oc=5",
+      "excerpt": "钱启敏：规划6G更适用工业自动化场景 比如机器人做高难度手术 个人体感暂时有限 第一财经",
+      "publishedAt": "2026-10-10T07:27:07.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "第九届世界太极拳健康大会奖牌设计定稿 首次推出纪念奖牌 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Rd3hVYk9aMlJoMVpBQ2VMaTA4RVd1VWRhTTNOSEs1QjFUS3BMME04SDAyY1dnR3dReVpDYS1VZmVWazN4RnpTMnpFNVNFMWpwWHBpZk43V3RBUGEzTjdrQ3BpZUNGWHphQk9KVjZSMlFEZw?oc=5",
+      "excerpt": "第九届世界太极拳健康大会奖牌设计定稿 首次推出纪念奖牌 京报网",
+      "publishedAt": "2026-10-10T02:40:31.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "8000余名青少年齐聚这场赛事，科创浓度如何点燃假日活力？ - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wdFlQYUJMMm41UGphc0xPc1RPR3d3VmRIUWp6Nno5QUhCV2Y4bEoxenh1eWJpeDk4cGREV05xNHBGRG5NVmxXcXcwRXVaNThlYTBkTXRtQTYxY0pRM1FRaER4VE1iMDQ1OHNB?oc=5",
+      "excerpt": "8000余名青少年齐聚这场赛事，科创浓度如何点燃假日活力？ ThePaper.cn",
+      "publishedAt": "2026-10-05T08:56:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "ifr-industry",
+      "title": "Service Robots’ Impact Human Life - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ManhMMjZaQzBzSmZHMEZKUWN2QXZUNmtJdTFDSFNteHJKMlBMRkhNRHVDZzVhaE94Y3BMQUdjV0FCQ09WUExibmFSUDJ3bmNZQ2Z1S3g4VWlaVkJPc3NQdWdDMmFaUldl?oc=5",
+      "excerpt": "Service Robots’ Impact Human Life IFR International Federation of Robotics",
+      "publishedAt": "2026-10-10T14:56:26.000Z",
+      "category": "politics",
+      "source": "IFR｜机器人产业"
     }
   ]
 }

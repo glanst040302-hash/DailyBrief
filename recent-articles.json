@@ -1,24 +1,6 @@
 {
-  "collectedAt": "2026-10-11T01:12:53.307Z",
+  "collectedAt": "2026-10-12T01:50:59.663Z",
   "articles": [
-    {
-      "sourceId": "robot-report",
-      "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
-      "url": "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
-      "excerpt": "Cyber and physical security threats are rapidly evolving, but robotics and AI can evolve to meet them, writes a columnist. The post How robotics and physical AI can responsibly tackle key physical security challenges appeared first on The Robot Report.",
-      "publishedAt": "2026-10-04T12:52:11.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "国家会展中心今天都是小孩！Robotex亚洲总决赛燃爆大虹桥 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOThoM0RWYmFtZE1VOU9HTkt2aE11cEVpSTBMSDNMQTYxZk1UcHVFazYzc3d3c1RWdHRIb3d0TUotSHRZTUJtMTJoWXFfMzNxYkJVWU90NFpJR1pzaHBESTlwRGVveTZQME9jNDk2aDJIODRYQUlVTXF4N0Eyd25oTzZBblQ4WUVaWk1HNzBLaC1aUk1mN0lRSXgzRTN0WWZYdnRTd25UbGptQzYyd1FNZExn?oc=5",
-      "excerpt": "国家会展中心今天都是小孩！Robotex亚洲总决赛燃爆大虹桥 新浪财经",
-      "publishedAt": "2026-10-04T13:42:24.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
     {
       "sourceId": "tactile-news-zh",
       "title": "机器人在北京上“幼儿园” - 新浪财经",
@@ -81,15 +63,6 @@
       "publishedAt": "2026-10-05T17:30:12.000Z",
       "category": "finance",
       "source": "The Robot Report"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "国家会展中心今天都是小孩！Robotex亚洲总决赛燃爆大虹桥|虹桥国际中央商务区|国庆节|上海市|机器人|选手 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVWgtYlY4TkMyXzE0VUtNQzZiV1JrY3JnWHZLMVYxNDcwelBhZjVtdXE5VlBBMC1zeVMtV0QxemxmcnlDcHc3QkNIN0Q1MXVJNExBbDY1eHAtSHJBamZvem80MVRCQV9GTFJFdW9tdl9TR2dNLTVCTjJ5WUZaNDRQclhWeWZBbmM?oc=5",
-      "excerpt": "国家会展中心今天都是小孩！Robotex亚洲总决赛燃爆大虹桥|虹桥国际中央商务区|国庆节|上海市|机器人|选手 新浪财经",
-      "publishedAt": "2026-10-05T01:50:12.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
     },
     {
       "sourceId": "wrc-news",
@@ -413,16 +386,6 @@
       "excerpt": "A safe action is not necessarily a viable one. A frozen vision-language-action (VLA) policy can favor a locally admissible move that leaves no policy-supported route to safe task completion. We call this the feasibility-likelihood gap: likelihood ranks the next move, while feasibility depends on the",
       "publishedAt": "2026-10-06T00:00:00.000Z",
       "meta": "👍 4",
-      "category": "tech",
-      "source": "Hugging Face｜机器人论文"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies",
-      "url": "https://huggingface.co/papers/2610.06090",
-      "excerpt": "Continuous asynchronous replanning is essential for real-time generative robot policies, but independent stochastic initialization can cause mode switching and inconsistent continuation across action chunks. We propose Execution-Aligned Progressive Noise (EAPN), which introduces structured stochasti",
-      "publishedAt": "2026-10-05T00:00:00.000Z",
-      "meta": "👍 1",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
     },
@@ -912,28 +875,10 @@
     },
     {
       "sourceId": "wrc-news",
-      "title": "国家会展中心今天都是小孩！Robotex亚洲总决赛燃爆大虹桥 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FNEp0Mml0dFA2ejg5LUh0d2JFb1ZIZWM0c2ZVWU1JV0V6Nl9RSW55aGZKNXg5c1dpYWtqQkN6ckU3ZFF1R2lKdzNiLXZuY0owV2prekk2QnNqdG1lQUE?oc=5",
-      "excerpt": "国家会展中心今天都是小孩！Robotex亚洲总决赛燃爆大虹桥 上观新闻",
-      "publishedAt": "2026-10-04T12:22:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
       "title": "广东主题乐园上演“抢客”记：数百台机器人假期上岗“打工” - 21财经",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGdSMm5PSVNXY2FKSlY0b19zN00xTi1YSGNIZkdKd2dKczhfVV8zcUlJcmZISjZURGJER283REw0dHFZLVNTRlJaNkIyWVZvS0VucmREM0tpOHF6cmo4Smc4c29Uc2c2TnFySEdlNVJNd05uU0hvOUtNd0JPZ1JNRWZ5dkFtTzZhZWJlbzd1bjl1ZWJw?oc=5",
       "excerpt": "广东主题乐园上演“抢客”记：数百台机器人假期上岗“打工” 21财经",
       "publishedAt": "2026-10-08T07:00:00.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "8000余名青少年齐聚这场赛事，科创浓度如何点燃假日活力？|国家会展中心|澎湃新闻|国庆节|上海市|爱沙尼亚 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxPZnlOcll4bWEyam1zcHRac0IyQ0w0aUl4RkNfb1FNdnYxUERmNjJhTTJ0MFVrTmMzT2sxdmZtdXFQWHdjXzNwV040UzMzMW8wckd4TTMwM2JiYTBOWkdRMDVFNHBCWWxlQ3FudGk1Ulc0VngxT0YwTXE4aUd3ZlNiT3lzd1JPeXRGMjZjU0FBbDFxZ252bml6NTN0cWVSWWFWWFBUY2VuZU92aWtSaHQtaWRlM1ZsNWdDZXdyMWpzdGtZSHpZbzRzRWJPMnVIUGs1WS1IaFJrQXdvcml1WEFiYzZxYkVteVBzZk5JaVJTM2Jsdnh1TDc2Q3NNVFFra0J0T3NUaEN5Z242UEFyR0VZdG9YQldLWHdfRmVTS1V3dVRSMHhBSnpWWFpQb0NNcDYxVE9OUTRLU2FRMVBUSTFJbUw3Q09RcjZNOGJQVlZUTEVZcmRSZWR3NGJqcTc2cFdoTDRaMjVOaXlVS2l3Ni1fXzRQdVRuWHdpUE5ERGwxSmRlZ0hXTm4zcFFVSUxIeTdyLTNkUGVmVnd0ZjZkd2U5TWV1dzhvNkFyeWFCMHJoWWZCa1VTNVcwY1lLMnZDbFdUdGk5V1NSWldySmxualRsamlUZkhxZHpEeXlueW16N0gzR2lWYXEyM21TSzhaNl9MSkRsVmVEckRaaE9oSVUwcU4tSWkzT2VTYWN5dUlFeC1FTXFXb3JZZTl2alpwX3ZSNFZCaFplYXNPV3pINGJWQ0ZrczJGNmstSWFlWVFIUFNCRm41SVpoYmFkXzZtcGlMd1VWcUtXQVAwWXNlSTVoNFNWNA?oc=5",
-      "excerpt": "8000余名青少年齐聚这场赛事，科创浓度如何点燃假日活力？|国家会展中心|澎湃新闻|国庆节|上海市|爱沙尼亚 新浪财经",
-      "publishedAt": "2026-10-04T07:00:00.000Z",
       "category": "finance",
       "source": "Google News｜世界机器人大会"
     },
@@ -1158,6 +1103,159 @@
       "publishedAt": "2026-10-10T14:56:26.000Z",
       "category": "politics",
       "source": "IFR｜机器人产业"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "“Image quality remains intact even when stretched like a rubber band”: DGIST develops world’s brightest “stretchable quantum dot display” - EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aVEI4Ym5TTE5OZmNpVHRGOWM4QmNZVU1uTFFUWmFrOHVvX3I4OEtWTkR0SlMxWFBVcXc2R3RKVzctOVk3QzNzZElpWjhwU09SYTB2VXBaREdfekdZ?oc=5",
+      "excerpt": "“Image quality remains intact even when stretched like a rubber band”: DGIST develops world’s brightest “stretchable quantum dot display” EurekAlert!",
+      "publishedAt": "2026-10-07T02:22:26.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Why Copying Nature’s Shapes Could Fix the Weakest Link in Flexible Pressure Sensors - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWlIOFFCVG15cHZHTHdGdGZVOGI0R2tQYnNQUGNuUG9PM1ZHNXNXdUNOZTZqRnlfZ01tTGQyam9kdEZVc01pRmkxTE5VUGJoWWhNcGthcHltaVhGRW45S3RZaHhBSk1IZDRnWjVkR1RBYTZzVnNfRk1JYVFnc1FISUFNcDN0WDB2WlRLZ3o5SG1WSVNOeHdSWnNNNEwycm50ZHFYdzVyWVhxWEU?oc=5",
+      "excerpt": "Why Copying Nature’s Shapes Could Fix the Weakest Link in Flexible Pressure Sensors Bioengineer.org",
+      "publishedAt": "2026-10-11T02:08:23.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "沙利文报告：坤维科技领跑中国六维力传感器赛道 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOTlQb2p0YnA5dEZvSUV6TTZGWDdUeHBKV3RUbXdfSDBBdjZQdFRlQjRKamdLVEE0cDQ5RE53RTBXZGh4REp6aUF6UEpxRFdhYzRBXzZsT2diSVNWMWE2LTNkZWs4YTdOOE5qMks4Y00zcnVWMXh0RHRlU0xDaEpVZ1N3SmxXdTV5MHFoQkkyQ3ctaFpGNVVDMkFSV094YjZhc1NXTy1QYw?oc=5",
+      "excerpt": "沙利文报告：坤维科技领跑中国六维力传感器赛道 新浪财经",
+      "publishedAt": "2026-10-09T04:08:24.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "卖机器人“皮肤”之外，触觉厂商还想卖数据和模型 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdERFNmlMQU5uN0dtT0VKS1dpdk50LVBYV2cwSmtMN19LazhkYVdhUVpwaXU3N29sVjRucGFjaHJoRTB4bXJ4M2JxXy1MLVpZOEJGeEtUbWI0THdRZmxuUlpOcjdRaVNteXJmVzRJc28tTU12ZmRJWGxjbnBJU0tZeGEwYmVQLWU5X0NvSEY1VQ?oc=5",
+      "excerpt": "卖机器人“皮肤”之外，触觉厂商还想卖数据和模型 21财经",
+      "publishedAt": "2026-10-09T01:36:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "综述：形态学视角下仿生柔性压力传感器的结构起源、性能机制与可靠性综述 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85djRtNm01eDRRejh5ZTZaNUxZdWpOai1zZ05jNjNlSlhJb2owdmZtRjJtYkNmNDBEeFp6SXc4TUpsbXhfaXlQVU0yek1IVjBPR1J2ck5GaDZaR29oa2pPWDlRenpNVEY3Z3c0X0Rn?oc=5",
+      "excerpt": "综述：形态学视角下仿生柔性压力传感器的结构起源、性能机制与可靠性综述 生物通",
+      "publishedAt": "2026-10-11T23:59:01.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "马斯克能把火箭接回地面，为何他的机器人接不住一只杯子 - 机器人大讲堂",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wR1ktMTViWEhHNU4xbzFLNzQ0X19nVUYtWHU2Szg3ektrVmF4Slpzd3g5TVVRYTZnbUJXbTBEYUdyOTVkeHlIZU94U1RuclRMZDZXeWZ5bFE?oc=5",
+      "excerpt": "马斯克能把火箭接回地面，为何他的机器人接不住一只杯子 机器人大讲堂",
+      "publishedAt": "2026-10-11T07:41:55.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "乐动机器人(01236)与华中科技大学正式签署具身机器人柔性三维触觉感知合作协议 开展柔性三维触觉传感器件及阵列系统的技术研发及场景验证 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LWW5xQVlXUUhZMXI2cU9nUEowLVBGRGpvQmpfMTRHMDB1M1ZGVHRxcXhsMUkwSWIyY19iblBZQ1laSFBjTndoUzdTV1hoRjQ0YjRmQnM5dFlUblNscTdNYklFcFE?oc=5",
+      "excerpt": "乐动机器人(01236)与华中科技大学正式签署具身机器人柔性三维触觉感知合作协议 开展柔性三维触觉传感器件及阵列系统的技术研发及场景验证 证券之星",
+      "publishedAt": "2026-10-11T11:11:48.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "聚焦物理AI接触智能，灵感机器人完成数千万元天使轮融资 - 机器人大讲堂",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95ZGZYWWJaWHF6d3ZfdXduMHBERkJCN2FGQkxHV1ZVbk1Fc3VQRVdDUHZrVURCMGZOb2NEaEVIajNKTDZaX0JiQTNjMmoweEozRXJWRnhWTXU?oc=5",
+      "excerpt": "聚焦物理AI接触智能，灵感机器人完成数千万元天使轮融资 机器人大讲堂",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "墨现科技获B轮投资 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNndWNkFubHAzLTRPWnFteldUVU9jQ2tTTGVZVjJxWFBtSjZ6T0xYS18tUWhoWElVLVF4N05Iam1PU3pFendzUTBBaGlZbEhxWUc5dkxkN09kYkRzeUxzVVp4ay1YR21sN2pnVlJiSG0tN0ZNdVV1WG9nWVVYZ180ZW15b0cxVDIx?oc=5",
+      "excerpt": "墨现科技获B轮投资 搜狐",
+      "publishedAt": "2026-10-10T20:05:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "arxiv-tactile",
+      "title": "Tactile Sensing-based Secure and Gentle Grasping of Unknown Objects",
+      "url": "https://arxiv.org/abs/2610.12790v1",
+      "excerpt": "",
+      "publishedAt": "2026-10-08T22:48:24.000Z",
+      "category": "tech",
+      "source": "arXiv｜触觉研究"
+    },
+    {
+      "sourceId": "arxiv-tactile",
+      "title": "MagCilia: A Compact Magnetociliary Tactile Sensor with 3D Force Sensing for Robotic Contact Perception and Grasping Feedback",
+      "url": "https://arxiv.org/abs/2610.09536v2",
+      "excerpt": "",
+      "publishedAt": "2026-10-07T06:38:39.000Z",
+      "category": "tech",
+      "source": "arXiv｜触觉研究"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
+      "url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
+      "excerpt": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach. The post Will ‘boring’ robots win in the real world? Why robotic form should follow workflow appeared first on The Robot Report.",
+      "publishedAt": "2026-10-11T12:36:24.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "机器人进24小时便利店，正行创新推出零售物理AI解决方案 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90UW9tb1NiRElRMmRLQkRtRkxka1JHdFZUTzdsaTZiRTVHUkRvMjBpbzJqT2tuQ1h3Njk1M2lYX1N2V3JwS05JYUlhRk80WTZBNXhycTV3YjdSemYtRjk2UU5RZFc?oc=5",
+      "excerpt": "机器人进24小时便利店，正行创新推出零售物理AI解决方案 新京报",
+      "publishedAt": "2026-10-10T14:14:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "傅莹率团参加2026年北极圈论坛大会 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vUy1NajZRdFYySU1qUXdudjBFNUF0dXR4QVZOOG4wVTc4T2lEbkFiLWt1S2VEQy1LcGtHbUxaSGlNZmpiN1huN1VBZURUdnJDX3RERlFvUlNDYndHTkJTWlRaRW5qVS1tcFNsR1NZT1dRQQ?oc=5",
+      "excerpt": "傅莹率团参加2026年北极圈论坛大会 京报网",
+      "publishedAt": "2026-10-09T09:48:14.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "人才强省建设进行时丨山东这个市，凭啥“链”住机器人技术团队 - 海报新闻",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rY3JyOWIwUGxMN0M4cDVxQ0VVQXpmYm5PdWxuQlBVdzdvZURFMzZIYkU3eW5wM0ZudkZpb2hJTGQ2SXZuOWRtZlJmSlBXMk9B?oc=5",
+      "excerpt": "人才强省建设进行时丨山东这个市，凭啥“链”住机器人技术团队 海报新闻",
+      "publishedAt": "2026-10-07T23:21:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "星海图与京东达成三年战略合作！全球首个机器人前置仓亮相 - 具身之家",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yS1BwRG5kOFZWdDd4YkxiNDNub1NJbG45RWJuelAwbndjeXNOTEE0VTQ2RlpTdmc3QW52XzBhSTVJaFZqSVpZOG54ZUlXTEtaVDBGc3JUWQ?oc=5",
+      "excerpt": "星海图与京东达成三年战略合作！全球首个机器人前置仓亮相 具身之家",
+      "publishedAt": "2026-10-10T12:03:52.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "买到假榴梿？摊贩保证“包熟包甜” 浙江女切开竟全是黏胶与土豆 - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNTEF3dUFIUW5sNC13Um1CVWJsQ0dTR2JHRjZMbTktbVZCdEh3U2pva3hnajB1S1A0MzVwT3VlY1JrT0ZNTGdDWW9uX0o0d3NOYTd5aWxjY2xRX2RNVXNfeHVGanV2cjd3cklGVHpYeE8wdDdrLUI2akkwbWVoYTlsRl9pYjJZa2FpZE12dkpZX1hXdUY5SjRVVmxDakJsWGNkcnpPM2g4ZHlNcU1kZXlTZTdmVmR1RDRLeGtpeUdzb0JkaENkMjhWVUFKYkl2T0YzQzlQandVV1FTOFdSQ3pKM3JSZGJVdC1BTXlIa0U1YlhINnhuRHdDdlJ5cml4UnhDSENHMHdIUUZCdlZUbnZxcldlaF91ZUNRT2RvSWFaczhCdVNBOTJtU01rVkpVQzZwVWNYczJpZFhwdWswUVp2azgydlg4R2hVTTg0b1E1a3ZJbnp0MDZCQzhSVWI0RktJX2xlcHFmNXRKV1VSc0tMZ0VkNUdNakppSjFDSmtvT21mYnJnU3BTQlVfZEx1UWhoNUx1TmNsNlhjQjdVUlFCNklvcW04czJod2RnbUZPemRDSGN3TGc?oc=5",
+      "excerpt": "买到假榴梿？摊贩保证“包熟包甜” 浙江女切开竟全是黏胶与土豆 香港01",
+      "publishedAt": "2026-10-11T09:54:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
     }
   ]
 }

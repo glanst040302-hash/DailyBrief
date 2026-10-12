@@ -1,0 +1,24 @@
+{
+  "hero_headline": "仿生柔性压力传感器综述：从形态学到可靠性",
+  "daily_overview": "当日触觉产业链增量集中在基础研究侧：生物通刊出的综述从形态学视角系统梳理仿生柔性压力传感器的结构起源、性能机制与可靠性问题，为柔性电子与触觉器件的设计—制造—服役链路提供统一框架。机器人与具身智能、产业关键变化当日无达标条目，故留空。",
+  "tech_briefs": [
+    {
+      "title": "综述：仿生柔性压力传感器的形态学、性能与可靠性",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85djRtNm01eDRRejh5ZTZaNUxZdWpOai1zZ05jNjNlSlhJb2owdmZtRjJtYkNmNDBEeFp6SXc4TUpsbXhfaXlQVU0yek1IVjBPR1J2ck5GaDZaR29oa2pPWDlRenpNVEY3Z3c0X0Rn?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "生物通刊出综述，从形态学视角梳理仿生柔性压力传感器的结构起源与性能机制。\n可靠性被纳入同一框架，指向柔性压力器件从实验室走向量产的共性瓶颈。\n该综述为触觉产业链上游的材料—结构—封装—标定协同设计提供参考坐标。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [],
+  "politics_briefs": [],
+  "editor_note": "单篇综述支撑当日简报，说明触觉领域当日缺少产品与部署层面的新事实；形态学与可靠性视角对量产一致性仍有参考价值。",
+  "keywords": [
+    "仿生柔性压力传感器",
+    "形态学设计",
+    "柔性电子",
+    "可靠性",
+    "触觉传感",
+    "电子皮肤"
+  ]
+}

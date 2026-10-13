@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-13T00:33:13.809Z",
+  "collectedAt": "2026-10-13T07:03:30.166Z",
   "articles": [
     {
       "sourceId": "arxiv-tactile",
@@ -1118,15 +1118,6 @@
     },
     {
       "sourceId": "tactile-news-zh",
-      "title": "机器人在北京上“幼儿园” - 旅日侨网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVnFfTjRXaWtrY2NYTE5Zc3VheG5EcmtZcndQVmlzRHZXRFZRNHR2VjQzYS1zUE9yY1BOSlZCZjhHRUprM1hzV01mOElRUlp1ZGJXQjRPNE5SaFZmR3h0TjhVYkhZWS1GdEsyblMwSkRmUFczRFRnQkMxOEpyX1hPelpfdk52TXNWYUE?oc=5",
-      "excerpt": "机器人在北京上“幼儿园” 旅日侨网",
-      "publishedAt": "2026-10-06T04:17:40.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉产业链"
-    },
-    {
-      "sourceId": "tactile-news-zh",
       "title": "蓝点触控 × 小米机器人 六维力传感器助力机器人料箱折叠回收、汽车贴标等作业 - 具身之家",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMdlBWS0R3ZUxYUC0xRTlNcWNxNzVRb29lREJkUGE1Zi1sOVlOYkRwYkROXzdEQ0VEa3I1R3JKQ19GaFNCajlaeGdwMXcxbTB2eFg3MUpSQQ?oc=5",
       "excerpt": "蓝点触控 × 小米机器人 六维力传感器助力机器人料箱折叠回收、汽车贴标等作业 具身之家",
@@ -1271,6 +1262,151 @@
       "excerpt": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such strict motion matching often limits generalization to initial object poses, goal poses, and grasps not s",
       "publishedAt": "2026-10-08T17:59:58.000Z",
       "meta": "👍 1",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "从“眼睛”到“皮肤”：又一上市公司入局触觉传感器 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aRVlmZXhibUVtQVc2QmxqWG44ODJFeTdPT2ZHcDFNclp2b19pVms3REpWaXdTTFA2TWlyem1jbEdVOUNJTFBFc280V0RiZkpxMTdj?oc=5",
+      "excerpt": "从“眼睛”到“皮肤”：又一上市公司入局触觉传感器 电子工程专辑",
+      "publishedAt": "2026-10-13T03:30:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "合作邀请函丨沙利文即将发布《2026年全球触觉传感器行业白皮书》 - frostchina.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0VDVxWG1aRzhCUjlaTEFFZ2NVYmVSVGVRdGY5cnJJTjdnaXlPbkFtMmZJZTVsdXgtR3labmFGc3g3dkE3dXltaUFkbHRvTWtvNXpIelFodVNDVFJoN1lWckpkRGtNbHVQRWJEc3J2c24tVUIxZjN6RFdNNGhsRU0?oc=5",
+      "excerpt": "合作邀请函丨沙利文即将发布《2026年全球触觉传感器行业白皮书》 frostchina.com",
+      "publishedAt": "2026-10-13T02:59:54.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "综述：形态学视角下仿生柔性压力传感器的结构起源、性能机制与可靠性综述 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ORjlCd2IyNEtoOEExM2R4MnRMa3ctaWtRWGdrYnJTa3ExMEpoZVJEcHFSVllMejItRXNBRlplNlNOVC1QU2lKUEFhU3R5SlQ5Z0VCZWI5TXhKSFFLaUQ5cURxMmdET0RpRURv?oc=5",
+      "excerpt": "综述：形态学视角下仿生柔性压力传感器的结构起源、性能机制与可靠性综述 生物通",
+      "publishedAt": "2026-10-11T23:59:01.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "夏厦精密(001306.SZ)暂未布局六维力传感器及力控方向_公司新闻_财经 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zTmVVQXVZbmhZZEZoaWNYRzJaNjFLNUZJaEk1QVV6YjNZZ0NyRUJQd3pKZWgwRDRHQ0xraXRXNDV3Nk9lTWZJZ0NWeW9KXy1kRTdhWGRPVkctNG1STkRPcQ?oc=5",
+      "excerpt": "夏厦精密(001306.SZ)暂未布局六维力传感器及力控方向_公司新闻_财经 证券之星",
+      "publishedAt": "2026-10-12T13:48:55.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "深圳具身触觉创企灵感机器人，融资数千万 - 智东西",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MUXFLMzVBNVdaS3Z3QVd2a2VsLWNiSUozT05HT05qdkk3UlVWSFNjd2tMaDNPTFZOb0drWlNWYW9STWlLVXc?oc=5",
+      "excerpt": "深圳具身触觉创企灵感机器人，融资数千万 智东西",
+      "publishedAt": "2026-10-08T09:47:29.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMW5vYXFrMEFPX2dIck14STJCX09MTmlhdDVobGFyNW1rcEFISFVoWllhSURYdUllNDhtM1djUlFVWUpUYlg3NG5oTk4zSlNMUTA3bkRiRGQzSWJ1MENBZ1F0NmNvdmd4dmNvLV9DSWk0cllOQzRISW9fRndKa2M4ME1aSVlJODFT?oc=5",
+      "excerpt": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁 搜狐",
+      "publishedAt": "2026-10-13T05:01:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "Seeds | 华为哈勃入局触觉赛道：视塔机器人完成天使轮融资 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55MU5uRFd1T2Q1enRGYTZzeldhb2pBYnVjUVdaSnpqaFJXSjBQVE1ZRV93UlI5bFhJaEJvMS04RE1WczgxWW95UFVMbmZ1M3p2X1hiWXhvTDVXamM?oc=5",
+      "excerpt": "Seeds | 华为哈勃入局触觉赛道：视塔机器人完成天使轮融资 汽车之家",
+      "publishedAt": "2026-10-13T05:47:44.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "2026世界机器人大会上的长春\"拿手好戏\" - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XZkpGRm5Lbk9LdGhNNTFEcFRPc3JuYUZWSGpWQlBZbDEwQnI1a1lPcVlGa1dMTjE2MHNqekNOZ2xrV0k1dk5hSVVR?oc=5",
+      "excerpt": "2026世界机器人大会上的长春\"拿手好戏\" 凤凰网",
+      "publishedAt": "2026-10-13T06:06:31.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "王兴兴最新预判：具身智能的转折点，一到两年内就会来 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPRHpPWGdzdGQzOUhrdElGWm5DOWdFeUJDNGZKZjBRRUM2SHlTYVNFMzdwLXd6VkMzQi03U2VnTTFGcXNGa3Q2Y1ZYbHhHdw?oc=5",
+      "excerpt": "王兴兴最新预判：具身智能的转折点，一到两年内就会来 36Kr",
+      "publishedAt": "2026-10-12T11:05:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "王兴兴:犯的最大错误是还不够相信AI GPT-6加速身智能到来 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0RTZ6a1d3QWpSclhkMVl1REZsdmlOckloa3hJeHdzMXJzRDNzRk5OSGpyVDNZR3MxQmlaNGluTnc0Zl9wV0xrZWxYZHpEOFpVVFh2UTFVWUJ6Z1pTSTdNcVhCZEpUMERDbnczT2l1YTg?oc=5",
+      "excerpt": "王兴兴:犯的最大错误是还不够相信AI GPT-6加速身智能到来 中华网",
+      "publishedAt": "2026-10-13T01:41:03.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "王兴兴称自己犯的最大错误是还不够相信AI ChatGPT-6改变其观点 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KOUVkOTZUZ0xUMEhZTDdSeFlKemNUeGQtUmVSMUFKbXphTk94TjVFd2V6OHJrT0F1dzh6OXBrdUJFdGhQb0VRWUYwenBCWHkyMldiNFNHUGxvbUQtdERQSldfMURsN0dmQXVHNDFxVW4?oc=5",
+      "excerpt": "王兴兴称自己犯的最大错误是还不够相信AI ChatGPT-6改变其观点 中华网",
+      "publishedAt": "2026-10-13T06:43:11.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "离开实验室“水土不服”怎么破？机器人在真实街区里“补课” - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXBqamRJT1VwZGU3MnRGWFRmMlgzSFp4RW0yUFZPZ1BXdHptNG5lbGM2MEZuTVJ1Z0hqTXg1d3JsNmh1dWE0dTJMbEprZGdmQm5GLXJncEU4Z0J6TzRfMlYzRE5FWFBUdzZsVWJoeGRsWFh3VEhQOXBNbDBnTFBsNUZ5SGlFMmFhM1VfZg?oc=5",
+      "excerpt": "离开实验室“水土不服”怎么破？机器人在真实街区里“补课” 搜狐",
+      "publishedAt": "2026-10-12T09:20:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "杭州这场“签蛋会”火了！李诞现身盒马，体验带着AI蚂蚁阿福逛超市 - 亿欧",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlbExyUHRtZ3U5WlVBUUx4aXl0aXhHc2FOZEtEZWx0NF82NWVabVVyWmxxMHZWMWd1YVNkcTZwNmRnaGVQTzE2Um5fdTBfTnJFdkRnSg?oc=5",
+      "excerpt": "杭州这场“签蛋会”火了！李诞现身盒马，体验带着AI蚂蚁阿福逛超市 亿欧",
+      "publishedAt": "2026-10-13T03:58:47.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "巡检、陪伴之后，机器狗行业的第二曲线往哪走？ - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wQXlTOWM4cnFCUDVtaDBCWmtQb2VacTlOTDNRN25HbjM1NGhyc3pYamJqZXUtNi1MSF9zclUxdDZfdUV6cVpDQWV1OVNBZw?oc=5",
+      "excerpt": "巡检、陪伴之后，机器狗行业的第二曲线往哪走？ 36Kr",
+      "publishedAt": "2026-10-07T17:29:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "鲲游光电完成超10亿元C+轮融资 - 亿欧",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5abDZ3WnpEMUZXUWliaTd6V2dkX190RG43NmpUcjJYbXdhdmNiMGlwVVZmMlBCdnhURXQ4eUpNRUN5S25RS3FIM29MNWZMdzI2aHBTbW8zUVJOZw?oc=5",
+      "excerpt": "鲲游光电完成超10亿元C+轮融资 亿欧",
+      "publishedAt": "2026-10-10T11:23:59.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method",
+      "url": "https://huggingface.co/papers/2609.35965",
+      "excerpt": "Vision-and-Language Navigation (VLN) has largely focused on a single agent following a single instruction, yet many real-world applications require teams of robots to tackle tasks beyond the capabilities of any individual agent. We present Systematic Multi-Agent Vision-and-Language Navigation, provi",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "meta": "👍 9",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
     }

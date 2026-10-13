@@ -1,0 +1,48 @@
+{
+  "hero_headline": "华为哈勃入局电子皮肤，触觉赛道升温",
+  "daily_overview": "华为哈勃将资金投向电子皮肤与触觉感知，A股上市公司跟进布局，第三方机构筹备行业白皮书，触觉供应链正从单点器件竞争走向资本加持与标准建设。具身智能侧，本体厂商对大模型驱动操作闭环的判断趋于激进，感知层尤其是触觉数据的需求被进一步放大，量产一致性与成本仍是待解问题。",
+  "tech_briefs": [
+    {
+      "title": "华为哈勃参投视塔机器人，押注电子皮肤",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55MU5uRFd1T2Q1enRGYTZzeldhb2pBYnVjUVdaSnpqaFJXSjBQVE1ZRV93UlI5bFhJaEJvMS04RE1WczgxWW95UFVMbmZ1M3p2X1hiWXhvTDVXamM?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "华为哈勃参与视塔机器人天使轮，该公司主打可变色电子皮肤，团队平均年龄约23岁。\n资本开始押注触觉感知上游，电子皮肤由论文样机走向产品化验证。\n为机器人在视觉之外补上接触觉一环，直接影响灵巧手与具身智能的落地节奏。\n（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "上市公司入局触觉传感器，从视觉延伸至皮肤",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aRVlmZXhibUVtQVc2QmxqWG44ODJFeTdPT2ZHcDFNclp2b19pVms3REpWaXdTTFA2TWlyem1jbEdVOUNJTFBFc280V0RiZkpxMTdj?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "又一家上市公司进入触觉传感器领域，业务重心由视觉感知向电子皮肤延伸。\n供给端玩家增多，触觉器件的价格与产能竞争预计加剧。\n产业链从单点器件走向多模态感知组合，有助于整机方案成本下探。",
+      "importance": 7
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "王兴兴：低估AI是最大失误，GPT-6将加速具身智能",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KOUVkOTZUZ0xUMEhZTDdSeFlKemNUeGQtUmVSMUFKbXphTk94TjVFd2V6OHJrT0F1dzh6OXBrdUJFdGhQb0VRWUYwenBCWHkyMldiNFNHUGxvbUQtdERQSldfMURsN0dmQXVHNDFxVW4?oc=5",
+      "source": "Google News｜世界机器人大会",
+      "summary": "王兴兴称自己犯的最大错误是不够相信AI，并认为GPT-6会加速具身智能到来。\n本体厂商对模型驱动路线的态度转向，技术依赖进一步上移到模型与数据侧。\n操作闭环能力因此更依赖感知与触觉数据，感知层价值被重新评估。\n（多家报道）",
+      "importance": 6
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "沙利文将发布2026全球触觉传感器行业白皮书",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0VDVxWG1aRzhCUjlaTEFFZ2NVYmVSVGVRdGY5cnJJTjdnaXlPbkFtMmZJZTVsdXgtR3labmFGc3g3dkE3dXltaUFkbHRvTWtvNXpIelFodVNDVFJoN1lWckpkRGtNbHVQRWJEc3J2c24tVUIxZjN6RFdNNGhsRU0?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "沙利文发出合作邀请，即将发布《2026年全球触觉传感器行业白皮书》。\n行业统计与评估口径趋于统一，为衡量触觉市场规模提供公开参照。\n标准与数据体系的建立，是触觉供应链从样品走向规模量产的前置条件。",
+      "importance": 6
+    }
+  ],
+  "editor_note": "触觉传感器正从实验室议题变为资本与标准竞逐对象，但量产一致性、标定方法和单体成本仍是真问题，需以实际部署数据检验成色。",
+  "keywords": [
+    "华为哈勃",
+    "视塔机器人",
+    "电子皮肤",
+    "触觉传感器",
+    "具身智能",
+    "行业白皮书",
+    "世界机器人大会"
+  ]
+}

@@ -1,123 +1,6 @@
 {
-  "collectedAt": "2026-10-13T07:03:30.166Z",
+  "collectedAt": "2026-10-13T23:51:46.320Z",
   "articles": [
-    {
-      "sourceId": "arxiv-tactile",
-      "title": "PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation",
-      "url": "https://arxiv.org/abs/2610.08068v1",
-      "excerpt": "",
-      "publishedAt": "2026-10-06T10:00:56.000Z",
-      "category": "tech",
-      "source": "arXiv｜触觉研究"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
-      "url": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
-      "excerpt": "Before Boston Dynamics, Prasad served as senior vice president and head scientist for Alexa and artificial general intelligence at Amazon. The post Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO appeared first on The Robot Report.",
-      "publishedAt": "2026-10-06T21:00:30.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
-      "url": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
-      "excerpt": "TwelveLabs says its Pegasus 1.6 model understands first-person video and supports workflows including labeling for robotics developers. The post Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs appeared first on The Robot Report.",
-      "publishedAt": "2026-10-06T20:07:48.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Sovereign AI, same landlord — thoughts on the physical AI race",
-      "url": "https://www.therobotreport.com/sovereign-ai-same-landlord-thoughts-physical-ai-race/",
-      "excerpt": "While physical AI architecture alternatives are growing in number, NVIDIA has taken a sovereign strategy to ensuring its role. The post Sovereign AI, same landlord — thoughts on the physical AI race appeared first on The Robot Report.",
-      "publishedAt": "2026-10-06T17:47:50.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "FireDome builds autonomous ‘artillery’ for wildfire defense",
-      "url": "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/",
-      "excerpt": "FireDome builds autonomous wildfire defense systems to protect communities and infrastructure before firefighters arrive. The post FireDome builds autonomous ‘artillery’ for wildfire defense appeared first on The Robot Report.",
-      "publishedAt": "2026-10-06T16:00:31.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "robot-report",
-      "title": "Overview AI launches OV Spark line of AI inspection cameras",
-      "url": "https://www.therobotreport.com/overview-ai-launches-ov-spark-line-ai-inspection-cameras/",
-      "excerpt": "The OV Spark and OV Spark Pro AI inspection cameras are available now through Overview AI and its distribution partners. The post Overview AI launches OV Spark line of AI inspection cameras appeared first on The Robot Report.",
-      "publishedAt": "2026-10-06T14:51:48.000Z",
-      "category": "finance",
-      "source": "The Robot Report"
-    },
-    {
-      "sourceId": "wrc-news",
-      "title": "在国庆节邂逅一场青少年科创盛宴 - 上海科技报",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84MU92aUZ3VTFQTWEyZ3BWQ2kxWGQwejZ4OWZtZ1NzV1RWcmZWZU1OemVRU1ZUX3NTN1BXcEFoc0NuNVlCZVktUVdacG0ycVR3M001WEFmOA?oc=5",
-      "excerpt": "在国庆节邂逅一场青少年科创盛宴 上海科技报",
-      "publishedAt": "2026-10-06T16:44:35.000Z",
-      "category": "finance",
-      "source": "Google News｜世界机器人大会"
-    },
-    {
-      "sourceId": "openai-news",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "excerpt": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "category": "politics",
-      "source": "OpenAI News"
-    },
-    {
-      "sourceId": "openai-news",
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "excerpt": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "category": "politics",
-      "source": "OpenAI News"
-    },
-    {
-      "sourceId": "openai-news",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "excerpt": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "publishedAt": "2026-10-06T16:00:00.000Z",
-      "category": "politics",
-      "source": "OpenAI News"
-    },
-    {
-      "sourceId": "ifr-industry",
-      "title": "When mobile robots call elevators - IFR International Federation of Robotics",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4RFFHTUJrVC1CYjM3RlRVSkhRb1NmeW5xZmRzZnJYSUFZbklyb3dSUXIyQ0FjSkVHZE9XZzRxVlFxdmplNmI5WHZXVWxHNWFhTkhhZXhKcnVoaWE0eEsyamZzX1o?oc=5",
-      "excerpt": "When mobile robots call elevators IFR International Federation of Robotics",
-      "publishedAt": "2026-10-06T11:34:11.000Z",
-      "category": "politics",
-      "source": "IFR｜机器人产业"
-    },
-    {
-      "sourceId": "ifr-industry",
-      "title": "Form Follows Function - IFR International Federation of Robotics",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRNkdTaHNGRTlTX2VzQ1RzbEtnWDB3N0J1Z0FMQ2ZIaXJmVjJFWUswdzRsSFZHdmNleS1HU2VqbTNlX0lBYXRFVEwyRVlsUDNVMmV3bg?oc=5",
-      "excerpt": "Form Follows Function IFR International Federation of Robotics",
-      "publishedAt": "2026-10-06T09:14:10.000Z",
-      "category": "politics",
-      "source": "IFR｜机器人产业"
-    },
-    {
-      "sourceId": "ifr-industry",
-      "title": "International Federation of Robotics - IFR International Federation of Robotics",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRzY3UHJDRU9QMUlVSjJ2bWJVTzdJSUxXV3J5cGZHUFNLZ0ZFN3Izc2dsTDhoSi1yTWVqcjlBcER0aHRuaWFSLVFXeFlQdGxRM3JJRlpDd2NGTTRqOTdKR0YzY3RNQ3p3MklvVWkxZDBfUnJGdFFxcjAxVGEzY3RqZWR5cTllT05MeGtRVG10dXU0Y2s?oc=5",
-      "excerpt": "International Federation of Robotics IFR International Federation of Robotics",
-      "publishedAt": "2026-10-06T13:24:12.000Z",
-      "category": "politics",
-      "source": "IFR｜机器人产业"
-    },
     {
       "sourceId": "tactile-news-en",
       "title": "Boston Dynamics Atlas Next-Generation Four-Finger Robot Hand - Hyundai Motor Group",
@@ -142,15 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkJrLXo1S2JNUzhNVkFlY0oyZkR3dHl5eDd6d0JYQ0V4WlFydlJjdVJxaEJqenRuR21CM1JjM1A0TTdyT19uQ1pBMnpCUGhMU1MzbmlaR1QyeFI0enlZeW9LaWg3VGVCUkI2ZXZyR1NRa3UyaDFreVFYVW16VXFsY21uQmdRUWs?oc=5",
       "excerpt": "New display technology combines record brightness with pixels that stretch like rubber Phys.org",
       "publishedAt": "2026-10-07T20:30:02.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Hyundai’s Atlas adopts four-finger hand as Tesla’s Optimus pushes five for factories - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnQweEZpUlUtRFVrNGxfRWhpc0JPNTNNZldrXzZ4U25DMGxLZl9lNTFaV2JkaWtpdXBacGs1M3hnekZGV1otMzV0ekctM2hnOTA3MUlycGhNS0ZwWnluNENuOU83YWpxYlRRZ1plYS1OUEM5VkJtWDRqQXo4Nk53aEZR0gGWAUFVX3lxTE80NW1BZ0RVMEVlX0JLWFozam55XzlkckFGMEZ6MGJtYkk5Q1E1aFFTZ01hTkZ4UW9vVzUwVGw5amdwOUFCYllVMEo0MUh6WFBjZTh2dThGbnlYbklDMDhnUnVYN3dYaGdJWWt1cExDaVQtTzk4c1o1UHF3STZOVldpVWFNNlVnRGNIdXpmRlF1WnNZZFduQQ?oc=5",
-      "excerpt": "Hyundai’s Atlas adopts four-finger hand as Tesla’s Optimus pushes five for factories - CHOSUNBIZ Chosunbiz",
-      "publishedAt": "2026-10-06T23:35:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉传感器"
     },
@@ -232,15 +106,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fRFNVVnlGVEdKeXVkdVVTUEl0aG5lN2xtWTM1X2dpcTNVZWUxamh1enk1YzlaSDRyVm1qZmM4NFlHQlZQQUJLMlU2YUtxNTlo?oc=5",
       "excerpt": "TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning alphaXiv",
       "publishedAt": "2026-10-07T07:00:00.000Z",
-      "category": "tech",
-      "source": "Google News｜触觉传感器"
-    },
-    {
-      "sourceId": "tactile-news-en",
-      "title": "Hyundai’s Atlas adopts four-finger hand as Tesla’s Optimus pushes five for factories - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDVtQWdEVTBFZV9CS1haM2pueV85ZHJBRjBGejBibWJJOUNRNWhRU2dNYU5GeFFvb1c1MFRsOWpncDlBQmJZVTBKNDFIelhQY2U4dnU4Rm55WG5JQzA4Z1J1WDd3WGhnSVlrdXBMQ2lULU85OHNaNVBxd0k2TlZXaVVhTTZVZ0RjSHV6ZkZRdVpzWWRXbkHSAZYBQVVfeXFMTzQ1bUFnRFUwRWVfQktYWjNqbnlfOWRyQUYwRnowYm1iSTlDUTVoUVNnTWFORnhRb29XNTBUbDlqZ3A5QUJiWVUwSjQxSHpYUGNlOHZ1OEZueVhuSUMwOGdSdVg3d1hoZ0lZa3VwTENpVC1POThzWjVQcXdJNk5WV2lVYU02VWdEY0h1emZGUXVac1lkV25B?oc=5",
-      "excerpt": "Hyundai’s Atlas adopts four-finger hand as Tesla’s Optimus pushes five for factories - CHOSUNBIZ Chosunbiz",
-      "publishedAt": "2026-10-06T23:35:00.000Z",
       "category": "tech",
       "source": "Google News｜触觉传感器"
     },
@@ -1407,6 +1272,197 @@
       "excerpt": "Vision-and-Language Navigation (VLN) has largely focused on a single agent following a single instruction, yet many real-world applications require teams of robots to tackle tasks beyond the capabilities of any individual agent. We present Systematic Multi-Agent Vision-and-Language Navigation, provi",
       "publishedAt": "2026-10-07T00:00:00.000Z",
       "meta": "👍 9",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "ATI Develops New Low-cost Force/Torque Sensor - A3 Association for Advancing Automation",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWFuYjYwX0hLT2FlYnNCLUVVYVRsb0tvZEpxWVo1Sm1jUVdkRWJJdkx1Q0V3ZEI4cmR1aG5kQlhJcXdvOFpHcWFCZ250cE1PWXU1OVRtMV9mVGZCS0ZGTkN0VF96NFAtYkpRWnBXSm5uNkx6YnRoXzM3QVEtRXFMNFJ6UUlWeEJQQjBGYlpWQWxSdw?oc=5",
+      "excerpt": "ATI Develops New Low-cost Force/Torque Sensor A3 Association for Advancing Automation",
+      "publishedAt": "2026-10-13T02:44:39.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-en",
+      "title": "Tactile Sensors: Giving Humanoid Robots a \"Sense of Touch\" - IDTechEx",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdHpYZW41NmlsNWswb0VuVWc5Q2JzNk4taGV4NVhsQnR4VU1mSXZjaUE3SnNjb1JtTFlDTXBvRHphdmRqM1d5enJEdEdWRjQ2dHVUNW1wTGdCeGFTTjluMmxlUmxlYzljTFAzRVRtVjFmcnhlSk5VajJBaFBlMUE5cHZLYzZ3Yi13RDRhR3dyZTJhb3JsRTRPWEhEUzJ2TkZEbmx2enpKZzZOUQ?oc=5",
+      "excerpt": "Tactile Sensors: Giving Humanoid Robots a \"Sense of Touch\" IDTechEx",
+      "publishedAt": "2026-10-13T13:28:48.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉传感器"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁 - 量子位",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpR2VOMm5NaE1nbHdYbmRpRlE2RVZEbHVoWWhUY0p3ZHVRdGI5REhFSDZEUjJqbzdKbDk4SW54c3FHZjZMREJyMDZVYjZmMHpzaWJReA?oc=5",
+      "excerpt": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁 量子位",
+      "publishedAt": "2026-10-13T07:19:21.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "视塔机器人完成天使轮融资，聚焦触觉感知与机器人操作 - 投资界",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MQ1pOb3pGbUNYVzZ5akozMFYyMjhjMWZ6Wlc0Z01OQlBFTDJOY1ZsX3p3ajF4QVNGSWcyMHVnXzA5M1VITGlFT0MwUTZWdnAwaG8tOVhB?oc=5",
+      "excerpt": "视塔机器人完成天使轮融资，聚焦触觉感知与机器人操作 投资界",
+      "publishedAt": "2026-10-13T07:48:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "可穿戴生物电子皮肤贴片市场展望2035：连续血糖监测需求驱动增长 - 新闻和统计 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPenFFZ3c4aTlud3g0Mm5laGkyd1ZieFhnTTRGZE4teXo2Q3JGRm9uX01BdE1BNmpkTGpUSmMySGFZblowaEZ0QVlCVnJDcno1a2VyM0UxM2ZrY28wejFOd1F1c1R1RGJTRnhGYkdoS204WUptOVdiZnd5ZWlGRjQ0NXFjNGxBU2ZDN1FNblVtME9QZmRja19oZnpaWHFkeW5FMHJGRU1vQzI0REotcTRBNnpRQWJNM2laUU1nY1h2bC0wTmVuQVVRd3JDNEZYcFQyak84aU4takljRjlx?oc=5",
+      "excerpt": "可穿戴生物电子皮肤贴片市场展望2035：连续血糖监测需求驱动增长 - 新闻和统计 IndexBox",
+      "publishedAt": "2026-10-13T16:41:03.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "华为哈勃投资参投 视塔机器人完成天使轮融资 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnZOOFdRRlFGZkRmd1RoZzQ5a19zSmlWbWV4RnMzTmcteFNGenRyaUpNRGNfWWdEVndXVlVmdlVkT1k3RHlGOHNVMUM3a3V6SzdrOG5lSVRwSV8zbnMzb3oyLVBoR0JxUEZReGlQSmVDOWlyeGpic3NJdjZ2UlRsUHpRMGdWN3dxSVF3ZFBUdjdIZnRJUDRFOXVrczRQVFRCRGV5cg?oc=5",
+      "excerpt": "华为哈勃投资参投 视塔机器人完成天使轮融资 搜狐",
+      "publishedAt": "2026-10-13T08:00:32.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "夏厦精密(001306.SZ)暂未布局六维力传感器及力控方向 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ESXRsdlBjRGw4a3RTcXlyTlB5dGQ4Z2V0NnNYTTJYQzBtWG5qa0pDX2RKTEpVbnZ4QmVvWnQtY3hULVB2T1pDVDVmTWctak1mRWFoczc1SzVIUjI1MFZnSkIyc09Jc3owcTRz?oc=5",
+      "excerpt": "夏厦精密(001306.SZ)暂未布局六维力传感器及力控方向 TradingView",
+      "publishedAt": "2026-10-12T13:48:55.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "视塔机器人完成天使轮融资，聚焦触觉感知与机器人操作 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMF9wUFBnZ1N2MmxqU3FqRHhScU5BaUF5bGhoZ3VjZnZ0YXFrZGNxbUtWYU1oWklLd1BETERHRTdpcWtjeE5jbDBfRllkMHdwNDhLMC1iT3dXZ0FDLWo5MFI0clNyd2I1MHp4RlpieDRGLTBvSnVzS2Q2S1JKb1kzMnBRUWNrSDd6MktR?oc=5",
+      "excerpt": "视塔机器人完成天使轮融资，聚焦触觉感知与机器人操作 搜狐网",
+      "publishedAt": "2026-10-13T07:27:00.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "tactile-news-zh",
+      "title": "华为哈勃押注光子晶体电子皮肤，视塔完成天使轮融资 - 具身之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FYm9PMVpiWE5jN2ZFaXRoMFBxVnNGUVQ3bDRiS05DVmxXU2E4SmNDYlZudDFFQzFEYlBrN3ZxZUFxcXBneGYwUEIydkY4d1VlTTlmTHJsM18?oc=5",
+      "excerpt": "华为哈勃押注光子晶体电子皮肤，视塔完成天使轮融资 具身之家",
+      "publishedAt": "2026-10-13T07:44:29.000Z",
+      "category": "tech",
+      "source": "Google News｜触觉产业链"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
+      "url": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness/",
+      "excerpt": "As robots move beyond warehouses and other controlled environments and into everyday life, navigation challenges will be critical. The post Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness appeared first on The Robot Report.",
+      "publishedAt": "2026-10-13T19:48:58.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "robot-report",
+      "title": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding",
+      "url": "https://www.therobotreport.com/promise-robotics-partners-d-r-horton-physical-ai-homebuilding/",
+      "excerpt": "Promise Robotics has signed a multi-year partnership with America's largest homebuilder by volume to bring physical AI to construction. The post Promise Robotics partners with D.R. Horton on physical AI for homebuilding appeared first on The Robot Report.",
+      "publishedAt": "2026-10-13T13:00:05.000Z",
+      "category": "finance",
+      "source": "The Robot Report"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "2026世界机器人大会｜擎朗智能KOM 3.0大模型:让机器人在干活前先“想”一遍 - 热点科技",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zcHNOQkVzVEJqMFlWM1A5VVFFS056eGNsWlk4d3JPYWpLMHZJel94MmJrbUg3ZFdZdTdIOXpscU1pU0N0NE9vTU1INzRfSFdES1RpRFpGRWt3S1FH?oc=5",
+      "excerpt": "2026世界机器人大会｜擎朗智能KOM 3.0大模型:让机器人在干活前先“想”一遍 热点科技",
+      "publishedAt": "2026-10-13T07:27:17.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "阿富汗小伙儿分享创业故事：我在朝阳认识了世界 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wdzZqaDZRUFRiSDFUWnJ0d05jQ29RN2w5M1E0UEFfNjBrS0RSZmlleUtmSEpYM2hOb1BfU1ZjYXVjSnotNmdqUUVoTG9HS1VDZno4S1JFaTJrSUt2bU80WHNCdENLSWZvYTZ2Rk9udVZOZw?oc=5",
+      "excerpt": "阿富汗小伙儿分享创业故事：我在朝阳认识了世界 京报网",
+      "publishedAt": "2026-10-13T07:21:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "机器人进24小时便利店，正行创新推出零售物理AI解决方案 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BbjdSV2lOdWFOZ21abTZWLUgyaTR4bjllMTZVSHZncC1RWnhBTGtwWmhkRExwa0ZPWmxRR2ZIOWdoZU9VYUhoV1ZNS3Y5RDdqLWR1cWR2VzRTSzI4MGtNbGJ3?oc=5",
+      "excerpt": "机器人进24小时便利店，正行创新推出零售物理AI解决方案 新京报",
+      "publishedAt": "2026-10-10T14:14:00.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "王兴兴：明年GPT-7可能“直接把具身智能问题打穿” - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVBlSEEyVmRUN0d5ZGhfMEktMVNsSjI5Y2RqOXNaR05iYXg5N0pvb2JmVzA3R0NlLVVBQVpIN0g0QVAtdzRYNXFtSkhJT3cybDBhdHlFYnR3VnBCbWlYTExhVVozTVVib2cydnR1TXdCd1loNDVNQVdqMzh4SkZWUmNQeHdCYWp4NzZXNGd2QQ?oc=5",
+      "excerpt": "王兴兴：明年GPT-7可能“直接把具身智能问题打穿” 21财经",
+      "publishedAt": "2026-10-12T06:26:32.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "微导纳米：拟定增募资不超49.44亿元用于半导体设备项目等 - 亿欧",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EdVlvVG1vaTFqeUEtYlpIaEtkeF9lamlhUnBvcHplZW11X2xQUHYzenk1azlNNzlrT2doejRUcjRMWHA0Q3llbF81MzJSdGF3RGc4ZEl2OXAyUQ?oc=5",
+      "excerpt": "微导纳米：拟定增募资不超49.44亿元用于半导体设备项目等 亿欧",
+      "publishedAt": "2026-10-12T08:56:22.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "wrc-news",
+      "title": "存储板块延续跌势 西部数据(WDC.US)跌超6% - 亿欧",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zN2tBb3FkcXhsX3VVSVlsY3QwQU5TeDZrUGR0Q1otdnZRVGRwUUFHRmljRURGYmFHcGFSX0YtTnFaelVyVGJpMUFMbGs1VlA3LXdseWloeXdOQQ?oc=5",
+      "excerpt": "存储板块延续跌势 西部数据(WDC.US)跌超6% 亿欧",
+      "publishedAt": "2026-10-13T14:13:26.000Z",
+      "category": "finance",
+      "source": "Google News｜世界机器人大会"
+    },
+    {
+      "sourceId": "ieee-robotics",
+      "title": "Q&A: Mars Perseverance Rover Distance Record",
+      "url": "https://spectrum.ieee.org/mars-rover-distance-record",
+      "excerpt": "On October 11, the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part by Perseverance’s ability to drive with much more autonomy than its predecessors. Over the last five",
+      "publishedAt": "2026-10-13T15:02:04.000Z",
+      "category": "finance",
+      "source": "IEEE Spectrum｜Robotics"
+    },
+    {
+      "sourceId": "deepmind-robotics",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "excerpt": "",
+      "publishedAt": "2026-10-13T16:01:58.000Z",
+      "category": "finance",
+      "source": "Google DeepMind｜Robotics"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+      "url": "https://huggingface.co/papers/2610.12417",
+      "excerpt": "Multimodal large language models (MLLMs) struggle with spatial, embodied, physical, and temporal reasoning. We hypothesize that these failures reflect a shared deficit in visual transition reasoning, and test whether this capability can serve as a shared training primitive, one that different models",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "meta": "👍 2",
+      "category": "tech",
+      "source": "Hugging Face｜机器人论文"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "UNITAS: A 3D-Native World Action Model for Embodied Manipulation",
+      "url": "https://huggingface.co/papers/2610.12099",
+      "excerpt": "World action models (WAMs) aim to answer a coupled physical question: given a task instruction, what motion should the robot execute, and how will that motion change the surrounding world? Most existing WAMs build on pretrained video generators and represent world evolution through images or visual ",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "meta": "👍 1",
       "category": "tech",
       "source": "Hugging Face｜机器人论文"
     }

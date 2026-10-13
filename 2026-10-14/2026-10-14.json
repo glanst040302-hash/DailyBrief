@@ -1,0 +1,33 @@
+{
+  "hero_headline": "DeepMind 发布机器人版 Gemini 4 Argon 模型",
+  "daily_overview": "今日智能化线索集中在模型与器件两端。模型侧，DeepMind 发布面向机器人场景的 Gemini 4 Argon，把通用模型能力继续推向实体执行；器件侧，可穿戴生物电子皮肤贴片被预测到 2035 年随连续血糖监测需求放量。触觉与柔性传感正从实验室指标走向可计量的市场规模，并成为本体数据入口。",
+  "tech_briefs": [
+    {
+      "title": "可穿戴电子皮肤贴片市场2035展望：CGM驱动增长",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPenFFZ3c4aTlud3g0Mm5laGkyd1ZieFhnTTRGZE4teXo2Q3JGRm9uX01BdE1BNmpkTGpUSmMySGFZblowaEZ0QVlCVnJDcno1a2VyM0UxM2ZrY28wejFOd1F1c1R1RGJTRnhGYkdoS204WUptOVdiZnd5ZWlGRjQ0NXFjNGxBU2ZDN1FNblVtME9QZmRja19oZnpaWHFkeW5FMHJGRU1vQzI0REotcTRBNnpRQWJNM2laUU1nY1h2bC0wTmVuQVVRd3JDNEZYcFQyak84aU4takljRjlx?oc=5",
+      "source": "Google News｜触觉产业链",
+      "summary": "市场研究机构给出可穿戴生物电子皮肤贴片的 2035 年展望。连续血糖监测需求被视为主要增长动力。电子皮肤从医疗监测切入，为柔性触觉器件提供可规模化的验证场景。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "DeepMind 发布机器人版 Gemini 4 Argon",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind｜Robotics",
+      "summary": "DeepMind 官方博客发布面向机器人领域的 Gemini 4 Argon。条目仅披露发布动作，未给出参数与部署数据。模型层迭代持续影响具身智能感知—决策—行动闭环的上限。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [],
+  "editor_note": "模型能力进入机器人本体，传感数据的价值随之上升；今日两条分别代表上游器件与上层模型，二者交汇点仍是可标定、可复用的触觉数据。",
+  "keywords": [
+    "电子皮肤",
+    "柔性传感",
+    "Gemini 4 Argon",
+    "具身智能",
+    "机器人基础模型",
+    "连续血糖监测",
+    "触觉数据"
+  ]
+}
